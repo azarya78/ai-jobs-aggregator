@@ -1,5 +1,4 @@
 import json
-import re
 import time
 from datetime import datetime, timezone
 from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
@@ -12,7 +11,6 @@ HEADERS = {
 }
 
 def clean_referral_url(url):
-    """Membuang parameter ?utm_source=remowork&utm_medium=referral dari URL"""
     if not url:
         return ""
     parsed = urlparse(url)
@@ -25,7 +23,6 @@ def clean_referral_url(url):
     return urlunparse((parsed.scheme, parsed.netloc, parsed.path, parsed.params, new_query, parsed.fragment))
 
 def resolve_apply_url(remowork_apply_path, fallback_url):
-    """Membongkar link /apply-out milik RemoWork untuk mendapatkan URL asli perusahaan"""
     if not remowork_apply_path:
         return fallback_url
     full_url = f"https://remowork.life{remowork_apply_path}" if remowork_apply_path.startswith("/") else remowork_apply_path
@@ -37,11 +34,24 @@ def resolve_apply_url(remowork_apply_path, fallback_url):
         pass
     return full_url
 
+def parse_job_date(date_str):
+    """Mengubah teks tanggal (misal 'Oct 27, 2026') menjadi angka agar bisa diurutkan dari yang paling baru"""
+    if not date_str:
+        return 0
+    clean_str = date_str.strip()
+    for fmt in ("%b %d, %Y", "%B %d, %Y", "%Y-%m-%d"):
+        try:
+            return int(datetime.strptime(clean_str, fmt).replace(tzinfo=timezone.utc).timestamp())
+        except ValueError:
+            pass
+    return 0
+
 def scrape_remowork_pages():
-    """Mengambil lowongan dari halaman RemoWork berdasarkan elemen .jb-card"""
+    # Mengambil lowongan terbaru (sort=recent / default terbaru) + halaman khusus Indonesia agar tab Indonesia tetap lengkap
     urls_to_fetch = [
-        ("https://remowork.life/jobs?language=indonesian", "Indonesian"),
-        ("https://remowork.life/jobs", "Global AI")
+        ("https://remowork.life/jobs", "Global AI"),
+        ("https://remowork.life/jobs?page=2", "Global AI"),
+        ("https://remowork.life/jobs?language=indonesian", "Indonesian")
     ]
     jobs = []
     seen_ids = set()
@@ -97,7 +107,6 @@ def scrape_remowork_pages():
                 apply_path = apply_el.get("href", "") if apply_el else detail_path
                 detail_url = f"https://remowork.life{detail_path}" if detail_path.startswith("/") else detail_path
 
-                # Bongkar link asli khusus 25 lowongan teratas agar proses tetap cepat
                 direct_url = resolve_apply_url(apply_path, detail_url) if len(jobs) < 25 else (
                     f"https://remowork.life{apply_path}" if apply_path.startswith("/") else detail_url
                 )
@@ -121,6 +130,7 @@ def scrape_remowork_pages():
                     "location": location,
                     "pay": pay,
                     "date": posted_date,
+                    "timestamp": parse_job_date(posted_date),
                     "excerpt": excerpt,
                     "applyUrl": direct_url,
                     "source": "RemoWork"
@@ -132,7 +142,6 @@ def scrape_remowork_pages():
     return jobs
 
 def fetch_direct_lever_jobs():
-    """Jalur Mandiri (Tetap hidup 100% walaupun RemoWork down): Mengambil langsung dari API Lever resmi"""
     lever_companies = [
         ("welocalize", "Welocalize", "https://www.google.com/s2/favicons?domain=welocalize.com&sz=128")
     ]
@@ -162,7 +171,8 @@ def fetch_direct_lever_jobs():
 
                 is_indo = "indonesia" in combined_text
                 created_at = post.get("createdAt", 0)
-                date_str = datetime.fromtimestamp(created_at / 1000, tz=timezone.utc).strftime("%b %d, %Y") if created_at else "Baru"
+                ts = int(created_at / 1000) if created_at else 0
+                date_str = datetime.fromtimestamp(ts, tz=timezone.utc).strftime("%b %d, %Y") if ts else "Baru"
 
                 direct_jobs.append({
                     "id": f"lever-{post.get('id', title)}",
@@ -176,6 +186,7 @@ def fetch_direct_lever_jobs():
                     "location": location,
                     "pay": "Sesuai Proyek",
                     "date": date_str,
+                    "timestamp": ts,
                     "excerpt": desc_plain.replace("\n", " "),
                     "applyUrl": clean_referral_url(apply_url),
                     "source": "Direct API"
@@ -190,8 +201,8 @@ def main():
     all_jobs.extend(scrape_remowork_pages())
     all_jobs.extend(fetch_direct_lever_jobs())
 
-    # Urutkan agar proyek Bahasa Indonesia & AI muncul paling atas
-    all_jobs.sort(key=lambda x: (not x.get("isIndonesian", False), not x.get("eligible", False)))
+    # URUTKAN MURNI BERDASARKAN TANGGAL TERBARU (Recent Projects paling atas!)
+    all_jobs.sort(key=lambda x: x.get("timestamp", 0), reverse=True)
 
     output = {
         "lastUpdated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
@@ -202,7 +213,7 @@ def main():
     with open("jobs_feed.json", "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
 
-    print(f"Berhasil menyimpan {len(all_jobs)} lowongan ke jobs_feed.json!")
+    print(f"Berhasil menyimpan {len(all_jobs)} lowongan (Urutan Terbaru) ke jobs_feed.json!")
 
 if __name__ == "__main__":
     main()
