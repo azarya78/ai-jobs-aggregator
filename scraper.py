@@ -10,6 +10,12 @@ HEADERS = {
     "Accept-Language": "en-US,en;q=0.9,id;q=0.8"
 }
 
+AI_KEYWORDS = [
+    "ai", "rater", "annotat", "evaluat", "indonesia", "grader", "data",
+    "search", "linguist", "freelance", "tutor", "trainer", "translator",
+    "prompt", "rlhf", "model", "label", "content", "specialist", " bilingual"
+]
+
 def clean_referral_url(url):
     if not url:
         return ""
@@ -17,7 +23,7 @@ def clean_referral_url(url):
     query_params = parse_qs(parsed.query)
     clean_params = {
         k: v for k, v in query_params.items()
-        if not k.lower().startswith("utm_") and k.lower() not in ["ref", "source", "ch"]
+        if not k.lower().startswith("utm_") and k.lower() not in ["ref", "source", "ch", "gh_src"]
     }
     new_query = urlencode(clean_params, doseq=True)
     return urlunparse((parsed.scheme, parsed.netloc, parsed.path, parsed.params, new_query, parsed.fragment))
@@ -35,7 +41,6 @@ def resolve_apply_url(remowork_apply_path, fallback_url):
     return full_url
 
 def parse_job_date(date_str):
-    """Mengubah teks tanggal (misal 'Oct 27, 2026') menjadi angka agar bisa diurutkan dari yang paling baru"""
     if not date_str:
         return 0
     clean_str = date_str.strip()
@@ -46,11 +51,21 @@ def parse_job_date(date_str):
             pass
     return 0
 
+def parse_iso_date(iso_str):
+    if not iso_str:
+        return 0, "Baru"
+    try:
+        clean_iso = iso_str.replace("Z", "+00:00")
+        dt = datetime.fromisoformat(clean_iso)
+        return int(dt.timestamp()), dt.strftime("%b %d, %Y")
+    except Exception:
+        return 0, "Baru"
+
 def scrape_remowork_pages():
-    # Mengambil lowongan terbaru (sort=recent / default terbaru) + halaman khusus Indonesia agar tab Indonesia tetap lengkap
     urls_to_fetch = [
         ("https://remowork.life/jobs", "Global AI"),
         ("https://remowork.life/jobs?page=2", "Global AI"),
+        ("https://remowork.life/jobs?page=3", "Global AI"),
         ("https://remowork.life/jobs?language=indonesian", "Indonesian")
     ]
     jobs = []
@@ -87,7 +102,6 @@ def scrape_remowork_pages():
                 category = cat_el.get_text(strip=True) if cat_el else group_tag
 
                 eligible = bool(card.select_one(".jb-card-tag--eligible"))
-
                 skills = [s.get_text(strip=True) for s in card.select(".jb-card-tag--skill, .jb-card-tag-popover-item")]
 
                 meta_items = [li.get_text(" ", strip=True) for li in card.select(".jb-card-meta li")]
@@ -118,6 +132,8 @@ def scrape_remowork_pages():
                     or "indonesia" in location.lower()
                 )
 
+                skill_badge = " • ".join(skills[:2]) if skills else ("✓ Open to you" if eligible else "Global Remote")
+
                 jobs.append({
                     "id": job_id,
                     "title": title,
@@ -126,6 +142,7 @@ def scrape_remowork_pages():
                     "category": category,
                     "eligible": eligible,
                     "isIndonesian": is_indonesian,
+                    " isDirect": False,
                     "skills": skills[:8],
                     "location": location,
                     "pay": pay,
@@ -133,7 +150,7 @@ def scrape_remowork_pages():
                     "timestamp": parse_job_date(posted_date),
                     "excerpt": excerpt,
                     "applyUrl": direct_url,
-                    "source": " • ".join(skills[:2]) if skills else ("✓ Open to you" if eligible else "Global Remote")
+                    "source": skill_badge
                 })
         except Exception as e:
             print(f"Error saat mengambil {page_url}: {e}")
@@ -142,21 +159,20 @@ def scrape_remowork_pages():
     return jobs
 
 def fetch_direct_lever_jobs():
+    """1. Konektor API Resmi Lever (Welocalize, dll.)"""
     lever_companies = [
         ("welocalize", "Welocalize", "https://www.google.com/s2/favicons?domain=welocalize.com&sz=128")
     ]
     direct_jobs = []
-    keywords = ["ai", "rater", "annotat", "evaluat", "indonesia", "grader", "data", "search", "linguist", "freelance"]
 
     for slug, company_name, logo_url in lever_companies:
         api_url = f"https://api.lever.co/v0/postings/{slug}?mode=json"
-        print(f"Mengambil langsung dari API resmi {company_name}...")
+        print(f"Mengambil dari Lever API: {company_name}...")
         try:
             resp = requests.get(api_url, headers=HEADERS, timeout=15)
             if resp.status_code != 200:
                 continue
-            postings = resp.json()
-            for post in postings:
+            for post in resp.json():
                 title = post.get("text", "")
                 categories = post.get("categories", {})
                 location = categories.get("location", "Remote")
@@ -166,7 +182,7 @@ def fetch_direct_lever_jobs():
                 apply_url = post.get("hostedUrl", "")
 
                 combined_text = f"{title} {location} {team}".lower()
-                if not any(k in combined_text for k in keywords):
+                if not any(k in combined_text for k in AI_KEYWORDS):
                     continue
 
                 is_indo = "indonesia" in combined_text
@@ -179,20 +195,133 @@ def fetch_direct_lever_jobs():
                     "title": title,
                     "company": company_name,
                     "logo": logo_url,
-                    "category": f"{team} ({commitment})",
+                    "category": team,
                     "eligible": True,
                     "isIndonesian": is_indo,
-                    "skills": [team, commitment, "Direct Source"],
+                    "isDirect": True,
+                    "skills": [team, commitment, "Direct API"],
                     "location": location,
                     "pay": "Sesuai Proyek",
                     "date": date_str,
                     "timestamp": ts,
                     "excerpt": desc_plain.replace("\n", " "),
                     "applyUrl": clean_referral_url(apply_url),
-                    "source": "Direct API"
+                    "source": f"⚡ {commitment}"
                 })
         except Exception as e:
             print(f"Error Lever API {company_name}: {e}")
+
+    return direct_jobs
+
+def fetch_direct_greenhouse_jobs():
+    """2. Konektor API Resmi Greenhouse (Scale AI, xAI, Cohere, Surge AI, dll.)"""
+    gh_companies = [
+        ("scaleai", "Scale AI", "https://www.google.com/s2/favicons?domain=scale.com&sz=128"),
+        ("xai", "xAI", "https://www.google.com/s2/favicons?domain=x.ai&sz=128"),
+        ("cohere", "Cohere", "https://www.google.com/s2/favicons?domain=cohere.com&sz=128"),
+        ("humansignal", "HumanSignal", "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128")
+    ]
+    direct_jobs = []
+
+    for slug, company_name, logo_url in gh_companies:
+        api_url = f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true"
+        print(f"Mengambil dari Greenhouse API: {company_name}...")
+        try:
+            resp = requests.get(api_url, headers=HEADERS, timeout=15)
+            if resp.status_code != 200:
+                continue
+            postings = resp.json().get("jobs", [])
+            for post in postings:
+                title = post.get("title", "")
+                location = post.get("location", {}).get("name", "Remote")
+                updated_at = post.get("updated_at", "")
+                apply_url = post.get("absolute_url", "")
+
+                combined_text = f"{title} {location}".lower()
+                if not any(k in combined_text for k in AI_KEYWORDS):
+                    continue
+
+                is_indo = "indonesia" in combined_text
+                ts, date_str = parse_iso_date(updated_at)
+
+                raw_html = post.get("content", "")
+                clean_excerpt = BeautifulSoup(BeautifulSoup(raw_html, "html.parser").get_text(" "), "html.parser").get_text(" ", strip=True)[:220] + "..." if raw_html else f"Lowongan resmi langsung dari portal karir {company_name}."
+
+                direct_jobs.append({
+                    "id": f"gh-{post.get('id', title)}",
+                    "title": title,
+                    "company": company_name,
+                    "logo": logo_url,
+                    "category": "AI & Data",
+                    "eligible": True,
+                    "isIndonesian": is_indo,
+                    "isDirect": True,
+                    "skills": ["Direct API", company_name],
+                    "location": location,
+                    "pay": "Lihat Detail",
+                    "date": date_str,
+                    "timestamp": ts,
+                    "excerpt": clean_excerpt,
+                    "applyUrl": clean_referral_url(apply_url),
+                    "source": "⚡ Direct API"
+                })
+        except Exception as e:
+            print(f"Error Greenhouse API {company_name}: {e}")
+
+    return direct_jobs
+
+def fetch_direct_ashby_jobs():
+    """3. Konektor API Resmi AshbyHQ (Cohere, Roboflow, Liner, dll.)"""
+    ashby_companies = [
+        ("cohere", "Cohere", "https://www.google.com/s2/favicons?domain=cohere.com&sz=128"),
+        ("roboflow", "Roboflow", "https://www.google.com/s2/favicons?domain=roboflow.com&sz=128"),
+        ("elevenlabs", "ElevenLabs", "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128")
+    ]
+    direct_jobs = []
+
+    for slug, company_name, logo_url in ashby_companies:
+        api_url = f"https://api.ashbyhq.com/posting-api/job-board/{slug}"
+        print(f"Mengambil dari Ashby API: {company_name}...")
+        try:
+            resp = requests.get(api_url, headers=HEADERS, timeout=15)
+            if resp.status_code != 200:
+                continue
+            postings = resp.json().get("jobs", [])
+            for post in postings:
+                title = post.get("title", "")
+                location = post.get("location", "Remote")
+                department = post.get("department", "AI Project")
+                published_at = post.get("publishedAt", "")
+                apply_url = post.get("jobUrl", "") or post.get("applyUrl", "")
+
+                combined_text = f"{title} {location} {department}".lower()
+                if not any(k in combined_text for k in AI_KEYWORDS):
+                    continue
+
+                is_indo = "indonesia" in combined_text
+                ts, date_str = parse_iso_date(published_at)
+                desc_plain = post.get("descriptionPlain", "")[:220] + "..." if post.get("descriptionPlain") else f"Proyek langsung dari portal resmi {company_name}."
+
+                direct_jobs.append({
+                    "id": f"ashby-{post.get('id', title)}",
+                    "title": title,
+                    "company": company_name,
+                    "logo": logo_url,
+                    "category": department,
+                    "eligible": True,
+                    "isIndonesian": is_indo,
+                    "isDirect": True,
+                    "skills": [department, "Direct API"],
+                    "location": location,
+                    "pay": "Lihat Detail",
+                    "date": date_str,
+                    "timestamp": ts,
+                    "excerpt": desc_plain.replace("\n", " "),
+                    "applyUrl": clean_referral_url(apply_url),
+                    "source": "⚡ Direct API"
+                })
+        except Exception as e:
+            print(f"Error Ashby API {company_name}: {e}")
 
     return direct_jobs
 
@@ -200,8 +329,10 @@ def main():
     all_jobs = []
     all_jobs.extend(scrape_remowork_pages())
     all_jobs.extend(fetch_direct_lever_jobs())
+    all_jobs.extend(fetch_direct_greenhouse_jobs())
+    all_jobs.extend(fetch_direct_ashby_jobs())
 
-    # URUTKAN MURNI BERDASARKAN TANGGAL TERBARU (Recent Projects paling atas!)
+    # Urutkan dari yang paling baru rilis (Recent Projects)
     all_jobs.sort(key=lambda x: x.get("timestamp", 0), reverse=True)
 
     output = {
@@ -213,7 +344,7 @@ def main():
     with open("jobs_feed.json", "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
 
-    print(f"Berhasil menyimpan {len(all_jobs)} lowongan (Urutan Terbaru) ke jobs_feed.json!")
+    print(f"Berhasil menyimpan {len(all_jobs)} lowongan ke jobs_feed.json!")
 
 if __name__ == "__main__":
     main()
