@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-27 13:43 UTC",
-  "totalJobs": 460,
+  "lastUpdated": "2026-10-27 13:56 UTC",
+  "totalJobs": 414,
   "jobs": [
     {
       "id": "gh-4533894007",
@@ -30,165 +30,18 @@
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
       "category": "AI & Data",
       "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Egypt (Remote)",
-      "pay": "Lihat Detail",
-      "date": "Oct 26, 2026",
-      "timestamp": 1793064174,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6235771004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-6225358004",
-      "title": "Freelance Graphic Designer - AI Training",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Malaysia (Remote)",
-      "pay": "Lihat Detail",
-      "date": "Oct 26, 2026",
-      "timestamp": 1793064112,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6225358004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-6225043004",
-      "title": "Freelance Graphic Designer - AI Training",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Thailand (Remote)",
-      "pay": "Lihat Detail",
-      "date": "Oct 26, 2026",
-      "timestamp": 1793064097,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6225043004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-6225037004",
-      "title": "Freelance Graphic Designer - AI Training",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Vietnam (Remote)",
-      "pay": "Lihat Detail",
-      "date": "Oct 26, 2026",
-      "timestamp": 1793064082,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6225037004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-6225034004",
-      "title": "Freelance Graphic Designer - AI Training",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Philippines (Remote)",
-      "pay": "Lihat Detail",
-      "date": "Oct 26, 2026",
-      "timestamp": 1793064069,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6225034004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-6225032004",
-      "title": "Freelance Graphic Designer - AI Training",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
       "isIndonesian": true,
       "isDirect": true,
       "skills": [
         "Direct API",
         "HumanSignal"
       ],
-      "location": "Indonesia (Remote)",
+      "location": "Indonesia (Remote) (+11 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Oct 26, 2026",
-      "timestamp": 1793064056,
+      "timestamp": 1793064174,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6225032004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-6225028004",
-      "title": "Freelance Graphic Designer - AI Training",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Argentina (Remote)",
-      "pay": "Lihat Detail",
-      "date": "Oct 26, 2026",
-      "timestamp": 1793064042,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6225028004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-6233898004",
-      "title": "Freelance Graphic Designer - AI Training",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Turkey (Remote)",
-      "pay": "Lihat Detail",
-      "date": "Oct 26, 2026",
-      "timestamp": 1793063987,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6233898004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6235771004",
       "source": "⚡ Direct API"
     },
     {
@@ -213,27 +66,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-6235436004",
-      "title": "Freelance Graphic Designer - AI Training",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Brazil (Remote)",
-      "pay": "Lihat Detail",
-      "date": "Oct 26, 2026",
-      "timestamp": 1793060942,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6235436004",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "6ae043c75e82153fd24e5319",
       "title": "General Law",
       "company": "Verita AI",
@@ -241,7 +73,7 @@
       "category": "AI Expert - Legal",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "Litigation",
@@ -268,7 +100,7 @@
       "category": "Editor / Proofreader",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "French",
         "Curation",
@@ -295,7 +127,7 @@
       "category": "AI Expert - Legal",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "Reasoning",
@@ -322,7 +154,7 @@
       "category": "AI Expert - Document & Presentation QA",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Consulting",
         "Visualization",
@@ -349,7 +181,7 @@
       "category": "AI Expert - Finance",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Finance",
         "AI",
@@ -376,7 +208,7 @@
       "category": "AI Expert - Clinical & Medical",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Pharmacy",
         "AI",
@@ -403,7 +235,7 @@
       "category": "AI Expert - Clinical & Medical",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "Research",
@@ -430,7 +262,7 @@
       "category": "Marketing Operations",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Marketing",
         "Strategic Thinking",
@@ -457,7 +289,7 @@
       "category": "Account Manager",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Precision",
         "Marketing",
@@ -484,7 +316,7 @@
       "category": "Business Analyst",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Business Intelligence",
         "Microsoft Teams",
@@ -511,7 +343,7 @@
       "category": "Linguistic Annotation (AI)",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "English",
         "Testing",
@@ -538,7 +370,7 @@
       "category": "Video Editor",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Healthcare",
         "Make",
@@ -565,7 +397,7 @@
       "category": "Engineering Manager",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Engineering",
         "Modeling",
@@ -592,7 +424,7 @@
       "category": "AI Expert - Clinical & Medical",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Diagnosis",
         "ICD-10",
@@ -619,7 +451,7 @@
       "category": "Program Manager",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Make",
         "Organization",
@@ -646,7 +478,7 @@
       "category": "Program Manager",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "Management",
@@ -673,7 +505,7 @@
       "category": "Program Manager",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "Make",
@@ -700,7 +532,7 @@
       "category": "Program Manager",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "Management",
@@ -727,7 +559,7 @@
       "category": "Program Manager",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "Make",
@@ -754,7 +586,7 @@
       "category": "AI Expert - Machine Learning & AI Research",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Research",
         "Engineering",
@@ -837,46 +669,31 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-6235301004",
-      "title": "Freelance Graphic Designer - AI Training",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Colombia (Remote)",
-      "pay": "Lihat Detail",
-      "date": "Oct 26, 2026",
-      "timestamp": 1793053710,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6235301004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5270906007",
+      "id": "6adf40d1b4e74085efcc4bd7",
       "title": "AI Tutor - Amharic",
       "company": "xAI",
       "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
+      "category": "Linguistics (SME)",
       "eligible": true,
       "isIndonesian": false,
       "isDirect": true,
       "skills": [
-        "Direct API",
-        "xAI"
+        "AI",
+        "Make",
+        "Microsoft Teams",
+        "Pronunciation",
+        "Nuance",
+        "English",
+        "Accuracy",
+        "Annotation"
       ],
-      "location": "Remote International",
-      "pay": "Lihat Detail",
+      "location": "Australia, Canada, United Kingdom +1 United States (US: not WY, IL) (+1 lokasi lain)",
+      "pay": "$35 – $45/hr",
       "date": "Oct 26, 2026",
       "timestamp": 1793050866,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not.",
       "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5270906007",
-      "source": "⚡ Direct API"
+      "source": "AI • Make"
     },
     {
       "id": "gh-5275197007",
@@ -897,48 +714,6 @@
       "timestamp": 1793049911,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
       "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5275197007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-6235239004",
-      "title": "Freelance Graphic Designer - AI Training",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Mexico (Remote)",
-      "pay": "Lihat Detail",
-      "date": "Oct 26, 2026",
-      "timestamp": 1793049484,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6235239004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-6235235004",
-      "title": "Freelance Graphic Designer - AI Training",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Sri Lanka (Remote)",
-      "pay": "Lihat Detail",
-      "date": "Oct 26, 2026",
-      "timestamp": 1793049297,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6235235004",
       "source": "⚡ Direct API"
     },
     {
@@ -963,25 +738,31 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "ashby-8e1735ec-c5e2-4292-adbd-764a58e7ce17",
+      "id": "6adf425fb4e74085efcc717e",
       "title": "Model Partnerships - ElevenCreative",
       "company": "ElevenLabs",
-      "logo": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128",
-      "category": "Growth",
+      "logo": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=32",
+      "category": "Partnerships Manager",
       "eligible": true,
       "isIndonesian": false,
       "isDirect": true,
       "skills": [
-        "Growth",
-        "Direct API"
+        "AI",
+        "Research",
+        "Valuation",
+        "Testing",
+        "Monitoring",
+        "Creativity",
+        "Experimentation",
+        "Microsoft Teams"
       ],
-      "location": "Remote",
+      "location": "Europe, United States (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Oct 26, 2026",
       "timestamp": 1793012684,
-      "excerpt": "ABOUT ELEVENLABS  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users an...",
+      "excerpt": "ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model.",
       "applyUrl": "https://jobs.ashbyhq.com/elevenlabs/8e1735ec-c5e2-4292-adbd-764a58e7ce17",
-      "source": "⚡ Direct API"
+      "source": "AI • Research"
     },
     {
       "id": "gh-4931315007",
@@ -1110,25 +891,31 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5270905007",
+      "id": "6adf40d1b4e74085efcc4be3",
       "title": "AI Tutor - Uzbek",
       "company": "xAI",
       "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
+      "category": "Linguistics (SME)",
       "eligible": true,
       "isIndonesian": false,
       "isDirect": true,
       "skills": [
-        "Direct API",
-        "xAI"
+        "AI",
+        "Make",
+        "Microsoft Teams",
+        "Pronunciation",
+        "Nuance",
+        "English",
+        "Accuracy",
+        "Annotation"
       ],
-      "location": "Remote International",
-      "pay": "Lihat Detail",
+      "location": "Australia, Canada, United Kingdom +1 United States (US: not WY, IL) (+1 lokasi lain)",
+      "pay": "$35 – $45/hr",
       "date": "Oct 26, 2026",
       "timestamp": 1793008046,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not.",
       "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5270905007",
-      "source": "⚡ Direct API"
+      "source": "AI • Make"
     },
     {
       "id": "gh-5090274007",
@@ -1152,88 +939,112 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5270907007",
+      "id": "6adf40d1b4e74085efcc4be1",
       "title": "AI Tutor - Oromo",
       "company": "xAI",
       "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
+      "category": "Linguistics (SME)",
       "eligible": true,
       "isIndonesian": false,
       "isDirect": true,
       "skills": [
-        "Direct API",
-        "xAI"
+        "AI",
+        "Make",
+        "Microsoft Teams",
+        "Pronunciation",
+        "Nuance",
+        "English",
+        "Accuracy",
+        "Annotation"
       ],
-      "location": "Remote International",
-      "pay": "Lihat Detail",
+      "location": "Australia, Canada, United Kingdom +1 United States (US: not WY, IL) (+1 lokasi lain)",
+      "pay": "$35 – $45/hr",
       "date": "Oct 26, 2026",
       "timestamp": 1793007990,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not.",
       "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5270907007",
-      "source": "⚡ Direct API"
+      "source": "AI • Make"
     },
     {
-      "id": "gh-5270903007",
+      "id": "6adf40d1b4e74085efcc4bdf",
       "title": "AI Tutor - Latvian",
       "company": "xAI",
       "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
+      "category": "Linguistics (SME)",
       "eligible": true,
       "isIndonesian": false,
       "isDirect": true,
       "skills": [
-        "Direct API",
-        "xAI"
+        "AI",
+        "Latvian",
+        "Make",
+        "Microsoft Teams",
+        "Pronunciation",
+        "Nuance",
+        "English",
+        "Accuracy"
       ],
-      "location": "Remote International",
-      "pay": "Lihat Detail",
+      "location": "Australia, Canada, United Kingdom +1 United States (US: not WY, IL) (+1 lokasi lain)",
+      "pay": "$35 – $45/hr",
       "date": "Oct 26, 2026",
       "timestamp": 1793007985,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not.",
       "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5270903007",
-      "source": "⚡ Direct API"
+      "source": "AI • Latvian"
     },
     {
-      "id": "gh-5270904007",
+      "id": "6adf40d1b4e74085efcc4bde",
       "title": "AI Tutor - Icelandic",
       "company": "xAI",
       "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
+      "category": "Linguistics (SME)",
       "eligible": true,
       "isIndonesian": false,
       "isDirect": true,
       "skills": [
-        "Direct API",
-        "xAI"
+        "AI",
+        "Icelandic",
+        "Make",
+        "Microsoft Teams",
+        "Pronunciation",
+        "Nuance",
+        "English",
+        "Accuracy"
       ],
-      "location": "Remote International",
-      "pay": "Lihat Detail",
+      "location": "Australia, Canada, United Kingdom +1 United States (US: not WY, IL) (+1 lokasi lain)",
+      "pay": "$35 – $45/hr",
       "date": "Oct 26, 2026",
       "timestamp": 1793007979,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not.",
       "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5270904007",
-      "source": "⚡ Direct API"
+      "source": "AI • Icelandic"
     },
     {
-      "id": "gh-5270902007",
+      "id": "6adf40d1b4e74085efcc4bda",
       "title": "AI Tutor - Estonian",
       "company": "xAI",
       "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
+      "category": "Linguistics (SME)",
       "eligible": true,
       "isIndonesian": false,
       "isDirect": true,
       "skills": [
-        "Direct API",
-        "xAI"
+        "AI",
+        "Estonian",
+        "Make",
+        "Microsoft Teams",
+        "Pronunciation",
+        "Nuance",
+        "English",
+        "Accuracy"
       ],
-      "location": "Remote International",
-      "pay": "Lihat Detail",
+      "location": "Australia, Canada, United Kingdom +1 United States (US: not WY, IL) (+1 lokasi lain)",
+      "pay": "$35 – $45/hr",
       "date": "Oct 26, 2026",
       "timestamp": 1793007968,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not.",
       "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5270902007",
-      "source": "⚡ Direct API"
+      "source": "AI • Estonian"
     },
     {
       "id": "gh-5090120007",
@@ -1348,7 +1159,7 @@
       "category": "Insurance Underwriter",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Insurance",
         "Cybersecurity",
@@ -1375,7 +1186,7 @@
       "category": "Backend Engineer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Onboarding",
         "Engineering",
@@ -1402,7 +1213,7 @@
       "category": "Full-Stack Developer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Recruiting",
         "Infrastructure",
@@ -1429,7 +1240,7 @@
       "category": "Account Executive (Mid-Market / Enterprise)",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Sales",
         "AI",
@@ -1456,7 +1267,7 @@
       "category": "Text & Document Annotation",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Management",
         "Assurance",
@@ -1483,7 +1294,7 @@
       "category": "Business Analyst",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Microsoft Teams",
         "Analysis",
@@ -1510,7 +1321,7 @@
       "category": "Product Manager",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Communications",
         "Culture",
@@ -1537,7 +1348,7 @@
       "category": "Research Study Participant",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Hospitality",
         "Operations",
@@ -1564,7 +1375,7 @@
       "category": "Corporate Counsel",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "ARR",
         "Oracle Database",
@@ -1591,7 +1402,7 @@
       "category": "Sales Engineer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Sales",
         "Analysis",
@@ -1611,33 +1422,6 @@
       "source": "Sales • Analysis"
     },
     {
-      "id": "6adfebb0f360733a9b59cf47",
-      "title": "Data Labeling Analyst III",
-      "company": "Meta",
-      "logo": "https://www.google.com/s2/favicons?domain=about.meta.com&sz=32",
-      "category": "Text & Document Annotation",
-      "eligible": true,
-      "isIndonesian": false,
-      " isDirect": false,
-      "skills": [
-        "Management",
-        "Assurance",
-        "Analysis",
-        "Auditing",
-        "Accuracy",
-        "Consistency",
-        "Quality Assurance",
-        "Annotation"
-      ],
-      "location": "United States (US: CA)",
-      "pay": "$20.34 – $25.43/hr",
-      "date": "Oct 26, 2026",
-      "timestamp": 1792972800,
-      "excerpt": "The main function of a data labeling analyst is to create and manage labeling and change processes within the data management systems/tools.",
-      "applyUrl": "https://remowork.life/jobs/6adfebb0f360733a9b59cf47/apply-out?ch=card",
-      "source": "Management • Assurance"
-    },
-    {
       "id": "6adf9dcb7614d565dabb7979",
       "title": "Senior Python Developer",
       "company": "CVAT",
@@ -1645,7 +1429,7 @@
       "category": "Python Developer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Python",
         "APIs",
@@ -1672,7 +1456,7 @@
       "category": "AI Expert - Finance",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Finance",
         "Research",
@@ -1699,7 +1483,7 @@
       "category": "AI Expert - Biology",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Research",
         "AI",
@@ -1726,7 +1510,7 @@
       "category": "LLM Evaluator (English)",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "Reasoning",
@@ -1753,7 +1537,7 @@
       "category": "Business Operations Analyst",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Strategic Thinking",
         "Operations",
@@ -1780,7 +1564,7 @@
       "category": "Compensation & Benefits",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "ARR",
         "Oracle Database",
@@ -1807,7 +1591,7 @@
       "category": "AI Expert - Real Estate, Hospitality & Events",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Hospitality",
         "AI",
@@ -1834,7 +1618,7 @@
       "category": "AI Expert - Government & Public Administration",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "Reasoning",
@@ -1861,7 +1645,7 @@
       "category": "Business Analyst",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Operations",
         "Infrastructure",
@@ -1888,7 +1672,7 @@
       "category": "Product Marketing Manager",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Marketing",
         "Organization",
@@ -1915,7 +1699,7 @@
       "category": "AI Expert - Project Management",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "Make",
@@ -1942,7 +1726,7 @@
       "category": "AI Expert - Operations",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Operations",
         "AI",
@@ -1969,7 +1753,7 @@
       "category": "AI Expert - Accounting",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "Reasoning",
@@ -1996,7 +1780,7 @@
       "category": "Business Analyst",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Licensing",
         "Analysis",
@@ -2023,7 +1807,7 @@
       "category": "Backend Engineer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "Infrastructure",
@@ -2050,7 +1834,7 @@
       "category": "Account Executive (Mid-Market / Enterprise)",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Reporting",
         "Cross-Functional Collaboration",
@@ -2077,7 +1861,7 @@
       "category": "AI Expert - Management & Strategy",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Merchandising",
         "AI",
@@ -2104,7 +1888,7 @@
       "category": "Linguistics (SME)",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Vietnamese",
         "AI",
@@ -2131,7 +1915,7 @@
       "category": "Linguistics (SME)",
       "eligible": true,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Indonesian",
         "AI",
@@ -2158,7 +1942,7 @@
       "category": "Linguistics (SME)",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Malay",
         "AI",
@@ -2185,7 +1969,7 @@
       "category": "Linguistics (SME)",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Japanese",
         "AI",
@@ -2212,7 +1996,7 @@
       "category": "Linguistics (SME)",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Mandarin Chinese",
         "AI",
@@ -2239,7 +2023,7 @@
       "category": "Linguistics (SME)",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Telugu",
         "AI",
@@ -2266,7 +2050,7 @@
       "category": "Linguistics (SME)",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Hindi",
         "AI",
@@ -2293,7 +2077,7 @@
       "category": "Linguistics (SME)",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Arabic",
         "AI",
@@ -2320,7 +2104,7 @@
       "category": "Linguistics (SME)",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Turkish",
         "AI",
@@ -2347,7 +2131,7 @@
       "category": "Linguistics (SME)",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Russian",
         "AI",
@@ -2374,7 +2158,7 @@
       "category": "Linguistics (SME)",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "German",
         "AI",
@@ -2401,7 +2185,7 @@
       "category": "Linguistics (SME)",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Portuguese",
         "AI",
@@ -2428,7 +2212,7 @@
       "category": "Linguistics (SME)",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Spanish",
         "AI",
@@ -2455,7 +2239,7 @@
       "category": "Linguistics (SME)",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "English",
         "AI",
@@ -2482,7 +2266,7 @@
       "category": "Linguistics (SME)",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "French",
         "AI",
@@ -2509,7 +2293,7 @@
       "category": "Investment Analyst",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "GitLab",
         "DevSecOps",
@@ -2536,7 +2320,7 @@
       "category": "Business Analyst",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Marketing",
         "Engineering",
@@ -2563,7 +2347,7 @@
       "category": "Security Engineer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Threat Intelligence",
         "AI",
@@ -2590,7 +2374,7 @@
       "category": "Technical Writer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Threat Intelligence",
         "AI",
@@ -2617,7 +2401,7 @@
       "category": "RevOps",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "RevOps",
         "Cloudflare",
@@ -2644,7 +2428,7 @@
       "category": "Backend Engineer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Rust",
         "gRPC",
@@ -2671,7 +2455,7 @@
       "category": "Business Operations Analyst",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Strategic Thinking",
         "Operations",
@@ -2698,7 +2482,7 @@
       "category": "AI Expert - Marketing",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Marketing",
         "AI",
@@ -2725,7 +2509,7 @@
       "category": "Design Ops Manager",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Strategic Thinking",
         "Reporting",
@@ -2752,7 +2536,7 @@
       "category": "AI Expert - Machine Learning & AI Research",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Machine Learning",
         "AI",
@@ -2779,7 +2563,7 @@
       "category": "Hardware Engineer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Microsoft Teams",
         "Strategic Thinking",
@@ -2806,7 +2590,7 @@
       "category": "AI Expert - Biology",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Infrastructure",
         "AI",
@@ -2833,7 +2617,7 @@
       "category": "AI Expert - Sales",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "Reasoning",
@@ -2860,7 +2644,7 @@
       "category": "Program Manager",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Advertising",
         "Creativity",
@@ -2887,7 +2671,7 @@
       "category": "Operations Manager",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Healthcare",
         "Operations",
@@ -2914,7 +2698,7 @@
       "category": "Business / Research Analyst",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Research",
         "Operations",
@@ -2941,7 +2725,7 @@
       "category": "Sales Engineer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Sales",
         "AI",
@@ -2968,7 +2752,7 @@
       "category": "Sales Engineer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Sales",
         "AI",
@@ -2995,7 +2779,7 @@
       "category": "Sales Engineer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Sales",
         "AI",
@@ -3022,7 +2806,7 @@
       "category": "Sales Engineer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Sales",
         "Engineering",
@@ -3049,7 +2833,7 @@
       "category": "Sales Engineer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Sales",
         "AI",
@@ -3076,7 +2860,7 @@
       "category": "Product Validation",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "History",
@@ -3103,7 +2887,7 @@
       "category": "Videographer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Supabase",
         "PostgreSQL",
@@ -3130,7 +2914,7 @@
       "category": "Geospatial Annotation",
       "eligible": true,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Research",
         "Analysis",
@@ -3157,7 +2941,7 @@
       "category": "Red Team / Safety Evaluator",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "Annotation",
@@ -3184,7 +2968,7 @@
       "category": "Infrastructure Engineer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Operations",
         "Analytics",
@@ -3204,33 +2988,6 @@
       "source": "Operations • Analytics"
     },
     {
-      "id": "6adf425fb4e74085efcc717e",
-      "title": "Model Partnerships - ElevenCreative",
-      "company": "ElevenLabs",
-      "logo": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=32",
-      "category": "Partnerships Manager",
-      "eligible": true,
-      "isIndonesian": false,
-      " isDirect": false,
-      "skills": [
-        "AI",
-        "Research",
-        "Valuation",
-        "Testing",
-        "Monitoring",
-        "Creativity",
-        "Experimentation",
-        "Microsoft Teams"
-      ],
-      "location": "Europe, United States",
-      "pay": "Lihat Detail",
-      "date": "Oct 26, 2026",
-      "timestamp": 1792972800,
-      "excerpt": "ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model.",
-      "applyUrl": "https://remowork.life/jobs/6adf425fb4e74085efcc717e/apply-out?ch=card",
-      "source": "AI • Research"
-    },
-    {
       "id": "6adf98df7614d565dabb5194",
       "title": "Data & Charts Expert",
       "company": "Micro1",
@@ -3238,7 +2995,7 @@
       "category": "AI Expert - Data Science",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Flexible",
         "AI",
@@ -3265,7 +3022,7 @@
       "category": "Research Study Participant",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Decision Making",
         "AI",
@@ -3282,168 +3039,6 @@
       "source": "Decision Making • AI"
     },
     {
-      "id": "6adf40d1b4e74085efcc4be3",
-      "title": "AI Tutor - Uzbek",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "Linguistics (SME)",
-      "eligible": true,
-      "isIndonesian": false,
-      " isDirect": false,
-      "skills": [
-        "AI",
-        "Make",
-        "Microsoft Teams",
-        "Pronunciation",
-        "Nuance",
-        "English",
-        "Accuracy",
-        "Annotation"
-      ],
-      "location": "Australia, Canada, United Kingdom +1 United States (US: not WY, IL)",
-      "pay": "$35 – $45/hr",
-      "date": "Oct 26, 2026",
-      "timestamp": 1792972800,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not.",
-      "applyUrl": "https://remowork.life/jobs/6adf40d1b4e74085efcc4be3/apply-out?ch=card",
-      "source": "AI • Make"
-    },
-    {
-      "id": "6adf40d1b4e74085efcc4be1",
-      "title": "AI Tutor - Oromo",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "Linguistics (SME)",
-      "eligible": true,
-      "isIndonesian": false,
-      " isDirect": false,
-      "skills": [
-        "AI",
-        "Make",
-        "Microsoft Teams",
-        "Pronunciation",
-        "Nuance",
-        "English",
-        "Accuracy",
-        "Annotation"
-      ],
-      "location": "Australia, Canada, United Kingdom +1 United States (US: not WY, IL)",
-      "pay": "$35 – $45/hr",
-      "date": "Oct 26, 2026",
-      "timestamp": 1792972800,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not.",
-      "applyUrl": "https://remowork.life/jobs/6adf40d1b4e74085efcc4be1/apply-out?ch=card",
-      "source": "AI • Make"
-    },
-    {
-      "id": "6adf40d1b4e74085efcc4bdf",
-      "title": "AI Tutor - Latvian",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "Linguistics (SME)",
-      "eligible": true,
-      "isIndonesian": false,
-      " isDirect": false,
-      "skills": [
-        "AI",
-        "Latvian",
-        "Make",
-        "Microsoft Teams",
-        "Pronunciation",
-        "Nuance",
-        "English",
-        "Accuracy"
-      ],
-      "location": "Australia, Canada, United Kingdom +1 United States (US: not WY, IL)",
-      "pay": "$35 – $45/hr",
-      "date": "Oct 26, 2026",
-      "timestamp": 1792972800,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not.",
-      "applyUrl": "https://remowork.life/jobs/6adf40d1b4e74085efcc4bdf/apply-out?ch=card",
-      "source": "AI • Latvian"
-    },
-    {
-      "id": "6adf40d1b4e74085efcc4bde",
-      "title": "AI Tutor - Icelandic",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "Linguistics (SME)",
-      "eligible": true,
-      "isIndonesian": false,
-      " isDirect": false,
-      "skills": [
-        "AI",
-        "Icelandic",
-        "Make",
-        "Microsoft Teams",
-        "Pronunciation",
-        "Nuance",
-        "English",
-        "Accuracy"
-      ],
-      "location": "Australia, Canada, United Kingdom +1 United States (US: not WY, IL)",
-      "pay": "$35 – $45/hr",
-      "date": "Oct 26, 2026",
-      "timestamp": 1792972800,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not.",
-      "applyUrl": "https://remowork.life/jobs/6adf40d1b4e74085efcc4bde/apply-out?ch=card",
-      "source": "AI • Icelandic"
-    },
-    {
-      "id": "6adf40d1b4e74085efcc4bda",
-      "title": "AI Tutor - Estonian",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "Linguistics (SME)",
-      "eligible": true,
-      "isIndonesian": false,
-      " isDirect": false,
-      "skills": [
-        "AI",
-        "Estonian",
-        "Make",
-        "Microsoft Teams",
-        "Pronunciation",
-        "Nuance",
-        "English",
-        "Accuracy"
-      ],
-      "location": "Australia, Canada, United Kingdom +1 United States (US: not WY, IL)",
-      "pay": "$35 – $45/hr",
-      "date": "Oct 26, 2026",
-      "timestamp": 1792972800,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not.",
-      "applyUrl": "https://remowork.life/jobs/6adf40d1b4e74085efcc4bda/apply-out?ch=card",
-      "source": "AI • Estonian"
-    },
-    {
-      "id": "6adf40d1b4e74085efcc4bd7",
-      "title": "AI Tutor - Amharic",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "Linguistics (SME)",
-      "eligible": true,
-      "isIndonesian": false,
-      " isDirect": false,
-      "skills": [
-        "AI",
-        "Make",
-        "Microsoft Teams",
-        "Pronunciation",
-        "Nuance",
-        "English",
-        "Accuracy",
-        "Annotation"
-      ],
-      "location": "Australia, Canada, United Kingdom +1 United States (US: not WY, IL)",
-      "pay": "$35 – $45/hr",
-      "date": "Oct 26, 2026",
-      "timestamp": 1792972800,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not.",
-      "applyUrl": "https://remowork.life/jobs/6adf40d1b4e74085efcc4bd7/apply-out?ch=card",
-      "source": "AI • Make"
-    },
-    {
       "id": "6adf4472b4e74085efcc79bb",
       "title": "Food Delivery AI Response Evaluator",
       "company": "Micro1",
@@ -3451,7 +3046,7 @@
       "category": "Response Rater",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "Accuracy",
@@ -3478,7 +3073,7 @@
       "category": "Translator",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Tagalog",
         "English",
@@ -3505,7 +3100,7 @@
       "category": "Chief of Staff",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Strategic Thinking",
         "Operations",
@@ -3532,7 +3127,7 @@
       "category": "Operations Manager",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Strategic Thinking",
         "LLM Prompt Engineering",
@@ -3559,7 +3154,7 @@
       "category": "Security Engineer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "DFIR",
         "Cybersecurity",
@@ -3586,7 +3181,7 @@
       "category": "Product Manager",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Management",
         "Make",
@@ -3613,7 +3208,7 @@
       "category": "Instructional Designer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Training",
         "Analysis",
@@ -3640,7 +3235,7 @@
       "category": "Technical Support Engineer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Diagnosis",
         "Organization",
@@ -3667,7 +3262,7 @@
       "category": "L&D / Training Specialist",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Training",
         "Teaching",
@@ -3694,7 +3289,7 @@
       "category": "Site Reliability Engineer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Python",
         "Rust",
@@ -3721,7 +3316,7 @@
       "category": "Security Engineer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Identity and Access Management",
         "Management",
@@ -3748,7 +3343,7 @@
       "category": "Business Analyst",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Healthcare",
         "Agile",
@@ -3775,7 +3370,7 @@
       "category": "Audit / Internal Audit",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Audit",
         "Microsoft Teams",
@@ -3802,7 +3397,7 @@
       "category": "Utilisation Review Nurse",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Management",
         "Healthcare",
@@ -3829,7 +3424,7 @@
       "category": "AI Expert - Software Engineering",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Rust",
         "AI",
@@ -3856,7 +3451,7 @@
       "category": "Data Engineer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Healthcare",
         "Make",
@@ -3883,7 +3478,7 @@
       "category": "Data Engineer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Engineering",
         "Infrastructure",
@@ -3910,7 +3505,7 @@
       "category": "Computer Vision Engineer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Algorithms",
         "Mapping",
@@ -3937,7 +3532,7 @@
       "category": "Product Manager",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "Network Fundamentals",
@@ -3964,7 +3559,7 @@
       "category": "Embedded / Firmware Engineer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Gaming",
         "AI",
@@ -3991,7 +3586,7 @@
       "category": "Security Engineer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Gaming",
         "AI",
@@ -4018,7 +3613,7 @@
       "category": "Engineering Manager",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Engineering",
         "Kubernetes",
@@ -4045,7 +3640,7 @@
       "category": "Utilisation Review Nurse",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Management",
         "Healthcare",
@@ -4072,7 +3667,7 @@
       "category": "Utilisation Review Nurse",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Management",
         "Healthcare",
@@ -4099,7 +3694,7 @@
       "category": "AI Expert - Cybersecurity",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Infrastructure",
         "E-Commerce",
@@ -4126,7 +3721,7 @@
       "category": "AI Expert - Cybersecurity",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Infrastructure",
         "E-Commerce",
@@ -4153,7 +3748,7 @@
       "category": "AI Expert - Cybersecurity",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Infrastructure",
         "E-Commerce",
@@ -4180,7 +3775,7 @@
       "category": "AI Expert - Biology",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Biology",
         "Infrastructure",
@@ -4207,7 +3802,7 @@
       "category": "AI Expert - Biology",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Biology",
         "Infrastructure",
@@ -4234,7 +3829,7 @@
       "category": "AI Expert - Biology",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Biology",
         "Infrastructure",
@@ -4261,7 +3856,7 @@
       "category": "Backend Engineer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Engineering",
         "Problem Solving",
@@ -4288,7 +3883,7 @@
       "category": "Management Consultant",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Management",
         "Consulting",
@@ -4315,7 +3910,7 @@
       "category": "Investment Analyst",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Finance",
         "Institutions",
@@ -4342,7 +3937,7 @@
       "category": "Research Data Scientist",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Problem Solving",
         "Research",
@@ -4369,7 +3964,7 @@
       "category": "General Admin VA",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "ARR",
         "Oracle Database",
@@ -4396,7 +3991,7 @@
       "category": "Financial Planning & Analysis (FP&A)",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Grafana",
         "Observability",
@@ -4423,7 +4018,7 @@
       "category": "PR / Communications",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Communications",
         "Statistics",
@@ -4450,7 +4045,7 @@
       "category": "Research Study Participant",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Fact-Checking",
         "Culture",
@@ -4497,7 +4092,7 @@
       "category": "Research Study Participant",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [],
       "location": "Remote (Global)",
       "pay": "$12 one-time",
@@ -4515,7 +4110,7 @@
       "category": "Growth Marketer (General)",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "Marketing",
@@ -4542,7 +4137,7 @@
       "category": "Research Study Participant",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Flexible",
         "Engineering",
@@ -4567,7 +4162,7 @@
       "category": "Research Study Participant",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Reasoning",
         "Technical Specifications"
@@ -4588,7 +4183,7 @@
       "category": "Research Study Participant",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Confidentiality",
         "Written Feedback"
@@ -4609,7 +4204,7 @@
       "category": "Backend Engineer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Advertising",
         "Make",
@@ -4636,7 +4231,7 @@
       "category": "Backend Engineer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Supabase",
         "PostgreSQL",
@@ -4663,7 +4258,7 @@
       "category": "Backend Engineer",
       "eligible": true,
       "isIndonesian": false,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Supabase",
         "PostgreSQL",
@@ -5178,33 +4773,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Riyadh, Saudi Arabia",
+      "location": "Riyadh, Saudi Arabia (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Oct 22, 2026",
       "timestamp": 1792692638,
       "excerpt": "Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most exciting and quickly expanding teams at Scale. This team is responsible for generating, executing, and fost...",
       "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-4589749005",
-      "title": "Product Manager of AI Applications, Global Public Sector",
-      "company": "Scale AI",
-      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "Scale AI"
-      ],
-      "location": "Doha, Qatar ; Dubai, UAE",
-      "pay": "Lihat Detail",
-      "date": "Oct 22, 2026",
-      "timestamp": 1792692638,
-      "excerpt": "Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most exciting and quickly expanding teams at Scale. This team is responsible for generating, executing, and fost...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
       "source": "⚡ Direct API"
     },
     {
@@ -6018,33 +5592,12 @@
         "Direct API",
         "xAI"
       ],
-      "location": " Southaven, MS; Memphis, TN",
+      "location": " Southaven, MS; Memphis, TN (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Oct 22, 2026",
       "timestamp": 1792681816,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
       "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5266499007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5085890007",
-      "title": "Data Center Operations Technician",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": "Hillsboro, OR",
-      "pay": "Lihat Detail",
-      "date": "Oct 22, 2026",
-      "timestamp": 1792681816,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5085890007",
       "source": "⚡ Direct API"
     },
     {
@@ -7189,7 +6742,7 @@
       "category": "Linguistics (SME)",
       "eligible": true,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "Accuracy",
@@ -7573,7 +7126,7 @@
       "category": "Transcription & Audio Training",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Indonesian",
         "Microsoft Word",
@@ -7726,7 +7279,7 @@
       "category": "Translator",
       "eligible": true,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Indonesian",
         "Compliance",
@@ -7795,7 +7348,7 @@
       "category": "Audio Annotation",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Transcription",
         "Indonesian",
@@ -7822,7 +7375,7 @@
       "category": "Linguistic Annotation (AI)",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Operations",
         "English",
@@ -7842,24 +7395,24 @@
       "source": "Operations • English"
     },
     {
-      "id": "ashby-3962be8a-60e3-4fc3-9bb6-3a84addb8e08",
+      "id": "ashby-40c3389e-c7ea-4054-8c90-05b1beb38bff",
       "title": "Research Scientist",
       "company": "Roboflow",
       "logo": "https://www.google.com/s2/favicons?domain=roboflow.com&sz=128",
-      "category": "Roboflow Labs",
+      "category": "Engineering ",
       "eligible": true,
       "isIndonesian": false,
       "isDirect": true,
       "skills": [
-        "Roboflow Labs",
+        "Engineering ",
         "Direct API"
       ],
-      "location": "San Francisco",
+      "location": "Remote (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Sep 21, 2026",
       "timestamp": 1790023871,
-      "excerpt": "WHO WE ARE  Roboflow is building the visual cortex for AGI.     Every day, millions of developers and half of the Fortune 100 use Roboflow to count cells https://blog.roboflow.com/cancer-research-computer-vision/ to acce...",
-      "applyUrl": "https://jobs.ashbyhq.com/roboflow/3962be8a-60e3-4fc3-9bb6-3a84addb8e08",
+      "excerpt": "WHO WE ARE  Our mission is to make the world programmable. Sight is one of the key ways we understand the world, and soon this will be true for the software we use, too.  We’re building the tools, community, and resource...",
+      "applyUrl": "https://jobs.ashbyhq.com/roboflow/40c3389e-c7ea-4054-8c90-05b1beb38bff",
       "source": "⚡ Direct API"
     },
     {
@@ -7870,7 +7423,7 @@
       "category": "AI Expert - Government & Public Administration",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "English",
         "Indonesian",
@@ -7939,7 +7492,7 @@
       "category": "LLM Evaluator (Code)",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "Indonesian",
@@ -7966,7 +7519,7 @@
       "category": "Translator",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Mandarin Chinese",
         "Malay",
@@ -7993,7 +7546,7 @@
       "category": "Voiceover Artist",
       "eligible": true,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Indonesian",
         "English"
@@ -8203,7 +7756,7 @@
       "category": "Bilingual LLM & Translation",
       "eligible": true,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Malay",
         "AI",
@@ -8230,7 +7783,7 @@
       "category": "Bilingual LLM & Translation",
       "eligible": true,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Indonesian",
         "Nuance",
@@ -8257,7 +7810,7 @@
       "category": "Bilingual LLM & Translation",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "Training",
@@ -8305,7 +7858,7 @@
       "category": "Copyediting & Language Review",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "Machine Learning",
@@ -8500,7 +8053,7 @@
       "category": "Linguistics (SME)",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Indonesian",
         "Reasoning",
@@ -8527,7 +8080,7 @@
       "category": "Bilingual LLM & Translation",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Indonesian",
         "Assurance",
@@ -8575,7 +8128,7 @@
       "category": "Linguistics (SME)",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Indonesian",
         "AI",
@@ -8770,7 +8323,7 @@
       "category": "Bilingual LLM & Translation",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Indonesian",
         "AI",
@@ -8818,7 +8371,7 @@
       "category": "Bilingual LLM & Translation",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Indonesian",
         "AI",
@@ -8845,7 +8398,7 @@
       "category": "AI Expert - Robotics",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Robotics",
         "Indonesian",
@@ -8872,7 +8425,7 @@
       "category": "AI & Data Training",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Indonesian",
         "AI",
@@ -8899,7 +8452,7 @@
       "category": "AI Expert - Mathematics",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Mathematics",
         "Indonesian",
@@ -8926,7 +8479,7 @@
       "category": "Response Rater",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Indonesian",
         "AI",
@@ -8953,7 +8506,7 @@
       "category": "AI Expert - Industrial / Manufacturing Engineering",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Manufacturing",
         "Operations",
@@ -8980,7 +8533,7 @@
       "category": "AI Expert - Clinical & Medical",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Healthcare",
         "Indonesian",
@@ -9007,7 +8560,7 @@
       "category": "AI Expert - Finance",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Finance",
         "Indonesian",
@@ -9055,7 +8608,7 @@
       "category": "Transcription & Audio Training",
       "eligible": true,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Indonesian",
         "AI",
@@ -9093,48 +8646,6 @@
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
       "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6004661004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-6006505004",
-      "title": "AI Trainer - Automotive Expertise Required",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Europe",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006505004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-6006504004",
-      "title": "AI Trainer - Automotive Expertise Required",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Europe",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006504004",
       "source": "⚡ Direct API"
     },
     {
@@ -9192,453 +8703,12 @@
         "Direct API",
         "HumanSignal"
       ],
-      "location": "Colombia",
+      "location": "Colombia (+21 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
       "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823645004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5823646004",
-      "title": "Data Collection Contributor",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Croatia",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823646004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5823647004",
-      "title": "Data Collection Contributor",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Czech Republic",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823647004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5823648004",
-      "title": "Data Collection Contributor",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Denmark",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823648004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5823649004",
-      "title": "Data Collection Contributor",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Finland",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823649004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5823650004",
-      "title": "Data Collection Contributor",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Germany",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823650004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5823651004",
-      "title": "Data Collection Contributor",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Greece",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823651004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5823652004",
-      "title": "Data Collection Contributor",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Ireland",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823652004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5823653004",
-      "title": "Data Collection Contributor",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Italy",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823653004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5823654004",
-      "title": "Data Collection Contributor",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Malaysia",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823654004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5823655004",
-      "title": "Data Collection Contributor",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Netherlands",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823655004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5823656004",
-      "title": "Data Collection Contributor",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Poland",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823656004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5823657004",
-      "title": "Data Collection Contributor",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Romania",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823657004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5823658004",
-      "title": "Data Collection Contributor",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "South Africa",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823658004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5823659004",
-      "title": "Data Collection Contributor",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Thailand",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823659004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5823660004",
-      "title": "Data Collection Contributor",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "United Kingdom",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823660004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5823641004",
-      "title": "Data Collection Contributor",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "United States",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823641004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5823640004",
-      "title": "Data Collection Contributor",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Austria",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823640004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5823639004",
-      "title": "Data Collection Contributor",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Remote",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823639004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5823642004",
-      "title": "Data Collection Contributor",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Bulgaria",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823642004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5823643004",
-      "title": "Data Collection Contributor",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Canada",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823643004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5823644004",
-      "title": "Data Collection Contributor",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Chile",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823644004",
       "source": "⚡ Direct API"
     },
     {
@@ -9712,7 +8782,7 @@
       "category": "Voiceover Artist",
       "eligible": true,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Indonesian",
         "AI",
@@ -9819,7 +8889,7 @@
       "category": "Data Annotation & Labeling",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "Indonesian",
@@ -9846,7 +8916,7 @@
       "category": "Data Annotation & Labeling",
       "eligible": true,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "Indonesian",
@@ -9873,7 +8943,7 @@
       "category": "Data Annotation & Labeling",
       "eligible": true,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "Indonesian",
@@ -9900,7 +8970,7 @@
       "category": "Data Annotation & Labeling",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "Indonesian",
@@ -9927,7 +8997,7 @@
       "category": "Data Annotation & Labeling",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "Indonesian",
@@ -9954,7 +9024,7 @@
       "category": "Data Annotation & Labeling",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "Indonesian",
@@ -9981,7 +9051,7 @@
       "category": "Data Annotation & Labeling",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI",
         "Indonesian",
@@ -10001,27 +9071,6 @@
       "source": "AI • Indonesian"
     },
     {
-      "id": "ashby-40c3389e-c7ea-4054-8c90-05b1beb38bff",
-      "title": "Research Scientist",
-      "company": "Roboflow",
-      "logo": "https://www.google.com/s2/favicons?domain=roboflow.com&sz=128",
-      "category": "Engineering ",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Engineering ",
-        "Direct API"
-      ],
-      "location": "Remote",
-      "pay": "Lihat Detail",
-      "date": "Apr 22, 2026",
-      "timestamp": 1776888392,
-      "excerpt": "WHO WE ARE  Our mission is to make the world programmable. Sight is one of the key ways we understand the world, and soon this will be true for the software we use, too.  We’re building the tools, community, and resource...",
-      "applyUrl": "https://jobs.ashbyhq.com/roboflow/40c3389e-c7ea-4054-8c90-05b1beb38bff",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "6a3d834d41b9af7acf091146",
       "title": "Indonesian Transcriber",
       "company": "Lionbridge",
@@ -10029,7 +9078,7 @@
       "category": "Transcription & Audio Training",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Indonesian",
         "Annotation",
@@ -10098,7 +9147,7 @@
       "category": "Bilingual LLM & Translation",
       "eligible": true,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Onboarding"
       ],
@@ -10139,7 +9188,7 @@
       "category": "Sciences (AI)",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "STEM",
         "Indonesian",
@@ -10166,7 +9215,7 @@
       "category": "Sciences (AI)",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Indonesian",
         "AI",
@@ -10193,7 +9242,7 @@
       "category": "AI Expert - Mathematics",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "LaTeX",
         "Indonesian",
@@ -10220,7 +9269,7 @@
       "category": "Bilingual LLM & Translation",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "JD",
         "AI",
@@ -10247,7 +9296,7 @@
       "category": "Personal Workflow Evaluator",
       "eligible": true,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "AI Evaluation",
         "Content Review",
@@ -10270,7 +9319,7 @@
       "category": "Transcription & Audio Training",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Indonesian",
         "Acting",
@@ -10297,7 +9346,7 @@
       "category": "AI Expert - Mathematics",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Mathematics",
         "Indonesian",
@@ -10324,7 +9373,7 @@
       "category": "AI Expert - Software Engineering",
       "eligible": false,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Indonesian",
         "AI",
@@ -10344,33 +9393,6 @@
       "source": "Indonesian • AI"
     },
     {
-      "id": "6a135e47846849997e8af6d6",
-      "title": "Freelance AI Linguistic Specialist – Indonesian",
-      "company": "TELUS International",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037225/remowork/companies/telus-international-logo.webp",
-      "category": "Bilingual LLM & Translation",
-      "eligible": true,
-      "isIndonesian": true,
-      " isDirect": false,
-      "skills": [
-        "AI",
-        "Indonesian",
-        "Grammar",
-        "Verification",
-        "Accuracy",
-        "Alignment",
-        "Simulation",
-        "Consistency"
-      ],
-      "location": "Remote (Global)",
-      "pay": "$3.50 – $15/hr",
-      "date": "Feb 4, 2026",
-      "timestamp": 1770163200,
-      "excerpt": "Freelance AI Linguistic Specialist – Indonesian Spelling & Grammar Correction (On-Device AI) Join TELUS Digital as a freelance AI linguistic specialist and help improve on-device spelling and grammar correction for Indonesian used by millions of users worldwide.",
-      "applyUrl": "https://remowork.life/jobs/6a135e47846849997e8af6d6/apply-out?ch=card",
-      "source": "AI • Indonesian"
-    },
-    {
       "id": "6a44f721e3bfc64d1928e0b6",
       "title": "Indonesian Translator (Remote) | Sigma AI",
       "company": "Sigma AI",
@@ -10378,7 +9400,7 @@
       "category": "Language Data",
       "eligible": true,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Indonesian",
         "AI",
@@ -10426,7 +9448,7 @@
       "category": "Linguistic Annotation (AI)",
       "eligible": true,
       "isIndonesian": true,
-      " isDirect": false,
+      "isDirect": false,
       "skills": [
         "Linguistics",
         "Localization",
