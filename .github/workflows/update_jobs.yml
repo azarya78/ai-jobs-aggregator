@@ -1,0 +1,34 @@
+name: Update AI Jobs Feed
+
+on:
+  schedule:
+    - cron: '0 */3 * * *' # Jalan otomatis setiap 3 jam sekali
+  workflow_dispatch:      # Memungkinkan kita menekan tombol "Run" manual kapan saja
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-save:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install libraries
+        run: pip install requests beautifulsoup4
+
+      - name: Run Scraper
+        run: python scraper.py
+
+      - name: Commit and Push jobs_feed.json
+        run: |
+          git config --local user.email "bot@github.com"
+          git config --local user.name "AI Jobs Bot"
+          git add jobs_feed.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update jobs_feed.json" && git push)
