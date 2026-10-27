@@ -13,10 +13,11 @@ HEADERS = {
 AI_KEYWORDS = [
     "ai", "rater", "annotat", "evaluat", "indonesia", "grader", "data",
     "search", "linguist", "freelance", "tutor", "trainer", "translator",
-    "prompt", "rlhf", "model", "label", "content", "specialist", " bilingual"
+    "prompt", "rlhf", "model", "label", "content", "specialist", "bilingual"
 ]
 
 def clean_referral_url(url):
+    """Membuang parameter referral (?utm_source=remowork, dll.) dari URL"""
     if not url:
         return ""
     parsed = urlparse(url)
@@ -29,6 +30,7 @@ def clean_referral_url(url):
     return urlunparse((parsed.scheme, parsed.netloc, parsed.path, parsed.params, new_query, parsed.fragment))
 
 def resolve_apply_url(remowork_apply_path, fallback_url):
+    """Membongkar link /apply-out untuk mendapatkan URL asli perusahaan"""
     if not remowork_apply_path:
         return fallback_url
     full_url = f"https://remowork.life{remowork_apply_path}" if remowork_apply_path.startswith("/") else remowork_apply_path
@@ -41,6 +43,7 @@ def resolve_apply_url(remowork_apply_path, fallback_url):
     return full_url
 
 def parse_job_date(date_str):
+    """Mengubah teks tanggal (misal 'Oct 27, 2026') menjadi timestamp agar bisa diurutkan"""
     if not date_str:
         return 0
     clean_str = date_str.strip()
@@ -52,6 +55,7 @@ def parse_job_date(date_str):
     return 0
 
 def parse_iso_date(iso_str):
+    """Mengubah format tanggal ISO dari Direct API menjadi timestamp dan teks tanggal rapi"""
     if not iso_str:
         return 0, "Baru"
     try:
@@ -72,7 +76,7 @@ def scrape_remowork_pages():
     seen_ids = set()
 
     for page_url, group_tag in urls_to_fetch:
-        print(f"Mengambil dari RemoWork: {page_url}")
+        print(f"Mengambil halaman: {page_url}")
         try:
             resp = requests.get(page_url, headers=HEADERS, timeout=15)
             if resp.status_code != 200:
@@ -142,7 +146,7 @@ def scrape_remowork_pages():
                     "category": category,
                     "eligible": eligible,
                     "isIndonesian": is_indonesian,
-                    " isDirect": False,
+                    "isDirect": False,
                     "skills": skills[:8],
                     "location": location,
                     "pay": pay,
@@ -214,7 +218,7 @@ def fetch_direct_lever_jobs():
     return direct_jobs
 
 def fetch_direct_greenhouse_jobs():
-    """2. Konektor API Resmi Greenhouse (Scale AI, xAI, Cohere, Surge AI, dll.)"""
+    """2. Konektor API Resmi Greenhouse (Scale AI, xAI, Cohere, HumanSignal)"""
     gh_companies = [
         ("scaleai", "Scale AI", "https://www.google.com/s2/favicons?domain=scale.com&sz=128"),
         ("xai", "xAI", "https://www.google.com/s2/favicons?domain=x.ai&sz=128"),
@@ -245,7 +249,11 @@ def fetch_direct_greenhouse_jobs():
                 ts, date_str = parse_iso_date(updated_at)
 
                 raw_html = post.get("content", "")
-                clean_excerpt = BeautifulSoup(BeautifulSoup(raw_html, "html.parser").get_text(" "), "html.parser").get_text(" ", strip=True)[:220] + "..." if raw_html else f"Lowongan resmi langsung dari portal karir {company_name}."
+                clean_excerpt = (
+                    BeautifulSoup(BeautifulSoup(raw_html, "html.parser").get_text(" "), "html.parser")
+                    .get_text(" ", strip=True)[:220] + "..."
+                    if raw_html else f"Lowongan resmi langsung dari portal karir {company_name}."
+                )
 
                 direct_jobs.append({
                     "id": f"gh-{post.get('id', title)}",
@@ -271,7 +279,7 @@ def fetch_direct_greenhouse_jobs():
     return direct_jobs
 
 def fetch_direct_ashby_jobs():
-    """3. Konektor API Resmi AshbyHQ (Cohere, Roboflow, Liner, dll.)"""
+    """3. Konektor API Resmi AshbyHQ (Cohere, Roboflow, ElevenLabs)"""
     ashby_companies = [
         ("cohere", "Cohere", "https://www.google.com/s2/favicons?domain=cohere.com&sz=128"),
         ("roboflow", "Roboflow", "https://www.google.com/s2/favicons?domain=roboflow.com&sz=128"),
@@ -300,7 +308,10 @@ def fetch_direct_ashby_jobs():
 
                 is_indo = "indonesia" in combined_text
                 ts, date_str = parse_iso_date(published_at)
-                desc_plain = post.get("descriptionPlain", "")[:220] + "..." if post.get("descriptionPlain") else f"Proyek langsung dari portal resmi {company_name}."
+                desc_plain = (
+                    post.get("descriptionPlain", "")[:220] + "..."
+                    if post.get("descriptionPlain") else f"Proyek langsung dari portal resmi {company_name}."
+                )
 
                 direct_jobs.append({
                     "id": f"ashby-{post.get('id', title)}",
@@ -325,6 +336,48 @@ def fetch_direct_ashby_jobs():
 
     return direct_jobs
 
+def deduplicate_jobs(jobs_list):
+    """Menggabungkan lowongan kembar (Judul + Perusahaan sama) dari berbagai negara/sumber menjadi 1 kartu"""
+    grouped = {}
+    for job in jobs_list:
+        norm_title = job.get("title", "").strip().lower()
+        norm_comp = job.get("company", "").strip().lower()
+        key = f"{norm_comp}||{norm_title}"
+
+        if key not in grouped:
+            job["_locations"] = [job.get("location", "Remote")]
+            grouped[key] = job
+        else:
+            existing = grouped[key]
+            loc = job.get("location", "")
+            if loc and loc not in existing["_locations"]:
+                existing["_locations"].append(loc)
+
+            if job.get("isIndonesian"):
+                existing["isIndonesian"] = True
+
+            if existing.get("pay") in ["Lihat Detail", "Sesuai Proyek"] and "$" in job.get("pay", ""):
+                existing["pay"] = job["pay"]
+
+            if job.get("isDirect") and not existing.get("isDirect"):
+                existing["applyUrl"] = job["applyUrl"]
+                existing["isDirect"] = True
+
+            if job.get("timestamp", 0) > existing.get("timestamp", 0):
+                existing["timestamp"] = job["timestamp"]
+                existing["date"] = job["date"]
+
+    final_jobs = []
+    for key, job in grouped.items():
+        locs = job.pop("_locations", [])
+        if len(locs) > 1:
+            indo_locs = [l for l in locs if "indonesia" in l.lower() or "global" in l.lower()]
+            first_loc = indo_locs[0] if indo_locs else locs[0]
+            job["location"] = f"{first_loc} (+{len(locs)-1} lokasi lain)"
+        final_jobs.append(job)
+
+    return final_jobs
+
 def main():
     all_jobs = []
     all_jobs.extend(scrape_remowork_pages())
@@ -332,19 +385,22 @@ def main():
     all_jobs.extend(fetch_direct_greenhouse_jobs())
     all_jobs.extend(fetch_direct_ashby_jobs())
 
+    # Gabungkan proyek kembar beda negara agar tidak double di layar
+    unique_jobs = deduplicate_jobs(all_jobs)
+
     # Urutkan dari yang paling baru rilis (Recent Projects)
-    all_jobs.sort(key=lambda x: x.get("timestamp", 0), reverse=True)
+    unique_jobs.sort(key=lambda x: x.get("timestamp", 0), reverse=True)
 
     output = {
         "lastUpdated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
-        "totalJobs": len(all_jobs),
-        "jobs": all_jobs
+        "totalJobs": len(unique_jobs),
+        "jobs": unique_jobs
     }
 
     with open("jobs_feed.json", "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
 
-    print(f"Berhasil menyimpan {len(all_jobs)} lowongan ke jobs_feed.json!")
+    print(f"Berhasil menyaring {len(all_jobs)} lowongan menjadi {len(unique_jobs)} proyek unik ke jobs_feed.json!")
 
 if __name__ == "__main__":
     main()
