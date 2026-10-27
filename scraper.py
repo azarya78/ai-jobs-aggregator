@@ -133,7 +133,7 @@ def scrape_remowork_pages():
                     "timestamp": parse_job_date(posted_date),
                     "excerpt": excerpt,
                     "applyUrl": direct_url,
-                    "source": "RemoWork"
+                    "source": " • ".join(skills[:2]) if skills else ("✓ Open to you" if eligible else "Global Remote")
                 })
         except Exception as e:
             print(f"Error saat mengambil {page_url}: {e}")
