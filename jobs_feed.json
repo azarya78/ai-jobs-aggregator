@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28 15:44 UTC",
+  "lastUpdated": "2026-10-28 18:39 UTC",
   "totalJobs": 423,
   "jobs": [
     {
@@ -381,8 +381,8 @@
         "French",
         "Mandarin Chinese",
         "Finance",
-        "Translation",
         "AI",
+        "Translation",
         "Linguistics",
         "Flexible"
       ],
@@ -390,7 +390,7 @@
       "pay": "$0.0185 per word",
       "date": "Oct 28, 2026",
       "timestamp": 1793145600,
-      "excerpt": "Translate or post-edit news, social, medical, finance, and business content directly in OneForma. Remote work for native target-language professionals with at least one year of experience.",
+      "excerpt": "This project involves translating or post-editing various content types, including news, social media, medical, finance, and business documents. You will work directly on OneForma's internal online platform.",
       "applyUrl": "https://my.oneforma.com/contributor/jobs/8906?from=list&tab=all",
       "source": "MTPE • French"
     },
@@ -533,7 +533,7 @@
       "id": "6ae192f01acde6b902150554",
       "title": "Actuary - US",
       "company": "Huscarl",
-      "logo": "",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1793202664/remowork/companies/huscarl-logo.webp",
       "category": "Actuarial",
       "eligible": true,
       "isIndonesian": false,
@@ -602,7 +602,7 @@
       "date": "Oct 28, 2026",
       "timestamp": 1793145600,
       "excerpt": "Figure Technology Solutions, Inc. (Nasdaq: FIGR; OPEN: FGRS) is the leading blockchain-native capital marketplace for the origination, funding, sale, and trading of tokenized assets. More than 480 partners use its loan origination system and capital marketplace.",
-      "applyUrl": "https://job-boards.greenhouse.io/figure/jobs/8919758002",
+      "applyUrl": "https://job-boards.greenhouse.io/figure?error=true",
       "source": "Dart • Finance"
     },
     {
