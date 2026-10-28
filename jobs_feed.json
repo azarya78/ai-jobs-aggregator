@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28 09:42 UTC",
+  "lastUpdated": "2026-10-28 12:41 UTC",
   "totalJobs": 422,
   "jobs": [
     {
@@ -801,7 +801,7 @@
       "date": "Oct 28, 2026",
       "timestamp": 1793145600,
       "excerpt": "As a trusted global transformation partner, Welocalize accelerates the global business journey by enabling brands and companies to reach, engage, and grow international audiences.",
-      "applyUrl": "https://jobs.lever.co/weloglobal/a18c005c-b79b-4fd5-a826-7bc771bcd64e",
+      "applyUrl": "https://remowork.life/jobs/6ae13cc31acde6b9021485ec/apply-out?ch=card",
       "source": "German • Localization"
     },
     {
@@ -830,33 +830,6 @@
       "excerpt": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games.",
       "applyUrl": "https://job-boards.greenhouse.io/discord/jobs/8652914002",
       "source": "Gaming • Microsoft Teams"
-    },
-    {
-      "id": "6ae141671acde6b90214a4d7",
-      "title": "Buy-Side Investment Expert",
-      "company": "Verita AI",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037253/remowork/companies/verita-ai-logo.webp",
-      "category": "AI Expert - Finance",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "AI",
-        "Research",
-        "Valuation",
-        "Finance",
-        "Reasoning",
-        "Accuracy",
-        "Analysis",
-        "Management"
-      ],
-      "location": "Remote (Global) (not Kenya)",
-      "pay": "$100/hr",
-      "date": "Oct 28, 2026",
-      "timestamp": 1793145600,
-      "excerpt": "Verita partners with leading AI labs to improve how AI systems reason about real world professional work. We're looking for buy-side investment professionals to apply their research, valuation, and portfolio expertise to finance tasks that help train and evaluate these systems.",
-      "applyUrl": "https://www.verita-ai.com/jobs/buy-side-investment-expert-1",
-      "source": "AI • Research"
     },
     {
       "id": "gh-4803862007",
@@ -1196,7 +1169,7 @@
       "date": "Oct 27, 2026",
       "timestamp": 1793059200,
       "excerpt": "We’re working with a leading AI lab that needs experienced mechanical design engineers to review a set of engineering drawing packages and CAD models for quality and realism.",
-      "applyUrl": "https://remowork.life/jobs/6ae142fc1acde6b90214bc5e/apply-out?ch=card",
+      "applyUrl": "https://agent.askethos.com/opportunities/expert-opportunity-mechanical-cad-design-engineer-ai-task-reviewer-100-hr/apply",
       "source": "CAD • AI"
     },
     {
@@ -4725,6 +4698,33 @@
       "excerpt": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk.",
       "applyUrl": "https://remowork.life/jobs/6adfeae5f360733a9b59c8a0/apply-out?ch=card",
       "source": "Strategic Thinking • Operations"
+    },
+    {
+      "id": "6adfeccbf360733a9b59d3b5",
+      "title": "Senior Director, Global Total Rewards (14-Month Contract)",
+      "company": "1Password",
+      "logo": "https://www.google.com/s2/favicons?domain=1password.com&sz=32",
+      "category": "Compensation & Benefits",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "ARR",
+        "Oracle Database",
+        "Management",
+        "Cybersecurity",
+        "AI",
+        "Strategic Thinking",
+        "Microsoft Teams",
+        "SaaS"
+      ],
+      "location": "United States, Canada",
+      "pay": "From $230k/yr",
+      "date": "Oct 26, 2026",
+      "timestamp": 1792972800,
+      "excerpt": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing.",
+      "applyUrl": "https://remowork.life/jobs/6adfeccbf360733a9b59d3b5/apply-out?ch=card",
+      "source": "ARR • Oracle Database"
     },
     {
       "id": "6adfefdef360733a9b59eb45",
