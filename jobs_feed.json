@@ -1,7 +1,154 @@
 {
-  "lastUpdated": "2026-10-29 18:42 UTC",
-  "totalJobs": 377,
+  "lastUpdated": "2026-10-29 21:34 UTC",
+  "totalJobs": 376,
   "jobs": [
+    {
+      "id": "gh-5252714007",
+      "title": "Software Engineer, Evaluation Infrastructure",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Palo Alto, CA",
+      "pay": "Lihat Detail",
+      "date": "Oct 29, 2026",
+      "timestamp": 1793309032,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5252714007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-6238086004",
+      "title": "Services Support Specialist",
+      "company": "HumanSignal",
+      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "HumanSignal"
+      ],
+      "location": "Remote",
+      "pay": "Lihat Detail",
+      "date": "Oct 29, 2026",
+      "timestamp": 1793308367,
+      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6238086004",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "ashby-e49063ea-b829-4718-be74-02f36fa3d983",
+      "title": "Senior Sales Operations Specialist",
+      "company": "Cohere",
+      "logo": "https://www.google.com/s2/favicons?domain=cohere.com&sz=128",
+      "category": "Revenue",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Revenue",
+        "Direct API"
+      ],
+      "location": "Washington, DC",
+      "pay": "Lihat Detail",
+      "date": "Oct 29, 2026",
+      "timestamp": 1793306939,
+      "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/e49063ea-b829-4718-be74-02f36fa3d983",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5255858007",
+      "title": "Rack Design Engineer, Data Center - Memphis",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Southaven, MS; Memphis, TN",
+      "pay": "Lihat Detail",
+      "date": "Oct 29, 2026",
+      "timestamp": 1793303444,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5255858007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5206598007",
+      "title": "Manager, Data Center Operations - Memphis",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Southaven, MS; Memphis, TN",
+      "pay": "Lihat Detail",
+      "date": "Oct 29, 2026",
+      "timestamp": 1793303241,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5206598007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-4803862007",
+      "title": "Software Engineer, Data Platform",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Palo Alto, CA",
+      "pay": "Lihat Detail",
+      "date": "Oct 29, 2026",
+      "timestamp": 1793303014,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/4803862007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5186992007",
+      "title": "Software Engineer, RL Training Framework",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Palo Alto, CA",
+      "pay": "Lihat Detail",
+      "date": "Oct 29, 2026",
+      "timestamp": 1793302816,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5186992007",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "gh-4533894007",
       "title": "Software Engineer, Training/Inference (C++)",
@@ -42,27 +189,6 @@
       "timestamp": 1793296788,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
       "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5270902007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5259659007",
-      "title": "Data Center Manager",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Southaven, MS; Memphis, TN",
-      "pay": "Lihat Detail",
-      "date": "Oct 29, 2026",
-      "timestamp": 1793287239,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5259659007",
       "source": "⚡ Direct API"
     },
     {
@@ -696,27 +822,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5206598007",
-      "title": "Manager, Data Center Operations - Memphis",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Southaven, MS; Memphis, TN",
-      "pay": "Lihat Detail",
-      "date": "Oct 29, 2026",
-      "timestamp": 1793256518,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5206598007",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "gh-5167318007",
       "title": "Sr. IT Data Engineer",
       "company": "xAI",
@@ -932,7 +1037,7 @@
       "date": "Oct 29, 2026",
       "timestamp": 1793232000,
       "excerpt": "Welo Life Sciences, a Welo Global brand, is a specialized language and technology partner serving pharmaceutical, CRO, and medical device organizations operating in regulated global markets.",
-      "applyUrl": "https://remowork.life/jobs/6ae336f6f6ef1130a53f421e/apply-out?ch=card",
+      "applyUrl": "https://jobs.lever.co/weloglobal/b1aed103-f8bb-4308-a62d-b2beb7a0df4b",
       "source": "English • French"
     },
     {
@@ -1947,7 +2052,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-6235771004",
+      "id": "gh-6225037004",
       "title": "Freelance Graphic Designer - AI Training",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -1964,7 +2069,7 @@
       "date": "Oct 28, 2026",
       "timestamp": 1793199646,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6235771004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6225037004",
       "source": "⚡ Direct API"
     },
     {
@@ -3405,6 +3510,32 @@
       "source": "Writing • Reporting"
     },
     {
+      "id": "6adaa7a1f54c649c71fe0b0a",
+      "title": "Senior Marine Cargo and Draft Surveyor",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "AI Expert - Logistics",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Flexible",
+        "AI",
+        "Analysis",
+        "Documentation",
+        "Reporting",
+        "Onboarding",
+        "Professional Experience"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$20 – $60/hr",
+      "date": "Oct 28, 2026",
+      "timestamp": 1793145600,
+      "excerpt": "Job Type: Contractor (~10 hours per week) Schedule: Flexible—you can choose the hours and days you work, including weekends if desired as long as you're active micro1 is engaging Senior Marine Cargo and Draft Surveyors to contribute expertise in support of a customer’s technical…",
+      "applyUrl": "https://remowork.life/jobs/6adaa7a1f54c649c71fe0b0a/apply-out?ch=card",
+      "source": "Flexible • AI"
+    },
+    {
       "id": "6ae2427b8fd6389e41df7ba9",
       "title": "Operations & Customer Support Virtual Assistant",
       "company": "20four7VA",
@@ -3781,6 +3912,33 @@
       "excerpt": "ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model.",
       "applyUrl": "https://remowork.life/jobs/6ae238f58fd6389e41df2389/apply-out?ch=card",
       "source": "AI • Research"
+    },
+    {
+      "id": "6ae23cd38fd6389e41df48cc",
+      "title": "AI Photo Rater",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "Image & Video Annotation",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "AI",
+        "Photography",
+        "Editing",
+        "Lighting",
+        "Rendering",
+        "Confidentiality",
+        "English",
+        "Adobe Photoshop"
+      ],
+      "location": "United States",
+      "pay": "Lihat Detail",
+      "date": "Oct 28, 2026",
+      "timestamp": 1793145600,
+      "excerpt": "Role Title: AI Photo Rater Role Type: Contractor Location: United States (Remote) micro1 is engaging AI Photo Raters to support a customer's innovative image evaluation project. In this role, you'll apply your expertise to help train next-generation AI systems.",
+      "applyUrl": "https://remowork.life/jobs/6ae23cd38fd6389e41df48cc/apply-out?ch=card",
+      "source": "AI • Photography"
     },
     {
       "id": "6ae241168fd6389e41df7515",
@@ -4827,102 +4985,6 @@
       "source": "Finance • Modeling"
     },
     {
-      "id": "6ae1435f1acde6b90214c015",
-      "title": "Platform Business Partner",
-      "company": "SafetyWing",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1793141476/remowork/companies/safetywing-logo.webp",
-      "category": "Partnerships Manager",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Insurance",
-        "Consistency",
-        "Onboarding",
-        "Leadership",
-        "Microsoft Teams",
-        "Negotiation",
-        "Sales",
-        "Training"
-      ],
-      "location": "Remote (Global) (UTC+0 to UTC+6 time zones only)",
-      "pay": "Lihat Detail",
-      "date": "Oct 28, 2026",
-      "timestamp": 1793145600,
-      "excerpt": "At SafetyWing (YC W18), we’re building a global social safety net for remote workers—simple health, insurance, and retirement products designed to replace national welfare systems.",
-      "applyUrl": "https://remowork.life/jobs/6ae1435f1acde6b90214c015/apply-out?ch=card",
-      "source": "Insurance • Consistency"
-    },
-    {
-      "id": "6ae1435f1acde6b90214c014",
-      "title": "AI Support Operations Specialist",
-      "company": "SafetyWing",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1793141476/remowork/companies/safetywing-logo.webp",
-      "category": "Customer Support Specialist",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "AI",
-        "Operations",
-        "Insurance",
-        "Messaging",
-        "Intercom",
-        "Make",
-        "ROOT",
-        "Procedures"
-      ],
-      "location": "Remote (Global)",
-      "pay": "Lihat Detail",
-      "date": "Oct 28, 2026",
-      "timestamp": 1793145600,
-      "excerpt": "At SafetyWing (YC W18), we’re building a global social safety net for remote workers—simple health, insurance, and retirement products designed to replace national welfare systems.",
-      "applyUrl": "https://remowork.life/jobs/6ae1435f1acde6b90214c014/apply-out?ch=card",
-      "source": "AI • Operations"
-    },
-    {
-      "id": "gh-4803862007",
-      "title": "Software Engineer, Data Platform",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Palo Alto, CA",
-      "pay": "Lihat Detail",
-      "date": "Oct 27, 2026",
-      "timestamp": 1793143677,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/4803862007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5186992007",
-      "title": "Software Engineer, RL Training Framework",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Palo Alto, CA",
-      "pay": "Lihat Detail",
-      "date": "Oct 27, 2026",
-      "timestamp": 1793134366,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5186992007",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "gh-5220531007",
       "title": "Food Services Specialist  (All Shifts) - Memphis",
       "company": "xAI",
@@ -5115,27 +5177,6 @@
       "timestamp": 1793012684,
       "excerpt": "ABOUT ELEVENLABS  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users an...",
       "applyUrl": "https://jobs.ashbyhq.com/elevenlabs/8e1735ec-c5e2-4292-adbd-764a58e7ce17",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5255811007",
-      "title": "Optical Engineer, Data Center Engineering",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Southaven, MS; Memphis, TN",
-      "pay": "Lihat Detail",
-      "date": "Oct 23, 2026",
-      "timestamp": 1792790384,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5255811007",
       "source": "⚡ Direct API"
     },
     {
@@ -6168,27 +6209,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5252714007",
-      "title": "Evaluation Infrastructure",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Palo Alto, CA",
-      "pay": "Lihat Detail",
-      "date": "Oct 22, 2026",
-      "timestamp": 1792681816,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5252714007",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "gh-5182374007",
       "title": "Facilities Infrastructure Engineer, Data Center Infrastructure - Memphis",
       "company": "xAI",
@@ -6546,27 +6566,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5255858007",
-      "title": "Rack Design Engineer (Data Center)",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Southaven, MS; Memphis, TN",
-      "pay": "Lihat Detail",
-      "date": "Oct 22, 2026",
-      "timestamp": 1792681816,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5255858007",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "gh-5215034007",
       "title": "Receiving Specialist, Supercomputer  Operations - Memphis ",
       "company": "xAI",
@@ -6885,27 +6884,6 @@
       "timestamp": 1792451621,
       "excerpt": "ABOUT ELEVENLABS  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users an...",
       "applyUrl": "https://jobs.ashbyhq.com/elevenlabs/120da2b3-d88b-4e3c-9b89-d19ff73db9d9",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "ashby-e49063ea-b829-4718-be74-02f36fa3d983",
-      "title": "Senior Sales Operations Specialist",
-      "company": "Cohere",
-      "logo": "https://www.google.com/s2/favicons?domain=cohere.com&sz=128",
-      "category": "Revenue",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Revenue",
-        "Direct API"
-      ],
-      "location": "New York",
-      "pay": "Lihat Detail",
-      "date": "Oct 19, 2026",
-      "timestamp": 1792419817,
-      "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
-      "applyUrl": "https://jobs.ashbyhq.com/cohere/e49063ea-b829-4718-be74-02f36fa3d983",
       "source": "⚡ Direct API"
     },
     {
@@ -8067,7 +8045,7 @@
       "source": "Indonesian • AI"
     },
     {
-      "id": "gh-6006505004",
+      "id": "gh-6006504004",
       "title": "AI Trainer - Automotive Expertise Required",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8084,7 +8062,7 @@
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006505004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006504004",
       "source": "⚡ Direct API"
     },
     {
@@ -8130,7 +8108,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5823643004",
+      "id": "gh-5823644004",
       "title": "Data Collection Contributor",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8142,12 +8120,12 @@
         "Direct API",
         "HumanSignal"
       ],
-      "location": "Canada (+21 lokasi lain)",
+      "location": "Chile (+21 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823643004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823644004",
       "source": "⚡ Direct API"
     },
     {
