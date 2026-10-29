@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-28 21:31 UTC",
-  "totalJobs": 421,
+  "lastUpdated": "2026-10-29 00:41 UTC",
+  "totalJobs": 420,
   "jobs": [
     {
       "id": "gh-4687052005",
@@ -387,6 +387,33 @@
       "source": "AI • Pest"
     },
     {
+      "id": "6ab1cbb45d989acfea3fb7be",
+      "title": "Military Operations & Reporting SME",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "AI Expert - Government & Public Administration",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Operations",
+        "Reporting",
+        "AI",
+        "Accuracy",
+        "Alignment",
+        "Procedures",
+        "Microsoft Teams",
+        "Leadership"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$40 – $80/hr",
+      "date": "Oct 28, 2026",
+      "timestamp": 1793145600,
+      "excerpt": "micro1 is engaging Military Operations & Reporting SMEs to collaborate on a customer's project, leveraging deep subject matter expertise in military operations, staff processes, and recurring reporting.",
+      "applyUrl": "https://jobs.micro1.ai/post/bec1163a-9cf7-4bd0-83f0-b94db5b67d57?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "Operations • Reporting"
+    },
+    {
       "id": "6ae2427b8fd6389e41df7ba9",
       "title": "Operations & Customer Support Virtual Assistant",
       "company": "20four7VA",
@@ -572,7 +599,7 @@
       "date": "Oct 28, 2026",
       "timestamp": 1793145600,
       "excerpt": "Join a high-scale consumer platform team as a Senior Backend Engineer, building the services behind digital experiences used by millions of people every day. 1.",
-      "applyUrl": "https://work.mercor.com/jobs/list_AAABoYOO8zQtYcKO699P24Q1/senior-software-engineer-backend-node-js-typescript-rust?referralCode=c16ad3f0-df48-8fb1-34e7-1730849ebf3a",
+      "applyUrl": "https://remowork.life/jobs/6ae23fe78fd6389e41df63dc/apply-out?ch=card",
       "source": "Node.js • TypeScript"
     },
     {
@@ -604,7 +631,7 @@
     },
     {
       "id": "6ae23d908fd6389e41df523c",
-      "title": "Senior Technical Support Engineer - Overnight Shift",
+      "title": "Senior Technical Support Engineer - Overnight Shift (PST)",
       "company": "Rad AI",
       "logo": "https://www.google.com/s2/favicons?domain=radai.com&sz=32",
       "category": "Technical Support Engineer",
@@ -1031,7 +1058,7 @@
       "date": "Oct 28, 2026",
       "timestamp": 1793145600,
       "excerpt": "Datavant is the data collaboration platform trusted for healthcare. Guided by our mission to make the world’s health data secure, accessible and actionable, we provide critical data solutions for organizations across the healthcare ecosystem - including providers, health plans,…",
-      "applyUrl": "https://www.datavant.com/about/careers/open-roles/job?gh_jid=5463608008",
+      "applyUrl": "https://remowork.life/jobs/6ae23d238fd6389e41df4e72/apply-out?ch=card",
       "source": "Collaboration • Healthcare"
     },
     {
@@ -1566,33 +1593,6 @@
       "source": "Engineering • AWS"
     },
     {
-      "id": "6ae196451acde6b9021516ac",
-      "title": "Senior Application Security Engineer",
-      "company": "Figure",
-      "logo": "https://www.google.com/s2/favicons?domain=figure.com&sz=32",
-      "category": "Application Security",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Dart",
-        "Finance",
-        "Fintech",
-        "Management",
-        "Engineering",
-        "Writing",
-        "DevOps",
-        "Triage"
-      ],
-      "location": "United States",
-      "pay": "$112,320 – $168,480/yr",
-      "date": "Oct 28, 2026",
-      "timestamp": 1793145600,
-      "excerpt": "Figure Technology Solutions, Inc. (Nasdaq: FIGR; OPEN: FGRS) is the leading blockchain-native capital marketplace for the origination, funding, sale, and trading of tokenized assets. More than 480 partners use its loan origination system and capital marketplace.",
-      "applyUrl": "https://remowork.life/jobs/6ae196451acde6b9021516ac/apply-out?ch=card",
-      "source": "Dart • Finance"
-    },
-    {
       "id": "6ae18f741acde6b90214d6b2",
       "title": "Talent Sourcer, Tech",
       "company": "Cohere",
@@ -1909,7 +1909,7 @@
         "Metadata"
       ],
       "location": "United States",
-      "pay": "$100,000 – $130,000/yr",
+      "pay": "$115,000 – $145,000/yr",
       "date": "Oct 28, 2026",
       "timestamp": 1793145600,
       "excerpt": "Aretum is a mission-driven organization committed to delivering innovative, technology-enabled solutions to our customers across defense, civilian, and homeland security sectors.",
@@ -4340,31 +4340,31 @@
       "source": "Assurance • Communication"
     },
     {
-      "id": "6ae0ece15e82153fd24fd1ce",
-      "title": "Program Analyst III, Technical Project Coordinator Manager",
+      "id": "6ae0ece15e82153fd24fd1cd",
+      "title": "Senior Research Scientist - Network Systems",
       "company": "Peraton",
       "logo": "https://www.google.com/s2/favicons?domain=peraton.com&sz=32",
-      "category": "Project Coordinator",
+      "category": "Network Engineer",
       "eligible": true,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
-        "Management",
-        "Make",
-        "Transportation",
-        "Engineering",
-        "Microsoft Teams",
-        "Training",
-        "Alignment",
-        "Reporting"
+        "Research",
+        "Utilities",
+        "Cybersecurity",
+        "Infrastructure",
+        "AI",
+        "Machine Learning",
+        "Optimization",
+        "Network Fundamentals"
       ],
       "location": "United States",
-      "pay": "$104,000 – $166,000/yr",
+      "pay": "$146,000 – $234,000/yr",
       "date": "Oct 27, 2026",
       "timestamp": 1793059200,
       "excerpt": "Peraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy.",
-      "applyUrl": "https://remowork.life/jobs/6ae0ece15e82153fd24fd1ce/apply-out?ch=card",
-      "source": "Management • Make"
+      "applyUrl": "https://remowork.life/jobs/6ae0ece15e82153fd24fd1cd/apply-out?ch=card",
+      "source": "Research • Utilities"
     },
     {
       "id": "gh-4925823007",
@@ -5990,7 +5990,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5085890007",
+      "id": "gh-5266499007",
       "title": "Data Center Operations Technician",
       "company": "xAI",
       "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
@@ -6002,12 +6002,12 @@
         "Direct API",
         "xAI"
       ],
-      "location": "Hillsboro, OR (+1 lokasi lain)",
+      "location": " Southaven, MS; Memphis, TN (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Oct 22, 2026",
       "timestamp": 1792681816,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5085890007",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5266499007",
       "source": "⚡ Direct API"
     },
     {
@@ -6959,27 +6959,6 @@
       "timestamp": 1792594032,
       "excerpt": "ABOUT ELEVENLABS  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users an...",
       "applyUrl": "https://jobs.ashbyhq.com/elevenlabs/b8a111fa-9fd5-44d0-97ed-8fd1280be4ef",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "ashby-41b892ba-b530-44cb-9ae1-178908fc324c",
-      "title": "Data Scientist - Product Analytics",
-      "company": "ElevenLabs",
-      "logo": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128",
-      "category": "Engineering & Product",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Engineering & Product",
-        "Direct API"
-      ],
-      "location": "United Kingdom",
-      "pay": "Lihat Detail",
-      "date": "Oct 21, 2026",
-      "timestamp": 1792590517,
-      "excerpt": "ABOUT ELEVENLABS  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users an...",
-      "applyUrl": "https://jobs.ashbyhq.com/elevenlabs/41b892ba-b530-44cb-9ae1-178908fc324c",
       "source": "⚡ Direct API"
     },
     {
