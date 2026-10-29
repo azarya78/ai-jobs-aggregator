@@ -1,7 +1,49 @@
 {
-  "lastUpdated": "2026-10-29 15:46 UTC",
-  "totalJobs": 416,
+  "lastUpdated": "2026-10-29 18:42 UTC",
+  "totalJobs": 377,
   "jobs": [
+    {
+      "id": "gh-4533894007",
+      "title": "Software Engineer, Training/Inference (C++)",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Palo Alto, CA; Seattle, WA",
+      "pay": "Lihat Detail",
+      "date": "Oct 29, 2026",
+      "timestamp": 1793297766,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/4533894007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5270902007",
+      "title": "AI Tutor, Estonian - Temporary",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": "Remote International",
+      "pay": "Lihat Detail",
+      "date": "Oct 29, 2026",
+      "timestamp": 1793296788,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5270902007",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "gh-5259659007",
       "title": "Data Center Manager",
@@ -378,27 +420,6 @@
       "timestamp": 1793274696,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
       "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5270906007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5270902007",
-      "title": "AI Tutor, Estonian - Temporary",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": "Remote International",
-      "pay": "Lihat Detail",
-      "date": "Oct 29, 2026",
-      "timestamp": 1793274676,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5270902007",
       "source": "⚡ Direct API"
     },
     {
@@ -785,7 +806,7 @@
       "company": "Thoth AI",
       "logo": "https://www.google.com/s2/favicons?domain=aithoth.com&sz=32",
       "category": "Linguistic Annotation (AI)",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -812,7 +833,7 @@
       "company": "CVAT",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037203/remowork/companies/cvat-logo.webp",
       "category": "Python Developer",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -839,7 +860,7 @@
       "company": "Microsoft",
       "logo": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=32",
       "category": "Program Manager",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -866,7 +887,7 @@
       "company": "Welo Data",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037347/remowork/companies/welo-data-logo.webp",
       "category": "Translator",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -893,7 +914,7 @@
       "company": "Welo Data",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037347/remowork/companies/welo-data-logo.webp",
       "category": "Translator",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -911,7 +932,7 @@
       "date": "Oct 29, 2026",
       "timestamp": 1793232000,
       "excerpt": "Welo Life Sciences, a Welo Global brand, is a specialized language and technology partner serving pharmaceutical, CRO, and medical device organizations operating in regulated global markets.",
-      "applyUrl": "https://jobs.lever.co/weloglobal/b1aed103-f8bb-4308-a62d-b2beb7a0df4b",
+      "applyUrl": "https://remowork.life/jobs/6ae336f6f6ef1130a53f421e/apply-out?ch=card",
       "source": "English • French"
     },
     {
@@ -920,7 +941,7 @@
       "company": "HighLevel",
       "logo": "https://www.google.com/s2/favicons?domain=gohighlevel.com&sz=32",
       "category": "Sales Enablement",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -947,7 +968,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Earth & Environmental Sciences",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -974,7 +995,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Legal",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1001,7 +1022,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Aerospace Engineering",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1028,7 +1049,7 @@
       "company": "Terac",
       "logo": "https://www.google.com/s2/favicons?domain=terac.com&sz=32",
       "category": "Research Study Participant",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1052,7 +1073,7 @@
       "company": "Outlier",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037196/remowork/companies/outlier-logo.webp",
       "category": "Response Rater",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": true,
       "isDirect": false,
       "skills": [
@@ -1079,7 +1100,7 @@
       "company": "Meta",
       "logo": "https://www.google.com/s2/favicons?domain=about.meta.com&sz=32",
       "category": "Program Manager",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1106,7 +1127,7 @@
       "company": "Meta",
       "logo": "https://www.google.com/s2/favicons?domain=about.meta.com&sz=32",
       "category": "Text & Document Annotation",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1133,7 +1154,7 @@
       "company": "Function Health",
       "logo": "https://www.google.com/s2/favicons?domain=functionhealth.com&sz=32",
       "category": "Customer Support Specialist",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1160,7 +1181,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "JavaScript / TypeScript Developer",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1187,7 +1208,7 @@
       "company": "Honor",
       "logo": "https://www.google.com/s2/favicons?domain=honorcare.com&sz=32",
       "category": "Product Designer",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1214,7 +1235,7 @@
       "company": "Babel Audio",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037306/remowork/companies/babel-audio-logo.webp",
       "category": "Transcription & Audio Training",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1241,7 +1262,7 @@
       "company": "Babel Audio",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037306/remowork/companies/babel-audio-logo.webp",
       "category": "Transcription & Audio Training",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1268,7 +1289,7 @@
       "company": "Datavant",
       "logo": "https://www.google.com/s2/favicons?domain=datavant.com&sz=32",
       "category": "Medical Coder / Biller",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1295,7 +1316,7 @@
       "company": "Aurelius Systems",
       "logo": "https://www.google.com/s2/favicons?domain=aureliussystems.com&sz=32",
       "category": "Program Manager",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1322,7 +1343,7 @@
       "company": "Babel Audio",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037306/remowork/companies/babel-audio-logo.webp",
       "category": "Transcription & Audio Training",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1349,7 +1370,7 @@
       "company": "Babel Audio",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037306/remowork/companies/babel-audio-logo.webp",
       "category": "Transcription & Audio Training",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1376,7 +1397,7 @@
       "company": "Welo Data",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037347/remowork/companies/welo-data-logo.webp",
       "category": "Translator",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1403,7 +1424,7 @@
       "company": "Babel Audio",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037306/remowork/companies/babel-audio-logo.webp",
       "category": "Transcription & Audio Training",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1430,7 +1451,7 @@
       "company": "Webflow",
       "logo": "https://www.google.com/s2/favicons?domain=webflow.com&sz=128",
       "category": "Customer Success Manager (Enterprise)",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1457,7 +1478,7 @@
       "company": "Stripe",
       "logo": "https://www.google.com/s2/favicons?domain=stripe.com&sz=128",
       "category": "Sales Enablement",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1484,7 +1505,7 @@
       "company": "Bask Health",
       "logo": "https://www.google.com/s2/favicons?domain=bask.health&sz=64",
       "category": "Pharmacy Technician (Remote)",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1511,7 +1532,7 @@
       "company": "AfterQuery",
       "logo": "https://www.google.com/s2/favicons?domain=experts.afterquery.com&sz=128",
       "category": "AI Expert - Software Engineering",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1538,7 +1559,7 @@
       "company": "AfterQuery",
       "logo": "https://www.google.com/s2/favicons?domain=experts.afterquery.com&sz=128",
       "category": "AI Expert - Cybersecurity",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1565,7 +1586,7 @@
       "company": "AfterQuery",
       "logo": "https://www.google.com/s2/favicons?domain=experts.afterquery.com&sz=128",
       "category": "AI Expert - Machine Learning & AI Research",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1592,7 +1613,7 @@
       "company": "AfterQuery",
       "logo": "https://www.google.com/s2/favicons?domain=experts.afterquery.com&sz=128",
       "category": "AI Expert - Computer Science",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1619,7 +1640,7 @@
       "company": "AfterQuery",
       "logo": "https://www.google.com/s2/favicons?domain=experts.afterquery.com&sz=128",
       "category": "AI Expert - Computer Science",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1646,7 +1667,7 @@
       "company": "AfterQuery",
       "logo": "https://www.google.com/s2/favicons?domain=experts.afterquery.com&sz=128",
       "category": "AI Expert - Computer Science",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1673,7 +1694,7 @@
       "company": "AfterQuery",
       "logo": "https://www.google.com/s2/favicons?domain=experts.afterquery.com&sz=128",
       "category": "AI Expert - Machine Learning & AI Research",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1700,7 +1721,7 @@
       "company": "AfterQuery",
       "logo": "https://www.google.com/s2/favicons?domain=experts.afterquery.com&sz=128",
       "category": "AI Expert - Biology",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1727,7 +1748,7 @@
       "company": "AfterQuery",
       "logo": "https://www.google.com/s2/favicons?domain=experts.afterquery.com&sz=128",
       "category": "AI Expert - Computer Science",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1754,7 +1775,7 @@
       "company": "AfterQuery",
       "logo": "https://www.google.com/s2/favicons?domain=experts.afterquery.com&sz=128",
       "category": "AI Expert - Cybersecurity",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1781,7 +1802,7 @@
       "company": "AfterQuery",
       "logo": "https://www.google.com/s2/favicons?domain=experts.afterquery.com&sz=128",
       "category": "AI Expert - Computer Science",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1808,7 +1829,7 @@
       "company": "AfterQuery",
       "logo": "https://www.google.com/s2/favicons?domain=experts.afterquery.com&sz=128",
       "category": "AI Expert - Computer Science",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1835,7 +1856,7 @@
       "company": "Elastic",
       "logo": "https://www.google.com/s2/favicons?domain=elastic.co&sz=128",
       "category": "Product Manager",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -1862,7 +1883,7 @@
       "company": "Reddit",
       "logo": "https://www.google.com/s2/favicons?domain=reddit.com&sz=32",
       "category": "Infrastructure Engineer",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2120,7 +2141,7 @@
       "company": "Kraken",
       "logo": "https://www.google.com/s2/favicons?domain=kraken.com&sz=32",
       "category": "Compliance Officer",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2147,7 +2168,7 @@
       "company": "Cresta",
       "logo": "https://www.google.com/s2/favicons?domain=cresta.com&sz=32",
       "category": "Sales Engineer",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2174,7 +2195,7 @@
       "company": "Stripe",
       "logo": "https://www.google.com/s2/favicons?domain=stripe.com&sz=128",
       "category": "Curriculum Designer",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2201,7 +2222,7 @@
       "company": "Blue River Technology",
       "logo": "https://www.google.com/s2/favicons?domain=bluerivertechnology.com&sz=32",
       "category": "Embedded / Firmware Engineer",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2228,7 +2249,7 @@
       "company": "Equip Health",
       "logo": "https://www.google.com/s2/favicons?domain=equip.health&sz=128",
       "category": "Business Development Rep (BDR)",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2255,7 +2276,7 @@
       "company": "Meta",
       "logo": "https://www.google.com/s2/favicons?domain=about.meta.com&sz=32",
       "category": "Text & Document Annotation",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2282,7 +2303,7 @@
       "company": "Meta",
       "logo": "https://www.google.com/s2/favicons?domain=about.meta.com&sz=32",
       "category": "Project Coordinator",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2309,7 +2330,7 @@
       "company": "Innodata",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037331/remowork/companies/innodata-logo.webp",
       "category": "Recruiter (Tech)",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2336,7 +2357,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Government & Public Administration",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2363,7 +2384,7 @@
       "company": "OneStream",
       "logo": "https://www.google.com/s2/favicons?domain=onestream.com&sz=32",
       "category": "DevOps Engineer",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2390,7 +2411,7 @@
       "company": "Fetch",
       "logo": "https://www.google.com/s2/favicons?domain=fetch.com&sz=32",
       "category": "Marketing Analyst",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2417,7 +2438,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Government & Public Administration",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2444,7 +2465,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Government & Public Administration",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2471,7 +2492,7 @@
       "company": "1Password",
       "logo": "https://www.google.com/s2/favicons?domain=1password.com&sz=32",
       "category": "Engineering Manager",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2498,7 +2519,7 @@
       "company": "Figure",
       "logo": "https://www.google.com/s2/favicons?domain=figure.com&sz=32",
       "category": "Business Operations Analyst",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2525,7 +2546,7 @@
       "company": "Databricks",
       "logo": "https://www.google.com/s2/favicons?domain=databricks.com&sz=32",
       "category": "Account Executive (Mid-Market / Enterprise)",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2538,12 +2559,12 @@
         "SaaS",
         "AI"
       ],
-      "location": "United States, Denmark (US: CA)",
+      "location": "United States (US: CA)",
       "pay": "Lihat Detail",
       "date": "Oct 28, 2026",
       "timestamp": 1793145600,
       "excerpt": "SLSQ128R141 Remote-California As an Enterprise Account Executive in Databricks', you are an enterprise sales professional experienced in selling to Enterprise accounts.",
-      "applyUrl": "https://remowork.life/jobs/6ae28dcbf6ef1130a53d9cc6/named-core-account-executive",
+      "applyUrl": "https://remowork.life/jobs/6ae28dcbf6ef1130a53d9cc6/apply-out?ch=card",
       "source": "Sales • Communication"
     },
     {
@@ -2552,7 +2573,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Legal",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2579,7 +2600,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Legal",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2606,7 +2627,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Legal",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2633,7 +2654,7 @@
       "company": "Equip Health",
       "logo": "https://www.google.com/s2/favicons?domain=equip.health&sz=128",
       "category": "Marketing Automation Specialist",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2660,7 +2681,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Creative & Visual Arts",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2687,7 +2708,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Aerospace Engineering",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2714,7 +2735,7 @@
       "company": "Blueprint Technologies",
       "logo": "https://www.google.com/s2/favicons?domain=bpcs.com&sz=128",
       "category": "DevOps Engineer",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2741,7 +2762,7 @@
       "company": "20four7VA",
       "logo": "https://www.google.com/s2/favicons?domain=20four7va.com&sz=64",
       "category": "Customer Service VA",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2768,7 +2789,7 @@
       "company": "Beyond Finance",
       "logo": "https://play-lh.googleusercontent.com/H6LAyQkEusm_b1-00NzQIHJz_aoi20t_BqVZBbWR317Rx-mv2JDOq7b5LfzbWw3JsiB1B5xMnuq2ruzo7fszRg",
       "category": "Customer Support Specialist",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2795,7 +2816,7 @@
       "company": "Beyond Finance",
       "logo": "https://play-lh.googleusercontent.com/H6LAyQkEusm_b1-00NzQIHJz_aoi20t_BqVZBbWR317Rx-mv2JDOq7b5LfzbWw3JsiB1B5xMnuq2ruzo7fszRg",
       "category": "Customer Support Specialist",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2822,7 +2843,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Industrial / Manufacturing Engineering",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2849,7 +2870,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Government & Public Administration",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2876,7 +2897,7 @@
       "company": "Mercor",
       "logo": "https://www.google.com/s2/favicons?domain=mercor.com&sz=128",
       "category": "AI Expert - Management Consulting",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2903,7 +2924,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Skilled Trades",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2930,7 +2951,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "Red Team / Safety Evaluator",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2957,7 +2978,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Government & Public Administration",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -2984,7 +3005,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Industrial / Manufacturing Engineering",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3011,7 +3032,7 @@
       "company": "Turing",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037261/remowork/companies/turing-logo.webp",
       "category": "AI Expert - Finance",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3038,7 +3059,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Logistics",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3065,7 +3086,7 @@
       "company": "Turing",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037261/remowork/companies/turing-logo.webp",
       "category": "AI Expert - Finance",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3092,7 +3113,7 @@
       "company": "Turing",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037261/remowork/companies/turing-logo.webp",
       "category": "AI Expert - Finance",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3119,7 +3140,7 @@
       "company": "Turing",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037261/remowork/companies/turing-logo.webp",
       "category": "AI Expert - Finance",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3146,7 +3167,7 @@
       "company": "Turing",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037261/remowork/companies/turing-logo.webp",
       "category": "AI Expert - Finance",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3173,7 +3194,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Actuarial & Insurance",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3200,7 +3221,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Actuarial & Insurance",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3227,7 +3248,7 @@
       "company": "Sunday",
       "logo": "https://www.google.com/s2/favicons?domain=getsunday.com&sz=32",
       "category": "PPC / Google Ads Specialist",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3254,7 +3275,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Actuarial & Insurance",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3281,7 +3302,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Government & Public Administration",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3308,7 +3329,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Government & Public Administration",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3335,7 +3356,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Government & Public Administration",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3362,7 +3383,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Government & Public Administration",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3389,7 +3410,7 @@
       "company": "20four7VA",
       "logo": "https://www.google.com/s2/favicons?domain=20four7va.com&sz=64",
       "category": "Customer Service VA",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3416,7 +3437,7 @@
       "company": "Chainguard",
       "logo": "https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32",
       "category": "Customer Success Manager (Enterprise)",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3443,7 +3464,7 @@
       "company": "Thyme Care",
       "logo": "https://www.google.com/s2/favicons?domain=thymecare.com&sz=32",
       "category": "Regulatory Affairs",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3470,7 +3491,7 @@
       "company": "CentralReach",
       "logo": "https://www.google.com/s2/favicons?domain=centralreach.com&sz=32",
       "category": "Customer Success Manager (Enterprise)",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3497,7 +3518,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Actuarial & Insurance",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3524,7 +3545,7 @@
       "company": "20four7VA",
       "logo": "https://www.google.com/s2/favicons?domain=20four7va.com&sz=64",
       "category": "Social Media VA",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3551,7 +3572,7 @@
       "company": "Datavant",
       "logo": "https://www.google.com/s2/favicons?domain=datavant.com&sz=32",
       "category": "Medical Coder / Biller",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3578,7 +3599,7 @@
       "company": "Mercor",
       "logo": "https://www.google.com/s2/favicons?domain=mercor.com&sz=128",
       "category": "Backend Engineer",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3605,7 +3626,7 @@
       "company": "Vanta",
       "logo": "https://www.google.com/s2/favicons?domain=vanta.com&sz=64",
       "category": "Product Designer",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3632,7 +3653,7 @@
       "company": "Rad AI",
       "logo": "https://www.google.com/s2/favicons?domain=radai.com&sz=32",
       "category": "Technical Support Engineer",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3659,7 +3680,7 @@
       "company": "HighLevel",
       "logo": "https://www.google.com/s2/favicons?domain=gohighlevel.com&sz=32",
       "category": "Program Manager",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3686,7 +3707,7 @@
       "company": "Terac",
       "logo": "https://www.google.com/s2/favicons?domain=terac.com&sz=32",
       "category": "Research Study Participant",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3713,7 +3734,7 @@
       "company": "Stripe",
       "logo": "https://www.google.com/s2/favicons?domain=stripe.com&sz=128",
       "category": "Product Marketing Manager",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3740,7 +3761,7 @@
       "company": "ElevenLabs",
       "logo": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=32",
       "category": "Partnerships Manager",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3767,7 +3788,7 @@
       "company": "PostHog",
       "logo": "https://www.google.com/s2/favicons?domain=posthog.com&sz=32",
       "category": "Technical Support Engineer",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3794,7 +3815,7 @@
       "company": "Circle",
       "logo": "https://www.google.com/s2/favicons?domain=circle.so&sz=64",
       "category": "AI Engineer",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3821,7 +3842,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Legal",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3848,7 +3869,7 @@
       "company": "20four7VA",
       "logo": "https://www.google.com/s2/favicons?domain=20four7va.com&sz=64",
       "category": "E-commerce VA (Shopify / Amazon)",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3875,7 +3896,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Marketing",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3902,7 +3923,7 @@
       "company": "Datavant",
       "logo": "https://www.google.com/s2/favicons?domain=datavant.com&sz=32",
       "category": "Medical Coder / Biller",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3929,7 +3950,7 @@
       "company": "Stripe",
       "logo": "https://www.google.com/s2/favicons?domain=stripe.com&sz=128",
       "category": "Marketing Operations",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3956,7 +3977,7 @@
       "company": "Function Health",
       "logo": "https://www.google.com/s2/favicons?domain=functionhealth.com&sz=32",
       "category": "Operations Manager",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -3983,7 +4004,7 @@
       "company": "20four7VA",
       "logo": "https://www.google.com/s2/favicons?domain=20four7va.com&sz=64",
       "category": "Transaction Coordinator (Real Estate)",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4010,7 +4031,7 @@
       "company": "Datavant",
       "logo": "https://www.google.com/s2/favicons?domain=datavant.com&sz=32",
       "category": "Medical Coder / Biller",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4037,7 +4058,7 @@
       "company": "Turing",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037261/remowork/companies/turing-logo.webp",
       "category": "AI Expert - Clinical & Medical",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4064,7 +4085,7 @@
       "company": "Argos Multilingual",
       "logo": "https://www.google.com/s2/favicons?domain=argosmultilingual.com&sz=32",
       "category": "Proofreader (Localisation)",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4091,7 +4112,7 @@
       "company": "TransPerfect",
       "logo": "https://www.google.com/s2/favicons?domain=transperfect.com&sz=128",
       "category": "Interpreter",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4114,7 +4135,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "Transcription & Audio Training",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4141,7 +4162,7 @@
       "company": "OneForma",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037270/remowork/companies/oneforma-logo.webp",
       "category": "Bilingual LLM & Translation",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4168,7 +4189,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "Linguistics (SME)",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4195,7 +4216,7 @@
       "company": "Bjak",
       "logo": "https://www.google.com/s2/favicons?domain=bjak.my&sz=32",
       "category": "Technical Product Manager",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": true,
       "isDirect": false,
       "skills": [
@@ -4222,7 +4243,7 @@
       "company": "Bjak",
       "logo": "https://www.google.com/s2/favicons?domain=bjak.my&sz=32",
       "category": "Technical Product Manager",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": true,
       "isDirect": false,
       "skills": [
@@ -4249,7 +4270,7 @@
       "company": "Mercor",
       "logo": "https://www.google.com/s2/favicons?domain=mercor.com&sz=128",
       "category": "Linguistics (SME)",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4276,7 +4297,7 @@
       "company": "TELUS International",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037225/remowork/companies/telus-international-logo.webp",
       "category": "Linguistics (SME)",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4303,7 +4324,7 @@
       "company": "Huscarl",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1793202664/remowork/companies/huscarl-logo.webp",
       "category": "Actuarial",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4325,7 +4346,7 @@
       "company": "Peraton",
       "logo": "https://www.google.com/s2/favicons?domain=peraton.com&sz=32",
       "category": "Compliance Officer",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4352,7 +4373,7 @@
       "company": "Granicus",
       "logo": "https://www.google.com/s2/favicons?domain=granicus.com&sz=32",
       "category": "Compensation & Benefits",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4379,7 +4400,7 @@
       "company": "Peraton",
       "logo": "https://www.google.com/s2/favicons?domain=peraton.com&sz=32",
       "category": "Full-Stack Developer",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4406,7 +4427,7 @@
       "company": "Peraton",
       "logo": "https://www.google.com/s2/favicons?domain=peraton.com&sz=32",
       "category": "Frontend Engineer",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4433,7 +4454,7 @@
       "company": "Peraton",
       "logo": "https://www.google.com/s2/favicons?domain=peraton.com&sz=32",
       "category": "Program Manager",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4460,7 +4481,7 @@
       "company": "Peraton",
       "logo": "https://www.google.com/s2/favicons?domain=peraton.com&sz=32",
       "category": "Cloud Engineer",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4487,7 +4508,7 @@
       "company": "Cotiviti",
       "logo": "https://www.google.com/s2/favicons?domain=cotiviti.com&sz=32",
       "category": "Medical Coder / Biller",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4514,7 +4535,7 @@
       "company": "Cotiviti",
       "logo": "https://www.google.com/s2/favicons?domain=cotiviti.com&sz=32",
       "category": "Medical Coder / Biller",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4537,16 +4558,16 @@
     },
     {
       "id": "6ae23df68fd6389e41df52e8",
-      "title": "Senior People Operations Compliance Analyst",
+      "title": "Senior HR Compliance Analyst",
       "company": "Cotiviti",
       "logo": "https://www.google.com/s2/favicons?domain=cotiviti.com&sz=32",
       "category": "Compliance Officer",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
-        "Operations",
         "Compliance",
+        "Operations",
         "Organization",
         "Cross-Functional Collaboration",
         "Audit",
@@ -4560,7 +4581,7 @@
       "timestamp": 1793145600,
       "excerpt": "The Senior People Operations Compliance Analyst supports the organization’s People Operations Compliance priorities by analyzing regulatory and client-driven requirements and coordinating assigned compliance initiatives.",
       "applyUrl": "https://remowork.life/jobs/6ae23df68fd6389e41df52e8/apply-out?ch=card",
-      "source": "Operations • Compliance"
+      "source": "Compliance • Operations"
     },
     {
       "id": "6ae23df68fd6389e41df52e6",
@@ -4568,7 +4589,7 @@
       "company": "Cotiviti",
       "logo": "https://www.google.com/s2/favicons?domain=cotiviti.com&sz=32",
       "category": "Contract Attorney",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4595,7 +4616,7 @@
       "company": "Peraton",
       "logo": "https://www.google.com/s2/favicons?domain=peraton.com&sz=32",
       "category": "Data Engineer",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4622,7 +4643,7 @@
       "company": "Cohere",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037245/remowork/companies/cohere-logo.webp",
       "category": "Talent Sourcer",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4649,7 +4670,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Management Consulting",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4676,7 +4697,7 @@
       "company": "Mercor",
       "logo": "https://www.google.com/s2/favicons?domain=mercor.com&sz=128",
       "category": "AI Expert - Clinical & Medical",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4703,7 +4724,7 @@
       "company": "Mercor",
       "logo": "https://www.google.com/s2/favicons?domain=mercor.com&sz=128",
       "category": "AI Expert - Clinical & Medical",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4730,7 +4751,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Finance",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4757,7 +4778,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Finance",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4784,7 +4805,7 @@
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Finance",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4806,39 +4827,12 @@
       "source": "Finance • Modeling"
     },
     {
-      "id": "6ae196cf1acde6b90215248b",
-      "title": "Everyday Shoppers: Interview on Conversational AI Tools",
-      "company": "Terac",
-      "logo": "https://www.google.com/s2/favicons?domain=terac.com&sz=32",
-      "category": "Research Study Participant",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "AI",
-        "Research",
-        "React",
-        "Communication",
-        "History",
-        "Conversational AI",
-        "AI Tools",
-        "Artificial Intelligence"
-      ],
-      "location": "Remote (Global)",
-      "pay": "$20 one-time",
-      "date": "Oct 28, 2026",
-      "timestamp": 1793145600,
-      "excerpt": "We're running a paid study on the intersection of artificial intelligence and everyday consumer habits. We want to understand how shoppers leverage conversational AI platforms to discover products, compare options, and finalize purchase decisions.",
-      "applyUrl": "https://remowork.life/jobs/6ae196cf1acde6b90215248b/apply-out?ch=card",
-      "source": "AI • Research"
-    },
-    {
       "id": "6ae1435f1acde6b90214c015",
       "title": "Platform Business Partner",
       "company": "SafetyWing",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1793141476/remowork/companies/safetywing-logo.webp",
       "category": "Partnerships Manager",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
@@ -4858,6 +4852,33 @@
       "excerpt": "At SafetyWing (YC W18), we’re building a global social safety net for remote workers—simple health, insurance, and retirement products designed to replace national welfare systems.",
       "applyUrl": "https://remowork.life/jobs/6ae1435f1acde6b90214c015/apply-out?ch=card",
       "source": "Insurance • Consistency"
+    },
+    {
+      "id": "6ae1435f1acde6b90214c014",
+      "title": "AI Support Operations Specialist",
+      "company": "SafetyWing",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1793141476/remowork/companies/safetywing-logo.webp",
+      "category": "Customer Support Specialist",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "AI",
+        "Operations",
+        "Insurance",
+        "Messaging",
+        "Intercom",
+        "Make",
+        "ROOT",
+        "Procedures"
+      ],
+      "location": "Remote (Global)",
+      "pay": "Lihat Detail",
+      "date": "Oct 28, 2026",
+      "timestamp": 1793145600,
+      "excerpt": "At SafetyWing (YC W18), we’re building a global social safety net for remote workers—simple health, insurance, and retirement products designed to replace national welfare systems.",
+      "applyUrl": "https://remowork.life/jobs/6ae1435f1acde6b90214c014/apply-out?ch=card",
+      "source": "AI • Operations"
     },
     {
       "id": "gh-4803862007",
@@ -4986,27 +5007,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4533894007",
-      "title": "Software Engineer, Training/Inference (C++)",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Palo Alto, CA; Seattle, WA",
-      "pay": "Lihat Detail",
-      "date": "Oct 27, 2026",
-      "timestamp": 1793086011,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/4533894007",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "gh-4925878007",
       "title": "AI Tutor - Applied Math",
       "company": "xAI",
@@ -5033,7 +5033,7 @@
       "company": "Argos Multilingual",
       "logo": "https://www.google.com/s2/favicons?domain=argosmultilingual.com&sz=32",
       "category": "Proofreader (Localisation)",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": true,
       "isDirect": false,
       "skills": [
@@ -5157,27 +5157,6 @@
       "timestamp": 1792786564,
       "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
       "applyUrl": "https://jobs.ashbyhq.com/cohere/ada41b39-21a9-467c-a22c-9e907524af40",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-6218730004",
-      "title": "Improv & Voice Actors, Paid AI Research Study (NJ)",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Hoboken, NJ",
-      "pay": "Lihat Detail",
-      "date": "Oct 22, 2026",
-      "timestamp": 1792713218,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6218730004",
       "source": "⚡ Direct API"
     },
     {
@@ -6168,28 +6147,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-6232185004",
-      "title": "Audio Editor – Multitrack Dialogue (Remote, Freelance)",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "International",
-      "pay": "Lihat Detail",
-      "date": "Oct 22, 2026",
-      "timestamp": 1792689793,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6232185004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5266499007",
+      "id": "gh-5085890007",
       "title": "Data Center Operations Technician",
       "company": "xAI",
       "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
@@ -6201,12 +6159,12 @@
         "Direct API",
         "xAI"
       ],
-      "location": " Southaven, MS; Memphis, TN (+1 lokasi lain)",
+      "location": "Hillsboro, OR (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Oct 22, 2026",
       "timestamp": 1792681816,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5266499007",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5085890007",
       "source": "⚡ Direct API"
     },
     {
@@ -6824,7 +6782,7 @@
       "company": "Meridial AI",
       "logo": "https://www.google.com/s2/favicons?domain=meridial.ai&sz=128",
       "category": "Linguistics (SME)",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": true,
       "isDirect": false,
       "skills": [
@@ -7077,27 +7035,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-6222641004",
-      "title": "Tech Ops Specialist (New York, NY)",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "New York, NY",
-      "pay": "Lihat Detail",
-      "date": "Oct 12, 2026",
-      "timestamp": 1791830875,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6222641004",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "gh-6222434004",
       "title": "QA Specialist",
       "company": "HumanSignal",
@@ -7116,27 +7053,6 @@
       "timestamp": 1791816460,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
       "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6222434004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-6222258004",
-      "title": "Tech Ops Specialist (Hoboken, NJ)",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Hoboken, NJ",
-      "pay": "Lihat Detail",
-      "date": "Oct 12, 2026",
-      "timestamp": 1791811063,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6222258004",
       "source": "⚡ Direct API"
     },
     {
@@ -7180,33 +7096,6 @@
       "excerpt": "ABOUT ELEVENLABS  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users an...",
       "applyUrl": "https://jobs.ashbyhq.com/elevenlabs/3d650946-5ac2-4729-9ae4-129c43fcd0b5",
       "source": "⚡ Direct API"
-    },
-    {
-      "id": "6ac92f4b2e6f478028aa919a",
-      "title": "Voice Talent Required - Indonesian (female) - Remote",
-      "company": "Lilt",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037300/remowork/companies/lilt-logo.webp",
-      "category": "Transcription & Audio Training",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "Indonesian",
-        "Microsoft Word",
-        "Acting",
-        "Narration",
-        "Podcasting",
-        "Voiceover",
-        "Licensing",
-        "AI"
-      ],
-      "location": "Indonesia, Rwanda",
-      "pay": "Lihat Detail",
-      "date": "Oct 9, 2026",
-      "timestamp": 1791504000,
-      "excerpt": "We are looking for professional or semi-professional voice talents with a passion for language and technology for an exciting project.",
-      "applyUrl": "https://remowork.life/jobs/6ac92f4b2e6f478028aa919a/apply-out?ch=card",
-      "source": "Indonesian • Microsoft Word"
     },
     {
       "id": "ashby-65c1f098-97b0-4478-81a6-6f8c9b8c5ef0",
@@ -7340,7 +7229,7 @@
       "company": "Lilt",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037300/remowork/companies/lilt-logo.webp",
       "category": "Translator",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": true,
       "isDirect": false,
       "skills": [
@@ -7404,60 +7293,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "6ab3c8b75d989acfea41d775",
-      "title": "Audio Transcription Specialist (Indonesian language)",
-      "company": "TSMG",
-      "logo": "https://www.google.com/s2/favicons?domain=tsmg.io&sz=32",
-      "category": "Audio Annotation",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "Transcription",
-        "Indonesian",
-        "Management",
-        "Automation",
-        "Microsoft Teams",
-        "Mapping",
-        "AI",
-        "Training"
-      ],
-      "location": "Indonesia",
-      "pay": "Lihat Detail",
-      "date": "Sep 23, 2026",
-      "timestamp": 1790121600,
-      "excerpt": "Terry Soot Management Group (TSMG) is a field data collection company founded in 2017 in Europe. We collect data where automation is not possible.",
-      "applyUrl": "https://remowork.life/jobs/6ab3c8b75d989acfea41d775/apply-out?ch=card",
-      "source": "Transcription • Indonesian"
-    },
-    {
-      "id": "6ab31a575d989acfea4113b0",
-      "title": "Subject Matter Expert – Retail Trade & Store Operations (English/Indonesian) – Remote",
-      "company": "Lilt",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037300/remowork/companies/lilt-logo.webp",
-      "category": "Linguistic Annotation (AI)",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "Operations",
-        "English",
-        "Indonesian",
-        "AI",
-        "Benchmarking",
-        "Sales",
-        "Pharmacy",
-        "Management"
-      ],
-      "location": "Indonesia",
-      "pay": "Lihat Detail",
-      "date": "Sep 22, 2026",
-      "timestamp": 1790035200,
-      "excerpt": "We are looking for experienced Retail professionals to support a cutting-edge AI benchmarking project focused on Indonesian retail and consumer-facing environments.",
-      "applyUrl": "https://remowork.life/jobs/6ab31a575d989acfea4113b0/apply-out?ch=card",
-      "source": "Operations • English"
-    },
-    {
       "id": "ashby-40c3389e-c7ea-4054-8c90-05b1beb38bff",
       "title": "Research Scientist",
       "company": "Roboflow",
@@ -7477,33 +7312,6 @@
       "excerpt": "WHO WE ARE  Our mission is to make the world programmable. Sight is one of the key ways we understand the world, and soon this will be true for the software we use, too.  We’re building the tools, community, and resource...",
       "applyUrl": "https://jobs.ashbyhq.com/roboflow/40c3389e-c7ea-4054-8c90-05b1beb38bff",
       "source": "⚡ Direct API"
-    },
-    {
-      "id": "6ab1c9045d989acfea3fb5a0",
-      "title": "Subject Matter Expert – Government (English/Indonesian) – Remote",
-      "company": "Lilt",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037300/remowork/companies/lilt-logo.webp",
-      "category": "AI Expert - Government & Public Administration",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "English",
-        "Indonesian",
-        "AI",
-        "Benchmarking",
-        "Compliance",
-        "Institutions",
-        "Operations",
-        "Rubrics"
-      ],
-      "location": "Indonesia",
-      "pay": "Lihat Detail",
-      "date": "Sep 21, 2026",
-      "timestamp": 1789948800,
-      "excerpt": "We are looking for experienced Government professionals to support a cutting-edge AI benchmarking project focused on Indonesian public sector environments.",
-      "applyUrl": "https://remowork.life/jobs/6ab1c9045d989acfea3fb5a0/apply-out?ch=card",
-      "source": "English • Indonesian"
     },
     {
       "id": "ashby-5cfb3495-e33f-4cf2-a54d-fa9a5ca3cc3e",
@@ -7548,66 +7356,12 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "6aa051385d989acfeae37e3c",
-      "title": "AI Benchmark Engineer | Native Language Specialist - Indonesian - Remote",
-      "company": "Lilt",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037300/remowork/companies/lilt-logo.webp",
-      "category": "LLM Evaluator (Code)",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "AI",
-        "Indonesian",
-        "Command Line",
-        "English",
-        "Translation",
-        "Engineering",
-        "LLM Prompt Engineering",
-        "Verification"
-      ],
-      "location": "Indonesia",
-      "pay": "Lihat Detail",
-      "date": "Sep 8, 2026",
-      "timestamp": 1788825600,
-      "excerpt": "We are building a rigorous, verifiable evaluation suite of Terminal-Bench tasks designed to test the limits of large language models on multilingual software challenges.",
-      "applyUrl": "https://remowork.life/jobs/6aa051385d989acfeae37e3c/apply-out?ch=card",
-      "source": "AI • Indonesian"
-    },
-    {
-      "id": "6a9fac3c5d989acfeae2e66e",
-      "title": "Chinese to Malay/Indonesian Automotive Translation",
-      "company": "TransPerfect",
-      "logo": "https://www.google.com/s2/favicons?domain=transperfect.com&sz=128",
-      "category": "Translator",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "Mandarin Chinese",
-        "Malay",
-        "Indonesian",
-        "Translation",
-        "MTPE",
-        "Proofreading",
-        "Collaboration",
-        "Accuracy"
-      ],
-      "location": "Hong Kong",
-      "pay": "Lihat Detail",
-      "date": "Sep 8, 2026",
-      "timestamp": 1788825600,
-      "excerpt": "[Freelance/Remote] Indonesian / Malay | MTPE + Proofreading (Automotive/Technical) Engagement: Freelance (long-term collaboration) Location: Remote Language pairs (apply for one or more): Simplified Chinese (ZH-CN) → Indonesian (ID) Simplified Chinese (ZH-CN) → Malay (MS) What…",
-      "applyUrl": "https://remowork.life/jobs/6a9fac3c5d989acfeae2e66e/apply-out?ch=card",
-      "source": "Mandarin Chinese • Malay"
-    },
-    {
       "id": "6a9abe4896fca3a67e9206de",
       "title": "Bilingual Audio Contributor (Indonesian/English)",
       "company": "AfterQuery",
       "logo": "https://www.google.com/s2/favicons?domain=experts.afterquery.com&sz=128",
       "category": "Voiceover Artist",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": true,
       "isDirect": false,
       "skills": [
@@ -7817,7 +7571,7 @@
       "company": "DataAnnotation.tech",
       "logo": "https://www.google.com/s2/favicons?domain=dataannotation.tech&sz=128",
       "category": "Bilingual LLM & Translation",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": true,
       "isDirect": false,
       "skills": [
@@ -7844,7 +7598,7 @@
       "company": "DataAnnotation.tech",
       "logo": "https://www.google.com/s2/favicons?domain=dataannotation.tech&sz=128",
       "category": "Bilingual LLM & Translation",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": true,
       "isDirect": false,
       "skills": [
@@ -7866,33 +7620,6 @@
       "source": "Indonesian • Nuance"
     },
     {
-      "id": "6a8ec892b0d4a3804056135c",
-      "title": "Language Specialist (Indonesia)",
-      "company": "Assemble",
-      "logo": "https://www.google.com/s2/favicons?domain=weassemble.ai&sz=32",
-      "category": "Bilingual LLM & Translation",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "AI",
-        "Training",
-        "Indonesian",
-        "Writing",
-        "Flexible",
-        "Humanities",
-        "English",
-        "Journalism"
-      ],
-      "location": "Indonesia",
-      "pay": "Lihat Detail",
-      "date": "Aug 26, 2026",
-      "timestamp": 1787702400,
-      "excerpt": "(Native Indonesian Writing Experts Only) We are seeking for native Indonesian writing experts to contribute to the training of AI models aimed at enhancing writing capabilities.",
-      "applyUrl": "https://remowork.life/jobs/6a8ec892b0d4a3804056135c/apply-out?ch=card",
-      "source": "AI • Training"
-    },
-    {
       "id": "ashby-a0f174cf-4407-4334-b812-45a767092fca",
       "title": "Forward Deployed Engineer, Infrastructure Specialist (UK Public Sector)",
       "company": "Cohere",
@@ -7912,33 +7639,6 @@
       "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
       "applyUrl": "https://jobs.ashbyhq.com/cohere/a0f174cf-4407-4334-b812-45a767092fca",
       "source": "⚡ Direct API"
-    },
-    {
-      "id": "6a86f41c413a2a759fb477e7",
-      "title": "Quality control specialist for AI/ ML with Indonesian language",
-      "company": "TSMG",
-      "logo": "https://www.google.com/s2/favicons?domain=tsmg.io&sz=32",
-      "category": "Copyediting & Language Review",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "AI",
-        "Machine Learning",
-        "Indonesian",
-        "Annotation",
-        "Formatting",
-        "Transcription",
-        "Accuracy",
-        "Consistency"
-      ],
-      "location": "Indonesia",
-      "pay": "Lihat Detail",
-      "date": "Aug 20, 2026",
-      "timestamp": 1787184000,
-      "excerpt": "TSMG is looking for Quality control specialists to support an AI language project focused on improving speech recognition systems.",
-      "applyUrl": "https://remowork.life/jobs/6a86f41c413a2a759fb477e7/apply-out?ch=card",
-      "source": "AI • Machine Learning"
     },
     {
       "id": "ashby-abd68512-a6e1-4221-bc60-dec83623408a",
@@ -8109,60 +7809,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "6a7ee3eb413a2a759faaec05",
-      "title": "Indonesian Language Expert",
-      "company": "SME Careers",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037276/remowork/companies/sme-careers-logo.webp",
-      "category": "Linguistics (SME)",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "Indonesian",
-        "Reasoning",
-        "Accuracy",
-        "Grammar",
-        "Slang",
-        "Consistency",
-        "Writing",
-        "AI"
-      ],
-      "location": "Indonesia",
-      "pay": "Up to $20/hr",
-      "date": "Aug 14, 2026",
-      "timestamp": 1786665600,
-      "excerpt": "In this hourly, remote contractor role, you will work as an Indonesian Language Specialist (SME) to review AI-generated Indonesian (Bahasa Indonesia) content and/or create high-quality Indonesian reference content, evaluating language quality and step-by-step reasoning while…",
-      "applyUrl": "https://remowork.life/jobs/6a7ee3eb413a2a759faaec05/apply-out?ch=card",
-      "source": "Indonesian • Reasoning"
-    },
-    {
-      "id": "6a7ee3eb413a2a759faaebfc",
-      "title": "Indonesian Quality Assurance Lead (QAL)",
-      "company": "SME Careers",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037276/remowork/companies/sme-careers-logo.webp",
-      "category": "Bilingual LLM & Translation",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "Indonesian",
-        "Assurance",
-        "Consistency",
-        "AI",
-        "Training",
-        "Quality Assurance",
-        "Accuracy",
-        "Grammar"
-      ],
-      "location": "Indonesia",
-      "pay": "Up to $25/hr",
-      "date": "Aug 14, 2026",
-      "timestamp": 1786665600,
-      "excerpt": "In this hourly, remote contractor role, you will work as an Indonesian Quality Assurance Lead (QAL) to oversee quality, consistency, and trainer performance across Indonesian AI training projects.",
-      "applyUrl": "https://remowork.life/jobs/6a7ee3eb413a2a759faaebfc/apply-out?ch=card",
-      "source": "Indonesian • Assurance"
-    },
-    {
       "id": "ashby-8878b0d0-7d88-4ee9-bc17-b0dd237e39a0",
       "title": "Member of Technical Staff, Agentic Environments ",
       "company": "Cohere",
@@ -8182,33 +7828,6 @@
       "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
       "applyUrl": "https://jobs.ashbyhq.com/cohere/8878b0d0-7d88-4ee9-bc17-b0dd237e39a0",
       "source": "⚡ Direct API"
-    },
-    {
-      "id": "6abbab67dd1acda28bd4b748",
-      "title": "Indonesian -AI Linguistic Expert (AI Community)",
-      "company": "TELUS International",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037225/remowork/companies/telus-international-logo.webp",
-      "category": "Linguistics (SME)",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "Indonesian",
-        "AI",
-        "Accuracy",
-        "Analysis",
-        "TTS",
-        "Pronunciation",
-        "Transcription",
-        "ASR"
-      ],
-      "location": "Indonesia",
-      "pay": "$5 – $15/hr",
-      "date": "Aug 12, 2026",
-      "timestamp": 1786492800,
-      "excerpt": "As a Indonesian Linguist in our Global AI Community, you evaluate and validate speech AI systems from a linguistic perspective—ensuring machine-generated voices communicate with natural language flow and prosody, speech recognition captures intent with linguistic accuracy, and…",
-      "applyUrl": "https://remowork.life/jobs/6abbab67dd1acda28bd4b748/apply-out?ch=card",
-      "source": "Indonesian • AI"
     },
     {
       "id": "ashby-dbe76343-a8ae-445c-b2f9-c5a304d54f6a",
@@ -8379,33 +7998,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "6a41ef5641b9af7acf0ac5c6",
-      "title": "Indonesian Language Expert",
-      "company": "Alignerr",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037259/remowork/companies/alignerr-logo.webp",
-      "category": "Bilingual LLM & Translation",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "Indonesian",
-        "AI",
-        "Training",
-        "Indonesian Language",
-        "Flexible",
-        "Organization",
-        "Accuracy",
-        "Communication"
-      ],
-      "location": "Indonesia",
-      "pay": "$40 – $120/hr",
-      "date": "Jun 29, 2026",
-      "timestamp": 1782691200,
-      "excerpt": "We're looking for Indonesian language experts to help evaluate and improve AI systems trained on Indonesian-language content.",
-      "applyUrl": "https://remowork.life/jobs/6a41ef5641b9af7acf0ac5c6/apply-out?ch=card",
-      "source": "Indonesian • AI"
-    },
-    {
       "id": "ashby-2d4d224f-94d4-40ce-88d5-5d340bc0da4e",
       "title": "Senior Research Engineer - Safety Tooling and Data",
       "company": "Cohere",
@@ -8425,222 +8017,6 @@
       "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
       "applyUrl": "https://jobs.ashbyhq.com/cohere/2d4d224f-94d4-40ce-88d5-5d340bc0da4e",
       "source": "⚡ Direct API"
-    },
-    {
-      "id": "6a178ca3846849997e8cf143",
-      "title": "Indonesian Language Specialist - Freelance AI Trainer Project",
-      "company": "Meridial AI",
-      "logo": "https://www.google.com/s2/favicons?domain=meridial.ai&sz=128",
-      "category": "Bilingual LLM & Translation",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "Indonesian",
-        "AI",
-        "Training",
-        "Education",
-        "Research",
-        "Communication",
-        "Grammar",
-        "Syntax"
-      ],
-      "location": "Malaysia, Singapore, Timor-Leste +1 Indonesia",
-      "pay": "$6 – $65/hr",
-      "date": "Jun 23, 2026",
-      "timestamp": 1782172800,
-      "excerpt": "Are you an Indonesian language expert eager to shape the future of AI? Large‑scale language models are evolving from clever chatbots into powerful engines of linguistic discovery.",
-      "applyUrl": "https://remowork.life/jobs/6a178ca3846849997e8cf143/indonesian-language-specialist-freelance-ai-trainer-project",
-      "source": "Indonesian • AI"
-    },
-    {
-      "id": "6a33cfc4c02a156c51cf232d",
-      "title": "Subject Matter Expert – Robotics (Indonesian) – Remote",
-      "company": "Lilt",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037300/remowork/companies/lilt-logo.webp",
-      "category": "AI Expert - Robotics",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "Robotics",
-        "Indonesian",
-        "AI",
-        "Benchmarking",
-        "Rubrics",
-        "Accuracy",
-        "Alignment",
-        "English"
-      ],
-      "location": "Indonesia",
-      "pay": "Lihat Detail",
-      "date": "Jun 10, 2026",
-      "timestamp": 1781049600,
-      "excerpt": "We are seeking experienced professionals in Robotics to contribute to a cutting-edge AI benchmarking project in the target language.",
-      "applyUrl": "https://remowork.life/jobs/6a33cfc4c02a156c51cf232d/apply-out?ch=card",
-      "source": "Robotics • Indonesian"
-    },
-    {
-      "id": "6a33cf99c02a156c51cf2186",
-      "title": "Subject Matter Expert – Natural Sciences (Indonesian) – Remote",
-      "company": "Lilt",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037300/remowork/companies/lilt-logo.webp",
-      "category": "AI & Data Training",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "Indonesian",
-        "AI",
-        "Benchmarking",
-        "Rubrics",
-        "Accuracy",
-        "Alignment",
-        "English",
-        "Biology"
-      ],
-      "location": "Indonesia",
-      "pay": "Lihat Detail",
-      "date": "Jun 10, 2026",
-      "timestamp": 1781049600,
-      "excerpt": "We are seeking experienced professionals in Natural Sciences to contribute to a cutting-edge AI benchmarking project in the target language.",
-      "applyUrl": "https://remowork.life/jobs/6a33cf99c02a156c51cf2186/apply-out?ch=card",
-      "source": "Indonesian • AI"
-    },
-    {
-      "id": "6a33cf8cc02a156c51cf2136",
-      "title": "Subject Matter Expert – Mathematics (Indonesian) – Remote",
-      "company": "Lilt",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037300/remowork/companies/lilt-logo.webp",
-      "category": "AI Expert - Mathematics",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "Mathematics",
-        "Indonesian",
-        "AI",
-        "Benchmarking",
-        "Rubrics",
-        "Accuracy",
-        "Alignment",
-        "English"
-      ],
-      "location": "Indonesia",
-      "pay": "Lihat Detail",
-      "date": "Jun 10, 2026",
-      "timestamp": 1781049600,
-      "excerpt": "We are seeking experienced professionals in Mathematics to contribute to a cutting-edge AI benchmarking project in the target language.",
-      "applyUrl": "https://remowork.life/jobs/6a33cf8cc02a156c51cf2136/apply-out?ch=card",
-      "source": "Mathematics • Indonesian"
-    },
-    {
-      "id": "6a33cfbec02a156c51cf22b6",
-      "title": "Subject Matter Expert – Quantative/Scientific/Corporate Domains – Indonesian Remote",
-      "company": "Lilt",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037300/remowork/companies/lilt-logo.webp",
-      "category": "Response Rater",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "Indonesian",
-        "AI",
-        "Benchmarking",
-        "Mathematics",
-        "Robotics",
-        "Healthcare",
-        "Chemistry",
-        "Physics"
-      ],
-      "location": "Indonesia",
-      "pay": "Lihat Detail",
-      "date": "Jun 9, 2026",
-      "timestamp": 1780963200,
-      "excerpt": "We are looking for experienced professionals to support a cutting-edge AI benchmarking project focused on highly specific professional silos.",
-      "applyUrl": "https://remowork.life/jobs/6a33cfbec02a156c51cf22b6/apply-out?ch=card",
-      "source": "Indonesian • AI"
-    },
-    {
-      "id": "6a33cfbbc02a156c51cf22a5",
-      "title": "Subject Matter Expert – Manufacturing & Industrial Operations (English/Indonesian) – Remote",
-      "company": "Lilt",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037300/remowork/companies/lilt-logo.webp",
-      "category": "AI Expert - Industrial / Manufacturing Engineering",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "Manufacturing",
-        "Operations",
-        "English",
-        "Indonesian",
-        "AI",
-        "Benchmarking",
-        "Engineering",
-        "Procurement"
-      ],
-      "location": "Indonesia",
-      "pay": "Lihat Detail",
-      "date": "Jun 9, 2026",
-      "timestamp": 1780963200,
-      "excerpt": "We are looking for experienced Manufacturing and Industrial Operations professionals to support a cutting-edge AI benchmarking project focused on industrial, production, and supply chain environments.",
-      "applyUrl": "https://remowork.life/jobs/6a33cfbbc02a156c51cf22a5/apply-out?ch=card",
-      "source": "Manufacturing • Operations"
-    },
-    {
-      "id": "6a33cfadc02a156c51cf2223",
-      "title": "Subject Matter Expert – Healthcare & Social Assistance (Indonesian) – Remote",
-      "company": "Lilt",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037300/remowork/companies/lilt-logo.webp",
-      "category": "AI Expert - Clinical & Medical",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "Healthcare",
-        "Indonesian",
-        "AI",
-        "Benchmarking",
-        "Operations",
-        "Management",
-        "Nursing",
-        "Rubrics"
-      ],
-      "location": "Indonesia",
-      "pay": "Lihat Detail",
-      "date": "Jun 9, 2026",
-      "timestamp": 1780963200,
-      "excerpt": "We are seeking experienced healthcare and social assistance professionals to contribute to a cutting-edge AI benchmarking project in the target language.",
-      "applyUrl": "https://remowork.life/jobs/6a33cfadc02a156c51cf2223/apply-out?ch=card",
-      "source": "Healthcare • Indonesian"
-    },
-    {
-      "id": "6a33cfaac02a156c51cf21f4",
-      "title": "Subject Matter Expert – Finance (Indonesian) – Remote",
-      "company": "Lilt",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037300/remowork/companies/lilt-logo.webp",
-      "category": "AI Expert - Finance",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "Finance",
-        "Indonesian",
-        "AI",
-        "Benchmarking",
-        "Rubrics",
-        "Accuracy",
-        "Alignment",
-        "English"
-      ],
-      "location": "Indonesia",
-      "pay": "Lihat Detail",
-      "date": "Jun 9, 2026",
-      "timestamp": 1780963200,
-      "excerpt": "We are seeking experienced professionals in Finance and Financial Services to contribute to a cutting-edge AI benchmarking project in the target language.",
-      "applyUrl": "https://remowork.life/jobs/6a33cfaac02a156c51cf21f4/apply-out?ch=card",
-      "source": "Finance • Indonesian"
     },
     {
       "id": "ashby-82ec1512-5bc3-49dd-b995-b6abc2a958d7",
@@ -8669,7 +8045,7 @@
       "company": "Babel Audio",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037306/remowork/companies/babel-audio-logo.webp",
       "category": "Transcription & Audio Training",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": true,
       "isDirect": false,
       "skills": [
@@ -8691,7 +8067,7 @@
       "source": "Indonesian • AI"
     },
     {
-      "id": "gh-6004661004",
+      "id": "gh-6006505004",
       "title": "AI Trainer - Automotive Expertise Required",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8708,7 +8084,7 @@
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6004661004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006505004",
       "source": "⚡ Direct API"
     },
     {
@@ -8754,7 +8130,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5823645004",
+      "id": "gh-5823643004",
       "title": "Data Collection Contributor",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8766,12 +8142,12 @@
         "Direct API",
         "HumanSignal"
       ],
-      "location": "Colombia (+21 lokasi lain)",
+      "location": "Canada (+21 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823645004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823643004",
       "source": "⚡ Direct API"
     },
     {
@@ -8796,54 +8172,12 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-6007755004",
-      "title": "Operations Specialist",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Mexico City, MX or Manila, PH",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6007755004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-6007756004",
-      "title": "Training Specialist",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "San Francisco, California",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6007756004",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "6a6a30aee681430a6b620fbe",
       "title": "Indonesian Voice Actor / Actress | Pengisi Suara, Berbahasa Indonesia (AI Trainer)",
       "company": "Babel Audio",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037306/remowork/companies/babel-audio-logo.webp",
       "category": "Voiceover Artist",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": true,
       "isDirect": false,
       "skills": [
@@ -8945,39 +8279,12 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "6a22be6404c85b45424e3c54",
-      "title": "AI Trainer - Advanced Indonesian Fluency - (Singapore)",
-      "company": "Prolific",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037278/remowork/companies/prolific-logo.webp",
-      "category": "Data Annotation & Labeling",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "AI",
-        "Indonesian",
-        "Nuance",
-        "Communication",
-        "English",
-        "Reporting",
-        "Acting",
-        "Linguistics"
-      ],
-      "location": "Singapore",
-      "pay": "Up to $24/hr",
-      "date": "Apr 24, 2026",
-      "timestamp": 1776988800,
-      "excerpt": "Prolific is not just another player in the AI space – we are building the biggest pool of quality human data in the world.",
-      "applyUrl": "https://remowork.life/jobs/6a22be6404c85b45424e3c54/apply-out?ch=card",
-      "source": "AI • Indonesian"
-    },
-    {
       "id": "6a22be6504c85b45424e3c57",
       "title": "AI Trainer - Advanced Indonesian Fluency - US",
       "company": "Prolific",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037278/remowork/companies/prolific-logo.webp",
       "category": "Data Annotation & Labeling",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": true,
       "isDirect": false,
       "skills": [
@@ -9004,7 +8311,7 @@
       "company": "Prolific",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037278/remowork/companies/prolific-logo.webp",
       "category": "Data Annotation & Labeling",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": true,
       "isDirect": false,
       "skills": [
@@ -9024,141 +8331,6 @@
       "excerpt": "Prolific is not just another player in the AI space – we are building the biggest pool of quality human data in the world.",
       "applyUrl": "https://remowork.life/jobs/6a22be6404c85b45424e3c51/apply-out?ch=card",
       "source": "AI • Indonesian"
-    },
-    {
-      "id": "6a22be6404c85b45424e3c52",
-      "title": "AI Trainer - Advanced Indonesian Fluency - Hong Kong",
-      "company": "Prolific",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037278/remowork/companies/prolific-logo.webp",
-      "category": "Data Annotation & Labeling",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "AI",
-        "Indonesian",
-        "Nuance",
-        "Communication",
-        "English",
-        "Reporting",
-        "Acting",
-        "Linguistics"
-      ],
-      "location": "Hong Kong",
-      "pay": "Up to $24/hr",
-      "date": "Apr 23, 2026",
-      "timestamp": 1776902400,
-      "excerpt": "Prolific is not just another player in the AI space – we are building the biggest pool of quality human data in the world.",
-      "applyUrl": "https://remowork.life/jobs/6a22be6404c85b45424e3c52/apply-out?ch=card",
-      "source": "AI • Indonesian"
-    },
-    {
-      "id": "6a22be6404c85b45424e3c53",
-      "title": "AI Trainer - Advanced Indonesian Fluency - Netherlands",
-      "company": "Prolific",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037278/remowork/companies/prolific-logo.webp",
-      "category": "Data Annotation & Labeling",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "AI",
-        "Indonesian",
-        "Nuance",
-        "Communication",
-        "English",
-        "Reporting",
-        "Acting",
-        "Linguistics"
-      ],
-      "location": "Netherlands",
-      "pay": "Up to $24/hr",
-      "date": "Apr 23, 2026",
-      "timestamp": 1776902400,
-      "excerpt": "Prolific is not just another player in the AI space – we are building the biggest pool of quality human data in the world.",
-      "applyUrl": "https://remowork.life/jobs/6a22be6404c85b45424e3c53/apply-out?ch=card",
-      "source": "AI • Indonesian"
-    },
-    {
-      "id": "6a22be6504c85b45424e3c56",
-      "title": "AI Trainer - Advanced Indonesian Fluency - UK",
-      "company": "Prolific",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037278/remowork/companies/prolific-logo.webp",
-      "category": "Data Annotation & Labeling",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "AI",
-        "Indonesian",
-        "Nuance",
-        "Communication",
-        "English",
-        "Reporting",
-        "Acting",
-        "Linguistics"
-      ],
-      "location": "United Kingdom",
-      "pay": "Up to $24/hr",
-      "date": "Apr 23, 2026",
-      "timestamp": 1776902400,
-      "excerpt": "Prolific is not just another player in the AI space – we are building the biggest pool of quality human data in the world.",
-      "applyUrl": "https://remowork.life/jobs/6a22be6504c85b45424e3c56/apply-out?ch=card",
-      "source": "AI • Indonesian"
-    },
-    {
-      "id": "6a22be6504c85b45424e3c55",
-      "title": "AI Trainer - Advanced Indonesian Fluency - Taiwan",
-      "company": "Prolific",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037278/remowork/companies/prolific-logo.webp",
-      "category": "Data Annotation & Labeling",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "AI",
-        "Indonesian",
-        "Nuance",
-        "Communication",
-        "English",
-        "Reporting",
-        "Acting",
-        "Linguistics"
-      ],
-      "location": "Taiwan",
-      "pay": "Up to $24/hr",
-      "date": "Apr 23, 2026",
-      "timestamp": 1776902400,
-      "excerpt": "Prolific is not just another player in the AI space – we are building the biggest pool of quality human data in the world.",
-      "applyUrl": "https://remowork.life/jobs/6a22be6504c85b45424e3c55/apply-out?ch=card",
-      "source": "AI • Indonesian"
-    },
-    {
-      "id": "6a3d834d41b9af7acf091146",
-      "title": "Indonesian Transcriber",
-      "company": "Lionbridge",
-      "logo": "https://www.google.com/s2/favicons?domain=lionbridge.com&sz=32",
-      "category": "Transcription & Audio Training",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "Indonesian",
-        "Annotation",
-        "Accuracy",
-        "Transcription",
-        "Formatting",
-        "Consistency",
-        "Training",
-        "English"
-      ],
-      "location": "Indonesia",
-      "pay": "$15 – $20/hr",
-      "date": "Apr 13, 2026",
-      "timestamp": 1776038400,
-      "excerpt": "We are looking to onboard Transcribers to support a range of upcoming audio processing projects. This role focuses on converting audio into accurate written text, with opportunities to contribute to annotation tasks depending on project needs.",
-      "applyUrl": "https://remowork.life/jobs/6a3d834d41b9af7acf091146/apply-out?ch=card",
-      "source": "Indonesian • Annotation"
     },
     {
       "id": "ashby-39cab400-c976-41d9-9002-880ac6985b64",
@@ -9208,7 +8380,7 @@
       "company": "TELUS International",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037225/remowork/companies/telus-international-logo.webp",
       "category": "Bilingual LLM & Translation",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": true,
       "isDirect": false,
       "skills": [
@@ -9244,120 +8416,12 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "6a179766846849997e8cf6de",
-      "title": "STEM Specialist (Fluent in Indonesian) - Freelance AI Trainer Project",
-      "company": "Meridial AI",
-      "logo": "https://www.google.com/s2/favicons?domain=meridial.ai&sz=128",
-      "category": "Sciences (AI)",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "STEM",
-        "Indonesian",
-        "AI",
-        "Problem Solving",
-        "Training",
-        "Education",
-        "Research",
-        "Mathematics"
-      ],
-      "location": "Indonesia",
-      "pay": "$8 – $65/hr",
-      "date": "Mar 16, 2026",
-      "timestamp": 1773619200,
-      "excerpt": "Are you a STEM expert fluent in Indonesian, eager to shape the future of AI? Large‑scale language models are evolving from clever chatbots into powerful engines of scientific discovery and technical problem-solving.",
-      "applyUrl": "https://remowork.life/jobs/6a179766846849997e8cf6de/apply-out?ch=card",
-      "source": "STEM • Indonesian"
-    },
-    {
-      "id": "6a179756846849997e8cf697",
-      "title": "Science Specialist (Fluent in Indonesian) - Freelance AI Trainer Project",
-      "company": "Meridial AI",
-      "logo": "https://www.google.com/s2/favicons?domain=meridial.ai&sz=128",
-      "category": "Sciences (AI)",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "Indonesian",
-        "AI",
-        "Arabic",
-        "Training",
-        "Education",
-        "Research",
-        "Problem Solving",
-        "Chemistry"
-      ],
-      "location": "Indonesia",
-      "pay": "$8 – $65/hr",
-      "date": "Mar 16, 2026",
-      "timestamp": 1773619200,
-      "excerpt": "Are you a science specialist fluent in Arabic, eager to shape the future of AI? Large-scale language models are evolving from clever chatbots into powerful engines of scientific discovery.",
-      "applyUrl": "https://remowork.life/jobs/6a179756846849997e8cf697/apply-out?ch=card",
-      "source": "Indonesian • AI"
-    },
-    {
-      "id": "6a178cb9846849997e8cf1ac",
-      "title": "LaTex Specialist (Fluent in Indonesian) - Freelance AI Trainer Project",
-      "company": "Meridial AI",
-      "logo": "https://www.google.com/s2/favicons?domain=meridial.ai&sz=128",
-      "category": "AI Expert - Mathematics",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "LaTeX",
-        "Indonesian",
-        "AI",
-        "Training",
-        "Education",
-        "Formatting",
-        "Management",
-        "Troubleshooting"
-      ],
-      "location": "Indonesia",
-      "pay": "$8 – $65/hr",
-      "date": "Mar 16, 2026",
-      "timestamp": 1773619200,
-      "excerpt": "Are you a LaTeX expert fluent in Indonesian eager to shape the future of AI? Large‑scale language models are evolving from clever chatbots into powerful engines of scientific discovery.",
-      "applyUrl": "https://remowork.life/jobs/6a178cb9846849997e8cf1ac/apply-out?ch=card",
-      "source": "LaTeX • Indonesian"
-    },
-    {
-      "id": "6a0f0f0c438f8379f4d11588",
-      "title": "Bahasa Indonesia Language Specialist JD",
-      "company": "Perle",
-      "logo": "https://www.google.com/s2/favicons?domain=perle.ai&sz=128",
-      "category": "Bilingual LLM & Translation",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "JD",
-        "AI",
-        "Make",
-        "Accuracy",
-        "Natural Language Processing",
-        "Annotation",
-        "Transcription",
-        "Assurance"
-      ],
-      "location": "Indonesia",
-      "pay": "Lihat Detail",
-      "date": "Feb 25, 2026",
-      "timestamp": 1771977600,
-      "excerpt": "Perle powers the most ambitious AI initiatives in the world with human intelligence at scale. We work with the world’s leading model builders and enterprises to deliver expert-in-the-loop data, model evaluation, and trust systems that make AI safe, responsible, efficient and…",
-      "applyUrl": "https://remowork.life/jobs/6a0f0f0c438f8379f4d11588/apply-out?ch=card",
-      "source": "JD • AI"
-    },
-    {
       "id": "6a9030b84cbfcf4aa99e7e18",
       "title": "AI Quality Analyst (Personalization) - Indonesian",
       "company": "Turing",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037261/remowork/companies/turing-logo.webp",
       "category": "Personal Workflow Evaluator",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": true,
       "isDirect": false,
       "skills": [
@@ -9375,93 +8439,12 @@
       "source": "AI Evaluation • Content Review"
     },
     {
-      "id": "6a178ca4846849997e8cf147",
-      "title": "Indonesian Voice Acting Specialist - Freelance AI Trainer Project",
-      "company": "Meridial AI",
-      "logo": "https://www.google.com/s2/favicons?domain=meridial.ai&sz=128",
-      "category": "Transcription & Audio Training",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "Indonesian",
-        "Acting",
-        "AI",
-        "Voiceover",
-        "Diction",
-        "Pronunciation",
-        "Podcasting",
-        "Editing"
-      ],
-      "location": "Indonesia",
-      "pay": "$8 – $65/hr",
-      "date": "Feb 12, 2026",
-      "timestamp": 1770854400,
-      "excerpt": "Near-Native Proficiency in Indonesian Project Overview: We're engaging experts in Indonesian to record short scripted reads. Think light voice acting/voiceover: clean diction, natural delivery, and consistent quality. Looking for expressive and conversational!",
-      "applyUrl": "https://remowork.life/jobs/6a178ca4846849997e8cf147/apply-out?ch=card",
-      "source": "Indonesian • Acting"
-    },
-    {
-      "id": "6a179733846849997e8cf5f2",
-      "title": "Mathematics Specialist (Fluent in Indonesian) - Freelance AI Trainer Project",
-      "company": "Meridial AI",
-      "logo": "https://www.google.com/s2/favicons?domain=meridial.ai&sz=128",
-      "category": "AI Expert - Mathematics",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "Mathematics",
-        "Indonesian",
-        "AI",
-        "Training",
-        "Education",
-        "Research",
-        "Algebra",
-        "Calculus"
-      ],
-      "location": "Indonesia",
-      "pay": "$6 – $65/hr",
-      "date": "Feb 12, 2026",
-      "timestamp": 1770854400,
-      "excerpt": "Are you a mathematics expert fluent in Indonesian, eager to shape the future of AI? Large‑scale language models are evolving from clever chatbots into powerful engines of scientific discovery.",
-      "applyUrl": "https://remowork.life/jobs/6a179733846849997e8cf5f2/apply-out?ch=card",
-      "source": "Mathematics • Indonesian"
-    },
-    {
-      "id": "6a178a8f846849997e8cefc2",
-      "title": "Coding Specialist (Fluent in Indonesian) - Freelance AI Trainer Project",
-      "company": "Meridial AI",
-      "logo": "https://www.google.com/s2/favicons?domain=meridial.ai&sz=128",
-      "category": "AI Expert - Software Engineering",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "Indonesian",
-        "AI",
-        "Training",
-        "Education",
-        "Research",
-        "Algorithms",
-        "Architecture",
-        "Infrastructure"
-      ],
-      "location": "Indonesia",
-      "pay": "$8 – $65/hr",
-      "date": "Feb 12, 2026",
-      "timestamp": 1770854400,
-      "excerpt": "Are you a coding expert fluent in Indonesian eager to shape the future of AI? Large‑scale language models are evolving from clever chatbots into powerful engines of scientific discovery.",
-      "applyUrl": "https://remowork.life/jobs/6a178a8f846849997e8cefc2/apply-out?ch=card",
-      "source": "Indonesian • AI"
-    },
-    {
       "id": "6a44f721e3bfc64d1928e0b6",
       "title": "Indonesian Translator (Remote) | Sigma AI",
       "company": "Sigma AI",
       "logo": "https://www.google.com/s2/favicons?domain=careers.sigma.ai&sz=32",
       "category": "Language Data",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": true,
       "isDirect": false,
       "skills": [
@@ -9509,7 +8492,7 @@
       "company": "Turing",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037261/remowork/companies/turing-logo.webp",
       "category": "Linguistic Annotation (AI)",
-      "eligible": true,
+      "eligible": false,
       "isIndonesian": true,
       "isDirect": false,
       "skills": [
