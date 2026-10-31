@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-31 03:38 UTC",
-  "totalJobs": 374,
+  "lastUpdated": "2026-10-31 06:41 UTC",
+  "totalJobs": 373,
   "jobs": [
     {
       "id": "6ae537d5f45b0f034f3d72d3",
@@ -1348,7 +1348,7 @@
         "Education"
       ],
       "location": "United States (US: IL)",
-      "pay": "$69k – $76k/yr",
+      "pay": "$69,000 – $76,000/yr",
       "date": "Oct 30, 2026",
       "timestamp": 1793318400,
       "excerpt": "At Brave Health, we are driven by a deep commitment to transform lives by expanding access to compassionate, high-quality mental health care.",
@@ -1375,7 +1375,7 @@
         "Spanish"
       ],
       "location": "United States (US: IN)",
-      "pay": "$76k – $84k/yr",
+      "pay": "$76,000 – $84,000/yr",
       "date": "Oct 30, 2026",
       "timestamp": 1793318400,
       "excerpt": "At Brave Health, we are driven by a deep commitment to transform lives by expanding access to compassionate, high-quality mental health care.",
@@ -6140,7 +6140,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4650514005",
+      "id": "gh-4589749005",
       "title": "Product Manager of AI Applications, Global Public Sector",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -6152,12 +6152,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Riyadh, Saudi Arabia (+1 lokasi lain)",
+      "location": "Doha, Qatar ; Dubai, UAE (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Oct 22, 2026",
       "timestamp": 1792692638,
       "excerpt": "Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most exciting and quickly expanding teams at Scale. This team is responsible for generating, executing, and fost...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
       "source": "⚡ Direct API"
     },
     {
@@ -6836,27 +6836,6 @@
       "timestamp": 1792451669,
       "excerpt": "ABOUT ELEVENLABS  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users an...",
       "applyUrl": "https://jobs.ashbyhq.com/elevenlabs/9fbd9227-57e0-4221-9255-1a1d967be8ed",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "ashby-2cc33afb-4c90-4590-8f5b-8f9fd7769800",
-      "title": "Account Executive - Enterprise - Sports Specialist",
-      "company": "ElevenLabs",
-      "logo": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128",
-      "category": "Revenue",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Revenue",
-        "Direct API"
-      ],
-      "location": "Remote",
-      "pay": "Lihat Detail",
-      "date": "Oct 15, 2026",
-      "timestamp": 1792104612,
-      "excerpt": "ABOUT ELEVENLABS  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users an...",
-      "applyUrl": "https://jobs.ashbyhq.com/elevenlabs/2cc33afb-4c90-4590-8f5b-8f9fd7769800",
       "source": "⚡ Direct API"
     },
     {
@@ -8018,7 +7997,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5823644004",
+      "id": "gh-5823643004",
       "title": "Data Collection Contributor",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8030,12 +8009,12 @@
         "Direct API",
         "HumanSignal"
       ],
-      "location": "Chile (+21 lokasi lain)",
+      "location": "Canada (+21 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823644004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823643004",
       "source": "⚡ Direct API"
     },
     {
