@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-31 15:28 UTC",
-  "totalJobs": 372,
+  "lastUpdated": "2026-10-31 18:33 UTC",
+  "totalJobs": 373,
   "jobs": [
     {
       "id": "6ae5dfbd9b5bd109919e992c",
@@ -157,7 +157,7 @@
         "Translation"
       ],
       "location": "Remote (Global)",
-      "pay": "$30 – $60/hr",
+      "pay": "$30 – $65/hr",
       "date": "Oct 31, 2026",
       "timestamp": 1793404800,
       "excerpt": "Role Title: German Bilingual Expert Role Type: Contractor Location: Remote micro1 is engaging German Bilingual Experts to contribute to a unique customer project focused on advancing artificial intelligence solutions.",
@@ -1786,33 +1786,6 @@
       "excerpt": "Role Title: Russian Bilingual Expert Role Type: Contractor Location: Remote micro1 is engaging Russian Bilingual Experts to contribute to an impactful language and AI training project for a valued customer.",
       "applyUrl": "https://remowork.life/jobs/6a7e604e413a2a759faa3f56/apply-out?ch=card",
       "source": "Russian • AI"
-    },
-    {
-      "id": "6a7db740413a2a759fa997be",
-      "title": "Voice Recorder (French + English)",
-      "company": "Micro1",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
-      "category": "AI Expert - Music & Audio",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "French",
-        "English",
-        "AI",
-        "Metadata",
-        "Communication",
-        "Documentation",
-        "Collaboration",
-        "Machine Learning"
-      ],
-      "location": "Remote (Global)",
-      "pay": "$30 – $65/hr",
-      "date": "Oct 30, 2026",
-      "timestamp": 1793318400,
-      "excerpt": "Role Title: Voice Recorder (French + English) Role Type: Contractor Location: Remote micro1 is engaging with French bilingual speakers to contribute to a customer's audio project focused on advancing machine learning.",
-      "applyUrl": "https://remowork.life/jobs/6a7db740413a2a759fa997be/apply-out?ch=card",
-      "source": "French • English"
     },
     {
       "id": "6a7e604e413a2a759faa3f50",
@@ -4509,6 +4482,33 @@
       "excerpt": "Peraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy.",
       "applyUrl": "https://remowork.life/jobs/6ae5348bf45b0f034f3d50c6/apply-out?ch=card",
       "source": "COBOL • Medicare"
+    },
+    {
+      "id": "6ae5348bf45b0f034f3d50c5",
+      "title": "Penetration Testing Lead",
+      "company": "Peraton",
+      "logo": "https://www.google.com/s2/favicons?domain=peraton.com&sz=32",
+      "category": "Penetration Tester",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Testing",
+        "Organization",
+        "Infrastructure",
+        "Leadership",
+        "Management",
+        "Product Management",
+        "APIs",
+        "AWS"
+      ],
+      "location": "United States",
+      "pay": "$104,000 – $166,000/yr",
+      "date": "Oct 30, 2026",
+      "timestamp": 1793318400,
+      "excerpt": "Peraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy.",
+      "applyUrl": "https://remowork.life/jobs/6ae5348bf45b0f034f3d50c5/apply-out?ch=card",
+      "source": "Testing • Organization"
     },
     {
       "id": "gh-4744402005",
@@ -7653,6 +7653,33 @@
       "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
       "applyUrl": "https://jobs.ashbyhq.com/cohere/9baccd88-c051-474f-bfe8-6867fca54cee",
       "source": "⚡ Direct API"
+    },
+    {
+      "id": "6a7eb4c8413a2a759faa9dd3",
+      "title": "Indonesian Bilingual Expert",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "Linguistics (SME)",
+      "eligible": false,
+      "isIndonesian": true,
+      "isDirect": false,
+      "skills": [
+        "Indonesian",
+        "AI",
+        "Accuracy",
+        "Pronunciation",
+        "Communication",
+        "English",
+        "Translation",
+        "Localization"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$30 – $65/hr",
+      "date": "Aug 14, 2026",
+      "timestamp": 1786665600,
+      "excerpt": "Role Title: Indonesian Bilingual Expert Role Type: Contractor Location: Remote micro1 is selecting Indonesian Bilingual Experts to support a customer's large-scale linguistic initiative. In this role, you'll apply your expertise to help train next-generation AI systems.",
+      "applyUrl": "https://remowork.life/jobs/6a7eb4c8413a2a759faa9dd3/apply-out?ch=card",
+      "source": "Indonesian • AI"
     },
     {
       "id": "ashby-8878b0d0-7d88-4ee9-bc17-b0dd237e39a0",
