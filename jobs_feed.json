@@ -1,7 +1,61 @@
 {
-  "lastUpdated": "2026-11-01 06:47 UTC",
+  "lastUpdated": "2026-11-01 09:38 UTC",
   "totalJobs": 372,
   "jobs": [
+    {
+      "id": "6ae6dc142bef4940d6eb8c66",
+      "title": "American English Audio Reviewer, Alphanumeric Speech",
+      "company": "RemoExperts",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037273/remowork/companies/remoexperts-logo.webp",
+      "category": "Audio Annotation",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "English",
+        "Recruiting",
+        "Microsoft Word",
+        "MATCH",
+        "Flexible",
+        "Transcription",
+        "Quality Assurance",
+        "Proofreading"
+      ],
+      "location": "United States",
+      "pay": "$10-20/hr",
+      "date": "Nov 1, 2026",
+      "timestamp": 1793491200,
+      "excerpt": "We are recruiting reviewers for a paid audio review project focused on alphanumeric speech. You will listen to English voice recordings one by one and check whether each speaker read the given script accurately, word for word. This is not a recording task.",
+      "applyUrl": "https://portal.rex.zone/open-opportunities/detail?jobId=6ae6d5c68819f8510d3d3bf1&inviteCode=NjhlNTlkMDYyNmJiYTI2NGRhZDQ5MzNl",
+      "source": "English • Recruiting"
+    },
+    {
+      "id": "6ae6d8c02bef4940d6eb63dc",
+      "title": "Program Manager, Data Science Core & GenAI Studio",
+      "company": "College Board",
+      "logo": "https://www.google.com/s2/favicons?domain=collegeboard.org&sz=32",
+      "category": "Program Manager",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "GenAI",
+        "Make",
+        "Research",
+        "Engineering",
+        "Operations",
+        "AI",
+        "Microsoft Teams",
+        "Analysis"
+      ],
+      "location": "United States",
+      "pay": "$120,000 – $170,000/yr",
+      "date": "Nov 1, 2026",
+      "timestamp": 1793491200,
+      "excerpt": "College Board - Technology - Data Science Core & GenAI Studio Location: This is a fully remote role. Candidates who live near CB offices have the option of being fully remote or hybrid (Tuesday and Wednesday in office).",
+      "applyUrl": "https://collegeboard.wd1.myworkdayjobs.com/Careers/job/Remote---USA/Program-Manager--Data-Science-Core---GenAI-Studio_REQ002989",
+      "source": "GenAI • Make"
+    },
     {
       "id": "6ae6873b2bef4940d6eb0d9d",
       "title": "Crash Simulation Engineers: Vehicle Crash Simulation Workflows",
@@ -645,7 +699,7 @@
       "date": "Oct 31, 2026",
       "timestamp": 1793404800,
       "excerpt": "Datavant is the data collaboration platform trusted for healthcare. Guided by our mission to make the world’s health data secure, accessible and actionable, we provide critical data solutions for organizations across the healthcare ecosystem - including providers, health plans,…",
-      "applyUrl": "https://www.datavant.com/about/careers/open-roles/job?gh_jid=5466260008",
+      "applyUrl": "https://remowork.life/jobs/6ae58765a2d95048f0a33980/apply-out?ch=card",
       "source": "Collaboration • Healthcare"
     },
     {
@@ -672,7 +726,7 @@
       "date": "Oct 31, 2026",
       "timestamp": 1793404800,
       "excerpt": "Role Title: Principal Engineer / Professor — Technical Expert Role Type: Contractor Location: Remote Opportunity Snapshot Pay: $80- $185/hour Commitment: Flexible — fits alongside your current role Location: Fully remote You’ll need: Master’s or PhD in an engineering or physical…",
-      "applyUrl": "https://jobs.micro1.ai/post/954f5912-19a0-45c9-bcad-ab62ace16283?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "applyUrl": "https://remowork.life/jobs/6ae5872da2d95048f0a3339a/apply-out?ch=card",
       "source": "Flexible • Engineering"
     },
     {
@@ -4458,60 +4512,6 @@
       "excerpt": "Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities.",
       "applyUrl": "https://remowork.life/jobs/6ae4871b7adc5f2ecf609da8/apply-out?ch=card",
       "source": "Marketing • Operations"
-    },
-    {
-      "id": "6ae48a4a7adc5f2ecf60c39e",
-      "title": "Civilian Intelligence Agency Expert – U.S. & Allied Government",
-      "company": "Micro1",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
-      "category": "AI Expert - Government & Public Administration",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "AI",
-        "Operations",
-        "Strategic Thinking",
-        "Management",
-        "Leadership",
-        "Make",
-        "Decision Making",
-        "Accuracy"
-      ],
-      "location": "United States",
-      "pay": "$50 – $120/hr",
-      "date": "Oct 30, 2026",
-      "timestamp": 1793318400,
-      "excerpt": "Role Title: Civilian Intelligence Agency Expert – U.S. & Allied Government Role Type: Contractor Location: Remote micro1 is seeking current and former civilian professionals from U.S.",
-      "applyUrl": "https://remowork.life/jobs/6ae48a4a7adc5f2ecf60c39e/apply-out?ch=card",
-      "source": "AI • Operations"
-    },
-    {
-      "id": "6ae58b51a2d95048f0a36917",
-      "title": "Talent Engagement Lead",
-      "company": "ALX Africa",
-      "logo": "https://www.google.com/s2/favicons?domain=alxafrica.com&sz=64",
-      "category": "People Operations Manager",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Leadership",
-        "Strategic Thinking",
-        "Organization",
-        "Training",
-        "Engineering",
-        "Cybersecurity",
-        "FAR",
-        "Microsoft Teams"
-      ],
-      "location": "Remote (Global)",
-      "pay": "Lihat Detail",
-      "date": "Oct 30, 2026",
-      "timestamp": 1793318400,
-      "excerpt": "Are you an experienced talent and learning leader who can turn organisational priorities into meaningful employee experiences, development opportunities, and practical solutions?",
-      "applyUrl": "https://remowork.life/jobs/6ae58b51a2d95048f0a36917/apply-out?ch=card",
-      "source": "Leadership • Strategic Thinking"
     },
     {
       "id": "gh-4744402005",
