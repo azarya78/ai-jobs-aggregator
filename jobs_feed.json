@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01 09:38 UTC",
+  "lastUpdated": "2026-11-01 12:39 UTC",
   "totalJobs": 372,
   "jobs": [
     {
@@ -4190,33 +4190,6 @@
       "source": "AI • Governance"
     },
     {
-      "id": "6ae4df0ee66bcd754ea5e16e",
-      "title": "Training Specialist",
-      "company": "Datavant",
-      "logo": "https://www.google.com/s2/favicons?domain=datavant.com&sz=32",
-      "category": "Corporate Trainer",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Training",
-        "Collaboration",
-        "Healthcare",
-        "Make",
-        "AI",
-        "Microsoft Teams",
-        "Management",
-        "Analysis"
-      ],
-      "location": "United States",
-      "pay": "$64,000 – $74,000/yr",
-      "date": "Oct 30, 2026",
-      "timestamp": 1793318400,
-      "excerpt": "Datavant is the data collaboration platform trusted for healthcare. Guided by our mission to make the world’s health data secure, accessible and actionable, we provide critical data solutions for organizations across the healthcare ecosystem - including providers, health plans,…",
-      "applyUrl": "https://remowork.life/jobs/6ae4df0ee66bcd754ea5e16e/apply-out?ch=card",
-      "source": "Training • Collaboration"
-    },
-    {
       "id": "6ae4ded0e66bcd754ea5dd22",
       "title": "Account Executive, Enterprise Acquisition",
       "company": "Snowflake",
@@ -4512,6 +4485,33 @@
       "excerpt": "Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities.",
       "applyUrl": "https://remowork.life/jobs/6ae4871b7adc5f2ecf609da8/apply-out?ch=card",
       "source": "Marketing • Operations"
+    },
+    {
+      "id": "6ae48a4a7adc5f2ecf60c39e",
+      "title": "Civilian Intelligence Agency Expert – U.S. & Allied Government",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "AI Expert - Government & Public Administration",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "AI",
+        "Operations",
+        "Strategic Thinking",
+        "Management",
+        "Leadership",
+        "Make",
+        "Decision Making",
+        "Accuracy"
+      ],
+      "location": "United States",
+      "pay": "$50 – $120/hr",
+      "date": "Oct 30, 2026",
+      "timestamp": 1793318400,
+      "excerpt": "Role Title: Civilian Intelligence Agency Expert – U.S. & Allied Government Role Type: Contractor Location: Remote micro1 is seeking current and former civilian professionals from U.S.",
+      "applyUrl": "https://remowork.life/jobs/6ae48a4a7adc5f2ecf60c39e/apply-out?ch=card",
+      "source": "AI • Operations"
     },
     {
       "id": "gh-4744402005",
@@ -6143,7 +6143,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4589749005",
+      "id": "gh-4650514005",
       "title": "Product Manager of AI Applications, Global Public Sector",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -6155,12 +6155,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Doha, Qatar ; Dubai, UAE (+1 lokasi lain)",
+      "location": "Riyadh, Saudi Arabia (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Oct 22, 2026",
       "timestamp": 1792692638,
       "excerpt": "Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most exciting and quickly expanding teams at Scale. This team is responsible for generating, executing, and fost...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
       "source": "⚡ Direct API"
     },
     {
@@ -7979,7 +7979,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5823643004",
+      "id": "gh-5823644004",
       "title": "Data Collection Contributor",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -7991,12 +7991,12 @@
         "Direct API",
         "HumanSignal"
       ],
-      "location": "Canada (+21 lokasi lain)",
+      "location": "Chile (+21 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823643004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823644004",
       "source": "⚡ Direct API"
     },
     {
