@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-01 15:29 UTC",
-  "totalJobs": 372,
+  "lastUpdated": "2026-11-01 18:34 UTC",
+  "totalJobs": 370,
   "jobs": [
     {
       "id": "6ae6dc142bef4940d6eb8c66",
@@ -6143,7 +6143,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4589749005",
+      "id": "gh-4650514005",
       "title": "Product Manager of AI Applications, Global Public Sector",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -6155,12 +6155,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Doha, Qatar ; Dubai, UAE (+1 lokasi lain)",
+      "location": "Riyadh, Saudi Arabia (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Oct 22, 2026",
       "timestamp": 1792692638,
       "excerpt": "Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most exciting and quickly expanding teams at Scale. This team is responsible for generating, executing, and fost...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
       "source": "⚡ Direct API"
     },
     {
@@ -7979,7 +7979,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5823643004",
+      "id": "gh-5823644004",
       "title": "Data Collection Contributor",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -7991,12 +7991,12 @@
         "Direct API",
         "HumanSignal"
       ],
-      "location": "Canada (+21 lokasi lain)",
+      "location": "Chile (+21 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823643004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823644004",
       "source": "⚡ Direct API"
     },
     {
@@ -8359,27 +8359,6 @@
       "source": "Linguistics • Localization"
     },
     {
-      "id": "ashby-c99e61c9-ed92-426d-9711-188dfc0f729f",
-      "title": "Senior ML Systems Engineer, Frameworks & Tooling",
-      "company": "Cohere",
-      "logo": "https://www.google.com/s2/favicons?domain=cohere.com&sz=128",
-      "category": "Modeling",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Modeling",
-        "Direct API"
-      ],
-      "location": "London",
-      "pay": "Lihat Detail",
-      "date": "Dec 01, 2025",
-      "timestamp": 1764584243,
-      "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
-      "applyUrl": "https://jobs.ashbyhq.com/cohere/c99e61c9-ed92-426d-9711-188dfc0f729f",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "ashby-2df2da3c-fb69-4d4d-b3c9-077b3df2ba3d",
       "title": "Senior Member of Technical Staff, Synthetic Data",
       "company": "Cohere",
@@ -8419,27 +8398,6 @@
       "timestamp": 1762959508,
       "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
       "applyUrl": "https://jobs.ashbyhq.com/cohere/b9306620-a110-46b5-b4c4-7363e1d03a8d",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "ashby-e912d84c-8399-422d-8a7d-918422a3e4b1",
-      "title": "Audio Inference Engineer, Model Efficiency",
-      "company": "Cohere",
-      "logo": "https://www.google.com/s2/favicons?domain=cohere.com&sz=128",
-      "category": "Modeling",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Modeling",
-        "Direct API"
-      ],
-      "location": "New York",
-      "pay": "Lihat Detail",
-      "date": "Nov 07, 2025",
-      "timestamp": 1762558434,
-      "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
-      "applyUrl": "https://jobs.ashbyhq.com/cohere/e912d84c-8399-422d-8a7d-918422a3e4b1",
       "source": "⚡ Direct API"
     },
     {
