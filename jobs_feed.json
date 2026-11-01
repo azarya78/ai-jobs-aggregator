@@ -1,7 +1,86 @@
 {
-  "lastUpdated": "2026-11-01 18:34 UTC",
+  "lastUpdated": "2026-11-01 21:30 UTC",
   "totalJobs": 370,
   "jobs": [
+    {
+      "id": "6ae785b02bef4940d6ed0993",
+      "title": "Remote Outbound Callers: Ongoing Call Campaigns",
+      "company": "Terac",
+      "logo": "https://www.google.com/s2/favicons?domain=terac.com&sz=32",
+      "category": "Sales Development Rep (SDR)",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Outreach",
+        "Communication",
+        "Sales",
+        "Flexible",
+        "Remote Work",
+        "Verbal communication"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$30/hr",
+      "date": "Nov 1, 2026",
+      "timestamp": 1793491200,
+      "excerpt": "We're hiring motivated outbound callers to join our growing network for ongoing campaigns. This initiative helps us establish a reliable pool of remote talent to handle consistent calling volume. Your efforts directly feed into our continuous outreach strategies.",
+      "applyUrl": "https://terac.com/opportunities/8l-umR5_8qOXrPBE",
+      "source": "Outreach • Communication"
+    },
+    {
+      "id": "6ae785d02bef4940d6ed0bd7",
+      "title": "Software Engineer - Code",
+      "company": "Turing",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037261/remowork/companies/turing-logo.webp",
+      "category": "AI Expert - Biology",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Research",
+        "AI",
+        "Training",
+        "Reasoning",
+        "STEM",
+        "Interpretation",
+        "Programming",
+        "Scientific Reasoning"
+      ],
+      "location": "Remote (Global)",
+      "pay": "Lihat Detail",
+      "date": "Nov 1, 2026",
+      "timestamp": 1793491200,
+      "excerpt": "Based in San Francisco, California, Turing is the world's leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems.",
+      "applyUrl": "https://work.turing.com/r/5l4nZFoydq",
+      "source": "Research • AI"
+    },
+    {
+      "id": "6ae781992bef4940d6ece5d9",
+      "title": "Video Annotation",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "Image & Video Annotation",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Annotation",
+        "AI",
+        "Rubrics",
+        "Data Classification",
+        "Precision",
+        "Channels",
+        "Assurance",
+        "Accuracy"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$15 – $25/hr",
+      "date": "Nov 1, 2026",
+      "timestamp": 1793491200,
+      "excerpt": "Role Title: Video Annotation Role Type: Contractor Location: Remote micro1 is engaging Video Annotation experts to contribute to a dynamic customer project focused on high-impact data labeling. In this role, you'll apply your expertise to help train next-generation AI systems.",
+      "applyUrl": "https://jobs.micro1.ai/post/b3160bd4-f048-4273-9ad0-066d0f53801c?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "Annotation • AI"
+    },
     {
       "id": "6ae6dc142bef4940d6eb8c66",
       "title": "American English Audio Reviewer, Alphanumeric Speech",
@@ -618,7 +697,7 @@
       "date": "Oct 31, 2026",
       "timestamp": 1793404800,
       "excerpt": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth.",
-      "applyUrl": "https://jobs.ashbyhq.com/supabase/fb0b563a-e541-43fd-8555-9eb6473aaa11/application",
+      "applyUrl": "https://remowork.life/jobs/6ae5dfbd9b5bd109919e992a/apply-out?ch=card",
       "source": "AI • Infrastructure"
     },
     {
@@ -645,7 +724,7 @@
       "date": "Oct 31, 2026",
       "timestamp": 1793404800,
       "excerpt": "Job Summary: We are looking for native British English speakers to support an AI training project focused on evaluating English audio recordings.",
-      "applyUrl": "https://jobs.micro1.ai/post/b8ed43ea-dc5c-4da1-80f4-633cb15d94a9?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "applyUrl": "https://remowork.life/jobs/6ac493eed2f3bde811c40995/apply-out?ch=card",
       "source": "English • AI"
     },
     {
@@ -672,7 +751,7 @@
       "date": "Oct 31, 2026",
       "timestamp": 1793404800,
       "excerpt": "micro1 is engaging Hindi bilingual experts to contribute to a customer's audio project focused on advancing machine learning. In this role, you'll apply your expertise to help train next-generation AI systems.",
-      "applyUrl": "https://jobs.micro1.ai/post/94ac7255-dbb8-4277-a858-c03adf697b89?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "applyUrl": "https://remowork.life/jobs/6ae5872da2d95048f0a33399/apply-out?ch=card",
       "source": "Hindi • AI"
     },
     {
@@ -4431,87 +4510,6 @@
       "excerpt": "Turing is one of the world’s fastest-growing AI companies, accelerating the advancement and deployment of powerful AI systems.",
       "applyUrl": "https://remowork.life/jobs/6ae48e4d7adc5f2ecf60e9e5/apply-out?ch=card",
       "source": "Annotation • French"
-    },
-    {
-      "id": "6ae48ab07adc5f2ecf60caa6",
-      "title": "Software Engineer (Shop Pod)",
-      "company": "TransPerfect",
-      "logo": "https://www.google.com/s2/favicons?domain=transperfect.com&sz=128",
-      "category": "C# / .NET Developer",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Infrastructure",
-        "Mechanics",
-        "Monetization",
-        "Logic",
-        "Unity",
-        "Management",
-        "Architecture",
-        "AWS"
-      ],
-      "location": "United States, Argentina, Chile +2 Mexico Brazil (US: NY, TX)",
-      "pay": "Lihat Detail",
-      "date": "Oct 30, 2026",
-      "timestamp": 1793318400,
-      "excerpt": "We are a dynamic game development team dedicated to creating rich, engaging player experiences and vibrant seasonal content.",
-      "applyUrl": "https://remowork.life/jobs/6ae48ab07adc5f2ecf60caa6/apply-out?ch=card",
-      "source": "Infrastructure • Mechanics"
-    },
-    {
-      "id": "6ae4871b7adc5f2ecf609da8",
-      "title": "Marketing Operations Program Manager",
-      "company": "Stripe",
-      "logo": "https://www.google.com/s2/favicons?domain=stripe.com&sz=128",
-      "category": "Marketing Operations",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Marketing",
-        "Operations",
-        "Infrastructure",
-        "Payments",
-        "Sales",
-        "Microsoft Teams",
-        "Precision",
-        "Automation"
-      ],
-      "location": "United States",
-      "pay": "$171,400 – $257,000/yr",
-      "date": "Oct 30, 2026",
-      "timestamp": 1793318400,
-      "excerpt": "Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities.",
-      "applyUrl": "https://remowork.life/jobs/6ae4871b7adc5f2ecf609da8/apply-out?ch=card",
-      "source": "Marketing • Operations"
-    },
-    {
-      "id": "6ae48a4a7adc5f2ecf60c39e",
-      "title": "Civilian Intelligence Agency Expert – U.S. & Allied Government",
-      "company": "Micro1",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
-      "category": "AI Expert - Government & Public Administration",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "AI",
-        "Operations",
-        "Strategic Thinking",
-        "Management",
-        "Leadership",
-        "Make",
-        "Decision Making",
-        "Accuracy"
-      ],
-      "location": "United States",
-      "pay": "$50 – $120/hr",
-      "date": "Oct 30, 2026",
-      "timestamp": 1793318400,
-      "excerpt": "Role Title: Civilian Intelligence Agency Expert – U.S. & Allied Government Role Type: Contractor Location: Remote micro1 is seeking current and former civilian professionals from U.S.",
-      "applyUrl": "https://remowork.life/jobs/6ae48a4a7adc5f2ecf60c39e/apply-out?ch=card",
-      "source": "AI • Operations"
     },
     {
       "id": "gh-4744402005",
