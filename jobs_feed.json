@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-11-02 00:49 UTC",
-  "totalJobs": 370,
+  "lastUpdated": "2026-11-02 03:49 UTC",
+  "totalJobs": 371,
   "jobs": [
+    {
+      "id": "ashby-ab45a550-14a2-4a74-abfb-83688d4508c1",
+      "title": "Technical Program Manager, AI Delivery (Dammam)",
+      "company": "Cohere",
+      "logo": "https://www.google.com/s2/favicons?domain=cohere.com&sz=128",
+      "category": "Product Management & Program Management",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Product Management & Program Management",
+        "Direct API"
+      ],
+      "location": "Saudi Arabia, Eastern Province",
+      "pay": "Lihat Detail",
+      "date": "Nov 02, 2026",
+      "timestamp": 1793591032,
+      "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/ab45a550-14a2-4a74-abfb-83688d4508c1",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "gh-5266461007",
       "title": "Sr. Data Center Technician, Linux - Memphis",
