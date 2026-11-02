@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02 03:49 UTC",
+  "lastUpdated": "2026-11-02 07:10 UTC",
   "totalJobs": 371,
   "jobs": [
     {
@@ -64,6 +64,60 @@
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
       "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5266491007",
       "source": "⚡ Direct API"
+    },
+    {
+      "id": "6ae82d2b2bef4940d6edf280",
+      "title": "Enterprise Procurement Professionals: Communications Platform Contract Negotiation",
+      "company": "Terac",
+      "logo": "https://www.google.com/s2/favicons?domain=terac.com&sz=32",
+      "category": "AI Expert - Procurement",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Procurement",
+        "Communications",
+        "Negotiation",
+        "Messaging",
+        "Contracts",
+        "React",
+        "Management",
+        "Sourcing"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$4,000 per task",
+      "date": "Nov 2, 2026",
+      "timestamp": 1793577600,
+      "excerpt": "We're running a paid study on how large organizations handle vendor discovery and commercial contract negotiation for enterprise communications platforms. Understanding the procurement lifecycle for messaging aggregators helps us identify friction points in the buying process.",
+      "applyUrl": "https://terac.com/opportunities/7GNwlKTh-oEf9pgx",
+      "source": "Procurement • Communications"
+    },
+    {
+      "id": "6ae82cdd2bef4940d6ede8d5",
+      "title": "Market Research & Insights Experts",
+      "company": "Mercor",
+      "logo": "https://www.google.com/s2/favicons?domain=mercor.com&sz=128",
+      "category": "AI Expert - Marketing",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Research",
+        "AI",
+        "Marketing",
+        "Strategic Thinking",
+        "Decision Making",
+        "Consulting",
+        "Segmentation",
+        "Analysis"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$120/hr",
+      "date": "Nov 2, 2026",
+      "timestamp": 1793577600,
+      "excerpt": "Mercor is partnering with a leading AI research lab to engage experienced Market Research, Consumer Insights, and Marketing Strategy professionals to act as end-users of a cutting-edge AI product.",
+      "applyUrl": "https://work.mercor.com/jobs/list_AAABoZp0wzuyh1qXnV5ADJMG/market-research-insights-experts?referralCode=c16ad3f0-df48-8fb1-34e7-1730849ebf3a",
+      "source": "Research • AI"
     },
     {
       "id": "6ae785b02bef4940d6ed0993",
@@ -170,6 +224,33 @@
       "excerpt": "We are recruiting reviewers for a paid audio review project focused on alphanumeric speech. You will listen to English voice recordings one by one and check whether each speaker read the given script accurately, word for word. This is not a recording task.",
       "applyUrl": "https://portal.rex.zone/open-opportunities/detail?jobId=6ae6d5c68819f8510d3d3bf1&inviteCode=NjhlNTlkMDYyNmJiYTI2NGRhZDQ5MzNl",
       "source": "English • Recruiting"
+    },
+    {
+      "id": "6ae7da662bef4940d6ed8ac3",
+      "title": "Pricing Analyst, Revenue Operations",
+      "company": "Bask Health",
+      "logo": "https://www.google.com/s2/favicons?domain=bask.health&sz=64",
+      "category": "RevOps",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Operations",
+        "Telemedicine",
+        "Make",
+        "Go",
+        "Culture",
+        "Collaboration",
+        "Pharmacy",
+        "Sales"
+      ],
+      "location": "United States, Philippines",
+      "pay": "Lihat Detail",
+      "date": "Nov 1, 2026",
+      "timestamp": 1793491200,
+      "excerpt": "Bask is the best telehealth platform on the market. Our mission is to empower entrepreneurs and businesses to launch a DTC telemedicine company quickly and easily, abstracting away the complexities of the industry into an easy-to-use platform.",
+      "applyUrl": "https://apply.workable.com/bask-health-1/j/BCA0295DF2",
+      "source": "Operations • Telemedicine"
     },
     {
       "id": "6ae6d8c02bef4940d6eb63dc",
@@ -352,7 +433,7 @@
         "Annotation"
       ],
       "location": "United States",
-      "pay": "$110 – $125/hr",
+      "pay": "$180/hr",
       "date": "Oct 31, 2026",
       "timestamp": 1793404800,
       "excerpt": "Mercor is partnering with a leading AI lab to train frontier models on high-quality legal reasoning data. We're hiring US patent attorneys with prosecution and/or litigation experience for a focused evaluation project.",
@@ -679,7 +760,7 @@
       "date": "Oct 31, 2026",
       "timestamp": 1793404800,
       "excerpt": "Role Title: French Bilingual Expert Role Type: Contractor Location: Remote micro1 is engaging French Bilingual Experts to participate in a high-impact project for a valued customer. In this role, you'll apply your expertise to help train next-generation AI systems.",
-      "applyUrl": "https://jobs.micro1.ai/post/6ff0ce32-fade-4377-bdd3-8c3879635728?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "applyUrl": "https://remowork.life/jobs/6ae5dbbc9b5bd109919e6807/apply-out?ch=card",
       "source": "French • AI"
     },
     {
@@ -706,7 +787,7 @@
       "date": "Oct 31, 2026",
       "timestamp": 1793404800,
       "excerpt": "Role Title: Japanese Bilingual Expert Role Type: Contractor Location: Remote micro1 is engaging Japanese Bilingual Experts to contribute to a customer’s project. In this role, you'll apply your expertise to help train next-generation AI systems.",
-      "applyUrl": "https://jobs.micro1.ai/post/73be52cc-daeb-4b86-aa28-79ab3ccab25c?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "applyUrl": "https://remowork.life/jobs/6ae5dbbc9b5bd109919e6808/apply-out?ch=card",
       "source": "Japanese • AI"
     },
     {
@@ -733,7 +814,7 @@
       "date": "Oct 31, 2026",
       "timestamp": 1793404800,
       "excerpt": "Role Title: German Bilingual Expert Role Type: Contractor Location: Remote micro1 is engaging German Bilingual Experts to contribute to a unique customer project focused on advancing artificial intelligence solutions.",
-      "applyUrl": "https://jobs.micro1.ai/post/a07dcffa-e3c1-4b8f-887f-26d55c2bb1b7?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "applyUrl": "https://remowork.life/jobs/6ae5dbbc9b5bd109919e6809/apply-out?ch=card",
       "source": "German • AI"
     },
     {
@@ -4452,87 +4533,6 @@
       "source": "Strategic Thinking • Operations"
     },
     {
-      "id": "6ae4e2f9e66bcd754ea5fdc5",
-      "title": "Associate General Counsel, Ads Product",
-      "company": "Reddit",
-      "logo": "https://www.google.com/s2/favicons?domain=reddit.com&sz=32",
-      "category": "Corporate Counsel",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Engineering",
-        "Microsoft Teams",
-        "Sales",
-        "Make",
-        "Strategic Thinking",
-        "Governance",
-        "GDPR",
-        "Advertising"
-      ],
-      "location": "United States (New York City or San Francisco (preferred) only · US: CA, NY)",
-      "pay": "$266,000 – $372,400/yr",
-      "date": "Oct 30, 2026",
-      "timestamp": 1793318400,
-      "excerpt": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about.",
-      "applyUrl": "https://remowork.life/jobs/6ae4e2f9e66bcd754ea5fdc5/apply-out?ch=card",
-      "source": "Engineering • Microsoft Teams"
-    },
-    {
-      "id": "6ae4e4b5e66bcd754ea60e47",
-      "title": "Project-Based Graphic Designer",
-      "company": "20four7VA",
-      "logo": "https://www.google.com/s2/favicons?domain=20four7va.com&sz=64",
-      "category": "Graphic Designer",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Recruiting",
-        "Make",
-        "Marketing",
-        "Brand Design",
-        "Canva",
-        "Templates",
-        "Consistency",
-        "Collaboration"
-      ],
-      "location": "Remote (Global)",
-      "pay": "Lihat Detail",
-      "date": "Oct 30, 2026",
-      "timestamp": 1793318400,
-      "excerpt": "APPLICATION INSTRUCTIONS: If you’ve already completed the 20four7VA Recruiting Process—including the Final Interview—or have previously been contracted by a 20four7VA Client, please make sure to apply via the 20four7VA Team Portal for faster processing.",
-      "applyUrl": "https://remowork.life/jobs/6ae4e4b5e66bcd754ea60e47/apply-out?ch=card",
-      "source": "Recruiting • Make"
-    },
-    {
-      "id": "6ae48e4d7adc5f2ecf60e9e5",
-      "title": "Audio/Voice/Annotation Trainer - French Language",
-      "company": "Turing",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037261/remowork/companies/turing-logo.webp",
-      "category": "Transcription & Audio Training",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Annotation",
-        "French",
-        "AI",
-        "Reasoning",
-        "STEM",
-        "German",
-        "Diarization",
-        "Flexible"
-      ],
-      "location": "Remote (Global)",
-      "pay": "Lihat Detail",
-      "date": "Oct 30, 2026",
-      "timestamp": 1793318400,
-      "excerpt": "Turing is one of the world’s fastest-growing AI companies, accelerating the advancement and deployment of powerful AI systems.",
-      "applyUrl": "https://remowork.life/jobs/6ae48e4d7adc5f2ecf60e9e5/apply-out?ch=card",
-      "source": "Annotation • French"
-    },
-    {
       "id": "gh-4744402005",
       "title": "Safety Research Scholar - Human Frontier Labs",
       "company": "Scale AI",
@@ -6162,7 +6162,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4650514005",
+      "id": "gh-4589749005",
       "title": "Product Manager of AI Applications, Global Public Sector",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -6174,12 +6174,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Riyadh, Saudi Arabia (+1 lokasi lain)",
+      "location": "Doha, Qatar ; Dubai, UAE (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Oct 22, 2026",
       "timestamp": 1792692638,
       "excerpt": "Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most exciting and quickly expanding teams at Scale. This team is responsible for generating, executing, and fost...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
       "source": "⚡ Direct API"
     },
     {
@@ -7998,7 +7998,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5823644004",
+      "id": "gh-5823643004",
       "title": "Data Collection Contributor",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8010,12 +8010,12 @@
         "Direct API",
         "HumanSignal"
       ],
-      "location": "Chile (+21 lokasi lain)",
+      "location": "Canada (+21 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823644004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823643004",
       "source": "⚡ Direct API"
     },
     {
