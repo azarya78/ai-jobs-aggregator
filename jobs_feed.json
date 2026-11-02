@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02 09:55 UTC",
+  "lastUpdated": "2026-11-02 12:54 UTC",
   "totalJobs": 369,
   "jobs": [
     {
@@ -4236,33 +4236,6 @@
       "source": "AI • Make"
     },
     {
-      "id": "6ae4df0ee66bcd754ea5e14f",
-      "title": "Health Information Specialist 1",
-      "company": "Datavant",
-      "logo": "https://www.google.com/s2/favicons?domain=datavant.com&sz=32",
-      "category": "Medical Coder / Biller",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Collaboration",
-        "Healthcare",
-        "Make",
-        "AI",
-        "Accuracy",
-        "Compliance",
-        "Authorization",
-        "HIPAA"
-      ],
-      "location": "United States (US: LA, TX)",
-      "pay": "$15/hr",
-      "date": "Oct 30, 2026",
-      "timestamp": 1793318400,
-      "excerpt": "Datavant is the data collaboration platform trusted for healthcare. Guided by our mission to make the world’s health data secure, accessible and actionable, we provide critical data solutions for organizations across the healthcare ecosystem - including providers, health plans,…",
-      "applyUrl": "https://remowork.life/jobs/6ae4df0ee66bcd754ea5e14f/apply-out?ch=card",
-      "source": "Collaboration • Healthcare"
-    },
-    {
       "id": "6ae4e35de66bcd754ea60319",
       "title": "Computer Science (STEM)",
       "company": "Turing",
@@ -4531,6 +4504,33 @@
       "excerpt": "Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities.",
       "applyUrl": "https://remowork.life/jobs/6ae4db83e66bcd754ea5b592/apply-out?ch=card",
       "source": "Strategic Thinking • Operations"
+    },
+    {
+      "id": "6ae4e2f9e66bcd754ea5fdc5",
+      "title": "Associate General Counsel, Ads Product",
+      "company": "Reddit",
+      "logo": "https://www.google.com/s2/favicons?domain=reddit.com&sz=32",
+      "category": "Corporate Counsel",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Engineering",
+        "Microsoft Teams",
+        "Sales",
+        "Make",
+        "Strategic Thinking",
+        "Governance",
+        "GDPR",
+        "Advertising"
+      ],
+      "location": "United States (New York City or San Francisco (preferred) only · US: CA, NY)",
+      "pay": "$266,000 – $372,400/yr",
+      "date": "Oct 30, 2026",
+      "timestamp": 1793318400,
+      "excerpt": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about.",
+      "applyUrl": "https://remowork.life/jobs/6ae4e2f9e66bcd754ea5fdc5/apply-out?ch=card",
+      "source": "Engineering • Microsoft Teams"
     },
     {
       "id": "gh-4744402005",
