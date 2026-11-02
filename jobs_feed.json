@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-02 15:54 UTC",
-  "totalJobs": 369,
+  "lastUpdated": "2026-11-02 18:50 UTC",
+  "totalJobs": 368,
   "jobs": [
     {
       "id": "ashby-ab45a550-14a2-4a74-abfb-83688d4508c1",
@@ -2849,7 +2849,7 @@
         "Education",
         "Spanish"
       ],
-      "location": "United States (US: TX) (+4 lokasi lain)",
+      "location": "United States (US: TX) (+3 lokasi lain)",
       "pay": "$70,000 – $80,000/yr",
       "date": "Oct 30, 2026",
       "timestamp": 1793318400,
@@ -4533,6 +4533,33 @@
       "source": "AI • Governance"
     },
     {
+      "id": "6ae4ded0e66bcd754ea5dd22",
+      "title": "Account Executive, Enterprise Acquisition",
+      "company": "Snowflake",
+      "logo": "https://www.google.com/s2/favicons?domain=snowflake.com&sz=32",
+      "category": "Account Executive (Mid-Market / Enterprise)",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Snowflake",
+        "AI",
+        "Sales",
+        "Prospecting",
+        "Strategic Thinking",
+        "Microsoft Teams",
+        "Engineering",
+        "Marketing"
+      ],
+      "location": "United States (US: CA)",
+      "pay": "$134k – $176k/yr",
+      "date": "Oct 30, 2026",
+      "timestamp": 1793318400,
+      "excerpt": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work.",
+      "applyUrl": "https://remowork.life/jobs/6ae4ded0e66bcd754ea5dd22/apply-out?ch=card",
+      "source": "Snowflake • AI"
+    },
+    {
       "id": "gh-4744402005",
       "title": "Safety Research Scholar - Human Frontier Labs",
       "company": "Scale AI",
@@ -6162,7 +6189,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4650514005",
+      "id": "gh-4589749005",
       "title": "Product Manager of AI Applications, Global Public Sector",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -6174,12 +6201,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Riyadh, Saudi Arabia (+1 lokasi lain)",
+      "location": "Doha, Qatar ; Dubai, UAE (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Oct 22, 2026",
       "timestamp": 1792692638,
       "excerpt": "Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most exciting and quickly expanding teams at Scale. This team is responsible for generating, executing, and fost...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
       "source": "⚡ Direct API"
     },
     {
@@ -7140,27 +7167,6 @@
       "source": "Indonesian • Compliance"
     },
     {
-      "id": "ashby-347282a4-74ff-4e56-a92d-3c4249ee6c28",
-      "title": "Account Executive - Spain - Mid-Market",
-      "company": "ElevenLabs",
-      "logo": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128",
-      "category": "Revenue",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Revenue",
-        "Direct API"
-      ],
-      "location": "Spain",
-      "pay": "Lihat Detail",
-      "date": "Sep 25, 2026",
-      "timestamp": 1790374386,
-      "excerpt": "ABOUT ELEVENLABS  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users an...",
-      "applyUrl": "https://jobs.ashbyhq.com/elevenlabs/347282a4-74ff-4e56-a92d-3c4249ee6c28",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "gh-6208927004",
       "title": "Field Data Collection Specialist (Columbus, OH)",
       "company": "HumanSignal",
@@ -7635,27 +7641,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "ashby-9baccd88-c051-474f-bfe8-6867fca54cee",
-      "title": "Data Engineer, Data Foundations",
-      "company": "Cohere",
-      "logo": "https://www.google.com/s2/favicons?domain=cohere.com&sz=128",
-      "category": "Engineering & Infra",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Engineering & Infra",
-        "Direct API"
-      ],
-      "location": "New York",
-      "pay": "Lihat Detail",
-      "date": "Aug 14, 2026",
-      "timestamp": 1786691420,
-      "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
-      "applyUrl": "https://jobs.ashbyhq.com/cohere/9baccd88-c051-474f-bfe8-6867fca54cee",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "ashby-8878b0d0-7d88-4ee9-bc17-b0dd237e39a0",
       "title": "Member of Technical Staff, Agentic Environments ",
       "company": "Cohere",
@@ -7977,7 +7962,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5823644004",
+      "id": "gh-5823643004",
       "title": "Data Collection Contributor",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -7989,12 +7974,12 @@
         "Direct API",
         "HumanSignal"
       ],
-      "location": "Chile (+21 lokasi lain)",
+      "location": "Canada (+21 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823644004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823643004",
       "source": "⚡ Direct API"
     },
     {
