@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03 03:45 UTC",
+  "lastUpdated": "2026-11-03 06:56 UTC",
   "totalJobs": 375,
   "jobs": [
     {
@@ -682,7 +682,7 @@
         "Planning"
       ],
       "location": "United States",
-      "pay": "$95,000 – $119,000/yr",
+      "pay": "$118,000 – $148,000/yr",
       "date": "Nov 2, 2026",
       "timestamp": 1793577600,
       "excerpt": "Thank you for considering Tailscale. If this job description resonates with you, please apply. Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications.",
@@ -2877,33 +2877,6 @@
       "source": "Management • AI"
     },
     {
-      "id": "6ae8d35f2bef4940d6f052ce",
-      "title": "Senior Solutions Engineer, Acquisition | Central | Remote",
-      "company": "Grafana Labs",
-      "logo": "https://www.google.com/s2/favicons?domain=grafana.com&sz=32",
-      "category": "Sales Engineer",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Grafana",
-        "Observability",
-        "AI",
-        "Microsoft Teams",
-        "Salesforce",
-        "Open Source",
-        "Culture",
-        "Make"
-      ],
-      "location": "United States (US: IL, IN, MI +3)",
-      "pay": "$204k – $254k/yr",
-      "date": "Nov 2, 2026",
-      "timestamp": 1793577600,
-      "excerpt": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale.",
-      "applyUrl": "https://remowork.life/jobs/6ae8d35f2bef4940d6f052ce/apply-out?ch=card",
-      "source": "Grafana • Observability"
-    },
-    {
       "id": "6ae8d0a32bef4940d6f03da7",
       "title": "Senior Account Executive, SLED (NJ/PA)",
       "company": "Cloudflare",
@@ -4198,6 +4171,33 @@
       "excerpt": "We are seeking a Principal Software Engineer to architect and build core platform systems to accelerate Physical AI development, such as Autonomous Driving (AV) & Robotics.",
       "applyUrl": "https://remowork.life/jobs/6ae926780405b844b875685c/apply-out?ch=card",
       "source": "Simulation • AI"
+    },
+    {
+      "id": "6ae926780405b844b875685a",
+      "title": "Senior Compiler Engineer, Agentic Compiler Systems",
+      "company": "NVIDIA",
+      "logo": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=32",
+      "category": "Systems Engineer",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Verification",
+        "Transformations",
+        "Infrastructure",
+        "Microsoft Teams",
+        "Optimization",
+        "Precision",
+        "Testing",
+        "Computer Vision"
+      ],
+      "location": "United States (US: CA, OR, TX)",
+      "pay": "Lihat Detail",
+      "date": "Nov 2, 2026",
+      "timestamp": 1793577600,
+      "excerpt": "We are looking for an outstanding Senior Compiler Engineer to help build the next generation of intelligent compiler technologies for NVIDIA's accelerated computing stack.",
+      "applyUrl": "https://remowork.life/jobs/6ae926780405b844b875685a/apply-out?ch=card",
+      "source": "Verification • Transformations"
     },
     {
       "id": "6a7eb4c8413a2a759faa9dd3",
@@ -6465,7 +6465,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4589749005",
+      "id": "gh-4650514005",
       "title": "Product Manager of AI Applications, Global Public Sector",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -6477,12 +6477,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Doha, Qatar ; Dubai, UAE (+1 lokasi lain)",
+      "location": "Riyadh, Saudi Arabia (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Oct 22, 2026",
       "timestamp": 1792692638,
       "excerpt": "Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most exciting and quickly expanding teams at Scale. This team is responsible for generating, executing, and fost...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
       "source": "⚡ Direct API"
     },
     {
@@ -8169,7 +8169,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5823643004",
+      "id": "gh-5823644004",
       "title": "Data Collection Contributor",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8181,12 +8181,12 @@
         "Direct API",
         "HumanSignal"
       ],
-      "location": "Canada (+21 lokasi lain)",
+      "location": "Chile (+21 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823643004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823644004",
       "source": "⚡ Direct API"
     },
     {
