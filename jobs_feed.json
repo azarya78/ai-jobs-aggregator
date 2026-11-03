@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-11-02 21:37 UTC",
-  "totalJobs": 378,
+  "lastUpdated": "2026-11-03 00:49 UTC",
+  "totalJobs": 376,
   "jobs": [
+    {
+      "id": "gh-4733702005",
+      "title": "Engineering Manager, Customer Platform (GenAI)",
+      "company": "Scale AI",
+      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "Scale AI"
+      ],
+      "location": "New York, NY",
+      "pay": "Lihat Detail",
+      "date": "Nov 02, 2026",
+      "timestamp": 1793664829,
+      "excerpt": "At Scale, our mission is to develop reliable AI systems for the world's most important decisions. Our products provide the high-quality data and full-stack technologies that power the world's leading models, and help ent...",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4733702005",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "gh-5281818007",
       "title": "Sr. Model Engineer, Model Training",
@@ -232,6 +253,33 @@
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
       "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5266491007",
       "source": "⚡ Direct API"
+    },
+    {
+      "id": "6ae924230405b844b8754306",
+      "title": "Senior Growth Operations Manager",
+      "company": "Chainguard",
+      "logo": "https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32",
+      "category": "RevOps",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Operations",
+        "AI",
+        "Canva",
+        "Snowflake",
+        "Apache Spark",
+        "REST API",
+        "BDR",
+        "Sales"
+      ],
+      "location": "United States",
+      "pay": "$140,000 – $167,500/yr",
+      "date": "Nov 2, 2026",
+      "timestamp": 1793577600,
+      "excerpt": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk.",
+      "applyUrl": "https://job-boards.greenhouse.io/chainguard/jobs/4726048006",
+      "source": "Operations • AI"
     },
     {
       "id": "6ae8d9292bef4940d6f08207",
@@ -905,7 +953,7 @@
       "date": "Nov 2, 2026",
       "timestamp": 1793577600,
       "excerpt": "Medical Educator - AI Research Participants - United States (Remote) Location: Remote, United States Type of participation: Freelance, task-based Indicative pay: $130/hour for invited paid screening; project tasks from $216/hour, subject to task-specific confirmation.",
-      "applyUrl": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5025088101",
+      "applyUrl": "https://remowork.life/jobs/6ae8d0592bef4940d6f0384b/apply-out?ch=card",
       "source": "AI • Research"
     },
     {
@@ -2359,7 +2407,7 @@
         "Microsoft Teams"
       ],
       "location": "United States (US: CA)",
-      "pay": "Lihat Detail",
+      "pay": "$200,000 – $322,000/yr",
       "date": "Nov 2, 2026",
       "timestamp": 1793577600,
       "excerpt": "Hardware Infrastructure is seeking a Senior Technical Program Manager to lead the strategy and execution of programs to support the reliability, scalability and modernization of the infrastructure that supports NVIDIA's Hardware ecosystem.",
@@ -3408,7 +3456,7 @@
         "Education"
       ],
       "location": "United States (US: IN)",
-      "pay": "$60k – $63k/yr",
+      "pay": "$60,000 – $63,000/yr",
       "date": "Oct 31, 2026",
       "timestamp": 1793404800,
       "excerpt": "At Brave Health, we are driven by a deep commitment to transform lives by expanding access to compassionate, high-quality mental health care.",
@@ -3560,22 +3608,22 @@
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
-        "Curation",
-        "Go",
         "Modeling",
         "Reporting",
         "Analysis",
         "Experimentation",
         "Culture",
-        "Leadership"
+        "Leadership",
+        "Consistency",
+        "Engineering"
       ],
       "location": "United States",
       "pay": "Lihat Detail",
       "date": "Oct 31, 2026",
       "timestamp": 1793404800,
-      "excerpt": "In a world where many social apps measure their success by time spent online, Places offers a different kind of product built by Raya, a technology company focused on providing utility.",
+      "excerpt": "As a Data Scientist on the Places by Raya team you will play a key role that will shape how the Places app uses data to drive business decisions. This hands-on role combines data modeling and reporting with product analysis and experimentation.",
       "applyUrl": "https://remowork.life/jobs/6ae5388ef45b0f034f3d78bd/apply-out?ch=card",
-      "source": "Curation • Go"
+      "source": "Modeling • Reporting"
     },
     {
       "id": "6ae53675f45b0f034f3d5865",
@@ -4866,33 +4914,6 @@
       "excerpt": "At Brave Health, we are driven by a deep commitment to transform lives by expanding access to compassionate, high-quality mental health care.",
       "applyUrl": "https://remowork.life/jobs/6ae538a5f45b0f034f3d7a50/apply-out?ch=card",
       "source": "Spanish • Organization"
-    },
-    {
-      "id": "6ae538a5f45b0f034f3d7a51",
-      "title": "Licensed Professional Counselor (LPC) - Remote",
-      "company": "Brave Health",
-      "logo": "https://www.google.com/s2/favicons?domain=bebravehealth.com&sz=64",
-      "category": "Telehealth Therapist / Counsellor",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Organization",
-        "Healthcare",
-        "Medicaid",
-        "Telemedicine",
-        "Monday.com",
-        "Insurance",
-        "Education",
-        "Spanish"
-      ],
-      "location": "United States (US: TX)",
-      "pay": "$70,000 – $80,000/yr",
-      "date": "Oct 30, 2026",
-      "timestamp": 1793318400,
-      "excerpt": "At Brave Health, we are driven by a deep commitment to transform lives by expanding access to compassionate, high-quality mental health care.",
-      "applyUrl": "https://remowork.life/jobs/6ae538a5f45b0f034f3d7a51/apply-out?ch=card",
-      "source": "Organization • Healthcare"
     },
     {
       "id": "gh-4744402005",
@@ -6188,27 +6209,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4733702005",
-      "title": "Engineering Manager, Customer Platform (GenAI)",
-      "company": "Scale AI",
-      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "Scale AI"
-      ],
-      "location": "San Francisco, CA; New York, NY",
-      "pay": "Lihat Detail",
-      "date": "Oct 22, 2026",
-      "timestamp": 1792692638,
-      "excerpt": "At Scale, our mission is to develop reliable AI systems for the world's most important decisions. Our products provide the high-quality data and full-stack technologies that power the world's leading models, and help ent...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4733702005",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "gh-4732365005",
       "title": "Engineering Manager, Frontier AI Infrastructure - Public Sector ",
       "company": "Scale AI",
@@ -6818,27 +6818,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4722512005",
-      "title": "Software Engineer - AI Enablement",
-      "company": "Scale AI",
-      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "Scale AI"
-      ],
-      "location": "San Francisco, CA",
-      "pay": "Lihat Detail",
-      "date": "Oct 22, 2026",
-      "timestamp": 1792692638,
-      "excerpt": "Scale GP is Scale's enterprise Generative AI platform—APIs and infrastructure for knowledge retrieval, inference, evaluation, and intelligent automation. We power mission-critical workflows for leading enterprises, helpi...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4722512005",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "gh-4513943005",
       "title": "Software Engineer, Enterprise AI",
       "company": "Scale AI",
@@ -7410,33 +7389,6 @@
       "excerpt": "ABOUT ELEVENLABS  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users an...",
       "applyUrl": "https://jobs.ashbyhq.com/elevenlabs/257f24da-83db-4bad-a6dc-37793a1a0bac",
       "source": "⚡ Direct API"
-    },
-    {
-      "id": "6abd53abdd1acda28bd73176",
-      "title": "Medical Translators - Indonesian - US-based",
-      "company": "Lilt",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037300/remowork/companies/lilt-logo.webp",
-      "category": "Translator",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "Indonesian",
-        "Compliance",
-        "Procedures",
-        "Translation",
-        "Linguistics",
-        "Localization",
-        "Payments",
-        "AI"
-      ],
-      "location": "United States",
-      "pay": "Lihat Detail",
-      "date": "Sep 30, 2026",
-      "timestamp": 1790726400,
-      "excerpt": "We are currently searching for linguists to join our Medical Talent Community. Given the highly regulated nature of the products in the Indonesian market, we are looking for senior linguists with a proven track record specifically within the Life Sciences vertical.",
-      "applyUrl": "https://remowork.life/jobs/6abd53abdd1acda28bd73176/apply-out?ch=card",
-      "source": "Indonesian • Compliance"
     },
     {
       "id": "gh-6208927004",
