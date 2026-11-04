@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-11-03 21:38 UTC",
+  "lastUpdated": "2026-11-04 00:49 UTC",
   "totalJobs": 359,
   "jobs": [
+    {
+      "id": "gh-6240051004",
+      "title": "Freelance Graphic Designer - AI Training",
+      "company": "HumanSignal",
+      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": true,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "HumanSignal"
+      ],
+      "location": "Indonesia (Remote) (+15 lokasi lain)",
+      "pay": "Lihat Detail",
+      "date": "Nov 03, 2026",
+      "timestamp": 1793748275,
+      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6240051004",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "ashby-0cf19dbd-bfa9-425f-a357-e2bd874bb489",
       "title": "Data Annotation Specialist, Safety",
@@ -274,7 +295,7 @@
     },
     {
       "id": "6aea2923c199e54a48c7d4c3",
-      "title": "Director of Sales",
+      "title": "Sales Director",
       "company": "StackAdapt",
       "logo": "https://www.google.com/s2/favicons?domain=stackadapt.com&sz=32",
       "category": "Enterprise Sales Manager",
@@ -2546,7 +2567,7 @@
         "Communication"
       ],
       "location": "United States",
-      "pay": "Lihat Detail",
+      "pay": "$184,000 – $287,500/yr",
       "date": "Nov 3, 2026",
       "timestamp": 1793664000,
       "excerpt": "NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people.",
@@ -3406,33 +3427,6 @@
       "source": "Go • AI"
     },
     {
-      "id": "6ae92b510405b844b875836c",
-      "title": "Senior Manager, Technical Excellence & Escalations",
-      "company": "Tenable",
-      "logo": "https://www.google.com/s2/favicons?domain=tenable.com&sz=32",
-      "category": "Technical Support Engineer",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Management",
-        "Cybersecurity",
-        "Culture",
-        "Microsoft Teams",
-        "REST API",
-        "Engineering",
-        "Organization",
-        "Operations"
-      ],
-      "location": "United States (US: MA)",
-      "pay": "$137,500 – $183,500/yr",
-      "date": "Nov 2, 2026",
-      "timestamp": 1793577600,
-      "excerpt": "Who is Tenable? Tenable® is the Exposure Management company. Over 40,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. Our global employees support 65 percent of the Fortune 500, 50 percent of the Global 2000, and large government agencies.",
-      "applyUrl": "https://remowork.life/jobs/6ae92b510405b844b875836c/apply-out?ch=card",
-      "source": "Management • Cybersecurity"
-    },
-    {
       "id": "6ae927bb0405b844b8756bdd",
       "title": "Data Analyst (AI Evaluation)",
       "company": "Micro1",
@@ -3701,33 +3695,6 @@
       "excerpt": "This role as a Training Specialist is responsible for enabling business leads and end-users to effectively utilize Workday business process modules and custom Meta solutions.",
       "applyUrl": "https://remowork.life/jobs/6ae926860405b844b8756b06/apply-out?ch=card",
       "source": "Training • Workday"
-    },
-    {
-      "id": "6ae9246e0405b844b875455a",
-      "title": "Americas Field Marketing, Financial Services",
-      "company": "Stripe",
-      "logo": "https://www.google.com/s2/favicons?domain=stripe.com&sz=128",
-      "category": "Growth Marketer (General)",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Marketing",
-        "Infrastructure",
-        "Payments",
-        "Strategic Thinking",
-        "Sales",
-        "Microsoft Teams",
-        "Make",
-        "Cross-Functional Collaboration"
-      ],
-      "location": "United States",
-      "pay": "$143,400 – $215,200/yr",
-      "date": "Nov 2, 2026",
-      "timestamp": 1793577600,
-      "excerpt": "Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities.",
-      "applyUrl": "https://remowork.life/jobs/6ae9246e0405b844b875455a/apply-out?ch=card",
-      "source": "Marketing • Infrastructure"
     },
     {
       "id": "6aea2bd0c199e54a48c7f88e",
@@ -4189,6 +4156,60 @@
       "source": "AI • Make"
     },
     {
+      "id": "6ae97c1e0405b844b875e503",
+      "title": "Finance & Accounting Headhunter",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "Recruiter (Non-tech)",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Finance",
+        "Accounting",
+        "AI",
+        "Sourcing",
+        "Network Fundamentals",
+        "Research",
+        "Communication",
+        "Confidentiality"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$1,000 – $5,000 per placement",
+      "date": "Nov 2, 2026",
+      "timestamp": 1793577600,
+      "excerpt": "Job Title: Finance & Accounting Headhunter Job Type: Contractor Location: Remote Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input.",
+      "applyUrl": "https://remowork.life/jobs/6ae97c1e0405b844b875e503/apply-out?ch=card",
+      "source": "Finance • Accounting"
+    },
+    {
+      "id": "6ae927cb0405b844b8756f16",
+      "title": "Strategic Channel Manager | Remote | West Coast US",
+      "company": "Grafana Labs",
+      "logo": "https://www.google.com/s2/favicons?domain=grafana.com&sz=32",
+      "category": "Channel Sales Manager",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Grafana",
+        "Observability",
+        "AI",
+        "Microsoft Teams",
+        "Salesforce",
+        "Open Source",
+        "Culture",
+        "Strategic Thinking"
+      ],
+      "location": "United States (US: CA, OR, WA)",
+      "pay": "$265,000 – $290,000/yr",
+      "date": "Nov 2, 2026",
+      "timestamp": 1793577600,
+      "excerpt": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale.",
+      "applyUrl": "https://remowork.life/jobs/6ae927cb0405b844b8756f16/apply-out?ch=card",
+      "source": "Grafana • Observability"
+    },
+    {
       "id": "6a7eb4c8413a2a759faa9dd3",
       "title": "Indonesian Bilingual Expert",
       "company": "Micro1",
@@ -4276,27 +4297,6 @@
       "timestamp": 1793402996,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
       "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/4965893007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-6240051004",
-      "title": "Freelance Graphic Designer - AI Training",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": true,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Indonesia (Remote) (+14 lokasi lain)",
-      "pay": "Lihat Detail",
-      "date": "Oct 30, 2026",
-      "timestamp": 1793401391,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6240051004",
       "source": "⚡ Direct API"
     },
     {
