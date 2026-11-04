@@ -1,7 +1,406 @@
 {
-  "lastUpdated": "2026-11-04 00:49 UTC",
+  "lastUpdated": "2026-11-04 03:45 UTC",
   "totalJobs": 359,
   "jobs": [
+    {
+      "id": "gh-5210378007",
+      "title": "Program Manager, Prohibited & Regulated Content",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Palo Alto, CA; Austin, TX; Bastrop, TX; New York, NY",
+      "pay": "Lihat Detail",
+      "date": "Nov 03, 2026",
+      "timestamp": 1793758607,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5210378007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5051966007",
+      "title": "Model Engineer, Voice",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Palo Alto, CA",
+      "pay": "Lihat Detail",
+      "date": "Nov 03, 2026",
+      "timestamp": 1793758196,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5051966007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5051985007",
+      "title": "Model Engineer, Imagine",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Palo Alto, CA",
+      "pay": "Lihat Detail",
+      "date": "Nov 03, 2026",
+      "timestamp": 1793758156,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5051985007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5182183007",
+      "title": "Software Engineer, Data Engineering (X)",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Palo Alto, CA",
+      "pay": "Lihat Detail",
+      "date": "Nov 03, 2026",
+      "timestamp": 1793758053,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5182183007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5125621007",
+      "title": "Sr. Maching Learning Engineer, Search Ranking",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Palo Alto, CA",
+      "pay": "Lihat Detail",
+      "date": "Nov 03, 2026",
+      "timestamp": 1793757154,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5125621007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5210802007",
+      "title": "Human Data Manager",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Palo Alto, CA",
+      "pay": "Lihat Detail",
+      "date": "Nov 03, 2026",
+      "timestamp": 1793756898,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5210802007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5204819007",
+      "title": "Human Data Engineer",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Palo Alto, CA",
+      "pay": "Lihat Detail",
+      "date": "Nov 03, 2026",
+      "timestamp": 1793756856,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5204819007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5270908007",
+      "title": "Client Partner, Dubai",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": "Dubai, UAE",
+      "pay": "Lihat Detail",
+      "date": "Nov 03, 2026",
+      "timestamp": 1793756162,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5270908007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5205179007",
+      "title": "Sr. Software Engineer, Search Infrastructure",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Palo Alto, CA",
+      "pay": "Lihat Detail",
+      "date": "Nov 03, 2026",
+      "timestamp": 1793755856,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5205179007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5017529007",
+      "title": "AI Tutor, Writing - Temporary",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": "Remote International",
+      "pay": "Lihat Detail",
+      "date": "Nov 03, 2026",
+      "timestamp": 1793755528,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5017529007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5236653007",
+      "title": "AI Tutor, Video - Temporary (Weekend Shift)",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": "Remote International",
+      "pay": "Lihat Detail",
+      "date": "Nov 03, 2026",
+      "timestamp": 1793755490,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5236653007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5047564007",
+      "title": "AI Tutor, Video - Temporary",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": "Remote International",
+      "pay": "Lihat Detail",
+      "date": "Nov 03, 2026",
+      "timestamp": 1793755452,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5047564007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-4925832007",
+      "title": "AI Tutor, Physics - Temporary",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": "Remote International",
+      "pay": "Lihat Detail",
+      "date": "Nov 03, 2026",
+      "timestamp": 1793755347,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/4925832007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-4925859007",
+      "title": "AI Tutor, Math - Temporary",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": "Remote International",
+      "pay": "Lihat Detail",
+      "date": "Nov 03, 2026",
+      "timestamp": 1793755210,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/4925859007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-4925823007",
+      "title": "AI Tutor, Materials Science - Temporary",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": "Remote International",
+      "pay": "Lihat Detail",
+      "date": "Nov 03, 2026",
+      "timestamp": 1793755171,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/4925823007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-4931315007",
+      "title": "AI Tutor, Legal & Compliance - Temporary",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": "Remote International",
+      "pay": "Lihat Detail",
+      "date": "Nov 03, 2026",
+      "timestamp": 1793755134,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/4931315007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5227951007",
+      "title": "AI Tutor, Humanities - Temporary",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": "Remote International",
+      "pay": "Lihat Detail",
+      "date": "Nov 03, 2026",
+      "timestamp": 1793755072,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5227951007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5227940007",
+      "title": "AI Tutor, Design - Temporary",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": "Remote International",
+      "pay": "Lihat Detail",
+      "date": "Nov 03, 2026",
+      "timestamp": 1793755022,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5227940007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-4925878007",
+      "title": "AI Tutor, Applied Math - Temporary",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": "Remote International",
+      "pay": "Lihat Detail",
+      "date": "Nov 03, 2026",
+      "timestamp": 1793754814,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/4925878007",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "gh-6240051004",
       "title": "Freelance Graphic Designer - AI Training",
@@ -105,90 +504,6 @@
       "timestamp": 1793689684,
       "excerpt": "Scale GP (Scale Generative AI Platform) is an enterprise-grade AI platform that provides APIs for knowledge retrieval, inference, evaluation, and more. We are looking for a strong engineer to join our team and help us bu...",
       "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4665557005",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-4925823007",
-      "title": "AI Tutor, Materials Science - Temporary",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": "Remote International",
-      "pay": "Lihat Detail",
-      "date": "Nov 02, 2026",
-      "timestamp": 1793670316,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/4925823007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-4925832007",
-      "title": "AI Tutor, Physics - Temporary",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": "Remote International",
-      "pay": "Lihat Detail",
-      "date": "Nov 02, 2026",
-      "timestamp": 1793670268,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/4925832007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-4925859007",
-      "title": "AI Tutor, Math - Temporary",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": "Remote International",
-      "pay": "Lihat Detail",
-      "date": "Nov 02, 2026",
-      "timestamp": 1793670178,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/4925859007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-4925878007",
-      "title": "AI Tutor, Applied Math - Temporary",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": "Remote International",
-      "pay": "Lihat Detail",
-      "date": "Nov 02, 2026",
-      "timestamp": 1793670104,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/4925878007",
       "source": "⚡ Direct API"
     },
     {
@@ -494,13 +809,15 @@
       "skills": [
         "Research",
         "Healthcare",
-        "Recruiting",
-        "GDPR",
-        "Mental Health",
-        "Data Privacy"
+        "Reporting",
+        "Modeling",
+        "Benchmarking",
+        "Finance",
+        "Sales",
+        "Operations"
       ],
       "location": "United States",
-      "pay": "Lihat Detail",
+      "pay": "$106,000 – $146,000/yr",
       "date": "Nov 3, 2026",
       "timestamp": 1793664000,
       "excerpt": "Lyra Health is a leading provider of evidence-based mental health care, serving more than 20 million people globally in partnership with employers and more than 100 million through health plan and partner relationships.",
@@ -2842,48 +3159,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5051966007",
-      "title": "Model Engineer, Voice",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Palo Alto, CA",
-      "pay": "Lihat Detail",
-      "date": "Nov 02, 2026",
-      "timestamp": 1793646869,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5051966007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5051985007",
-      "title": "Model Engineer, Imagine",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Palo Alto, CA",
-      "pay": "Lihat Detail",
-      "date": "Nov 02, 2026",
-      "timestamp": 1793646816,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5051985007",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "gh-5111374007",
       "title": "Sr. Model Engineer, Multimodal Understanding",
       "company": "xAI",
@@ -4384,27 +4659,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5182183007",
-      "title": "Software Engineer, Data Engineering (X)",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Palo Alto, CA",
-      "pay": "Lihat Detail",
-      "date": "Oct 30, 2026",
-      "timestamp": 1793398947,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5182183007",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "gh-5182374007",
       "title": "Facilities Infrastructure Engineer, Data Center Infrastructure - Memphis",
       "company": "xAI",
@@ -4468,48 +4722,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5204819007",
-      "title": "Human Data Engineer",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Palo Alto, CA",
-      "pay": "Lihat Detail",
-      "date": "Oct 30, 2026",
-      "timestamp": 1793395163,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5204819007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5205179007",
-      "title": "Sr. Software Engineer, Search Infrastructure",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Palo Alto, CA",
-      "pay": "Lihat Detail",
-      "date": "Oct 30, 2026",
-      "timestamp": 1793394861,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5205179007",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "gh-5209858007",
       "title": "Software Engineer, Data Center - Memphis",
       "company": "xAI",
@@ -4528,27 +4740,6 @@
       "timestamp": 1793392347,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
       "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5209858007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5210378007",
-      "title": "Program Manager, Prohibited & Regulated Content",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Palo Alto, CA; Austin, TX; Bastrop, TX; New York, NY",
-      "pay": "Lihat Detail",
-      "date": "Oct 30, 2026",
-      "timestamp": 1793391999,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5210378007",
       "source": "⚡ Direct API"
     },
     {
@@ -4675,27 +4866,6 @@
       "timestamp": 1793347751,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
       "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5201130007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5210802007",
-      "title": "Human Data Manager",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Palo Alto, CA",
-      "pay": "Lihat Detail",
-      "date": "Oct 30, 2026",
-      "timestamp": 1793347320,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5210802007",
       "source": "⚡ Direct API"
     },
     {
@@ -5098,132 +5268,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5236653007",
-      "title": "AI Tutor, Video - Temporary (Weekend Shift)",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": "Remote International",
-      "pay": "Lihat Detail",
-      "date": "Oct 29, 2026",
-      "timestamp": 1793275990,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5236653007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5047564007",
-      "title": "AI Tutor, Video - Temporary",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": "Remote International",
-      "pay": "Lihat Detail",
-      "date": "Oct 29, 2026",
-      "timestamp": 1793275895,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5047564007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5017529007",
-      "title": "AI Tutor, Writing - Temporary",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": "Remote International",
-      "pay": "Lihat Detail",
-      "date": "Oct 29, 2026",
-      "timestamp": 1793275860,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5017529007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-4931315007",
-      "title": "AI Tutor, Legal & Compliance - Temporary",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": "Remote International",
-      "pay": "Lihat Detail",
-      "date": "Oct 29, 2026",
-      "timestamp": 1793275804,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/4931315007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5227951007",
-      "title": "AI Tutor, Humanities - Temporary",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": "Remote International",
-      "pay": "Lihat Detail",
-      "date": "Oct 29, 2026",
-      "timestamp": 1793275557,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5227951007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5227940007",
-      "title": "AI Tutor, Design - Temporary",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": "Remote International",
-      "pay": "Lihat Detail",
-      "date": "Oct 29, 2026",
-      "timestamp": 1793275439,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5227940007",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "gh-5260545007",
       "title": "Architect, Data Centers & Workplace - Memphis",
       "company": "xAI",
@@ -5476,27 +5520,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5125621007",
-      "title": "Sr. Maching Learning Engineer, Search Ranking",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Palo Alto, CA",
-      "pay": "Lihat Detail",
-      "date": "Oct 29, 2026",
-      "timestamp": 1793251548,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5125621007",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "gh-4687052005",
       "title": "Frontier Data Strategist",
       "company": "Scale AI",
@@ -5515,27 +5538,6 @@
       "timestamp": 1793219930,
       "excerpt": "Frontier AI labs decide what direction their models need to take before the actual training starts. As a Frontier Data Strategist on Scale's Generative AI team, you'll be a trusted voice in those decisions. You'll partne...",
       "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4687052005",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5270908007",
-      "title": "Client Partner, Dubai",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": "Dubai, UAE",
-      "pay": "Lihat Detail",
-      "date": "Oct 28, 2026",
-      "timestamp": 1793216884,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5270908007",
       "source": "⚡ Direct API"
     },
     {
@@ -6160,7 +6162,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4589749005",
+      "id": "gh-4650514005",
       "title": "Product Manager of AI Applications, Global Public Sector",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -6172,12 +6174,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Doha, Qatar ; Dubai, UAE (+1 lokasi lain)",
+      "location": "Riyadh, Saudi Arabia (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Oct 22, 2026",
       "timestamp": 1792692638,
       "excerpt": "Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most exciting and quickly expanding teams at Scale. This team is responsible for generating, executing, and fost...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
       "source": "⚡ Direct API"
     },
     {
@@ -7801,7 +7803,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5823643004",
+      "id": "gh-5823644004",
       "title": "Data Collection Contributor",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -7813,12 +7815,12 @@
         "Direct API",
         "HumanSignal"
       ],
-      "location": "Canada (+21 lokasi lain)",
+      "location": "Chile (+21 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823643004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823644004",
       "source": "⚡ Direct API"
     },
     {
