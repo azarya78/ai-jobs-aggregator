@@ -1,7 +1,259 @@
 {
-  "lastUpdated": "2026-11-04 21:44 UTC",
+  "lastUpdated": "2026-11-05 00:52 UTC",
   "totalJobs": 364,
   "jobs": [
+    {
+      "id": "gh-5167318007",
+      "title": "Sr. IT Data Engineer",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Palo Alto, CA",
+      "pay": "Lihat Detail",
+      "date": "Nov 04, 2026",
+      "timestamp": 1793834167,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5167318007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5007261007",
+      "title": "Security Engineer, GRC Frameworks & AI Governance",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Palo Alto, CA; New York, NY; Washington, DC",
+      "pay": "Lihat Detail",
+      "date": "Nov 04, 2026",
+      "timestamp": 1793833422,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5007261007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5111374007",
+      "title": "Sr. Model Engineer, Multimodal Understanding",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Palo Alto, CA",
+      "pay": "Lihat Detail",
+      "date": "Nov 04, 2026",
+      "timestamp": 1793833035,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5111374007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5280951007",
+      "title": "Sr. Model Engineer, RL Training Framework",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Palo Alto, CA",
+      "pay": "Lihat Detail",
+      "date": "Nov 04, 2026",
+      "timestamp": 1793832943,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5280951007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5180223007",
+      "title": "Sr. Model Engineer, RL Inference",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Palo Alto, CA",
+      "pay": "Lihat Detail",
+      "date": "Nov 04, 2026",
+      "timestamp": 1793832917,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5180223007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5186992007",
+      "title": "Model Engineer, RL Training Framework",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Palo Alto, CA",
+      "pay": "Lihat Detail",
+      "date": "Nov 04, 2026",
+      "timestamp": 1793832909,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5186992007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5280958007",
+      "title": "Sr. Model Engineer, Post-Training & RL",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Palo Alto, CA",
+      "pay": "Lihat Detail",
+      "date": "Nov 04, 2026",
+      "timestamp": 1793832356,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5280958007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5114737007",
+      "title": "Model Engineer, Post-Training & RL",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Palo Alto, CA",
+      "pay": "Lihat Detail",
+      "date": "Nov 04, 2026",
+      "timestamp": 1793832313,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5114737007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5280957007",
+      "title": "Sr. Model Engineer, Mid-Training",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Palo Alto, CA",
+      "pay": "Lihat Detail",
+      "date": "Nov 04, 2026",
+      "timestamp": 1793831939,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5280957007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-4965893007",
+      "title": "Model Engineer, Mid-Training",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Palo Alto, CA",
+      "pay": "Lihat Detail",
+      "date": "Nov 04, 2026",
+      "timestamp": 1793831914,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/4965893007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5252714007",
+      "title": "Software Engineer, Evaluation Infrastructure",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Palo Alto, CA",
+      "pay": "Lihat Detail",
+      "date": "Nov 04, 2026",
+      "timestamp": 1793831404,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5252714007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5265194007",
+      "title": "Data Visualization Engineer",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Palo Alto, CA",
+      "pay": "Lihat Detail",
+      "date": "Nov 04, 2026",
+      "timestamp": 1793831223,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5265194007",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "gh-6240051004",
       "title": "Freelance Graphic Designer - AI Training",
@@ -18,7 +270,7 @@
       "location": "Indonesia (Remote) (+15 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Nov 04, 2026",
-      "timestamp": 1793828617,
+      "timestamp": 1793829355,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
       "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6240051004",
       "source": "⚡ Direct API"
@@ -399,27 +651,6 @@
       "timestamp": 1793820795,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
       "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5266499007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5265194007",
-      "title": "Data Visualization Engineer",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Palo Alto, CA",
-      "pay": "Lihat Detail",
-      "date": "Nov 04, 2026",
-      "timestamp": 1793820795,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5265194007",
       "source": "⚡ Direct API"
     },
     {
@@ -906,69 +1137,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4965893007",
-      "title": "Model Engineer, Mid-training",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Palo Alto, CA",
-      "pay": "Lihat Detail",
-      "date": "Nov 04, 2026",
-      "timestamp": 1793820795,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/4965893007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5114737007",
-      "title": "Model Engineer, Post-Training & RL",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Palo Alto, CA",
-      "pay": "Lihat Detail",
-      "date": "Nov 04, 2026",
-      "timestamp": 1793820795,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5114737007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5186992007",
-      "title": "Model Engineer, RL Training Framework",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Palo Alto, CA",
-      "pay": "Lihat Detail",
-      "date": "Nov 04, 2026",
-      "timestamp": 1793820795,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5186992007",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "gh-5051966007",
       "title": "Model Engineer, Voice",
       "company": "xAI",
@@ -1200,27 +1368,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5007261007",
-      "title": "Security Engineer, GRC Frameworks & AI Governance",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Palo Alto, CA; New York, NY; Washington, DC",
-      "pay": "Lihat Detail",
-      "date": "Nov 04, 2026",
-      "timestamp": 1793820795,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5007261007",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "gh-5215007007",
       "title": "Shipping Specialist, Supercomputer Operations - Memphis ",
       "company": "xAI",
@@ -1284,27 +1431,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5252714007",
-      "title": "Software Engineer, Evaluation Infrastructure",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Palo Alto, CA",
-      "pay": "Lihat Detail",
-      "date": "Nov 04, 2026",
-      "timestamp": 1793820795,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5252714007",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "gh-5266461007",
       "title": "Sr. Data Center Technician, Linux - Memphis",
       "company": "xAI",
@@ -1323,27 +1449,6 @@
       "timestamp": 1793820795,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
       "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5266461007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5167318007",
-      "title": "Sr. IT Data Engineer",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Palo Alto, CA",
-      "pay": "Lihat Detail",
-      "date": "Nov 04, 2026",
-      "timestamp": 1793820795,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5167318007",
       "source": "⚡ Direct API"
     },
     {
@@ -1386,90 +1491,6 @@
       "timestamp": 1793820795,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
       "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5212192007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5280957007",
-      "title": "Sr. Model Engineer, Mid-training",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Palo Alto, CA",
-      "pay": "Lihat Detail",
-      "date": "Nov 04, 2026",
-      "timestamp": 1793820795,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5280957007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5111374007",
-      "title": "Sr. Model Engineer, Multimodal Understanding",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Palo Alto, CA",
-      "pay": "Lihat Detail",
-      "date": "Nov 04, 2026",
-      "timestamp": 1793820795,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5111374007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5280958007",
-      "title": "Sr. Model Engineer, Post-Training & RL",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Palo Alto, CA",
-      "pay": "Lihat Detail",
-      "date": "Nov 04, 2026",
-      "timestamp": 1793820795,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5280958007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5180223007",
-      "title": "Sr. Model Engineer, RL Inference",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Palo Alto, CA",
-      "pay": "Lihat Detail",
-      "date": "Nov 04, 2026",
-      "timestamp": 1793820795,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5180223007",
       "source": "⚡ Direct API"
     },
     {
@@ -3528,33 +3549,6 @@
       "source": "AI • Research"
     },
     {
-      "id": "6aead2d91bd70488bc27a033",
-      "title": "Head of Creative Operations",
-      "company": "Coinbase",
-      "logo": "https://www.google.com/s2/favicons?domain=coinbase.com&sz=64",
-      "category": "Marketing Operations",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Operations",
-        "Finance",
-        "Marketing",
-        "Culture",
-        "Management",
-        "Sourcing",
-        "Cross-Functional Collaboration",
-        "Microsoft Teams"
-      ],
-      "location": "United States",
-      "pay": "$205,785 – $242,100/yr",
-      "date": "Nov 4, 2026",
-      "timestamp": 1793750400,
-      "excerpt": "Ready to do the most impactful work of your career? At Coinbase, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
-      "applyUrl": "https://remowork.life/jobs/6aead2d91bd70488bc27a033/apply-out?ch=card",
-      "source": "Operations • Finance"
-    },
-    {
       "id": "6aeacda91bd70488bc276707",
       "title": "Art Buying and Photography Representation Expert",
       "company": "Micro1",
@@ -3851,7 +3845,7 @@
     },
     {
       "id": "6aeb7f7f75fbb92bbf506dc9",
-      "title": "Clinical Data Associate II - Remote U.S",
+      "title": "Clinical Data Associate II(Early Development) - Remote U.S",
       "company": "Thermo Fisher Scientific",
       "logo": "https://www.google.com/s2/favicons?domain=thermofisher.com&sz=64",
       "category": "Clinical Data Specialist",
@@ -3860,21 +3854,21 @@
       "isDirect": false,
       "skills": [
         "Make",
+        "Microsoft Teams",
+        "Accuracy",
         "Management",
-        "Training",
-        "Testing",
-        "Documentation",
-        "Forecasting",
-        "Product Management",
-        "Education"
+        "Consistency",
+        "Reconciliations",
+        "Education",
+        "Training"
       ],
       "location": "United States",
       "pay": "Lihat Detail",
       "date": "Nov 4, 2026",
       "timestamp": 1793750400,
-      "excerpt": "Standard (Mon-Fri) Environmental Conditions Office Job Description Join Us as an Associate Clinical Data Team Lead ll – Make an Impact at the Forefront of Innovation We have successfully supported the top 50 pharmaceutical companies and more than 750 biotechs, spanning 2,700…",
+      "excerpt": "Standard (Mon-Fri) Environmental Conditions Office Job Description As part of the Thermo Fisher Scientific team, you’ll discover meaningful work that makes a positive impact on a global scale.",
       "applyUrl": "https://remowork.life/jobs/6aeb7f7f75fbb92bbf506dc9/apply-out?ch=card",
-      "source": "Make • Management"
+      "source": "Make • Microsoft Teams"
     },
     {
       "id": "6aeb7d2f75fbb92bbf5064e5",
@@ -5373,39 +5367,12 @@
         "User Experience"
       ],
       "location": "Remote (Global)",
-      "pay": "$59 one-time",
+      "pay": "$71 one-time",
       "date": "Nov 3, 2026",
       "timestamp": 1793664000,
       "excerpt": "We're running a paid study on the software ecosystem that powers modern finance, accounting, and business operations. Our goal is to map out how teams handle their daily administrative and financial workflows.",
       "applyUrl": "https://remowork.life/jobs/6aea7fe9c199e54a48c85fdd/apply-out?ch=card",
       "source": "Finance • Accounting"
-    },
-    {
-      "id": "6aea776fc199e54a48c82873",
-      "title": "Sr. Director, Enterprise Sales- Federal Health",
-      "company": "Databricks",
-      "logo": "https://www.google.com/s2/favicons?domain=databricks.com&sz=32",
-      "category": "Enterprise Sales Manager",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Sales",
-        "Culture",
-        "Collaboration",
-        "GenAI",
-        "Accuracy",
-        "Microsoft Teams",
-        "Microsoft Azure",
-        "AWS"
-      ],
-      "location": "United States",
-      "pay": "$440,000 – $605,000/yr",
-      "date": "Nov 3, 2026",
-      "timestamp": 1793664000,
-      "excerpt": "SLSQ427R688 While candidates in the listed location(s) are encouraged for this role, candidates in other locations will be considered. We are looking for a Senior Sales Director to join our growing Federal Civilian business.",
-      "applyUrl": "https://remowork.life/jobs/6aea776fc199e54a48c82873/apply-out?ch=card",
-      "source": "Sales • Culture"
     },
     {
       "id": "6aea7d40c199e54a48c849e7",
@@ -5649,6 +5616,60 @@
       "excerpt": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision.",
       "applyUrl": "https://remowork.life/jobs/6aea2923c199e54a48c7d4c3/apply-out?ch=card",
       "source": "Sales • Precision"
+    },
+    {
+      "id": "6aea2718c199e54a48c7d04c",
+      "title": "Staff Product Designer - AI Products",
+      "company": "Kraken",
+      "logo": "https://www.google.com/s2/favicons?domain=kraken.com&sz=32",
+      "category": "Product Designer",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "AI",
+        "Finance",
+        "Infrastructure",
+        "Institutions",
+        "Fintech",
+        "Engineering",
+        "Leadership",
+        "Make"
+      ],
+      "location": "United States",
+      "pay": "$127,200 – $254,400/yr",
+      "date": "Nov 3, 2026",
+      "timestamp": 1793664000,
+      "excerpt": "Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open,…",
+      "applyUrl": "https://remowork.life/jobs/6aea2718c199e54a48c7d04c/apply-out?ch=card",
+      "source": "AI • Finance"
+    },
+    {
+      "id": "6aea2b63c199e54a48c7f2b6",
+      "title": "Sales Manager",
+      "company": "Array",
+      "logo": "https://www.google.com/s2/favicons?domain=array.com&sz=64",
+      "category": "Enterprise Sales Manager",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Sales",
+        "Institutions",
+        "Monitoring",
+        "Fintech",
+        "Leadership",
+        "Management",
+        "Coaching",
+        "Alignment"
+      ],
+      "location": "United States, Canada",
+      "pay": "$150,000/yr",
+      "date": "Nov 3, 2026",
+      "timestamp": 1793664000,
+      "excerpt": "Array is a financial innovation platform that helps digital brands, financial institutions, and fintechs get compelling consumer products to market faster.",
+      "applyUrl": "https://remowork.life/jobs/6aea2b63c199e54a48c7f2b6/apply-out?ch=card",
+      "source": "Sales • Institutions"
     },
     {
       "id": "ashby-ab45a550-14a2-4a74-abfb-83688d4508c1",
@@ -6110,27 +6131,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4518690005",
-      "title": "Field Engineer, Data Engine",
-      "company": "Scale AI",
-      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "Scale AI"
-      ],
-      "location": "Colorado Springs, CO; Omaha, NE; St. Louis, MO; Washington, DC",
-      "pay": "Lihat Detail",
-      "date": "Oct 22, 2026",
-      "timestamp": 1792692638,
-      "excerpt": "Scale AI is seeking a highly skilled and motivated AI Data Engineer to join our dynamic Federal Engineering team. As a part of this team, you will play a critical role in supporting Scale’s government customers by scopin...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4518690005",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "gh-4741462005",
       "title": "Field Marketing & Events Manager, Frontier Data",
       "company": "Scale AI",
@@ -6299,7 +6299,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4589749005",
+      "id": "gh-4650514005",
       "title": "Product Manager of AI Applications, Global Public Sector",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -6311,12 +6311,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Doha, Qatar ; Dubai, UAE (+1 lokasi lain)",
+      "location": "Riyadh, Saudi Arabia (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Oct 22, 2026",
       "timestamp": 1792692638,
       "excerpt": "Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most exciting and quickly expanding teams at Scale. This team is responsible for generating, executing, and fost...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
       "source": "⚡ Direct API"
     },
     {
