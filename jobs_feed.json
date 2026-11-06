@@ -1,7 +1,112 @@
 {
-  "lastUpdated": "2026-11-05 21:41 UTC",
-  "totalJobs": 360,
+  "lastUpdated": "2026-11-06 00:53 UTC",
+  "totalJobs": 362,
   "jobs": [
+    {
+      "id": "gh-4803862007",
+      "title": "Sr. Software Engineer, Data Platform",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": "Palo Alto, CA",
+      "pay": "Lihat Detail",
+      "date": "Nov 05, 2026",
+      "timestamp": 1793923048,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/4803862007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-6251102004",
+      "title": "Freelance Graphic Designer - AI Training",
+      "company": "HumanSignal",
+      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": true,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "HumanSignal"
+      ],
+      "location": "Jakarta, Indonesia (Remote) (+24 lokasi lain)",
+      "pay": "Lihat Detail",
+      "date": "Nov 05, 2026",
+      "timestamp": 1793917863,
+      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6251102004",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "ashby-92997f8a-9f90-40fe-a76e-89ffbc44d0cc",
+      "title": "Account Executive  - Creative Specialist - Enterprise",
+      "company": "ElevenLabs",
+      "logo": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128",
+      "category": "Engineering & Product",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Engineering & Product",
+        "Direct API"
+      ],
+      "location": "United States",
+      "pay": "Lihat Detail",
+      "date": "Nov 05, 2026",
+      "timestamp": 1793917858,
+      "excerpt": "ABOUT ELEVENLABS  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users an...",
+      "applyUrl": "https://jobs.ashbyhq.com/elevenlabs/92997f8a-9f90-40fe-a76e-89ffbc44d0cc",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-4750028005",
+      "title": "Staff Software Engineer, AI Developer Tooling",
+      "company": "Scale AI",
+      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "Scale AI"
+      ],
+      "location": "San Francisco, CA; New York, NY",
+      "pay": "Lihat Detail",
+      "date": "Nov 05, 2026",
+      "timestamp": 1793917606,
+      "excerpt": "Software is eating the world, but AI is eating software. We live in unprecedented times – AI has the potential to exponentially augment human intelligence. Every person will have a personal tutor, coach, assistant, perso...",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4750028005",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-4750929005",
+      "title": "Quality Operations Lead, Gen AI",
+      "company": "Scale AI",
+      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "Scale AI"
+      ],
+      "location": "San Francisco, CA; New York, NY",
+      "pay": "Lihat Detail",
+      "date": "Nov 05, 2026",
+      "timestamp": 1793916726,
+      "excerpt": "The quality of data underpins Generative AI programs. At Scale, Quality Control is responsible for ensuring data we deliver to the world’s leading AI customers is state of the art. As a Quality Operations Lead, you’ll ow...",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4750929005",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "gh-5266499007",
       "title": "Data Center Operations Technician - Memphis",
@@ -42,27 +147,6 @@
       "timestamp": 1793908837,
       "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
       "applyUrl": "https://jobs.ashbyhq.com/cohere/7069b63c-f0cf-4e53-9ad2-3dfa7dc79c80",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-4750929005",
-      "title": "Quality Operations Lead, Gen AI",
-      "company": "Scale AI",
-      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "Scale AI"
-      ],
-      "location": "San Francisco, CA; New York, NY",
-      "pay": "Lihat Detail",
-      "date": "Nov 05, 2026",
-      "timestamp": 1793907958,
-      "excerpt": "The quality of data underpins Generative AI programs. At Scale, Quality Control is responsible for ensuring data we deliver to the world’s leading AI customers is state of the art. As a Quality Operations Lead, you’ll ow...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4750929005",
       "source": "⚡ Direct API"
     },
     {
@@ -444,7 +528,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4589749005",
+      "id": "gh-4650514005",
       "title": "Product Manager of AI Applications, Global Public Sector",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -456,12 +540,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Doha, Qatar ; Dubai, UAE (+1 lokasi lain)",
+      "location": "Riyadh, Saudi Arabia (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Nov 05, 2026",
       "timestamp": 1793905260,
       "excerpt": "Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most exciting and quickly expanding teams at Scale. This team is responsible for generating, executing, and fost...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
       "source": "⚡ Direct API"
     },
     {
@@ -2229,27 +2313,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4803862007",
-      "title": "Software Engineer, Data Platform",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": "Palo Alto, CA",
-      "pay": "Lihat Detail",
-      "date": "Nov 05, 2026",
-      "timestamp": 1793903591,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/4803862007",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "gh-5252714007",
       "title": "Software Engineer, Evaluation Infrastructure",
       "company": "xAI",
@@ -2649,27 +2712,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-6250419004",
-      "title": "Freelance Graphic Designer - AI Training",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": true,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Indonesia (Remote) (+21 lokasi lain)",
-      "pay": "Lihat Detail",
-      "date": "Nov 05, 2026",
-      "timestamp": 1793886000,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6250419004",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "6aeccf7ac2de6428ed297b80",
       "title": "Senior Orthopedic Surgery Coder / QA Specialist",
       "company": "Infinx",
@@ -2968,7 +3010,7 @@
     },
     {
       "id": "6aecc546c2de6428ed29223f",
-      "title": "Principal Field Security Engineer",
+      "title": "Principal Field Security Engineer (US)",
       "company": "GitLab",
       "logo": "https://www.google.com/s2/favicons?domain=about.gitlab.com&sz=128",
       "category": "Security Engineer",
@@ -3121,7 +3163,7 @@
         "Microsoft Teams"
       ],
       "location": "United States",
-      "pay": "$37 – $56/hr",
+      "pay": "$38.65/hr",
       "date": "Nov 5, 2026",
       "timestamp": 1793836800,
       "excerpt": "Lyra Clinical Associates partners with Lyra Health, a leading provider of evidence-based mental health care, serving more than 20 million people globally in partnership with employers and more than 100 million through health plan and partner relationships.",
@@ -3202,7 +3244,7 @@
         "SQL"
       ],
       "location": "United States (US West Coast only)",
-      "pay": "$180,000 – $247,500/yr",
+      "pay": "$152,300 – $209,450/yr",
       "date": "Nov 5, 2026",
       "timestamp": 1793836800,
       "excerpt": "As a Sr. Solutions Engineer on the AI native team supporting the Digital Natives business, you will shape the future of the big data landscape by working with the most sophisticated data engineering and data science teams in the world.",
@@ -4614,7 +4656,7 @@
     },
     {
       "id": "6aebce3aee3f4c62413e4ccb",
-      "title": "Computational Biologist I",
+      "title": "Computational Biologist",
       "company": "Freenome",
       "logo": "https://www.google.com/s2/favicons?domain=freenome.com&sz=32",
       "category": "Computational Biology",
@@ -4635,7 +4677,7 @@
       "pay": "$131,325 – $189,525/yr",
       "date": "Nov 5, 2026",
       "timestamp": 1793836800,
-      "excerpt": "At Freenome, we are seeking a Computational Biologist I, Assay Development to help grow the Freenome’s Computational Biology, Assay Development (CBAD) team (can be a Senior Computational Biologist role depending on experience).",
+      "excerpt": "At Freenome, we are seeking a Computational Biologist, Assay Development to help grow the Freenome’s Computational Biology, Assay Development (CBAD) team (can be a Senior Computational Biologist role depending on experience).",
       "applyUrl": "https://remowork.life/jobs/6aebce3aee3f4c62413e4ccb/apply-out?ch=card",
       "source": "Biology • Bioinformatics"
     },
@@ -4848,7 +4890,7 @@
         "Triton"
       ],
       "location": "United States",
-      "pay": "Lihat Detail",
+      "pay": "$152k – $242k/yr",
       "date": "Nov 5, 2026",
       "timestamp": 1793836800,
       "excerpt": "We are seeking a visionary Developer Relations Manager to engage with the next generation of AI-native software companies—the builders creating entirely new categories of products powered by generative models, agents, and multimodal AI.",
@@ -7760,7 +7802,7 @@
       "source": "Indonesian • AI"
     },
     {
-      "id": "gh-6006505004",
+      "id": "gh-6006504004",
       "title": "AI Trainer - Automotive Expertise Required",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -7777,7 +7819,7 @@
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006505004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006504004",
       "source": "⚡ Direct API"
     },
     {
@@ -7823,7 +7865,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5823644004",
+      "id": "gh-5823643004",
       "title": "Data Collection Contributor",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -7835,12 +7877,12 @@
         "Direct API",
         "HumanSignal"
       ],
-      "location": "Chile (+21 lokasi lain)",
+      "location": "Canada (+21 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823644004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823643004",
       "source": "⚡ Direct API"
     },
     {
