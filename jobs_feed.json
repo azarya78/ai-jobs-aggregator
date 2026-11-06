@@ -1,7 +1,70 @@
 {
-  "lastUpdated": "2026-11-06 07:02 UTC",
-  "totalJobs": 366,
+  "lastUpdated": "2026-11-06 09:55 UTC",
+  "totalJobs": 369,
   "jobs": [
+    {
+      "id": "gh-4751098005",
+      "title": "Strategist",
+      "company": "Scale AI",
+      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "Scale AI"
+      ],
+      "location": "Kuwait City, Kuwait",
+      "pay": "Lihat Detail",
+      "date": "Nov 06, 2026",
+      "timestamp": 1793956851,
+      "excerpt": "Scale’s rapidly growing Global Public Sector team is expanding, and is focused on using AI to address critical challenges facing the public sector around the world. Our core work consists of: Building custom AI applicati...",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751098005",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-4751645005",
+      "title": "Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "company": "Scale AI",
+      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "Scale AI"
+      ],
+      "location": "Kuwait City, Kuwait",
+      "pay": "Lihat Detail",
+      "date": "Nov 06, 2026",
+      "timestamp": 1793952329,
+      "excerpt": "Scale’s rapidly growing Global Public Sector team is focused on using AI to address critical challenges facing the public sector around the world. Our core work consists of: Creating custom AI applications that will impa...",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751645005",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-4751635005",
+      "title": "Senior Full-Stack Software Engineer, (Forward deployed), GPS",
+      "company": "Scale AI",
+      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "Scale AI"
+      ],
+      "location": "Kuwait City, Kuwait",
+      "pay": "Lihat Detail",
+      "date": "Nov 06, 2026",
+      "timestamp": 1793952316,
+      "excerpt": "Scale’s rapidly growing Global Public Sector team is focused on using AI to address critical challenges facing the public sector around the world. Our core work consists of: Creating custom AI applications that will impa...",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751635005",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "gh-5125621007",
       "title": "Sr. Maching Learning Engineer, Search Ranking",
