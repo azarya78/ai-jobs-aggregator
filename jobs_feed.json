@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-11-06 21:35 UTC",
-  "totalJobs": 370,
+  "lastUpdated": "2026-11-07 00:49 UTC",
+  "totalJobs": 368,
   "jobs": [
+    {
+      "id": "gh-4925878007",
+      "title": "AI Tutor, Applied Math - Temporary",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": "Remote, International",
+      "pay": "Lihat Detail",
+      "date": "Nov 06, 2026",
+      "timestamp": 1794011432,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/4925878007",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "gh-5111374007",
       "title": "Sr. Model Engineer, Multimodal Understanding",
@@ -1111,7 +1132,7 @@
     },
     {
       "id": "6aee1629633532d4c8184609",
-      "title": "Member of Technical Staff, ML Workload Platform",
+      "title": "Software Engineer, ML Workload Platform",
       "company": "Cohere",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037245/remowork/companies/cohere-logo.webp",
       "category": "Platform Engineer",
@@ -1219,7 +1240,7 @@
     },
     {
       "id": "6aee1629633532d4c8184607",
-      "title": "Member of Technical Staff, GPU Infrastructure",
+      "title": "Software Engineer, GPU Infrastructure",
       "company": "Cohere",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037245/remowork/companies/cohere-logo.webp",
       "category": "Infrastructure Engineer",
@@ -1237,7 +1258,7 @@
         "Node.js"
       ],
       "location": "United States, Canada",
-      "pay": "$270k – $335k/yr",
+      "pay": "Lihat Detail",
       "date": "Nov 6, 2026",
       "timestamp": 1793923200,
       "excerpt": "Who are we? Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.",
@@ -3054,7 +3075,7 @@
         "Outreach"
       ],
       "location": "United States (US: CA)",
-      "pay": "Lihat Detail",
+      "pay": "$120,000 – $189,750/yr",
       "date": "Nov 6, 2026",
       "timestamp": 1793923200,
       "excerpt": "NVIDIA, the world leader in accelerated computing, is seeking an Industry Development Specialist for NVIDIA Cloud Partners. This team works with cloud and AI infrastructure providers that make NVIDIA accelerated computing available to customers through flexible cloud services.",
@@ -3081,7 +3102,7 @@
         "Negotiation"
       ],
       "location": "United States (US: CA)",
-      "pay": "Lihat Detail",
+      "pay": "$120,000 – $189,750/yr",
       "date": "Nov 6, 2026",
       "timestamp": 1793923200,
       "excerpt": "NVIDIA, the world leader in accelerated computing, is seeking an Industry Development Specialist to grow relationships with AI-native companies.",
@@ -3108,7 +3129,7 @@
         "Education"
       ],
       "location": "United States (US: CA)",
-      "pay": "Lihat Detail",
+      "pay": "$200,000 – $304,750/yr",
       "date": "Nov 6, 2026",
       "timestamp": 1793923200,
       "excerpt": "We are looking for an Account Manager passionate about AI Native clients! At NVIDIA, we are seeking a high-energy and experienced professional with a proven track record of leading strategic accounts.",
@@ -3351,7 +3372,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5266499007",
+      "id": "gh-5286282007",
       "title": "Data Center Operations Technician - Memphis",
       "company": "xAI",
       "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
@@ -3368,7 +3389,7 @@
       "date": "Nov 05, 2026",
       "timestamp": 1793910400,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5266499007",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5286282007",
       "source": "⚡ Direct API"
     },
     {
@@ -4272,27 +4293,6 @@
       "timestamp": 1793905260,
       "excerpt": "As the leading data and evaluation partner for frontier AI companies, Scale is dedicated to advancing the progress of generative AI, with a focus around frontier evaluations, the science of data around posttraining, agen...",
       "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4611448005",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-4925878007",
-      "title": "AI Tutor, Applied Math - Temporary",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": "Remote, International",
-      "pay": "Lihat Detail",
-      "date": "Nov 05, 2026",
-      "timestamp": 1793903591,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/4925878007",
       "source": "⚡ Direct API"
     },
     {
@@ -6058,7 +6058,7 @@
         "Sales"
       ],
       "location": "United States",
-      "pay": "Lihat Detail",
+      "pay": "$166,600 – $249,800/yr",
       "date": "Nov 5, 2026",
       "timestamp": 1793836800,
       "excerpt": "Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities.",
@@ -6115,7 +6115,7 @@
       "pay": "$60 – $109/hr",
       "date": "Nov 5, 2026",
       "timestamp": 1793836800,
-      "excerpt": "Execute engagement planning activities for a full range of complex internal audits and participate in special projects and ongoing department-wide initiatives • Preform a full range of testing activities in support of internal audits; document test procedures and results in…",
+      "excerpt": "Execute engagement planning activities for a full range of complex internal audits and participate in special projects and ongoing department-wide initiatives • Perform a full range of testing activities in support of internal audits; document test procedures and results in…",
       "applyUrl": "https://remowork.life/jobs/6aed1b33c2de6428ed29bb6b/apply-out?ch=card",
       "source": "Planning • Testing"
     },
@@ -6765,27 +6765,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "ashby-13fcee94-512f-4229-b7ab-f91d3fdd24e3",
-      "title": "ElevenMusic - Content Creator & Strategist",
-      "company": "ElevenLabs",
-      "logo": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128",
-      "category": "Engineering & Product",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Engineering & Product",
-        "Direct API"
-      ],
-      "location": "United States",
-      "pay": "Lihat Detail",
-      "date": "Oct 27, 2026",
-      "timestamp": 1793121605,
-      "excerpt": "ABOUT ELEVENLABS  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users an...",
-      "applyUrl": "https://jobs.ashbyhq.com/ElevenLabs/13fcee94-512f-4229-b7ab-f91d3fdd24e3",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "ashby-acec6038-117b-400b-92e3-0745fbb4cf53",
       "title": "Data Annotation Specialist - German Writer/Translator",
       "company": "Cohere",
@@ -6852,27 +6831,6 @@
       "timestamp": 1793042546,
       "excerpt": "ABOUT ELEVENLABS  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users an...",
       "applyUrl": "https://jobs.ashbyhq.com/ElevenLabs/e53c5be6-5c1a-4870-ad85-8397a1f201de",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "ashby-8e1735ec-c5e2-4292-adbd-764a58e7ce17",
-      "title": "Model Partnerships - ElevenCreative",
-      "company": "ElevenLabs",
-      "logo": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128",
-      "category": "Growth",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Growth",
-        "Direct API"
-      ],
-      "location": "Remote",
-      "pay": "Lihat Detail",
-      "date": "Oct 26, 2026",
-      "timestamp": 1793012684,
-      "excerpt": "ABOUT ELEVENLABS  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users an...",
-      "applyUrl": "https://jobs.ashbyhq.com/ElevenLabs/8e1735ec-c5e2-4292-adbd-764a58e7ce17",
       "source": "⚡ Direct API"
     },
     {
