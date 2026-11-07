@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-07 18:35 UTC",
+  "lastUpdated": "2026-11-07 21:30 UTC",
   "totalJobs": 370,
   "jobs": [
     {
@@ -85,6 +85,74 @@
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
       "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/4925878007",
       "source": "⚡ Direct API"
+    },
+    {
+      "id": "6aef704c486bbcbe06666813",
+      "title": "AI security engineers: find and fix flaws in LLM apps",
+      "company": "RustLabs AI",
+      "logo": "https://www.google.com/s2/favicons?domain=experts.rustlabs.ai&sz=32",
+      "category": "AI Expert - Cybersecurity",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "AI",
+        "RAG"
+      ],
+      "location": "Remote (Global)",
+      "pay": "Lihat Detail",
+      "date": "Nov 7, 2026",
+      "timestamp": 1794009600,
+      "excerpt": "The work: build small, runnable LLM agent and RAG codebases that contain realistic security flaws (sensitive information disclosure, excessive agency) plus fixed versions, then trace, annotate and test each finding.",
+      "applyUrl": "https://experts.rustlabs.ai/apply?role=ai-security-engineer",
+      "source": "AI • RAG"
+    },
+    {
+      "id": "6aef713e486bbcbe0666727a",
+      "title": "Patient Support Specialist (Remote)",
+      "company": "CareTalk Health",
+      "logo": "https://www.google.com/s2/favicons?domain=caretalkhealth.com&sz=64",
+      "category": "Customer Support Specialist",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Medicare",
+        "Make",
+        "Product Management",
+        "Microsoft Teams",
+        "Communication",
+        "Documentation",
+        "Outreach",
+        "Healthcare"
+      ],
+      "location": "United States",
+      "pay": "$20/hr",
+      "date": "Nov 7, 2026",
+      "timestamp": 1794009600,
+      "excerpt": "Compensation: $20 per hour CareTalk Health CareTalk Health is a fully remote, nationwide virtual medical practice. We partner with Medicare Advantage plans to deliver Annual Wellness Visits and close care gaps, reaching members wherever they are.",
+      "applyUrl": "https://job-boards.greenhouse.io/caretalkhealth/jobs/4479017009",
+      "source": "Medicare • Make"
+    },
+    {
+      "id": "6aef6e88486bbcbe06665535",
+      "title": "Theme Park Vacationers: 35-Minute Survey on Resort Experiences",
+      "company": "Terac",
+      "logo": "https://www.google.com/s2/favicons?domain=terac.com&sz=32",
+      "category": "Research Study Participant",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Planning"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$35 one-time",
+      "date": "Nov 7, 2026",
+      "timestamp": 1794009600,
+      "excerpt": "We are running a paid study on the travel experiences of individuals who visit resorts and theme parks. Understanding how travelers plan, experience, and evaluate these trips helps improve future vacation offerings.",
+      "applyUrl": "https://terac.com/opportunities?id=poy2crel7r1gz6whdvnd2n2j",
+      "source": "Planning"
     },
     {
       "id": "6aeec606d347a805a2ab91b6",
@@ -669,7 +737,7 @@
       "date": "Nov 7, 2026",
       "timestamp": 1794009600,
       "excerpt": "We're staffing US clinicians for AI training and evaluation work: reviewing de-identified medical images and cases and writing expert reads, rubrics and reference answers. No patient contact. It's remote. This takes about a minute.",
-      "applyUrl": "https://experts.rustlabs.ai/apply?role=clinical-imaging",
+      "applyUrl": "https://remowork.life/jobs/6aee73c09e1dd3eb8a70d14f/apply-out?ch=card",
       "source": "AI • Training"
     },
     {
@@ -696,7 +764,7 @@
       "date": "Nov 7, 2026",
       "timestamp": 1794009600,
       "excerpt": "We're staffing scientists and mathematicians for AI training and evaluation work: building realistic computational research tasks and workflows. It's remote. This takes about a minute. Full time: 40 hours a week, with at least 4 hours of your day overlapping US Pacific time.",
-      "applyUrl": "https://experts.rustlabs.ai/apply?role=research-task-author",
+      "applyUrl": "https://remowork.life/jobs/6aee73c09e1dd3eb8a70d14e/apply-out?ch=card",
       "source": "Research • AI"
     },
     {
@@ -723,7 +791,7 @@
       "date": "Nov 7, 2026",
       "timestamp": 1794009600,
       "excerpt": "We're staffing leads to run software engineering data programs for AI models: managing engineers and reviewers, owning quality and delivery, and reviewing coding tasks. It's remote. This takes about a minute.",
-      "applyUrl": "https://experts.rustlabs.ai/apply?role=swe-program-lead",
+      "applyUrl": "https://remowork.life/jobs/6aee73c09e1dd3eb8a70d14d/apply-out?ch=card",
       "source": "Engineering • AI"
     },
     {
@@ -4208,87 +4276,6 @@
       "excerpt": "About the Project We are seeking highly qualified PhD professionals in Organismal Biology with strong academic research backgrounds, experience working with reputed research institutions, and a deep understanding of research benchmarking practices within their respective…",
       "applyUrl": "https://remowork.life/jobs/6aedc9cb633532d4c81808f6/apply-out?ch=card",
       "source": "Research • Benchmarking"
-    },
-    {
-      "id": "6ad26a436e6fc0fdbedf752a",
-      "title": "STEM Expert (MSc./PhD)",
-      "company": "Micro1",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
-      "category": "AI Expert - Physics",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "STEM",
-        "Flexible",
-        "AI",
-        "Training",
-        "Problem Solving",
-        "Reasoning",
-        "Analysis",
-        "Python"
-      ],
-      "location": "Remote (Global)",
-      "pay": "$60 – $120/hr",
-      "date": "Nov 6, 2026",
-      "timestamp": 1793923200,
-      "excerpt": "STEM Expert Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled STEM and scientific-domain experts to contribute to…",
-      "applyUrl": "https://remowork.life/jobs/6ad26a436e6fc0fdbedf752a/apply-out?ch=card",
-      "source": "STEM • Flexible"
-    },
-    {
-      "id": "6ad2bec36821d16bb339ca46",
-      "title": "Hardware Expert (MSc. or PhD)",
-      "company": "Micro1",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
-      "category": "AI Expert - Electrical Engineering",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Flexible",
-        "AI",
-        "Training",
-        "Engineering",
-        "Reasoning",
-        "Verification",
-        "Research",
-        "Python"
-      ],
-      "location": "Remote (Global)",
-      "pay": "$60 – $120/hr",
-      "date": "Nov 6, 2026",
-      "timestamp": 1793923200,
-      "excerpt": "Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired micro1 is engaging experienced Hardware Engineers to contribute to AI training projects built around complex, real-world engineering problems.",
-      "applyUrl": "https://remowork.life/jobs/6ad2bec36821d16bb339ca46/apply-out?ch=card",
-      "source": "Flexible • AI"
-    },
-    {
-      "id": "6ad26a436e6fc0fdbedf752b",
-      "title": "ML Engineer (MSc. or PhD)",
-      "company": "Micro1",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
-      "category": "AI Expert - Machine Learning & AI Research",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Machine Learning",
-        "Flexible",
-        "AI",
-        "Training",
-        "Optimization",
-        "Python",
-        "Engineering",
-        "Debugging"
-      ],
-      "location": "Remote (Global)",
-      "pay": "$60 – $120/hr",
-      "date": "Nov 6, 2026",
-      "timestamp": 1793923200,
-      "excerpt": "Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and…",
-      "applyUrl": "https://remowork.life/jobs/6ad26a436e6fc0fdbedf752b/apply-out?ch=card",
-      "source": "Machine Learning • Flexible"
     },
     {
       "id": "gh-4803862007",
