@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-08 15:28 UTC",
-  "totalJobs": 371,
+  "lastUpdated": "2026-11-08 18:35 UTC",
+  "totalJobs": 370,
   "jobs": [
     {
       "id": "gh-5288098007",
@@ -258,7 +258,7 @@
         "Software Engineering"
       ],
       "location": "Australia, Brazil, Canada +10 Germany France United Kingdom Israel India Netherlands Poland Sweden Singapore United States",
-      "pay": "$20-100/hr",
+      "pay": "$60-100/hr",
       "date": "Nov 8, 2026",
       "timestamp": 1794096000,
       "excerpt": "Bring a real coding project you care about and keep developing it with an AI coding assistant. We cover the token costs, and the project and all code remain entirely yours.",
@@ -4322,27 +4322,6 @@
       "timestamp": 1793923048,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
       "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/4803862007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-6251102004",
-      "title": "Freelance Graphic Designer - AI Training",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": true,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Jakarta, Indonesia (Remote) (+24 lokasi lain)",
-      "pay": "Lihat Detail",
-      "date": "Nov 05, 2026",
-      "timestamp": 1793917863,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6251102004",
       "source": "⚡ Direct API"
     },
     {
