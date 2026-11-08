@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-11-08 06:49 UTC",
-  "totalJobs": 370,
+  "lastUpdated": "2026-11-08 09:40 UTC",
+  "totalJobs": 371,
   "jobs": [
+    {
+      "id": "gh-5288098007",
+      "title": "Lead Engineer, AI Infrastructure (C++, C)",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": "Palo Alto, CA; Seattle, WA",
+      "pay": "Lihat Detail",
+      "date": "Nov 08, 2026",
+      "timestamp": 1794120958,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5288098007",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "6aefbc78486bbcbe0666a03f",
       "title": "Software Engineer - Project Creation",
