@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-07 21:30 UTC",
+  "lastUpdated": "2026-11-08 00:49 UTC",
   "totalJobs": 370,
   "jobs": [
     {
@@ -97,13 +97,19 @@
       "isDirect": false,
       "skills": [
         "AI",
-        "RAG"
+        "RAG",
+        "Training",
+        "Testing",
+        "Engineering",
+        "Python",
+        "TypeScript",
+        "MCP"
       ],
       "location": "Remote (Global)",
       "pay": "Lihat Detail",
       "date": "Nov 7, 2026",
       "timestamp": 1794009600,
-      "excerpt": "The work: build small, runnable LLM agent and RAG codebases that contain realistic security flaws (sensitive information disclosure, excessive agency) plus fixed versions, then trace, annotate and test each finding.",
+      "excerpt": "We're staffing security engineers to build and analyse vulnerable LLM agent and RAG code for AI training and evaluation work. It's remote. This takes about a minute.",
       "applyUrl": "https://experts.rustlabs.ai/apply?role=ai-security-engineer",
       "source": "AI • RAG"
     },
