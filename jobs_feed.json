@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08 03:46 UTC",
+  "lastUpdated": "2026-11-08 06:49 UTC",
   "totalJobs": 370,
   "jobs": [
     {
@@ -12,22 +12,22 @@
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
-        "Claude",
-        "Command Line",
+        "AI",
         "GitHub",
+        "Command Line",
         "Engineering",
         "Git",
-        "AI",
         "Research",
-        "Flexible"
+        "Flexible",
+        "Software Engineering"
       ],
       "location": "Australia, Brazil, Canada +10 Germany France United Kingdom Israel India Netherlands Poland Sweden Singapore United States",
       "pay": "$20-100/hr",
       "date": "Nov 8, 2026",
       "timestamp": 1794096000,
-      "excerpt": "Bring a real coding project you care about and keep developing it with Claude Code CLI. We cover the token costs, and the project and all code remain entirely yours.",
+      "excerpt": "Bring a real coding project you care about and keep developing it with an AI coding assistant. We cover the token costs, and the project and all code remain entirely yours.",
       "applyUrl": "https://www.alignerr.com/jobs/15430f60-3486-4001-9773-a472ed454ffc",
-      "source": "Claude • Command Line"
+      "source": "AI • GitHub"
     },
     {
       "id": "gh-5286973007",
