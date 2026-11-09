@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-09 12:58 UTC",
+  "lastUpdated": "2026-11-09 15:54 UTC",
   "totalJobs": 371,
   "jobs": [
     {
@@ -45,6 +45,87 @@
       "source": "⚡ Direct API"
     },
     {
+      "id": "6af1be0cd50277cd59a07822",
+      "title": "Design & Creative Professionals",
+      "company": "SME Careers",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037276/remowork/companies/sme-careers-logo.webp",
+      "category": "AI Expert - Visual & Brand Design",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Illustration",
+        "Editing",
+        "Marketing",
+        "Adobe InDesign",
+        "Adobe Illustrator",
+        "Figma",
+        "Adobe Photoshop",
+        "Canva"
+      ],
+      "location": "India, United States",
+      "pay": "Up to $150/hr",
+      "date": "Nov 9, 2026",
+      "timestamp": 1794182400,
+      "excerpt": "In this hourly, remote contractor role, you will work as a Design & Creative Professional (SME) to create realistic, challenging computer-based tasks using professional graphic design, digital illustration, user interface design, layout, and creative production software.",
+      "applyUrl": "https://sme.careers/apply?referral=0fb04e64abb7&jobId=DesignandCreative-26-902",
+      "source": "Illustration • Editing"
+    },
+    {
+      "id": "6af1be0cd50277cd59a07821",
+      "title": "CAD & Engineering Professionals",
+      "company": "SME Careers",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037276/remowork/companies/sme-careers-logo.webp",
+      "category": "AI Expert - CAD & 3D Modeling",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "CAD",
+        "Engineering",
+        "Architecture",
+        "Modeling",
+        "Infrastructure",
+        "Documentation",
+        "Rhino 3D",
+        "AutoCAD"
+      ],
+      "location": "India, United States",
+      "pay": "Up to $150/hr",
+      "date": "Nov 9, 2026",
+      "timestamp": 1794182400,
+      "excerpt": "In this hourly, remote contractor role, you will work as a CAD & Engineering Professional (SME) to create realistic, challenging computer-based tasks using professional computer-aided design (CAD), engineering, architecture, and 3D modeling software.",
+      "applyUrl": "https://sme.careers/apply?referral=0fb04e64abb7&jobId=CadandEng-26-901",
+      "source": "CAD • Engineering"
+    },
+    {
+      "id": "6af1ba86d50277cd59a05d0d",
+      "title": "Clinical Trial Assistant - Contract to Hire",
+      "company": "TransPerfect",
+      "logo": "https://www.google.com/s2/favicons?domain=transperfect.com&sz=128",
+      "category": "Clinical Research Associate",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Sourcing",
+        "Research",
+        "Organization",
+        "CRO",
+        "Communication",
+        "Operations",
+        "Leadership",
+        "Documentation"
+      ],
+      "location": "Remote (Global)",
+      "pay": "Lihat Detail",
+      "date": "Nov 9, 2026",
+      "timestamp": 1794182400,
+      "excerpt": "TransPerfect is sourcing this role on behalf of our client, a contract research organization (CRO). Candidates will apply through TransPerfect. Position Overview Type: Full-time, 12-month contract-to-hire Location: Remote.",
+      "applyUrl": "https://transperfect.recruitee.com/o/clinical-trial-assistant-contract-to-hire/c/new",
+      "source": "Sourcing • Research"
+    },
+    {
       "id": "6ad119496e6fc0fdbedd2207",
       "title": "Computational Biology & Bioinformatics Expert (PhD)",
       "company": "Micro1",
@@ -70,6 +151,33 @@
       "excerpt": "Job Title: Computational Biology & Bioinformatics Expert (PhD) Job Type: Contractor Location: Remote (Worldwide) Job Summary: In this role, you’ll apply your expertise to help train next-generation AI systems.",
       "applyUrl": "https://jobs.micro1.ai/post/b908ffa3-a064-49f9-8d7b-77ce2670824b?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
       "source": "Biology • Bioinformatics"
+    },
+    {
+      "id": "6af1ba2fd50277cd59a05578",
+      "title": "Bioinformatics Scientist",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "AI Expert - Biology",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Bioinformatics",
+        "AI",
+        "Chemistry",
+        "Training",
+        "Analysis",
+        "Interpretation",
+        "Accuracy",
+        "Biology"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$45 – $90/hr",
+      "date": "Nov 9, 2026",
+      "timestamp": 1794182400,
+      "excerpt": "Role Title: Bioinformatics Scientist Role Type: Contractor Location: Remote micro1 is engaging Bioinformatics Scientists to contribute their specialized expertise to a customer's innovative project.",
+      "applyUrl": "https://jobs.micro1.ai/post/29c28a5b-f99f-4f5e-9ee4-c3e2923c9def?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "Bioinformatics • AI"
     },
     {
       "id": "6ad119496e6fc0fdbedd2206",
@@ -286,6 +394,33 @@
       "excerpt": "Role Title: Simulation Expert — Real-to-Sim 3D Environments & Assets Role Type: Contractor Location: Remote micro1 is engaging Simulation Experts — Real-to-Sim 3D Environments & Assets to contribute to a customer’s project focused on advanced simulation and artificial…",
       "applyUrl": "https://jobs.micro1.ai/post/333fddbb-5e71-406c-aa0c-e88d0a33b538?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
       "source": "Simulation • Training"
+    },
+    {
+      "id": "6af1b8afd50277cd59a0517f",
+      "title": "Director, Product Marketing DSX",
+      "company": "NVIDIA",
+      "logo": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=32",
+      "category": "Product Marketing Manager",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Marketing",
+        "Strategic Thinking",
+        "Positioning",
+        "Infrastructure",
+        "AI",
+        "Management",
+        "Network Fundamentals",
+        "Operations"
+      ],
+      "location": "United States (US: CA)",
+      "pay": "Lihat Detail",
+      "date": "Nov 9, 2026",
+      "timestamp": 1794182400,
+      "excerpt": "NVIDIA is seeking a Director of Product Marketing to guide the strategy, positioning, and market launch activities for the infrastructure layer of NVIDIA DSX OS.",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Product-Marketing-DSX_JR2029288",
+      "source": "Marketing • Strategic Thinking"
     },
     {
       "id": "gh-5288098007",
@@ -628,7 +763,7 @@
       "date": "Nov 8, 2026",
       "timestamp": 1794096000,
       "excerpt": "Role Title: Mobility Equipment / Automotive Electrical Technician (Wheelchair Vans) Role Type: Contractor Location: Remote micro1 is engaging seasoned Mobility Equipment / Automotive Electrical Technicians (Wheelchair Vans) to support a specialized customer project focused on…",
-      "applyUrl": "https://jobs.micro1.ai/post/3002bfd3-f49f-427e-b10b-486c0672395c?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "applyUrl": "https://remowork.life/jobs/6af06808486bbcbe06686bca/apply-out?ch=card",
       "source": "AI • Procedures"
     },
     {
@@ -655,7 +790,7 @@
       "date": "Nov 8, 2026",
       "timestamp": 1794096000,
       "excerpt": "Role Title: Semiconductor Yield / Defect Engineer (Wafer Fab, SEM Defect Review) Role Type: Contractor Location: Remote micro1 is engaging Semiconductor Yield / Defect Engineers (Wafer Fab, SEM Defect Review) to support a customer engagement focused on advancing semiconductor…",
-      "applyUrl": "https://jobs.micro1.ai/post/1c418fa2-c6b7-4b6c-8914-324ffab753c2?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "applyUrl": "https://remowork.life/jobs/6af06808486bbcbe06686bcb/apply-out?ch=card",
       "source": "SEM • Manufacturing"
     },
     {
@@ -682,7 +817,7 @@
       "date": "Nov 8, 2026",
       "timestamp": 1794096000,
       "excerpt": "Bring a real coding project you care about and keep developing it with an AI coding assistant. We cover the token costs, and the project and all code remain entirely yours.",
-      "applyUrl": "https://www.alignerr.com/jobs/15430f60-3486-4001-9773-a472ed454ffc",
+      "applyUrl": "https://remowork.life/jobs/6aefbc78486bbcbe0666a03f/apply-out?ch=card",
       "source": "AI • GitHub"
     },
     {
@@ -793,7 +928,7 @@
       "date": "Nov 7, 2026",
       "timestamp": 1794009600,
       "excerpt": "The Role We are seeking a Research Engineer to operate at the frontier of Reinforcement Learning (RL), developing novel environments, training pipelines, and evaluation systems that advance the capabilities of modern AI models.",
-      "applyUrl": "https://jobs.micro1.ai/post/2d55bfd0-24a8-4432-9f25-6fceea9cd4f2?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "applyUrl": "https://remowork.life/jobs/6aefbf31486bbcbe0666b3fa/apply-out?ch=card",
       "source": "Research • Engineering"
     },
     {
@@ -820,7 +955,7 @@
       "date": "Nov 7, 2026",
       "timestamp": 1794009600,
       "excerpt": "Job Title: Member of Technical Staff, Robotics & Embodied AI Research Job Type: Full-time Location: Remote The Role We're hiring a Robotics Researcher to drive frontier research in embodied AI, robot learning, and physical AI systems.",
-      "applyUrl": "https://jobs.micro1.ai/post/6ce8225a-9f5a-4b30-a556-9081176bffff?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "applyUrl": "https://remowork.life/jobs/6aefbf31486bbcbe0666b3df/apply-out?ch=card",
       "source": "Robotics • AI"
     },
     {
@@ -4196,141 +4331,6 @@
       "source": "Identity and Access Management • Management"
     },
     {
-      "id": "6aee2041633532d4c8189efb",
-      "title": "Staff Software Engineer, Frontend/Mobile (Consumer - Agentic Trading)",
-      "company": "Coinbase",
-      "logo": "https://www.google.com/s2/favicons?domain=coinbase.com&sz=64",
-      "category": "Frontend Engineer",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Finance",
-        "Reasoning",
-        "Architecture",
-        "Engineering",
-        "Communication",
-        "Analysis",
-        "React",
-        "iOS SDK"
-      ],
-      "location": "United States, Canada",
-      "pay": "Lihat Detail",
-      "date": "Nov 6, 2026",
-      "timestamp": 1793923200,
-      "excerpt": "Ready to do the most impactful work of your career? At Coinbase, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
-      "applyUrl": "https://remowork.life/jobs/6aee2041633532d4c8189efb/staff-software-engineer-frontendmobile-consumer-agentic-trading",
-      "source": "Finance • Reasoning"
-    },
-    {
-      "id": "6aee1a9e633532d4c8186ac6",
-      "title": "Employee Engagement & Communications Program Manager",
-      "company": "Blueprint Technologies",
-      "logo": "https://www.google.com/s2/favicons?domain=bpcs.com&sz=128",
-      "category": "Program Manager",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Communications",
-        "Microsoft Teams",
-        "Strategic Thinking",
-        "AI",
-        "Culture",
-        "Organization",
-        "Alignment",
-        "Leadership"
-      ],
-      "location": "United States",
-      "pay": "$40.87 – $44.71/hr",
-      "date": "Nov 6, 2026",
-      "timestamp": 1793923200,
-      "excerpt": "Blueprint is a technology solutions firm headquartered in Bellevue, Washington, with teams across the United States. We help organizations turn complex challenges into meaningful outcomes by connecting strategy and execution across AI, cloud, data, product development, and…",
-      "applyUrl": "https://remowork.life/jobs/6aee1a9e633532d4c8186ac6/apply-out?ch=card",
-      "source": "Communications • Microsoft Teams"
-    },
-    {
-      "id": "6aee1f02633532d4c8188f4c",
-      "title": "Music Annotation Specialist",
-      "company": "Meridial AI",
-      "logo": "https://www.google.com/s2/favicons?domain=meridial.ai&sz=128",
-      "category": "AI Expert - Music & Audio",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Annotation",
-        "Instrumentation",
-        "Composition",
-        "Analysis",
-        "Dynamics",
-        "Writing",
-        "Music Annotation",
-        "Music Theory"
-      ],
-      "location": "United States, Canada",
-      "pay": "$38/hr",
-      "date": "Nov 6, 2026",
-      "timestamp": 1793923200,
-      "excerpt": "We're hiring trained musicians to produce detailed, accurate annotations of musical audio. The work demands a sharp ear, solid theory, and the ability to describe what's happening in an arrangement in the precise, shared language that musicians use with each other.",
-      "applyUrl": "https://remowork.life/jobs/6aee1f02633532d4c8188f4c/apply-out?ch=card",
-      "source": "Annotation • Instrumentation"
-    },
-    {
-      "id": "6aee1d72633532d4c81877ed",
-      "title": "Community Engagement and Advocacy Manager",
-      "company": "Tailscale",
-      "logo": "https://www.google.com/s2/favicons?domain=tailscale.com&sz=32",
-      "category": "Community Manager",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Statistics",
-        "Microsoft Teams",
-        "Engineering",
-        "Marketing",
-        "Strategic Thinking",
-        "Operations",
-        "Testing",
-        "Recruiting"
-      ],
-      "location": "United States",
-      "pay": "$144,000 – $177,000/yr",
-      "date": "Nov 6, 2026",
-      "timestamp": 1793923200,
-      "excerpt": "Thank you for considering Tailscale. If this job description resonates with you, please apply. Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications.",
-      "applyUrl": "https://remowork.life/jobs/6aee1d72633532d4c81877ed/apply-out?ch=card",
-      "source": "Statistics • Microsoft Teams"
-    },
-    {
-      "id": "6aee201f633532d4c8189c27",
-      "title": "AI Healthcare Operations - Remote Project",
-      "company": "Aston Carter",
-      "logo": "https://www.google.com/s2/favicons?domain=astoncarter.com&sz=64",
-      "category": "AI Expert - Clinical & Medical",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "AI",
-        "Healthcare",
-        "Operations",
-        "Training",
-        "Management",
-        "Documentation",
-        "Rubrics",
-        "Compliance"
-      ],
-      "location": "United States",
-      "pay": "$40,000 – $60,000/yr",
-      "date": "Nov 6, 2026",
-      "timestamp": 1793923200,
-      "excerpt": "We are seeking experienced healthcare operations professionals to join our AI training team. In this role, you will help evaluate and improve artificial intelligence systems by applying real-world expertise in medical coding, billing, revenue cycle management, clinical…",
-      "applyUrl": "https://remowork.life/jobs/6aee201f633532d4c8189c27/apply-out?ch=card",
-      "source": "AI • Healthcare"
-    },
-    {
       "id": "gh-4803862007",
       "title": "Sr. Software Engineer, Data Platform",
       "company": "xAI",
@@ -4415,7 +4415,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5266499007",
+      "id": "gh-5286282007",
       "title": "Data Center Operations Technician - Memphis",
       "company": "xAI",
       "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
@@ -4432,7 +4432,7 @@
       "date": "Nov 05, 2026",
       "timestamp": 1793910400,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5266499007",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5286282007",
       "source": "⚡ Direct API"
     },
     {
@@ -4814,7 +4814,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4589749005",
+      "id": "gh-4650514005",
       "title": "Product Manager of AI Applications, Global Public Sector",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -4826,12 +4826,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Doha, Qatar ; Dubai, UAE (+1 lokasi lain)",
+      "location": "Riyadh, Saudi Arabia (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Nov 05, 2026",
       "timestamp": 1793905260,
       "excerpt": "Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most exciting and quickly expanding teams at Scale. This team is responsible for generating, executing, and fost...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
       "source": "⚡ Direct API"
     },
     {
@@ -7991,7 +7991,7 @@
       "source": "Indonesian • AI"
     },
     {
-      "id": "gh-6006504004",
+      "id": "gh-6006505004",
       "title": "AI Trainer - Automotive Expertise Required",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8008,7 +8008,7 @@
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006504004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006505004",
       "source": "⚡ Direct API"
     },
     {
@@ -8054,7 +8054,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5823643004",
+      "id": "gh-5823642004",
       "title": "Data Collection Contributor",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8066,12 +8066,12 @@
         "Direct API",
         "HumanSignal"
       ],
-      "location": "Canada (+21 lokasi lain)",
+      "location": "Bulgaria (+21 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823643004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823642004",
       "source": "⚡ Direct API"
     },
     {
