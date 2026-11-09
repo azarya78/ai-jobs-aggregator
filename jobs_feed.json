@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08 21:30 UTC",
+  "lastUpdated": "2026-11-09 00:51 UTC",
   "totalJobs": 371,
   "jobs": [
     {
@@ -37,14 +37,17 @@
         "Chemistry",
         "Biology",
         "Mathematics",
-        "Python"
+        "Python",
+        "AI",
+        "Training",
+        "NumPy"
       ],
       "location": "Remote (Global)",
       "pay": "Lihat Detail",
       "date": "Nov 8, 2026",
       "timestamp": 1794096000,
-      "excerpt": "The work: write rigorous scientific coding problems in your field (one main problem and at least three connected sub-problems), a verified Python solution with unit tests, and test cases that tell correct answers from wrong ones.",
-      "applyUrl": "https://experts.rustlabs.ai/apply?role=scientific-coding",
+      "excerpt": "We're staffing scientists who code in Python to write scientific problems and tested solutions for AI training and evaluation work. It's remote. This takes about a minute.",
+      "applyUrl": "https://experts.rustlabs.ai/apply?program=talent-sourcer-scientific-coding&role=scientific-coding",
       "source": "Physics • Chemistry"
     },
     {
@@ -644,33 +647,6 @@
       "source": "AI • RAG"
     },
     {
-      "id": "6aef713e486bbcbe0666727a",
-      "title": "Patient Support Specialist (Remote)",
-      "company": "CareTalk Health",
-      "logo": "https://www.google.com/s2/favicons?domain=caretalkhealth.com&sz=64",
-      "category": "Customer Support Specialist",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Medicare",
-        "Make",
-        "Product Management",
-        "Microsoft Teams",
-        "Communication",
-        "Documentation",
-        "Outreach",
-        "Healthcare"
-      ],
-      "location": "United States",
-      "pay": "$20/hr",
-      "date": "Nov 7, 2026",
-      "timestamp": 1794009600,
-      "excerpt": "Compensation: $20 per hour CareTalk Health CareTalk Health is a fully remote, nationwide virtual medical practice. We partner with Medicare Advantage plans to deliver Annual Wellness Visits and close care gaps, reaching members wherever they are.",
-      "applyUrl": "https://job-boards.greenhouse.io/caretalkhealth?error=true",
-      "source": "Medicare • Make"
-    },
-    {
       "id": "6aef6e88486bbcbe06665535",
       "title": "Theme Park Vacationers: 35-Minute Survey on Resort Experiences",
       "company": "Terac",
@@ -795,7 +771,7 @@
       "date": "Nov 7, 2026",
       "timestamp": 1794009600,
       "excerpt": "micro1 is engaging Video Editors to contribute to a dynamic customer project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input.",
-      "applyUrl": "https://remowork.life/jobs/6aeec271d347a805a2ab7191/apply-out?ch=card",
+      "applyUrl": "https://jobs.micro1.ai/post/90aad87f-d015-470f-bbc4-35844448ab65?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
       "source": "AI • Editing"
     },
     {
@@ -4328,6 +4304,33 @@
       "source": "Biology • Research"
     },
     {
+      "id": "6aee1879633532d4c8186012",
+      "title": "Business Development Manager",
+      "company": "Microsoft",
+      "logo": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=32",
+      "category": "PR / Communications",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Operations",
+        "Strategic Thinking",
+        "Communications",
+        "Leadership",
+        "Culture",
+        "Organization",
+        "Messaging",
+        "Planning"
+      ],
+      "location": "United States",
+      "pay": "$48.50 – $55/hr",
+      "date": "Nov 6, 2026",
+      "timestamp": 1793923200,
+      "excerpt": "Please note that this is a contract role providing services to Microsoft through external staffing partners of Allegis Global Solutions. If you are selected for this role, you will be employed by AGS and will not be an employee of Microsoft.",
+      "applyUrl": "https://remowork.life/jobs/6aee1879633532d4c8186012/apply-out?ch=card",
+      "source": "Operations • Strategic Thinking"
+    },
+    {
       "id": "gh-4803862007",
       "title": "Sr. Software Engineer, Data Platform",
       "company": "xAI",
@@ -4412,7 +4415,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5266499007",
+      "id": "gh-5286282007",
       "title": "Data Center Operations Technician - Memphis",
       "company": "xAI",
       "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
@@ -4429,7 +4432,7 @@
       "date": "Nov 05, 2026",
       "timestamp": 1793910400,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5266499007",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5286282007",
       "source": "⚡ Direct API"
     },
     {
@@ -4811,7 +4814,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4589749005",
+      "id": "gh-4650514005",
       "title": "Product Manager of AI Applications, Global Public Sector",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -4823,12 +4826,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Doha, Qatar ; Dubai, UAE (+1 lokasi lain)",
+      "location": "Riyadh, Saudi Arabia (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Nov 05, 2026",
       "timestamp": 1793905260,
       "excerpt": "Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most exciting and quickly expanding teams at Scale. This team is responsible for generating, executing, and fost...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
       "source": "⚡ Direct API"
     },
     {
@@ -7988,7 +7991,7 @@
       "source": "Indonesian • AI"
     },
     {
-      "id": "gh-6006504004",
+      "id": "gh-6006505004",
       "title": "AI Trainer - Automotive Expertise Required",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8005,7 +8008,7 @@
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006504004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006505004",
       "source": "⚡ Direct API"
     },
     {
@@ -8051,7 +8054,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5823643004",
+      "id": "gh-5823642004",
       "title": "Data Collection Contributor",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8063,12 +8066,12 @@
         "Direct API",
         "HumanSignal"
       ],
-      "location": "Canada (+21 lokasi lain)",
+      "location": "Bulgaria (+21 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823643004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823642004",
       "source": "⚡ Direct API"
     },
     {
