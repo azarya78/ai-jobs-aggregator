@@ -1,7 +1,49 @@
 {
-  "lastUpdated": "2026-11-09 15:54 UTC",
-  "totalJobs": 371,
+  "lastUpdated": "2026-11-09 18:49 UTC",
+  "totalJobs": 372,
   "jobs": [
+    {
+      "id": "ashby-39cab400-c976-41d9-9002-880ac6985b64",
+      "title": "Staff Software Engineer, Agentic Analytics",
+      "company": "Cohere",
+      "logo": "https://www.google.com/s2/favicons?domain=cohere.com&sz=128",
+      "category": "Analytics & Data Insights",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Analytics & Data Insights",
+        "Direct API"
+      ],
+      "location": "United States",
+      "pay": "Lihat Detail",
+      "date": "Nov 09, 2026",
+      "timestamp": 1794249763,
+      "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/39cab400-c976-41d9-9002-880ac6985b64",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-4675684005",
+      "title": "Research Scientist, AI Safety and Alignment",
+      "company": "Scale AI",
+      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "Scale AI"
+      ],
+      "location": "San Francisco, CA",
+      "pay": "Lihat Detail",
+      "date": "Nov 09, 2026",
+      "timestamp": 1794244546,
+      "excerpt": "Scale Labs, Research Scientist — AI Safety and Alignment As the leading data and evaluation partner for frontier AI companies, Scale plays a central role in understanding and safeguarding AI systems. Building on this exp...",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4675684005",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "gh-4751098005",
       "title": "Strategist",
@@ -517,7 +559,7 @@
         "CAD"
       ],
       "location": "Remote (Global)",
-      "pay": "$40 – $70/hr",
+      "pay": "$50 – $100/hr",
       "date": "Nov 8, 2026",
       "timestamp": 1794096000,
       "excerpt": "Role Title: Dimensional Metrology Quality Engineer Role Type: Contractor Location: Remote micro1 is engaging Dimensional Metrology Quality Engineers to contribute to a customer's project focused on advanced inspection and measurement solutions.",
@@ -1380,33 +1422,6 @@
       "excerpt": "micro1 is recruiting cousin pairs or groups to participate in a paid photo data collection project supporting the development and evaluation of artificial intelligence (AI) systems.",
       "applyUrl": "https://remowork.life/jobs/6aeec271d347a805a2ab7038/apply-out?ch=card",
       "source": "Recruiting • AI"
-    },
-    {
-      "id": "6aeec271d347a805a2ab7039",
-      "title": "PhD Scientist — STEM Expert",
-      "company": "Micro1",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
-      "category": "AI Expert - Physics",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "STEM",
-        "Flexible",
-        "Research",
-        "Reasoning",
-        "Accuracy",
-        "AI",
-        "Training",
-        "Onboarding"
-      ],
-      "location": "Remote (Global)",
-      "pay": "$45 – $90/hr",
-      "date": "Nov 7, 2026",
-      "timestamp": 1794009600,
-      "excerpt": "Opportunity Snapshot Pay: $45 - $90/hour Commitment: Flexible — fits alongside your current role Location: Fully remote You’ll need: A completed PhD in a STEM field, plus hands-on research experience Your tasks: Build difficult technical problems from your own research and…",
-      "applyUrl": "https://remowork.life/jobs/6aeec271d347a805a2ab7039/apply-out?ch=card",
-      "source": "STEM • Flexible"
     },
     {
       "id": "6aeebea9d347a805a2ab47a4",
@@ -2822,27 +2837,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4675684005",
-      "title": "Research Scientist, AI Safety and Alignment",
-      "company": "Scale AI",
-      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "Scale AI"
-      ],
-      "location": "San Francisco, CA; New York, NY",
-      "pay": "Lihat Detail",
-      "date": "Nov 06, 2026",
-      "timestamp": 1793991922,
-      "excerpt": "Scale Labs, Research Scientist — AI Safety and Alignment As the leading data and evaluation partner for frontier AI companies, Scale plays a central role in understanding and safeguarding AI systems. Building on this exp...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4675684005",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "gh-4751059005",
       "title": "Applied AI Engineer",
       "company": "Scale AI",
@@ -3192,7 +3186,7 @@
       "pay": "$21 – $35/hr",
       "date": "Nov 6, 2026",
       "timestamp": 1793923200,
-      "excerpt": "Role Title: Generalist for Data Annotation Role Type: Contractor Location: Remote micro1 is engaging Generalists for Data Annotation to contribute to a customer’s innovative project. In this role, you'll apply your expertise to help train next-generation AI systems.",
+      "excerpt": "Role Title: Generalist for Data Annotation Role Type: Contractor, Remote Location: United States micro1 is engaging Generalists for Data Annotation to contribute to a customer’s innovative project.",
       "applyUrl": "https://remowork.life/jobs/6aee6e229e1dd3eb8a7095a8/apply-out?ch=card",
       "source": "Annotation • AI"
     },
@@ -3270,7 +3264,7 @@
         "Consistency"
       ],
       "location": "United States",
-      "pay": "$50.54 – $68.93/hr",
+      "pay": "$50.54 – $63.24/hr",
       "date": "Nov 6, 2026",
       "timestamp": 1793923200,
       "excerpt": "We're looking for an experienced 3D generalist with hands-on production experience who can look at 3D assets and masks, say what works and what doesn't, and explain why in plain language.",
@@ -3387,7 +3381,7 @@
     },
     {
       "id": "6aee73da9e1dd3eb8a70d364",
-      "title": "Senior Product Manager",
+      "title": "Senior Product Manager, Payments & TRUST Network",
       "company": "Coinbase",
       "logo": "https://www.google.com/s2/favicons?domain=coinbase.com&sz=64",
       "category": "Product Manager",
@@ -3395,14 +3389,14 @@
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
+        "Payments",
         "Finance",
         "Product Management",
         "APIs",
         "Infrastructure",
         "Make",
         "Compliance",
-        "Microsoft Teams",
-        "Alignment"
+        "Microsoft Teams"
       ],
       "location": "United States",
       "pay": "$207,485 – $244,100/yr",
@@ -3410,7 +3404,7 @@
       "timestamp": 1793923200,
       "excerpt": "Ready to do the most impactful work of your career? At Coinbase, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
       "applyUrl": "https://remowork.life/jobs/6aee73da9e1dd3eb8a70d364/apply-out?ch=card",
-      "source": "Finance • Product Management"
+      "source": "Payments • Finance"
     },
     {
       "id": "6aee6e809e1dd3eb8a709ce9",
@@ -4329,6 +4323,33 @@
       "excerpt": "This role owns identity and access management (Okta and adjacent identity tooling) and Atlassian/Jira/Confluence platform administration as dedicated, full-time disciplines.",
       "applyUrl": "https://remowork.life/jobs/6aee1a64633532d4c8186839/apply-out?ch=card",
       "source": "Identity and Access Management • Management"
+    },
+    {
+      "id": "6aee2041633532d4c8189efb",
+      "title": "Staff Software Engineer, Frontend/Mobile (Consumer - Agentic Trading)",
+      "company": "Coinbase",
+      "logo": "https://www.google.com/s2/favicons?domain=coinbase.com&sz=64",
+      "category": "Frontend Engineer",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Finance",
+        "Reasoning",
+        "Architecture",
+        "Engineering",
+        "Communication",
+        "Analysis",
+        "React",
+        "iOS SDK"
+      ],
+      "location": "United States, Canada",
+      "pay": "Lihat Detail",
+      "date": "Nov 6, 2026",
+      "timestamp": 1793923200,
+      "excerpt": "Ready to do the most impactful work of your career? At Coinbase, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "applyUrl": "https://remowork.life/jobs/6aee2041633532d4c8189efb/staff-software-engineer-frontendmobile-consumer-agentic-trading",
+      "source": "Finance • Reasoning"
     },
     {
       "id": "gh-4803862007",
