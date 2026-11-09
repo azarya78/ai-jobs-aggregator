@@ -1,7 +1,211 @@
 {
-  "lastUpdated": "2026-11-09 09:57 UTC",
+  "lastUpdated": "2026-11-09 12:58 UTC",
   "totalJobs": 371,
   "jobs": [
+    {
+      "id": "gh-4751098005",
+      "title": "Strategist",
+      "company": "Scale AI",
+      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "Scale AI"
+      ],
+      "location": "Kuwait City, Kuwait",
+      "pay": "Lihat Detail",
+      "date": "Nov 09, 2026",
+      "timestamp": 1794228570,
+      "excerpt": "Scale’s rapidly growing Global Public Sector team is expanding, and is focused on using AI to address critical challenges facing the public sector around the world. Our core work consists of: Building custom AI applicati...",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751098005",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-4751057005",
+      "title": "Engagement Manager",
+      "company": "Scale AI",
+      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "Scale AI"
+      ],
+      "location": "Kuwait City, Kuwait",
+      "pay": "Lihat Detail",
+      "date": "Nov 09, 2026",
+      "timestamp": 1794228541,
+      "excerpt": "About the team: Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most rapidly expanding teams at Scale. This team is responsible for generating, executing, and f...",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751057005",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "6ad119496e6fc0fdbedd2207",
+      "title": "Computational Biology & Bioinformatics Expert (PhD)",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "AI Expert - Biology",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Biology",
+        "Bioinformatics",
+        "AI",
+        "Benchmarking",
+        "Analysis",
+        "Accuracy",
+        "Writing",
+        "Genomics"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$45 – $90/hr",
+      "date": "Nov 9, 2026",
+      "timestamp": 1794182400,
+      "excerpt": "Job Title: Computational Biology & Bioinformatics Expert (PhD) Job Type: Contractor Location: Remote (Worldwide) Job Summary: In this role, you’ll apply your expertise to help train next-generation AI systems.",
+      "applyUrl": "https://jobs.micro1.ai/post/b908ffa3-a064-49f9-8d7b-77ce2670824b?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "Biology • Bioinformatics"
+    },
+    {
+      "id": "6ad119496e6fc0fdbedd2206",
+      "title": "Computational Chemistry, Structural Biology & Drug Discovery Scientist (PhD)",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "AI Expert - Chemistry",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Chemistry",
+        "Biology",
+        "AI",
+        "Accuracy",
+        "Reasoning",
+        "Rubrics",
+        "Literature",
+        "Modeling"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$45 – $90/hr",
+      "date": "Nov 9, 2026",
+      "timestamp": 1794182400,
+      "excerpt": "Role Title: Computational Chemistry, Structural Biology & Drug Discovery Scientist (PhD) Role Type: Contractor Location: Remote (Worldwide) Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems.",
+      "applyUrl": "https://jobs.micro1.ai/post/77fd3077-4356-4da5-b637-aca3ef8b5168?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "Chemistry • Biology"
+    },
+    {
+      "id": "6ad119496e6fc0fdbedd2205",
+      "title": "Clinical, Microbiome & Translational Research Scientist (PhD)",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "AI Expert - Biology",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Research",
+        "AI",
+        "Bioinformatics",
+        "Accuracy",
+        "Reasoning",
+        "Rubrics",
+        "Literature",
+        "Analysis"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$45 – $90/hr",
+      "date": "Nov 9, 2026",
+      "timestamp": 1794182400,
+      "excerpt": "Job Title: Clinical, Microbiome & Translational Research Scientist (PhD) Job Type: Contractor Location: Remote(Worldwide) Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems.",
+      "applyUrl": "https://jobs.micro1.ai/post/1fac0507-1c3c-490b-bfe8-1ed2a7b95794?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "Research • AI"
+    },
+    {
+      "id": "6ad119496e6fc0fdbedd2204",
+      "title": "Life Sciences Research Scientist (PhD): Wet Lab & Computational Biology",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "AI Expert - Biology",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Research",
+        "Biology",
+        "AI",
+        "Accuracy",
+        "Reasoning",
+        "Rubrics",
+        "Literature",
+        "Genomics"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$45 – $90/hr",
+      "date": "Nov 9, 2026",
+      "timestamp": 1794182400,
+      "excerpt": "Job Title: Life Sciences Research Scientist (PhD): Wet Lab & Computational Biology Job Type: Contractor Location: Remote(Worldwide) Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems.",
+      "applyUrl": "https://jobs.micro1.ai/post/a9a3a22a-0ce7-4c9e-be8f-3e28aa7921e4?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "Research • Biology"
+    },
+    {
+      "id": "6ad1c19d6e6fc0fdbede45d1",
+      "title": "STEM Expert – Biology & Bioinformatics (PhD)",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "AI Expert - Biology",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "STEM",
+        "Biology",
+        "Bioinformatics",
+        "AI",
+        "Benchmarking",
+        "Analysis",
+        "Accuracy",
+        "Writing"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$45 – $90/hr",
+      "date": "Nov 9, 2026",
+      "timestamp": 1794182400,
+      "excerpt": "Job Summary: In this role, you’ll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input.",
+      "applyUrl": "https://jobs.micro1.ai/post/864c5814-9a34-444f-afa5-c1945c531a0f?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "STEM • Biology"
+    },
+    {
+      "id": "6ad1c19d6e6fc0fdbede45d0",
+      "title": "STEM Expert – Chemistry & Computational Chemistry (PhD)",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "AI Expert - Chemistry",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "STEM",
+        "Chemistry",
+        "AI",
+        "Reasoning",
+        "Benchmarking",
+        "Mechanical Systems",
+        "Planning",
+        "Spectroscopy"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$45 – $90/hr",
+      "date": "Nov 9, 2026",
+      "timestamp": 1794182400,
+      "excerpt": "Role Title: STEM Expert – Chemistry & Computational Chemistry (PhD) Role Type: Contractor Location: Remote (Worldwide) Job Summary: In this role, you’ll apply your expertise to help train next-generation AI systems.",
+      "applyUrl": "https://jobs.micro1.ai/post/6d450cdb-b9d0-4063-95c5-201a384fa906?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "STEM • Chemistry"
+    },
     {
       "id": "6af16acfd50277cd599e4f37",
       "title": "US lawyers: legal tasks for AI",
@@ -643,7 +847,7 @@
       "date": "Nov 7, 2026",
       "timestamp": 1794009600,
       "excerpt": "Job Title: Member of Technical Staff, Coding Agent Research & Evaluations Job Type: Full-time Location: Remote The Role We are seeking a Member of Technical Staff to help advance the evaluation and development of frontier coding agents.",
-      "applyUrl": "https://jobs.micro1.ai/post/20d7f8c6-344c-4e71-a5ea-7ee3ba74ce18?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "applyUrl": "https://remowork.life/jobs/6aefbf31486bbcbe0666b3fb/apply-out?ch=card",
       "source": "Research • AI"
     },
     {
@@ -670,7 +874,7 @@
       "date": "Nov 7, 2026",
       "timestamp": 1794009600,
       "excerpt": "Job Title: Member of Technical Staff, Cortex Lab (applied AI research) Job Type: Full-time Location: Remote The Role We're hiring a Member of Technical Staff (MTS) to develop, evaluate, and improve AI agents and LLM-powered systems operating in real-world enterprise workflows.",
-      "applyUrl": "https://jobs.micro1.ai/post/2038a36e-a29d-4beb-a3de-f7267488573f?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "applyUrl": "https://remowork.life/jobs/6aefbf31486bbcbe0666b3e0/apply-out?ch=card",
       "source": "AI • Research"
     },
     {
@@ -697,7 +901,7 @@
       "date": "Nov 7, 2026",
       "timestamp": 1794009600,
       "excerpt": "Job Title: Member of Technical Staff, Realm Lab (frontier AI research) Job Type: Full time Location: Remote The Role We're hiring a Member of Technical Staff (MTS) to join Realm Lab and drive research initiatives focused on evaluating and improving frontier AI systems.",
-      "applyUrl": "https://jobs.micro1.ai/post/922fc5ce-a7d1-4cca-ba9e-aa1bcd5f4286?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "applyUrl": "https://remowork.life/jobs/6aefbf31486bbcbe0666b3e1/apply-out?ch=card",
       "source": "AI • Research"
     },
     {
@@ -724,7 +928,7 @@
       "date": "Nov 7, 2026",
       "timestamp": 1794009600,
       "excerpt": "Role Title: International Humanitarian Law Advisor Role Type: Contractor (~15 hrs/wk) Location: Remote micro1 is engaging International Humanitarian Law Advisors to contribute to a customer project focused on the rigorous application of IHL and human-rights principles.",
-      "applyUrl": "https://jobs.micro1.ai/post/871589f5-7a7e-498f-b121-90215edf6c9e?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "applyUrl": "https://remowork.life/jobs/6aefbf31486bbcbe0666b26e/apply-out?ch=card",
       "source": "AI • Make"
     },
     {
@@ -751,7 +955,7 @@
       "date": "Nov 7, 2026",
       "timestamp": 1794009600,
       "excerpt": "We're running a paid study on the digital platforms that power daily healthcare operations. Our goal is to evaluate how current software solutions integrate into clinical and administrative routines.",
-      "applyUrl": "https://terac.com/opportunities/d6ByVuNb3niYdRmV",
+      "applyUrl": "https://remowork.life/jobs/6aefc27e486bbcbe0666d9c9/apply-out?ch=card",
       "source": "Healthcare • Operations"
     },
     {
@@ -778,7 +982,7 @@
       "date": "Nov 7, 2026",
       "timestamp": 1794009600,
       "excerpt": "We're running a paid study on the integration and impact of artificial intelligence in healthcare billing and clinical workflows. As healthcare systems adopt new technologies, understanding the practical challenges of evaluating and deploying these models is critical.",
-      "applyUrl": "https://terac.com/opportunities/9PATC5wRBXp2Dm3v",
+      "applyUrl": "https://remowork.life/jobs/6aefc27e486bbcbe0666d9ca/apply-out?ch=card",
       "source": "Healthcare • AI"
     },
     {
@@ -2504,27 +2708,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4751057005",
-      "title": "Engagement Manager",
-      "company": "Scale AI",
-      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "Scale AI"
-      ],
-      "location": "Kuwait City, Kuwait",
-      "pay": "Lihat Detail",
-      "date": "Nov 06, 2026",
-      "timestamp": 1793975957,
-      "excerpt": "About the team: Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most rapidly expanding teams at Scale. This team is responsible for generating, executing, and f...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751057005",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "gh-4751059005",
       "title": "Applied AI Engineer",
       "company": "Scale AI",
@@ -2564,27 +2747,6 @@
       "timestamp": 1793972426,
       "excerpt": "Scale’s rapidly growing Global Public Sector team is focused on using AI to address critical challenges facing the public sector around the world. Our core work consists of: Creating custom AI applications that will impa...",
       "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751108005",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-4751098005",
-      "title": "Strategist",
-      "company": "Scale AI",
-      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "Scale AI"
-      ],
-      "location": "Kuwait City, Kuwait",
-      "pay": "Lihat Detail",
-      "date": "Nov 06, 2026",
-      "timestamp": 1793956851,
-      "excerpt": "Scale’s rapidly growing Global Public Sector team is expanding, and is focused on using AI to address critical challenges facing the public sector around the world. Our core work consists of: Building custom AI applicati...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751098005",
       "source": "⚡ Direct API"
     },
     {
@@ -4007,33 +4169,6 @@
       "source": "Finance • AI"
     },
     {
-      "id": "6aee1a9e633532d4c8186ac4",
-      "title": "Business Operations & Program Manager",
-      "company": "Blueprint Technologies",
-      "logo": "https://www.google.com/s2/favicons?domain=bpcs.com&sz=128",
-      "category": "Program Manager",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Operations",
-        "Microsoft Teams",
-        "Strategic Thinking",
-        "AI",
-        "Culture",
-        "Organization",
-        "Planning",
-        "Management"
-      ],
-      "location": "United States",
-      "pay": "$40.87 – $44.71/hr",
-      "date": "Nov 6, 2026",
-      "timestamp": 1793923200,
-      "excerpt": "Blueprint is a technology solutions firm headquartered in Bellevue, Washington, with teams across the United States. We help organizations turn complex challenges into meaningful outcomes by connecting strategy and execution across AI, cloud, data, product development, and…",
-      "applyUrl": "https://remowork.life/jobs/6aee1a9e633532d4c8186ac4/apply-out?ch=card",
-      "source": "Operations • Microsoft Teams"
-    },
-    {
       "id": "6aee1a64633532d4c8186839",
       "title": "Sr. IT Engineer, IAM & Platform Management",
       "company": "Fetch",
@@ -4196,141 +4331,6 @@
       "source": "AI • Healthcare"
     },
     {
-      "id": "6aee1fe0633532d4c81897b2",
-      "title": "REAL ESTATE TRANSACTION COORDINATOR VIRTUAL ASSISTANT",
-      "company": "20four7VA",
-      "logo": "https://www.google.com/s2/favicons?domain=20four7va.com&sz=64",
-      "category": "Transaction Coordinator (Real Estate)",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Recruiting",
-        "Make",
-        "Microsoft Teams",
-        "Documentation",
-        "Communication",
-        "Contracts",
-        "Compliance",
-        "Templates"
-      ],
-      "location": "Remote (Global)",
-      "pay": "Lihat Detail",
-      "date": "Nov 6, 2026",
-      "timestamp": 1793923200,
-      "excerpt": "APPLICATION INSTRUCTIONS: If you’ve already completed the 20four7VA Recruiting Process—including the Final Interview—or have previously been contracted by a 20four7VA Client, please make sure to apply via the 20four7VA Team Portal for faster processing.",
-      "applyUrl": "https://remowork.life/jobs/6aee1fe0633532d4c81897b2/apply-out?ch=card",
-      "source": "Recruiting • Make"
-    },
-    {
-      "id": "6aee1f02633532d4c8188f4d",
-      "title": "Audio Captioning Generalist",
-      "company": "Meridial AI",
-      "logo": "https://www.google.com/s2/favicons?domain=meridial.ai&sz=128",
-      "category": "Audio Annotation",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Captioning",
-        "Audit",
-        "Accuracy",
-        "Precision",
-        "English",
-        "Switches",
-        "Training",
-        "Narration"
-      ],
-      "location": "United States, Canada",
-      "pay": "$25/hr",
-      "date": "Nov 6, 2026",
-      "timestamp": 1793923200,
-      "excerpt": "We're hiring careful listeners to review and annotate audio content. You'll transcribe speech, describe non-speech sounds, track speakers through complex conversations, and audit machine-generated drafts for accuracy. The work rewards patience, precision, and a good ear.",
-      "applyUrl": "https://remowork.life/jobs/6aee1f02633532d4c8188f4d/apply-out?ch=card",
-      "source": "Captioning • Audit"
-    },
-    {
-      "id": "6aee2041633532d4c8189ecc",
-      "title": "Senior Software Engineer (Institutional, USDC)",
-      "company": "Coinbase",
-      "logo": "https://www.google.com/s2/favicons?domain=coinbase.com&sz=64",
-      "category": "Backend Engineer",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Finance",
-        "Architecture",
-        "Operations",
-        "APIs",
-        "Management",
-        "Engineering",
-        "Testing",
-        "Infrastructure"
-      ],
-      "location": "United States",
-      "pay": "$207,955 – $218,900/yr",
-      "date": "Nov 6, 2026",
-      "timestamp": 1793923200,
-      "excerpt": "Ready to do the most impactful work of your career? At Coinbase, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
-      "applyUrl": "https://remowork.life/jobs/6aee2041633532d4c8189ecc/apply-out?ch=card",
-      "source": "Finance • Architecture"
-    },
-    {
-      "id": "6aee2008633532d4c8189a7b",
-      "title": "Customer Success Manager I",
-      "company": "Lyra Health",
-      "logo": "https://www.google.com/s2/favicons?domain=lyrahealth.com&sz=64",
-      "category": "Customer Success Manager (Enterprise)",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Research",
-        "Healthcare",
-        "Organized",
-        "Microsoft Teams",
-        "Reporting",
-        "AI",
-        "Marketing",
-        "Communication"
-      ],
-      "location": "United States",
-      "pay": "$85,000 – $117,000/yr",
-      "date": "Nov 6, 2026",
-      "timestamp": 1793923200,
-      "excerpt": "Lyra Health is a leading provider of evidence-based mental health care, serving more than 20 million people globally in partnership with employers and more than 100 million through health plan and partner relationships.",
-      "applyUrl": "https://remowork.life/jobs/6aee2008633532d4c8189a7b/apply-out?ch=card",
-      "source": "Research • Healthcare"
-    },
-    {
-      "id": "6aee201f633532d4c8189c26",
-      "title": "Cost Analyst",
-      "company": "Aston Carter",
-      "logo": "https://www.google.com/s2/favicons?domain=astoncarter.com&sz=64",
-      "category": "Cost Accountant",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Analysis",
-        "Management",
-        "Modeling",
-        "Documentation",
-        "Strategic Thinking",
-        "STEM",
-        "Flexible",
-        "Data Classification"
-      ],
-      "location": "United States",
-      "pay": "$40.87 – $48.08/hr",
-      "date": "Nov 6, 2026",
-      "timestamp": 1793923200,
-      "excerpt": "We are seeking a Mid-level Cost Analyst with an active DoD Secret clearance to provide cost analysis and program management services in support of our program. The role offers flexibility with a remote or hybrid work environment and no travel anticipated.",
-      "applyUrl": "https://remowork.life/jobs/6aee201f633532d4c8189c26/apply-out?ch=card",
-      "source": "Analysis • Management"
-    },
-    {
       "id": "gh-4803862007",
       "title": "Sr. Software Engineer, Data Platform",
       "company": "xAI",
@@ -4415,7 +4415,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5286282007",
+      "id": "gh-5266499007",
       "title": "Data Center Operations Technician - Memphis",
       "company": "xAI",
       "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
@@ -4432,7 +4432,7 @@
       "date": "Nov 05, 2026",
       "timestamp": 1793910400,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5286282007",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5266499007",
       "source": "⚡ Direct API"
     },
     {
@@ -4814,7 +4814,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4650514005",
+      "id": "gh-4589749005",
       "title": "Product Manager of AI Applications, Global Public Sector",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -4826,12 +4826,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Riyadh, Saudi Arabia (+1 lokasi lain)",
+      "location": "Doha, Qatar ; Dubai, UAE (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Nov 05, 2026",
       "timestamp": 1793905260,
       "excerpt": "Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most exciting and quickly expanding teams at Scale. This team is responsible for generating, executing, and fost...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
       "source": "⚡ Direct API"
     },
     {
@@ -7991,7 +7991,7 @@
       "source": "Indonesian • AI"
     },
     {
-      "id": "gh-6006505004",
+      "id": "gh-6006504004",
       "title": "AI Trainer - Automotive Expertise Required",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8008,7 +8008,7 @@
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006505004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006504004",
       "source": "⚡ Direct API"
     },
     {
@@ -8054,7 +8054,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5823642004",
+      "id": "gh-5823643004",
       "title": "Data Collection Contributor",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8066,12 +8066,12 @@
         "Direct API",
         "HumanSignal"
       ],
-      "location": "Bulgaria (+21 lokasi lain)",
+      "location": "Canada (+21 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823642004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823643004",
       "source": "⚡ Direct API"
     },
     {
