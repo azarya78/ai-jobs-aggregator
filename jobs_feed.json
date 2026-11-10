@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-11-10 15:41 UTC",
+  "lastUpdated": "2026-11-10 18:43 UTC",
   "totalJobs": 378,
   "jobs": [
+    {
+      "id": "gh-4565768005",
+      "title": "Staff Product Designer, Global Public Sector",
+      "company": "Scale AI",
+      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "Scale AI"
+      ],
+      "location": "Doha, Qatar ; Dubai, UAE; London, UK",
+      "pay": "Lihat Detail",
+      "date": "Nov 10, 2026",
+      "timestamp": 1794332598,
+      "excerpt": "Do you thrive in the ambiguity and possibility of early stage product design? We're looking for a bilingual Product Designer to help build intuitive, AI-driven experiences for government and enterprise clients across the...",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4565768005",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "gh-4751149005",
       "title": "Senior Applied AI Engineer",
@@ -826,7 +847,7 @@
     },
     {
       "id": "6af30b80d33699c121e5ef4d",
-      "title": "Tala_Annotation/Labelling_tl_PH-zh_CN",
+      "title": "Tagalog Speech Translation Evaluator",
       "company": "OneForma",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037270/remowork/companies/oneforma-logo.webp",
       "category": "Bilingual LLM & Translation",
@@ -834,26 +855,26 @@
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
-        "Annotation",
-        "Recruiting",
         "Tagalog",
         "Translation",
-        "AI",
         "Mandarin Chinese",
         "English",
-        "Accuracy"
+        "Accuracy",
+        "Pronunciation",
+        "Annotation",
+        "Linguistics"
       ],
       "location": "Remote (Global)",
       "pay": "$5/hr",
       "date": "Nov 10, 2026",
       "timestamp": 1794268800,
-      "excerpt": "We are recruiting 5 Crowd resources for [Tala] Tagalog Speech Translation Subjective Evaluator. We are looking for resources based in all countries who are proficient in Tagalog (Philippines).",
+      "excerpt": "Speech translation systems can turn spoken Tagalog into Chinese or English in seconds. Whether the result keeps the speaker’s meaning, sounds natural and carries the same emotion is something only a fluent listener can judge.",
       "applyUrl": "https://my.oneforma.com/contributor/jobs/14669?from=list&tab=all",
-      "source": "Annotation • Recruiting"
+      "source": "Tagalog • Translation"
     },
     {
       "id": "6af30f95d33699c121e616e2",
-      "title": "Quality Reviewer - Spanish/English - Employer & Saver Services",
+      "title": "Quality Lead - Retirement Services and Quality Reviewer",
       "company": "Meridial AI",
       "logo": "https://www.google.com/s2/favicons?domain=meridial.ai&sz=128",
       "category": "Customer Support Specialist",
@@ -861,22 +882,22 @@
       "isIndonesian": true,
       "isDirect": false,
       "skills": [
-        "Spanish",
-        "English",
         "Product Management",
         "Microsoft Teams",
         "Coaching",
         "Training",
         "Quality Assurance",
-        "Audit"
+        "Audit",
+        "ROOT",
+        "Assurance"
       ],
       "location": "United States, Albania, Algeria +142 Andorra Antigua and Barbuda Argentina Australia Austria Bahamas Bahrain Bangladesh Barbados Belgium Belize Benin Bolivia Bosnia and Herzegovina Botswana Brazil Bulgaria Cameroon Canada Chile Colombia Costa Rica Croatia Cyprus Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Estonia Fiji Finland Gabon Gambia Ghana Greece Grenada Guyana Honduras Hungary Iceland India Indonesia Ireland Israel Italy Jamaica Japan Jordan Kiribati Kuwait Latvia Lebanon Lesotho Liberia Liechtenstein Lithuania Luxembourg Madagascar Malawi Malaysia Maldives Malta Marshall Islands Mauritius Mexico Micronesia Monaco Montenegro Namibia Nauru Nepal Netherlands New Zealand Nicaragua Norway Oman Palau Panama Papua New Guinea Paraguay Peru Philippines Poland Portugal Qatar Romania Saint Kitts and Nevis Saint Lucia Saint Vincent and the Grenadines Samoa San Marino Sao Tome and Principe Senegal Serbia Seychelles Sierra Leone Singapore Slovakia Slovenia Solomon Islands South Africa South Korea Spain Suriname Sweden Switzerland Tanzania Thailand Vatican City Togo Tonga Trinidad and Tobago Tunisia Turkey Tuvalu Uganda United Arab Emirates United Kingdom Uruguay Vanuatu Vietnam Zambia Bhutan Brunei France Guatemala Morocco Nigeria Rwanda Saudi Arabia Cape Verde Ivory Coast Kosovo Pakistan Timor-Leste Czech Republic North Macedonia Eswatini",
       "pay": "$8/hr",
       "date": "Nov 10, 2026",
       "timestamp": 1794268800,
-      "excerpt": "Who Are We Looking For? We're looking for a quality-focused Lead to own call and ticket quality across two customer support teams, Employer Services and Saver Services, for our client, a fast-growing retirement savings platform. This person does not take calls.",
+      "excerpt": "Who Are We Looking For? We're looking for a quality-focused Squad Lead to own call and ticket quality across two customer support teams within retirement services, a fast-growing retirement savings platform. This person does not take calls.",
       "applyUrl": "https://marketplace.inv.tech/invi/opportunity/oppo_invi_eH6XdbcBviNrEuaARSP25u",
-      "source": "Spanish • English"
+      "source": "Product Management • Microsoft Teams"
     },
     {
       "id": "6af30ef8d33699c121e613d4",
@@ -2506,7 +2527,7 @@
         "Dropbox"
       ],
       "location": "United States",
-      "pay": "$218,100 – $327,100/yr",
+      "pay": "$239,900 – $359,900/yr",
       "date": "Nov 9, 2026",
       "timestamp": 1794182400,
       "excerpt": "Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities.",
@@ -5158,7 +5179,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5286282007",
+      "id": "gh-5266499007",
       "title": "Data Center Operations Technician - Memphis",
       "company": "xAI",
       "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
@@ -5175,7 +5196,7 @@
       "date": "Nov 05, 2026",
       "timestamp": 1793910400,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5286282007",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5266499007",
       "source": "⚡ Direct API"
     },
     {
@@ -5536,28 +5557,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4565768005",
-      "title": "Product Designer, Global Public Sector",
-      "company": "Scale AI",
-      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "Scale AI"
-      ],
-      "location": "Doha, Qatar ; Dubai, UAE; London, UK",
-      "pay": "Lihat Detail",
-      "date": "Nov 05, 2026",
-      "timestamp": 1793905260,
-      "excerpt": "Do you thrive in the ambiguity and possibility of early stage product design? We're looking for a bilingual Product Designer to help build intuitive, AI-driven experiences for government and enterprise clients across the...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4565768005",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-4650514005",
+      "id": "gh-4589749005",
       "title": "Product Manager of AI Applications, Global Public Sector",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -5569,12 +5569,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Riyadh, Saudi Arabia (+1 lokasi lain)",
+      "location": "Doha, Qatar ; Dubai, UAE (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Nov 05, 2026",
       "timestamp": 1793905260,
       "excerpt": "Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most exciting and quickly expanding teams at Scale. This team is responsible for generating, executing, and fost...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
       "source": "⚡ Direct API"
     },
     {
@@ -8167,7 +8167,7 @@
       "source": "Indonesian • AI"
     },
     {
-      "id": "gh-6006504004",
+      "id": "gh-6006505004",
       "title": "AI Trainer - Automotive Expertise Required",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8184,7 +8184,7 @@
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006504004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006505004",
       "source": "⚡ Direct API"
     },
     {
@@ -8230,7 +8230,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5823643004",
+      "id": "gh-5823642004",
       "title": "Data Collection Contributor",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8242,12 +8242,12 @@
         "Direct API",
         "HumanSignal"
       ],
-      "location": "Canada (+21 lokasi lain)",
+      "location": "Bulgaria (+21 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823643004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823642004",
       "source": "⚡ Direct API"
     },
     {
