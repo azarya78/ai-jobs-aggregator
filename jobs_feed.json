@@ -1,7 +1,49 @@
 {
-  "lastUpdated": "2026-11-09 21:44 UTC",
-  "totalJobs": 378,
+  "lastUpdated": "2026-11-10 00:50 UTC",
+  "totalJobs": 370,
   "jobs": [
+    {
+      "id": "ashby-dc881634-ca66-46e5-90ff-43ad83080de2",
+      "title": "Adoption Specialist - Infrastructure & Agentic ",
+      "company": "Cohere",
+      "logo": "https://www.google.com/s2/favicons?domain=cohere.com&sz=128",
+      "category": "Revenue",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Revenue",
+        "Direct API"
+      ],
+      "location": "Toronto",
+      "pay": "Lihat Detail",
+      "date": "Nov 09, 2026",
+      "timestamp": 1794263120,
+      "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/dc881634-ca66-46e5-90ff-43ad83080de2",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5266497007",
+      "title": "Senior Data Center Technician - Memphis",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Southaven, MS; Memphis, TN",
+      "pay": "Lihat Detail",
+      "date": "Nov 09, 2026",
+      "timestamp": 1794260824,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5266497007",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "gh-5280951007",
       "title": "Sr. Model Engineer, RL Training Framework",
@@ -318,69 +360,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "ashby-73bd3e2b-6597-4124-b64b-1e5dbc32e785",
-      "title": "Research Internship (Winter 2027)",
-      "company": "Cohere",
-      "logo": "https://www.google.com/s2/favicons?domain=cohere.com&sz=128",
-      "category": "Internships",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Internships",
-        "Direct API"
-      ],
-      "location": "Canada",
-      "pay": "Lihat Detail",
-      "date": "Nov 09, 2026",
-      "timestamp": 1794243527,
-      "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
-      "applyUrl": "https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "ashby-d7c9f3ca-3745-4939-a47c-de956d93f4c1",
-      "title": "Member of Technical Staff - Post-training (NeurIPS 2026)",
-      "company": "Cohere",
-      "logo": "https://www.google.com/s2/favicons?domain=cohere.com&sz=128",
-      "category": "Modeling",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Modeling",
-        "Direct API"
-      ],
-      "location": "United States",
-      "pay": "Lihat Detail",
-      "date": "Nov 09, 2026",
-      "timestamp": 1794237278,
-      "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
-      "applyUrl": "https://jobs.ashbyhq.com/cohere/d7c9f3ca-3745-4939-a47c-de956d93f4c1",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "ashby-02f07484-8de8-4f3b-800d-5a2291aa27a3",
-      "title": "Member of Technical Staff - Pre-training (NeurIPS 2026)",
-      "company": "Cohere",
-      "logo": "https://www.google.com/s2/favicons?domain=cohere.com&sz=128",
-      "category": "Modeling",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Modeling",
-        "Direct API"
-      ],
-      "location": "Europe",
-      "pay": "Lihat Detail",
-      "date": "Nov 09, 2026",
-      "timestamp": 1794234744,
-      "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
-      "applyUrl": "https://jobs.ashbyhq.com/cohere/02f07484-8de8-4f3b-800d-5a2291aa27a3",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "gh-4751098005",
       "title": "Strategist",
       "company": "Scale AI",
@@ -420,27 +399,6 @@
       "timestamp": 1794228541,
       "excerpt": "About the team: Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most rapidly expanding teams at Scale. This team is responsible for generating, executing, and f...",
       "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751057005",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "ashby-13fcee94-512f-4229-b7ab-f91d3fdd24e3",
-      "title": "ElevenMusic - Content Creator & Strategist",
-      "company": "ElevenLabs",
-      "logo": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128",
-      "category": "Engineering & Product",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Engineering & Product",
-        "Direct API"
-      ],
-      "location": "United States",
-      "pay": "Lihat Detail",
-      "date": "Nov 09, 2026",
-      "timestamp": 1794223606,
-      "excerpt": "ABOUT ELEVENLABS  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users an...",
-      "applyUrl": "https://jobs.ashbyhq.com/ElevenLabs/13fcee94-512f-4229-b7ab-f91d3fdd24e3",
       "source": "⚡ Direct API"
     },
     {
@@ -1754,7 +1712,7 @@
         "Analysis",
         "Instrumentation",
         "Communication",
-        "Testing"
+        "Compliance"
       ],
       "location": "United States",
       "pay": "Lihat Detail",
@@ -2890,33 +2848,6 @@
       "excerpt": "micro1 is recruiting cousin pairs or groups to participate in a paid photo data collection project supporting the development and evaluation of artificial intelligence (AI) systems.",
       "applyUrl": "https://remowork.life/jobs/6aeec271d347a805a2ab7038/apply-out?ch=card",
       "source": "Recruiting • AI"
-    },
-    {
-      "id": "6aeebea9d347a805a2ab47a4",
-      "title": "Executive Assistant, Office of the CFO",
-      "company": "GitLab",
-      "logo": "https://www.google.com/s2/favicons?domain=about.gitlab.com&sz=128",
-      "category": "C-Suite Executive Assistant",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "GitLab",
-        "DevSecOps",
-        "Compliance",
-        "AI",
-        "Culture",
-        "Trademark",
-        "Finance",
-        "Management"
-      ],
-      "location": "United States",
-      "pay": "$78,400 – $133,200/yr",
-      "date": "Nov 7, 2026",
-      "timestamp": 1794009600,
-      "excerpt": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation.",
-      "applyUrl": "https://remowork.life/jobs/6aeebea9d347a805a2ab47a4/apply-out?ch=card",
-      "source": "GitLab • DevSecOps"
     },
     {
       "id": "6aee73c09e1dd3eb8a70d15d",
@@ -4538,47 +4469,74 @@
       "skills": [
         "Annotation",
         "AI",
+        "Writing",
+        "Lighting",
         "Accuracy",
-        "Communication",
-        "Consistency",
-        "Collaboration",
-        "Analysis",
-        "Data Annotation"
+        "English",
+        "Grammar",
+        "Engineering"
       ],
       "location": "Remote (Global)",
       "pay": "$21 – $35/hr",
       "date": "Nov 6, 2026",
       "timestamp": 1793923200,
-      "excerpt": "Role Title: Generalist for Data Annotation Role Type: Contractor, Remote Location: United States micro1 is engaging Generalists for Data Annotation to contribute to a customer’s innovative project.",
+      "excerpt": "About the role micro1 is looking for detail-oriented individuals to support an AI image evaluation project. You'll upload your own original images and compare them with AI-generated versions, identifying visual differences, flaws, and inconsistencies.",
       "applyUrl": "https://remowork.life/jobs/6aee6e229e1dd3eb8a7095a8/apply-out?ch=card",
       "source": "Annotation • AI"
     },
     {
-      "id": "6aee73a89e1dd3eb8a70d0a5",
-      "title": "Employee Engagement Program Manager",
-      "company": "Aston Carter",
-      "logo": "https://www.google.com/s2/favicons?domain=astoncarter.com&sz=64",
-      "category": "Program Manager",
+      "id": "6aee73119e1dd3eb8a70c8f7",
+      "title": "GTM, Strategic Planning",
+      "company": "Supabase",
+      "logo": "https://www.google.com/s2/favicons?domain=supabase.com&sz=32",
+      "category": "RevOps",
       "eligible": false,
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
-        "Culture",
-        "Communication",
-        "Leadership",
-        "Communications",
-        "Organization",
-        "Microsoft Teams",
-        "Messaging",
-        "Channels"
+        "Planning",
+        "Supabase",
+        "PostgreSQL",
+        "MATCH",
+        "Strategic Thinking",
+        "Sales",
+        "Marketing",
+        "Finance"
       ],
-      "location": "United States",
-      "pay": "$55 – $60/hr",
+      "location": "Remote (Global)",
+      "pay": "Lihat Detail",
       "date": "Nov 6, 2026",
       "timestamp": 1793923200,
-      "excerpt": "Are you passionate about creating meaningful employee experiences, driving leadership communications, and building programs that bring people together?",
-      "applyUrl": "https://remowork.life/jobs/6aee73a89e1dd3eb8a70d0a5/apply-out?ch=card",
-      "source": "Culture • Communication"
+      "excerpt": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search — all deeply integrated and designed for growth.",
+      "applyUrl": "https://remowork.life/jobs/6aee73119e1dd3eb8a70c8f7/apply-out?ch=card",
+      "source": "Planning • Supabase"
+    },
+    {
+      "id": "6aee6caa9e1dd3eb8a7094b4",
+      "title": "3D Generalist III",
+      "company": "Meta",
+      "logo": "https://www.google.com/s2/favicons?domain=about.meta.com&sz=32",
+      "category": "AI Expert - CAD & 3D Modeling",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "AI",
+        "Audit",
+        "Segmentation",
+        "Rubrics",
+        "Geometry",
+        "Topology",
+        "Accuracy",
+        "Consistency"
+      ],
+      "location": "United States",
+      "pay": "$50.54 – $63.24/hr",
+      "date": "Nov 6, 2026",
+      "timestamp": 1793923200,
+      "excerpt": "We're looking for an experienced 3D generalist with hands-on production experience who can look at 3D assets and masks, say what works and what doesn't, and explain why in plain language.",
+      "applyUrl": "https://remowork.life/jobs/6aee6caa9e1dd3eb8a7094b4/apply-out?ch=card",
+      "source": "AI • Audit"
     },
     {
       "id": "gh-4803862007",
@@ -4665,7 +4623,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5286282007",
+      "id": "gh-5266499007",
       "title": "Data Center Operations Technician - Memphis",
       "company": "xAI",
       "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
@@ -4682,7 +4640,7 @@
       "date": "Nov 05, 2026",
       "timestamp": 1793910400,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5286282007",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5266499007",
       "source": "⚡ Direct API"
     },
     {
@@ -6051,27 +6009,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5266497007",
-      "title": "Lead Data Center Technician - Memphis",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Southaven, MS; Memphis, TN",
-      "pay": "Lihat Detail",
-      "date": "Nov 05, 2026",
-      "timestamp": 1793903591,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5266497007",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "gh-5226701007",
       "title": "Lead Electrical Reliability Engineer, Data Center Infrastructure - Memphis",
       "company": "xAI",
@@ -6744,27 +6681,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "ashby-3fe03041-347a-479f-8361-6b1f5f81338e",
-      "title": "Applied AI Engineer, Agents & Automations",
-      "company": "Cohere",
-      "logo": "https://www.google.com/s2/favicons?domain=cohere.com&sz=128",
-      "category": "Engineering & Infra",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Engineering & Infra",
-        "Direct API"
-      ],
-      "location": "Toronto",
-      "pay": "Lihat Detail",
-      "date": "Nov 03, 2026",
-      "timestamp": 1793746062,
-      "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
-      "applyUrl": "https://jobs.ashbyhq.com/cohere/3fe03041-347a-479f-8361-6b1f5f81338e",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "ashby-0cf19dbd-bfa9-425f-a357-e2bd874bb489",
       "title": "Data Annotation Specialist, Safety",
       "company": "Cohere",
@@ -7014,27 +6930,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "ashby-a3097257-a07a-4a7e-b9fe-b8555c1a0fa7",
-      "title": "Engineering - Internal AI Transformation",
-      "company": "ElevenLabs",
-      "logo": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128",
-      "category": "Engineering & Product",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Engineering & Product",
-        "Direct API"
-      ],
-      "location": "United Kingdom",
-      "pay": "Lihat Detail",
-      "date": "Oct 22, 2026",
-      "timestamp": 1792692657,
-      "excerpt": "ABOUT ELEVENLABS  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users an...",
-      "applyUrl": "https://jobs.ashbyhq.com/ElevenLabs/a3097257-a07a-4a7e-b9fe-b8555c1a0fa7",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "ashby-4ef5101e-b083-49cd-808a-54c754d159e5",
       "title": "Senior Staff Data Engineer",
       "company": "Cohere",
@@ -7248,27 +7143,6 @@
       "timestamp": 1791733107,
       "excerpt": "ABOUT ELEVENLABS  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users an...",
       "applyUrl": "https://jobs.ashbyhq.com/ElevenLabs/3d650946-5ac2-4729-9ae4-129c43fcd0b5",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "ashby-6a5541dd-582e-4f0c-b21b-6afe3c0ef1b2",
-      "title": "Producer - Paid Marketing",
-      "company": "ElevenLabs",
-      "logo": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128",
-      "category": "Growth",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Growth",
-        "Direct API"
-      ],
-      "location": "New York",
-      "pay": "Lihat Detail",
-      "date": "Oct 09, 2026",
-      "timestamp": 1791543403,
-      "excerpt": "ABOUT ELEVENLABS  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users an...",
-      "applyUrl": "https://jobs.ashbyhq.com/ElevenLabs/6a5541dd-582e-4f0c-b21b-6afe3c0ef1b2",
       "source": "⚡ Direct API"
     },
     {
@@ -7983,27 +7857,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "ashby-cb90c8ba-dc35-4e86-9103-9564751ccaf7",
-      "title": "Nordics Strategic Account Executive - Retail & Consumer",
-      "company": "ElevenLabs",
-      "logo": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128",
-      "category": "Revenue",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Revenue",
-        "Direct API"
-      ],
-      "location": "Sweden",
-      "pay": "Lihat Detail",
-      "date": "Jul 16, 2026",
-      "timestamp": 1784230250,
-      "excerpt": "ABOUT ELEVENLABS  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users an...",
-      "applyUrl": "https://jobs.ashbyhq.com/ElevenLabs/cb90c8ba-dc35-4e86-9103-9564751ccaf7",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "ashby-9845c80d-95ba-4769-94a7-62408d73d603",
       "title": "Data Annotation Specialist, Data Science",
       "company": "Cohere",
@@ -8115,7 +7968,7 @@
       "source": "Indonesian • AI"
     },
     {
-      "id": "gh-6006505004",
+      "id": "gh-6006504004",
       "title": "AI Trainer - Automotive Expertise Required",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8132,7 +7985,7 @@
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006505004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006504004",
       "source": "⚡ Direct API"
     },
     {
@@ -8178,7 +8031,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5823642004",
+      "id": "gh-5823643004",
       "title": "Data Collection Contributor",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8190,12 +8043,12 @@
         "Direct API",
         "HumanSignal"
       ],
-      "location": "Bulgaria (+21 lokasi lain)",
+      "location": "Canada (+21 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823642004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823643004",
       "source": "⚡ Direct API"
     },
     {
@@ -8265,6 +8118,27 @@
       "timestamp": 1778786652,
       "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
       "applyUrl": "https://jobs.ashbyhq.com/cohere/6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "ashby-73bd3e2b-6597-4124-b64b-1e5dbc32e785",
+      "title": "Research Internship (Winter 2027)",
+      "company": "Cohere",
+      "logo": "https://www.google.com/s2/favicons?domain=cohere.com&sz=128",
+      "category": "Internships",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Internships",
+        "Direct API"
+      ],
+      "location": "Canada",
+      "pay": "Lihat Detail",
+      "date": "May 01, 2026",
+      "timestamp": 1777667206,
+      "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785",
       "source": "⚡ Direct API"
     },
     {
@@ -8423,27 +8297,6 @@
       "timestamp": 1773838298,
       "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
       "applyUrl": "https://jobs.ashbyhq.com/cohere/1d1b300d-254b-48c4-958f-99c6b907f295",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "ashby-c7820ef5-9c0b-4aaf-b510-ee62df5a1f3e",
-      "title": "[old] Data Operations ",
-      "company": "ElevenLabs",
-      "logo": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128",
-      "category": "Engineering & Product",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Engineering & Product",
-        "Direct API"
-      ],
-      "location": "Remote",
-      "pay": "Lihat Detail",
-      "date": "Mar 02, 2026",
-      "timestamp": 1772464738,
-      "excerpt": "ABOUT ELEVENLABS  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users an...",
-      "applyUrl": "https://jobs.ashbyhq.com/ElevenLabs/c7820ef5-9c0b-4aaf-b510-ee62df5a1f3e",
       "source": "⚡ Direct API"
     },
     {
@@ -8811,27 +8664,6 @@
       "timestamp": 1730477203,
       "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
       "applyUrl": "https://jobs.ashbyhq.com/cohere/3136a5a5-06fd-4c82-8b72-a43467e6b128",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "ashby-169dbaa1-0198-4b30-9ff2-c0edf2bee099",
-      "title": "Engineering Program Manager, Modeling",
-      "company": "Cohere",
-      "logo": "https://www.google.com/s2/favicons?domain=cohere.com&sz=128",
-      "category": "Product Management & Program Management",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Product Management & Program Management",
-        "Direct API"
-      ],
-      "location": "London",
-      "pay": "Lihat Detail",
-      "date": "Oct 16, 2024",
-      "timestamp": 1729108511,
-      "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
-      "applyUrl": "https://jobs.ashbyhq.com/cohere/169dbaa1-0198-4b30-9ff2-c0edf2bee099",
       "source": "⚡ Direct API"
     }
   ]
