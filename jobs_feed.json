@@ -1,7 +1,49 @@
 {
-  "lastUpdated": "2026-11-10 03:44 UTC",
-  "totalJobs": 370,
+  "lastUpdated": "2026-11-10 06:57 UTC",
+  "totalJobs": 372,
   "jobs": [
+    {
+      "id": "gh-5290235007",
+      "title": "Global Government Affairs Director",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": "London, England, United Kingdom",
+      "pay": "Lihat Detail",
+      "date": "Nov 10, 2026",
+      "timestamp": 1794292186,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5290235007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "ashby-f2bf078d-d104-4a7b-96fd-5187a550f4a0",
+      "title": "Technical Customer Support Specialist",
+      "company": "ElevenLabs",
+      "logo": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128",
+      "category": "Operations",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Operations",
+        "Direct API"
+      ],
+      "location": "Australia",
+      "pay": "Lihat Detail",
+      "date": "Nov 10, 2026",
+      "timestamp": 1794287642,
+      "excerpt": "Technical Customer Support Specialist (Contract, Remote)  Who we are A global team united by curiosity and a shared mission: to be the first choice for AI audio. We're building a new category of technology from the groun...",
+      "applyUrl": "https://jobs.ashbyhq.com/ElevenLabs/f2bf078d-d104-4a7b-96fd-5187a550f4a0",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "6af2663b60df4ce2fb9060dc",
       "title": "Pharmacy Professionals: Paid Survey on Operations and Technology",
@@ -45,12 +87,12 @@
         "Command Line",
         "macOS"
       ],
-      "location": "United States (not 24 countries)",
+      "location": "United States",
       "pay": "$65-100/hr",
       "date": "Nov 10, 2026",
       "timestamp": 1794268800,
       "excerpt": "Software Developer — Build Your Own Project with an AI Coding Assistant About the Role What if you could get paid to work on the project you've been meaning to build — with a state-of-the-art AI coding assistant at your side, completely free of charge?",
-      "applyUrl": "https://www.alignerr.com/jobs/6a488523-bb35-43ef-974a-a731c91d087f",
+      "applyUrl": "https://app.alignerr.com/signin?referral-code=ff6bc660-ab25-409c-8c48-28fb880ad221&program=6f143600-b133-11f1-be46-19d960552fef&referralJobId=6a488523-bb35-43ef-974a-a731c91d087f",
       "source": "AI • Flexible"
     },
     {
@@ -958,7 +1000,7 @@
         "Make"
       ],
       "location": "United States",
-      "pay": "$100k – $125k/yr",
+      "pay": "$100,000 – $125,000/yr",
       "date": "Nov 9, 2026",
       "timestamp": 1794182400,
       "excerpt": "Eulerity is the leading marketing automation platform for multi-location and franchise brands. Through our AI-powered system, businesses can simplify campaign creation, automate performance optimization, and consolidate insights across all major digital channels.",
@@ -1092,7 +1134,7 @@
         "Expressions",
         "Go"
       ],
-      "location": "Remote (Global)",
+      "location": "Remote (Global) (not 57 countries)",
       "pay": "$16.66/hr",
       "date": "Nov 9, 2026",
       "timestamp": 1794182400,
@@ -4655,7 +4697,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5286282007",
+      "id": "gh-5266499007",
       "title": "Data Center Operations Technician - Memphis",
       "company": "xAI",
       "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
@@ -4672,7 +4714,7 @@
       "date": "Nov 05, 2026",
       "timestamp": 1793910400,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5286282007",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5266499007",
       "source": "⚡ Direct API"
     },
     {
