@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10 09:50 UTC",
+  "lastUpdated": "2026-11-10 12:54 UTC",
   "totalJobs": 378,
   "jobs": [
     {
@@ -507,6 +507,33 @@
       "source": "⚡ Direct API"
     },
     {
+      "id": "6ae9d1100405b844b877364b",
+      "title": "Senior MBSE Engineer - SysML v2",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "AI Expert - Industrial / Manufacturing Engineering",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Flexible",
+        "Engineering",
+        "Modeling",
+        "AI",
+        "Training",
+        "Accuracy",
+        "Rubrics",
+        "Operations"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$55 – $120/hr",
+      "date": "Nov 10, 2026",
+      "timestamp": 1794268800,
+      "excerpt": "MBSE Engineer - SysML v2 Role type: Contractor Location: Remote Commitment: Pay-per- task-based, variable/flexible hours (~15hrs/wk) Project duration: ~ 4 weeks to 3 months About the opportunity micro1 is looking for experienced Model-Based Systems Engineering (MBSE)…",
+      "applyUrl": "https://jobs.micro1.ai/post/6afa96e2-251a-4c87-b4a7-ad5142b87a8a?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "Flexible • Engineering"
+    },
+    {
       "id": "6af2b6d760df4ce2fb90c088",
       "title": "Generalist - Mandarin Speaker",
       "company": "Micro1",
@@ -980,7 +1007,7 @@
       "date": "Nov 10, 2026",
       "timestamp": 1794268800,
       "excerpt": "At Offchain, we aren’t just building products: we’re leading a movement. As pioneers in blockchain scalability and security, we're at the forefront of transforming how the world interacts with decentralized applications.",
-      "applyUrl": "https://jobs.lever.co/offchainlabs/be7f00c0-55a5-4cc7-a924-273ce33ab490",
+      "applyUrl": "https://remowork.life/jobs/6af2bc9560df4ce2fb90f713/apply-out?ch=card",
       "source": "Scalability • Governance"
     },
     {
@@ -1169,7 +1196,7 @@
       "date": "Nov 10, 2026",
       "timestamp": 1794268800,
       "excerpt": "Camunda is the enterprise platform for agentic orchestration, enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes.",
-      "applyUrl": "https://jobs.ashbyhq.com/camunda/56dd16f7-046c-4f9d-9f33-a4a1f8acd399/application",
+      "applyUrl": "https://remowork.life/jobs/6af2b84960df4ce2fb90d2ea/apply-out?ch=card",
       "source": "AI • Governance"
     },
     {
@@ -3033,33 +3060,6 @@
       "source": "Cybersecurity • Infrastructure"
     },
     {
-      "id": "6af2636660df4ce2fb904300",
-      "title": "Senior Financial Analyst – Revenue Planning & Financial Reporting",
-      "company": "Blueprint Technologies",
-      "logo": "https://www.google.com/s2/favicons?domain=bpcs.com&sz=128",
-      "category": "Financial Planning & Analysis (FP&A)",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Planning",
-        "Reporting",
-        "Microsoft Teams",
-        "Strategic Thinking",
-        "AI",
-        "Culture",
-        "Finance",
-        "Organization"
-      ],
-      "location": "United States",
-      "pay": "$125,000 – $130,000/yr",
-      "date": "Nov 9, 2026",
-      "timestamp": 1794182400,
-      "excerpt": "Blueprint is a technology solutions firm headquartered in Bellevue, Washington, with teams across the United States. We help organizations turn complex challenges into meaningful outcomes by connecting strategy and execution across AI, cloud, data, product development, and…",
-      "applyUrl": "https://remowork.life/jobs/6af2636660df4ce2fb904300/apply-out?ch=card",
-      "source": "Planning • Reporting"
-    },
-    {
       "id": "6af25ee860df4ce2fb9010af",
       "title": "Business Development Representative - West",
       "company": "GitLab",
@@ -3806,7 +3806,7 @@
         "Onboarding"
       ],
       "location": "Remote (Global)",
-      "pay": "$95 – $150/hr",
+      "pay": "$95 – $170/hr",
       "date": "Nov 9, 2026",
       "timestamp": 1794182400,
       "excerpt": "Role Title: Operational Law Attorney (JAG) SME Role Type: Contractor Location: Remote micro1 is engaging Operational Law Attorney (JAG) subject matter experts to contribute to a high-impact customer project addressing the legal boundaries of military activities and…",
@@ -5137,7 +5137,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5266499007",
+      "id": "gh-5286282007",
       "title": "Data Center Operations Technician - Memphis",
       "company": "xAI",
       "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
@@ -5154,7 +5154,7 @@
       "date": "Nov 05, 2026",
       "timestamp": 1793910400,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5266499007",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5286282007",
       "source": "⚡ Direct API"
     },
     {
@@ -8167,7 +8167,7 @@
       "source": "Indonesian • AI"
     },
     {
-      "id": "gh-6006505004",
+      "id": "gh-6006504004",
       "title": "AI Trainer - Automotive Expertise Required",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8184,7 +8184,7 @@
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006505004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006504004",
       "source": "⚡ Direct API"
     },
     {
@@ -8230,7 +8230,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5823642004",
+      "id": "gh-5823643004",
       "title": "Data Collection Contributor",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8242,12 +8242,12 @@
         "Direct API",
         "HumanSignal"
       ],
-      "location": "Bulgaria (+21 lokasi lain)",
+      "location": "Canada (+21 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823642004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823643004",
       "source": "⚡ Direct API"
     },
     {
