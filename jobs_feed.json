@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11 03:48 UTC",
+  "lastUpdated": "2026-11-11 07:00 UTC",
   "totalJobs": 377,
   "jobs": [
     {
@@ -2699,33 +2699,6 @@
       "source": "Sales • Communication"
     },
     {
-      "id": "6af3658bd33699c121e6a258",
-      "title": "Dev Experiences and Community Lead (SF)",
-      "company": "Supabase",
-      "logo": "https://www.google.com/s2/favicons?domain=supabase.com&sz=32",
-      "category": "Community Manager",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Supabase",
-        "PostgreSQL",
-        "Marketing",
-        "Sales",
-        "Programming",
-        "Education",
-        "AWS",
-        "Logistics"
-      ],
-      "location": "United States (San Francisco only · US: CA)",
-      "pay": "Lihat Detail",
-      "date": "Nov 10, 2026",
-      "timestamp": 1794268800,
-      "excerpt": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth.",
-      "applyUrl": "https://remowork.life/jobs/6af3658bd33699c121e6a258/apply-out?ch=card",
-      "source": "Supabase • PostgreSQL"
-    },
-    {
       "id": "6af36401d33699c121e68db5",
       "title": "Customer Support & Success Domain Expert",
       "company": "Mercor",
@@ -4607,6 +4580,33 @@
       "source": "AI • Governance"
     },
     {
+      "id": "6af2b9f360df4ce2fb90d9fa",
+      "title": "Director, Product Management",
+      "company": "Honor",
+      "logo": "https://www.google.com/s2/favicons?domain=honorcare.com&sz=32",
+      "category": "Product Manager",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Management",
+        "Go",
+        "Leadership",
+        "Cross-Functional Collaboration",
+        "Sales",
+        "Marketing",
+        "Operations",
+        "Analytics"
+      ],
+      "location": "United States",
+      "pay": "$229,500 – $255,000/yr",
+      "date": "Nov 10, 2026",
+      "timestamp": 1794268800,
+      "excerpt": "Honor Technology’s mission is to change the way society cares for older adults. As a leader in aging care innovation, Honor provides the technology, tools, and services that empower older adults to live life on their own terms.",
+      "applyUrl": "https://remowork.life/jobs/6af2b9f360df4ce2fb90d9fa/apply-out?ch=card",
+      "source": "Management • Go"
+    },
+    {
       "id": "ashby-dc881634-ca66-46e5-90ff-43ad83080de2",
       "title": "Adoption Specialist - Infrastructure & Agentic ",
       "company": "Cohere",
@@ -5657,7 +5657,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4589749005",
+      "id": "gh-4650514005",
       "title": "Product Manager of AI Applications, Global Public Sector",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -5669,12 +5669,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Doha, Qatar ; Dubai, UAE (+1 lokasi lain)",
+      "location": "Riyadh, Saudi Arabia (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Nov 05, 2026",
       "timestamp": 1793905260,
       "excerpt": "Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most exciting and quickly expanding teams at Scale. This team is responsible for generating, executing, and fost...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
       "source": "⚡ Direct API"
     },
     {
@@ -8141,7 +8141,7 @@
       "source": "Indonesian • AI"
     },
     {
-      "id": "gh-6006505004",
+      "id": "gh-6006504004",
       "title": "AI Trainer - Automotive Expertise Required",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8158,7 +8158,7 @@
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006505004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006504004",
       "source": "⚡ Direct API"
     },
     {
@@ -8204,7 +8204,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5823642004",
+      "id": "gh-5823643004",
       "title": "Data Collection Contributor",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8216,12 +8216,12 @@
         "Direct API",
         "HumanSignal"
       ],
-      "location": "Bulgaria (+21 lokasi lain)",
+      "location": "Canada (+21 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823642004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823643004",
       "source": "⚡ Direct API"
     },
     {
