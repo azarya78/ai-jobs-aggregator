@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-11-11 15:45 UTC",
-  "totalJobs": 374,
+  "lastUpdated": "2026-11-11 18:50 UTC",
+  "totalJobs": 375,
   "jobs": [
+    {
+      "id": "gh-5090264007",
+      "title": "AI Tutor, Spanish - Temporary",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": "Remote, International",
+      "pay": "Lihat Detail",
+      "date": "Nov 11, 2026",
+      "timestamp": 1794418350,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5090264007",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "gh-5186992007",
       "title": "Model Engineer, RL Training Framework",
@@ -479,7 +500,7 @@
     },
     {
       "id": "6af408c6d33699c121e7800d",
-      "title": "Independent Consultant, Sales, Marketing & Business Strategy (Domain Expert)",
+      "title": "Independent Consultant/Entrepreneur, Sales, Marketing & Business Strategy (Domain Expert)",
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Management Consulting",
@@ -506,7 +527,7 @@
     },
     {
       "id": "6af408c6d33699c121e7800e",
-      "title": "Independent Consultant, Finance, Data & Engineering (Domain Expert)",
+      "title": "Independent Consultant/Entrepreneur, Finance, Data & Engineering (Domain Expert)",
       "company": "Micro1",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
       "category": "AI Expert - Management Consulting",
@@ -2845,15 +2866,15 @@
         "Engineering",
         "Curation",
         "Algorithms",
-        "Modeling",
-        "Natural Language Processing",
-        "LLMs"
+        "LLMs",
+        "Cross-Functional Collaboration",
+        "Microsoft Teams"
       ],
       "location": "United States",
       "pay": "$70 – $75/hr",
       "date": "Nov 10, 2026",
       "timestamp": 1794268800,
-      "excerpt": "The role is an AI engineer in the FAIR team to execute its engineering tasks. The team aims at driving innovation towards superintelligence from the perspective of data curation algorithms for perception, better modeling of spatial and temporal knowledge, and more efficient…",
+      "excerpt": "The role is an AI engineer in the FAIR team to execute its engineering tasks. The team aims at driving innovation towards superintelligence from the perspective of developing self-improving agent frameworks, test-time compute scaling, multi-agent systems, data curation…",
       "applyUrl": "https://remowork.life/jobs/6af3b2e0d33699c121e6f4cb/apply-out?ch=card",
       "source": "AI • Research"
     },
@@ -3281,7 +3302,7 @@
       "pay": "Lihat Detail",
       "date": "Nov 10, 2026",
       "timestamp": 1794268800,
-      "excerpt": "Alice.io is seeking a Senior Researcher to drive research execution and technical delivery across frontier AI risks, with a focus on CBRNE and cybersecurity threat vectors.",
+      "excerpt": "Alice is seeking a Senior Researcher to drive research execution and technical delivery across frontier AI risks, with a focus on CBRNE and cybersecurity threat vectors.",
       "applyUrl": "https://remowork.life/jobs/6af3b5d9d33699c121e7044b/apply-out?ch=card",
       "source": "GenAI • Research"
     },
@@ -4475,7 +4496,7 @@
     },
     {
       "id": "6af3647fd33699c121e69a22",
-      "title": "PCB Design Engineer - Signal Integrity/Thermal Simulation",
+      "title": "Signal Integrity and Electromagnetic Simulation Engineer (PCB Design)",
       "company": "Turing",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037261/remowork/companies/turing-logo.webp",
       "category": "AI Expert - Electrical Engineering",
@@ -4487,10 +4508,10 @@
         "Research",
         "AI",
         "Electronics",
-        "Communication",
-        "BOM",
-        "Manufacturing",
-        "Documentation"
+        "Ngspice",
+        "Analysis",
+        "Automation",
+        "NumPy"
       ],
       "location": "Remote (Global)",
       "pay": "Lihat Detail",
@@ -5632,7 +5653,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4589749005",
+      "id": "gh-4650514005",
       "title": "Product Manager of AI Applications, Global Public Sector",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -5644,12 +5665,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Doha, Qatar ; Dubai, UAE (+1 lokasi lain)",
+      "location": "Riyadh, Saudi Arabia (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Nov 05, 2026",
       "timestamp": 1793905260,
       "excerpt": "Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most exciting and quickly expanding teams at Scale. This team is responsible for generating, executing, and fost...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
       "source": "⚡ Direct API"
     },
     {
@@ -8095,7 +8116,7 @@
       "source": "Indonesian • AI"
     },
     {
-      "id": "gh-6006505004",
+      "id": "gh-6006504004",
       "title": "AI Trainer - Automotive Expertise Required",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8112,7 +8133,7 @@
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006505004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006504004",
       "source": "⚡ Direct API"
     },
     {
@@ -8158,7 +8179,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5823642004",
+      "id": "gh-5823643004",
       "title": "Data Collection Contributor",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8170,12 +8191,12 @@
         "Direct API",
         "HumanSignal"
       ],
-      "location": "Bulgaria (+21 lokasi lain)",
+      "location": "Canada (+21 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823642004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823643004",
       "source": "⚡ Direct API"
     },
     {
