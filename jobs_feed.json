@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-11-11 22:18 UTC",
+  "lastUpdated": "2026-11-12 00:58 UTC",
   "totalJobs": 377,
   "jobs": [
+    {
+      "id": "gh-5125621007",
+      "title": "Sr. Machine Learning Engineer, Search Ranking",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": "Palo Alto, CA",
+      "pay": "Lihat Detail",
+      "date": "Nov 11, 2026",
+      "timestamp": 1794441741,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5125621007",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "gh-5292792007",
       "title": "AI Tutor, Irish - Temporary",
@@ -190,6 +211,33 @@
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
       "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5167318007",
       "source": "⚡ Direct API"
+    },
+    {
+      "id": "6ae0ea6f5e82153fd24fc56e",
+      "title": "Paralegal",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "AI Expert - Legal",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Paralegal",
+        "AI",
+        "Training",
+        "Research",
+        "Precision",
+        "Verification",
+        "Reasoning",
+        "Accuracy"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$40 – $80/hr",
+      "date": "Nov 11, 2026",
+      "timestamp": 1794355200,
+      "excerpt": "Role Title: Paralegal Role Type: Contractor Location: Remote Opportunity Snapshot Pay: $40-80/hour Weekly commitment: ~10+ hours per week — organize them however works for you Location: Remote — open worldwide to paralegals with U.S.",
+      "applyUrl": "https://jobs.micro1.ai/post/b381f79f-a396-4815-97ad-141191db9d25?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "Paralegal • AI"
     },
     {
       "id": "6af4b48be5bd8978ec9d8fab",
@@ -863,7 +911,7 @@
       "date": "Nov 11, 2026",
       "timestamp": 1794355200,
       "excerpt": "This consulting controller role allows an experienced accounting professional to apply deep expertise in financial reporting, audit, tax, and accounting operations in a fully remote, project-based environment.",
-      "applyUrl": "https://careers.astoncarter.com/us/en/job/JP-006413721/Data-Entry-Operator",
+      "applyUrl": "https://remowork.life/jobs/6af4b717e5bd8978ec9db110/apply-out?ch=card",
       "source": "Consulting • Accounting"
     },
     {
@@ -1021,7 +1069,7 @@
         "Healthcare"
       ],
       "location": "Remote (Global)",
-      "pay": "$25 – $35/hr",
+      "pay": "Lihat Detail",
       "date": "Nov 11, 2026",
       "timestamp": 1794355200,
       "excerpt": "About the role micro1 is seeking Medical Doctors from a variety of clinical backgrounds to contribute their expertise to a client's AI training project.",
@@ -1048,7 +1096,7 @@
         "Finance"
       ],
       "location": "Remote (Global)",
-      "pay": "$25 – $30/hr",
+      "pay": "Lihat Detail",
       "date": "Nov 11, 2026",
       "timestamp": 1794355200,
       "excerpt": "About the role micro1 is looking for Emergency Medicine Physicians to contribute their clinical expertise to a client's AI training project.",
@@ -3867,7 +3915,7 @@
     },
     {
       "id": "6af3baf1d33699c121e7332c",
-      "title": "Kansas Remote Licensed Therapist, Headspace (1099 Contractor)",
+      "title": "Kansas Remote Licensed Mental Health Therapist, Headspace (1099 Contractor)",
       "company": "Sword Health",
       "logo": "https://www.google.com/s2/favicons?domain=swordhealth.com&sz=64",
       "category": "Telehealth Therapist / Counsellor",
@@ -3945,33 +3993,6 @@
       "excerpt": "FEQ128R41 The Role As a Solutions Architect, you will lead the technical strategy for your customers — owning architecture discussions, driving platform adoption, and serving as a trusted advisor to customer technical leads and architects.",
       "applyUrl": "https://remowork.life/jobs/6af3b15ad33699c121e6e663/apply-out?ch=card",
       "source": "Economics • Strategic Thinking"
-    },
-    {
-      "id": "6af3bbe6d33699c121e73ccc",
-      "title": "Transportation Drainage Engineer",
-      "company": "AECOM",
-      "logo": "https://www.google.com/s2/favicons?domain=aecom.com&sz=64",
-      "category": "Civil & Structural Engineer",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Transportation",
-        "Infrastructure",
-        "Consulting",
-        "Engineering",
-        "Analysis",
-        "Management",
-        "Hydraulics",
-        "Hydrology"
-      ],
-      "location": "United States",
-      "pay": "Lihat Detail",
-      "date": "Nov 10, 2026",
-      "timestamp": 1794268800,
-      "excerpt": "Work with Us. Change the World. At AECOM, we're delivering a better world. Whether improving your commute, keeping the lights on, providing access to clean water, or transforming skylines, our work helps people and communities thrive.",
-      "applyUrl": "https://remowork.life/jobs/6af3bbe6d33699c121e73ccc/apply-out?ch=card",
-      "source": "Transportation • Infrastructure"
     },
     {
       "id": "6af3b15ad33699c121e6e619",
@@ -5086,27 +5107,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5125621007",
-      "title": "Sr. Maching Learning Engineer, Search Ranking",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": "Palo Alto, CA",
-      "pay": "Lihat Detail",
-      "date": "Nov 06, 2026",
-      "timestamp": 1793946327,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5125621007",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "gh-5051966007",
       "title": "Model Engineer, Voice",
       "company": "xAI",
@@ -5695,7 +5695,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4650514005",
+      "id": "gh-4589749005",
       "title": "Product Manager of AI Applications, Global Public Sector",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -5707,12 +5707,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Riyadh, Saudi Arabia (+1 lokasi lain)",
+      "location": "Doha, Qatar ; Dubai, UAE (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Nov 05, 2026",
       "timestamp": 1793905260,
       "excerpt": "Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most exciting and quickly expanding teams at Scale. This team is responsible for generating, executing, and fost...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
       "source": "⚡ Direct API"
     },
     {
@@ -8158,7 +8158,7 @@
       "source": "Indonesian • AI"
     },
     {
-      "id": "gh-6006504004",
+      "id": "gh-6006505004",
       "title": "AI Trainer - Automotive Expertise Required",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8175,7 +8175,7 @@
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006504004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006505004",
       "source": "⚡ Direct API"
     },
     {
@@ -8221,7 +8221,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5823643004",
+      "id": "gh-5823642004",
       "title": "Data Collection Contributor",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8233,12 +8233,12 @@
         "Direct API",
         "HumanSignal"
       ],
-      "location": "Canada (+21 lokasi lain)",
+      "location": "Bulgaria (+21 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823643004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823642004",
       "source": "⚡ Direct API"
     },
     {
