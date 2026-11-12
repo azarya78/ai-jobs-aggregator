@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-11-12 00:58 UTC",
+  "lastUpdated": "2026-11-12 03:48 UTC",
   "totalJobs": 377,
   "jobs": [
+    {
+      "id": "gh-5292793007",
+      "title": "AI Tutor, Maltese - Temporary",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": "Remote, International",
+      "pay": "Lihat Detail",
+      "date": "Nov 11, 2026",
+      "timestamp": 1794445867,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5292793007",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "gh-5125621007",
       "title": "Sr. Machine Learning Engineer, Search Ranking",
@@ -5317,7 +5338,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5266499007",
+      "id": "gh-5286282007",
       "title": "Data Center Operations Technician - Memphis",
       "company": "xAI",
       "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
@@ -5334,7 +5355,7 @@
       "date": "Nov 05, 2026",
       "timestamp": 1793910400,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5266499007",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5286282007",
       "source": "⚡ Direct API"
     },
     {
@@ -5695,7 +5716,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4589749005",
+      "id": "gh-4650514005",
       "title": "Product Manager of AI Applications, Global Public Sector",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -5707,12 +5728,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Doha, Qatar ; Dubai, UAE (+1 lokasi lain)",
+      "location": "Riyadh, Saudi Arabia (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Nov 05, 2026",
       "timestamp": 1793905260,
       "excerpt": "Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most exciting and quickly expanding teams at Scale. This team is responsible for generating, executing, and fost...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
       "source": "⚡ Direct API"
     },
     {
@@ -7567,33 +7588,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "6a9a67c996fca3a67e918239",
-      "title": "Bilingual Indonesian Generalist Expert — AI Safety",
-      "company": "Mercor",
-      "logo": "https://www.google.com/s2/favicons?domain=mercor.com&sz=128",
-      "category": "Red Team / Safety Evaluator",
-      "eligible": false,
-      "isIndonesian": true,
-      "isDirect": false,
-      "skills": [
-        "Indonesian",
-        "AI",
-        "English",
-        "Make",
-        "Machine Learning",
-        "Reasoning",
-        "Red Teaming",
-        "Testing"
-      ],
-      "location": "Remote (Global)",
-      "pay": "$18 – $22/hr",
-      "date": "Sep 4, 2026",
-      "timestamp": 1788480000,
-      "excerpt": "We're hiring proficient bilingual speakers (English & Indonesian) to help make advanced AI models safer. You'll apply your language fluency and cultural judgment to evaluate and strengthen how these models handle sensitive topics in Indonesian.",
-      "applyUrl": "https://remowork.life/jobs/6a9a67c996fca3a67e918239/apply-out?ch=card",
-      "source": "Indonesian • AI"
-    },
-    {
       "id": "6a9abe4896fca3a67e9206de",
       "title": "Bilingual Audio Contributor (Indonesian/English)",
       "company": "AfterQuery",
@@ -8158,7 +8152,7 @@
       "source": "Indonesian • AI"
     },
     {
-      "id": "gh-6006505004",
+      "id": "gh-6006504004",
       "title": "AI Trainer - Automotive Expertise Required",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8175,7 +8169,7 @@
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006505004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006504004",
       "source": "⚡ Direct API"
     },
     {
@@ -8221,7 +8215,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5823642004",
+      "id": "gh-5823643004",
       "title": "Data Collection Contributor",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8233,12 +8227,12 @@
         "Direct API",
         "HumanSignal"
       ],
-      "location": "Bulgaria (+21 lokasi lain)",
+      "location": "Canada (+21 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823642004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823643004",
       "source": "⚡ Direct API"
     },
     {
