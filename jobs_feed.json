@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-11-12 07:04 UTC",
+  "lastUpdated": "2026-11-12 09:53 UTC",
   "totalJobs": 377,
   "jobs": [
+    {
+      "id": "gh-4751057005",
+      "title": "Engagement Manager",
+      "company": "Scale AI",
+      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "Scale AI"
+      ],
+      "location": "Kuwait City, Kuwait",
+      "pay": "Lihat Detail",
+      "date": "Nov 12, 2026",
+      "timestamp": 1794476327,
+      "excerpt": "About the team: Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most rapidly expanding teams at Scale. This team is responsible for generating, executing, and f...",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751057005",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "gh-5292793007",
       "title": "AI Tutor, Maltese - Temporary",
@@ -4984,27 +5005,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4751057005",
-      "title": "Engagement Manager",
-      "company": "Scale AI",
-      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "Scale AI"
-      ],
-      "location": "Kuwait City, Kuwait",
-      "pay": "Lihat Detail",
-      "date": "Nov 09, 2026",
-      "timestamp": 1794228541,
-      "excerpt": "About the team: Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most rapidly expanding teams at Scale. This team is responsible for generating, executing, and f...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751057005",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "gh-5288098007",
       "title": "Lead Engineer, AI Infrastructure (C++, C)",
       "company": "xAI",
@@ -5341,7 +5341,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5286282007",
+      "id": "gh-5266499007",
       "title": "Data Center Operations Technician - Memphis",
       "company": "xAI",
       "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
@@ -5358,7 +5358,7 @@
       "date": "Nov 05, 2026",
       "timestamp": 1793910400,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5286282007",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5266499007",
       "source": "⚡ Direct API"
     },
     {
@@ -5719,7 +5719,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4650514005",
+      "id": "gh-4589749005",
       "title": "Product Manager of AI Applications, Global Public Sector",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -5731,12 +5731,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Riyadh, Saudi Arabia (+1 lokasi lain)",
+      "location": "Doha, Qatar ; Dubai, UAE (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Nov 05, 2026",
       "timestamp": 1793905260,
       "excerpt": "Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most exciting and quickly expanding teams at Scale. This team is responsible for generating, executing, and fost...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
       "source": "⚡ Direct API"
     },
     {
@@ -8155,7 +8155,7 @@
       "source": "Indonesian • AI"
     },
     {
-      "id": "gh-6006504004",
+      "id": "gh-6006505004",
       "title": "AI Trainer - Automotive Expertise Required",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8172,7 +8172,7 @@
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006504004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006505004",
       "source": "⚡ Direct API"
     },
     {
@@ -8218,7 +8218,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5823643004",
+      "id": "gh-5823642004",
       "title": "Data Collection Contributor",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8230,12 +8230,12 @@
         "Direct API",
         "HumanSignal"
       ],
-      "location": "Canada (+21 lokasi lain)",
+      "location": "Bulgaria (+21 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823643004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823642004",
       "source": "⚡ Direct API"
     },
     {
