@@ -1,47 +1,26 @@
 {
-  "lastUpdated": "2026-11-13 15:43 UTC",
-  "totalJobs": 370,
+  "lastUpdated": "2026-11-13 18:45 UTC",
+  "totalJobs": 369,
   "jobs": [
     {
-      "id": "ashby-5f83c6ff-bc79-4199-ba59-6abab6d69567",
-      "title": "Full-Stack Engineer (Frontend Leaning) - ElevenAI",
-      "company": "ElevenLabs",
-      "logo": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128",
-      "category": "Engineering & Product",
+      "id": "gh-4753839005",
+      "title": "Account Executive, Air Force",
+      "company": "Scale AI",
+      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
+      "category": "AI & Data",
       "eligible": true,
       "isIndonesian": false,
       "isDirect": true,
       "skills": [
-        "Engineering & Product",
-        "Direct API"
+        "Direct API",
+        "Scale AI"
       ],
-      "location": "United Kingdom",
+      "location": "Colorado Springs, CO; Dayton, OH; Washington, DC",
       "pay": "Lihat Detail",
       "date": "Nov 13, 2026",
-      "timestamp": 1794572202,
-      "excerpt": "ABOUT ELEVENLABS  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users an...",
-      "applyUrl": "https://jobs.ashbyhq.com/ElevenLabs/5f83c6ff-bc79-4199-ba59-6abab6d69567",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "ashby-3809888d-a838-420a-8474-d217e48cef88",
-      "title": "Full-Stack Engineer (Backend Leaning) - ElevenAI",
-      "company": "ElevenLabs",
-      "logo": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128",
-      "category": "Engineering & Product",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Engineering & Product",
-        "Direct API"
-      ],
-      "location": "United Kingdom",
-      "pay": "Lihat Detail",
-      "date": "Nov 13, 2026",
-      "timestamp": 1794572188,
-      "excerpt": "ABOUT ELEVENLABS  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users an...",
-      "applyUrl": "https://jobs.ashbyhq.com/ElevenLabs/3809888d-a838-420a-8474-d217e48cef88",
+      "timestamp": 1794591562,
+      "excerpt": "Scale is building AI for the world's most important decisions. From the front lines of national defense to the core of global enterprise, we provide the data engine and agentic infrastructure that powers the next generat...",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4753839005",
       "source": "⚡ Direct API"
     },
     {
@@ -843,7 +822,7 @@
         "Cross-Functional Collaboration"
       ],
       "location": "United States, Canada (+1 lokasi lain)",
-      "pay": "$115k – $155k/yr",
+      "pay": "Lihat Detail",
       "date": "Nov 12, 2026",
       "timestamp": 1794509706,
       "excerpt": "Who are we? Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.",
@@ -870,7 +849,7 @@
         "Consistency"
       ],
       "location": "United States, Canada (+1 lokasi lain)",
-      "pay": "$150k – $200k/yr",
+      "pay": "Lihat Detail",
       "date": "Nov 12, 2026",
       "timestamp": 1794509531,
       "excerpt": "Who are we? Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.",
@@ -8044,7 +8023,7 @@
       "source": "Indonesian • AI"
     },
     {
-      "id": "gh-6006505004",
+      "id": "gh-6006504004",
       "title": "AI Trainer - Automotive Expertise Required",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8061,7 +8040,7 @@
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006505004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006504004",
       "source": "⚡ Direct API"
     },
     {
@@ -8107,7 +8086,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5823642004",
+      "id": "gh-5823643004",
       "title": "Data Collection Contributor",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8119,12 +8098,12 @@
         "Direct API",
         "HumanSignal"
       ],
-      "location": "Bulgaria (+21 lokasi lain)",
+      "location": "Canada (+21 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823642004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823643004",
       "source": "⚡ Direct API"
     },
     {
