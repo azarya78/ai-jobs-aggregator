@@ -1,7 +1,49 @@
 {
-  "lastUpdated": "2026-11-13 09:53 UTC",
-  "totalJobs": 370,
+  "lastUpdated": "2026-11-13 12:56 UTC",
+  "totalJobs": 372,
   "jobs": [
+    {
+      "id": "ashby-5f83c6ff-bc79-4199-ba59-6abab6d69567",
+      "title": "Full-Stack Engineer (Frontend Leaning) - ElevenAI",
+      "company": "ElevenLabs",
+      "logo": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128",
+      "category": "Engineering & Product",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Engineering & Product",
+        "Direct API"
+      ],
+      "location": "United Kingdom",
+      "pay": "Lihat Detail",
+      "date": "Nov 13, 2026",
+      "timestamp": 1794572202,
+      "excerpt": "ABOUT ELEVENLABS  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users an...",
+      "applyUrl": "https://jobs.ashbyhq.com/ElevenLabs/5f83c6ff-bc79-4199-ba59-6abab6d69567",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "ashby-3809888d-a838-420a-8474-d217e48cef88",
+      "title": "Full-Stack Engineer (Backend Leaning) - ElevenAI",
+      "company": "ElevenLabs",
+      "logo": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128",
+      "category": "Engineering & Product",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Engineering & Product",
+        "Direct API"
+      ],
+      "location": "United Kingdom",
+      "pay": "Lihat Detail",
+      "date": "Nov 13, 2026",
+      "timestamp": 1794572188,
+      "excerpt": "ABOUT ELEVENLABS  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users an...",
+      "applyUrl": "https://jobs.ashbyhq.com/ElevenLabs/3809888d-a838-420a-8474-d217e48cef88",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "6af6abc491a7606109308f84",
       "title": "Staff Software Engineer",
@@ -2061,7 +2103,7 @@
     },
     {
       "id": "6af60797e5bd8978eca0d47f",
-      "title": "Senior Software Engineer (.NET Ecosystem)",
+      "title": "Senior Software Engineer .NET SDK - Langauge Clients",
       "company": "ClickHouse",
       "logo": "https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32",
       "category": "C# / .NET Developer",
