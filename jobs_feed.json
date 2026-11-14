@@ -1,7 +1,135 @@
 {
-  "lastUpdated": "2026-11-14 06:50 UTC",
-  "totalJobs": 371,
+  "lastUpdated": "2026-11-14 09:40 UTC",
+  "totalJobs": 373,
   "jobs": [
+    {
+      "id": "6a99bb8c96fca3a67e9108f0",
+      "title": "360° Video Recorder (Insta360 / GoPro MAX)",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "Home Activities Video",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "AI",
+        "FAR",
+        "Quality Review"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$15 – $30/hr",
+      "date": "Nov 14, 2026",
+      "timestamp": 1794614400,
+      "excerpt": "micro1 is engaging 360° Video Recorders (Insta360 / GoPro MAX) to contribute to a customer's project by capturing immersive, high-quality footage with leading 360° camera equipment. In this role, you'll apply your expertise to help train next-generation AI systems.",
+      "applyUrl": "https://jobs.micro1.ai/post/9d57fd44-b189-41ca-a0d4-2fe3903eec41?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "AI • FAR"
+    },
+    {
+      "id": "6abe5138d2f3bde811bbe18c",
+      "title": "Car-Mounted 360° Video Recorder",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "Driving / Dashcam Data",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "AI",
+        "Flexible",
+        "Make",
+        "Ireland",
+        "Australia",
+        "New Zealand"
+      ],
+      "location": "United States, Canada, United Kingdom +3 Ireland Australia New Zealand",
+      "pay": "$15 – $20/hr",
+      "date": "Nov 14, 2026",
+      "timestamp": 1794614400,
+      "excerpt": "Job Description micro1 is engaging 360° Vehicle Navigation Video Recorders equipped with cameras such as the Insta360 or GoPro MAX to contribute to a customer project by capturing immersive, high-quality vehicle-navigation footage.",
+      "applyUrl": "https://jobs.micro1.ai/post/36e1b1f6-b8bf-4273-a09a-94116a1f4b39?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "AI • Flexible"
+    },
+    {
+      "id": "6af800afd16a386cdaa987a3",
+      "title": "Senior Director, Software and Quality Engineering",
+      "company": "OneStream",
+      "logo": "https://www.google.com/s2/favicons?domain=onestream.com&sz=32",
+      "category": "Engineering Manager",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Engineering",
+        "Finance",
+        "Organization",
+        "Microsoft Teams",
+        "Make",
+        "Culture",
+        "AI",
+        "Strategic Thinking"
+      ],
+      "location": "United States",
+      "pay": "$229,000 – $297,500/yr",
+      "date": "Nov 14, 2026",
+      "timestamp": 1794614400,
+      "excerpt": "At OneStream, we're on a mission to empower every Finance organization and professional to exceed their potential. Our global teams span continents, cultures, and time zones, united by a shared purpose as we build the operating system for modern Finance and help organizations…",
+      "applyUrl": "https://job-boards.greenhouse.io/onestream/jobs/4480456009",
+      "source": "Engineering • Finance"
+    },
+    {
+      "id": "6af7ff62d16a386cdaa96de2",
+      "title": "Product Manager",
+      "company": "Figure",
+      "logo": "https://www.google.com/s2/favicons?domain=figure.com&sz=32",
+      "category": "Product Manager",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Dart",
+        "Finance",
+        "Fintech",
+        "Payments",
+        "Microsoft Teams",
+        "Operations",
+        "Leadership",
+        "Verification"
+      ],
+      "location": "United States",
+      "pay": "$114,400 – $160,000/yr",
+      "date": "Nov 14, 2026",
+      "timestamp": 1794614400,
+      "excerpt": "Figure Technology Solutions, Inc. (Nasdaq: FIGR; OPEN: FGRS) is the leading blockchain-native capital marketplace for the origination, funding, sale and trading of tokenized assets. More than 480 partners use its loan origination system and capital marketplace.",
+      "applyUrl": "https://job-boards.greenhouse.io/figure/jobs/8934109002",
+      "source": "Dart • Finance"
+    },
+    {
+      "id": "6af7ff62d16a386cdaa96de3",
+      "title": "Sales Operations Analyst",
+      "company": "Figure",
+      "logo": "https://www.google.com/s2/favicons?domain=figure.com&sz=32",
+      "category": "Sales Operations",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Sales",
+        "Operations",
+        "Dart",
+        "Finance",
+        "Fintech",
+        "Automation",
+        "Marketing",
+        "Cross-Functional Collaboration"
+      ],
+      "location": "United States",
+      "pay": "$76,600 – $100,000/yr",
+      "date": "Nov 14, 2026",
+      "timestamp": 1794614400,
+      "excerpt": "Figure Technology Solutions, Inc. (Nasdaq: FIGR; OPEN: FGRS) is the leading blockchain-native capital marketplace for the origination, funding, sale and trading of tokenized assets. More than 480 partners use its loan origination system and capital marketplace.",
+      "applyUrl": "https://job-boards.greenhouse.io/figure/jobs/8937035002",
+      "source": "Sales • Operations"
+    },
     {
       "id": "6af7ace6d16a386cdaa90f40",
       "title": "Finance Manager",
@@ -692,7 +820,7 @@
       "date": "Nov 13, 2026",
       "timestamp": 1794528000,
       "excerpt": "We are seeking a dynamic and strategic P2P Transformation Consultant to lead our Accounts Payable (AP) operations and indirect procurement processes. This role involves driving transformational change, overseeing vendor management, and enhancing the end-to-end P2P process.",
-      "applyUrl": "https://careers.astoncarter.com/us/en/job/JP-006420889/Director-Of-P2P-Transformation",
+      "applyUrl": "https://remowork.life/jobs/6af7ace6d16a386cdaa90f34/apply-out?ch=card",
       "source": "Accounts Payable • Operations"
     },
     {
@@ -719,7 +847,7 @@
       "date": "Nov 13, 2026",
       "timestamp": 1794528000,
       "excerpt": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing.",
-      "applyUrl": "https://jobs.ashbyhq.com/1password/63059a05-03d1-4a4f-908c-8daa721cce90/application",
+      "applyUrl": "https://remowork.life/jobs/6af7a806d16a386cdaa8d9dc/apply-out?ch=card",
       "source": "ARR • Oracle Database"
     },
     {
@@ -746,7 +874,7 @@
       "date": "Nov 13, 2026",
       "timestamp": 1794528000,
       "excerpt": "Role summary The Practice Director, SDLC leads the development and evolution of Valiantys’ North American Software Development Life Cycle practice.",
-      "applyUrl": "https://jobs.lever.co/valiantys/55ee0d57-80c2-46a8-bc7c-fb12eeb91d47",
+      "applyUrl": "https://remowork.life/jobs/6af7a91ad16a386cdaa8e7cb/apply-out?ch=card",
       "source": "SDLC • Planning"
     },
     {
@@ -773,7 +901,7 @@
       "date": "Nov 13, 2026",
       "timestamp": 1794528000,
       "excerpt": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk.",
-      "applyUrl": "https://job-boards.greenhouse.io/chainguard/jobs/4723777006",
+      "applyUrl": "https://remowork.life/jobs/6af7a4a5d16a386cdaa8afd4/apply-out?ch=card",
       "source": "Sales • AI"
     },
     {
@@ -800,7 +928,7 @@
       "date": "Nov 13, 2026",
       "timestamp": 1794528000,
       "excerpt": "micro1 is engaging English Language Experts (United States) to contribute to a specialized audio annotation project focused on American English. In this role, you'll apply your expertise to help train next-generation AI systems.",
-      "applyUrl": "https://jobs.micro1.ai/post/182d7d1f-0eaf-40bc-bb55-6d5c98272e1f?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "applyUrl": "https://remowork.life/jobs/6af7a7f5d16a386cdaa8d5e3/apply-out?ch=card",
       "source": "English • Annotation"
     },
     {
@@ -3873,87 +4001,6 @@
       "excerpt": "Remote · Full-time · Reports to: CEO / Founder About FutureMedia FutureMedia is a global product portfolio company building practical digital products used by millions of people worldwide. Our products span career, self-discovery, productivity, and digital essentials.",
       "applyUrl": "https://remowork.life/jobs/6af707925d79745d82fd15b6/apply-out?ch=card",
       "source": "Engineering • Experimentation"
-    },
-    {
-      "id": "6af6abc491a7606109308f84",
-      "title": "Staff Software Engineer",
-      "company": "Instawork",
-      "logo": "https://www.google.com/s2/favicons?domain=instawork.com&sz=32",
-      "category": "Full-Stack Developer",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Apache Spark",
-        "Engineering",
-        "Make",
-        "Agile",
-        "React",
-        "Angular",
-        "Vue.js",
-        "Recruiting"
-      ],
-      "location": "United States",
-      "pay": "$180,000 – $230,000/yr",
-      "date": "Nov 13, 2026",
-      "timestamp": 1794528000,
-      "excerpt": "At Instawork, we’re driven by our vision to create economic opportunity for local businesses and skilled hourly professionals in communities around the world.",
-      "applyUrl": "https://remowork.life/jobs/6af6abc491a7606109308f84/apply-out?ch=card",
-      "source": "Apache Spark • Engineering"
-    },
-    {
-      "id": "6af6ffaa5d79745d82fccfbe",
-      "title": "Strategic Project Lead, AI & Data Operations",
-      "company": "Micro1",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
-      "category": "Project Manager",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "AI",
-        "Operations",
-        "Research",
-        "Engineering",
-        "Microsoft Teams",
-        "Assurance",
-        "Accuracy",
-        "Consistency"
-      ],
-      "location": "United States",
-      "pay": "$120,000 – $150,000/yr",
-      "date": "Nov 13, 2026",
-      "timestamp": 1794528000,
-      "excerpt": "The Role As Strategic Projects Lead (SPL), you will own end-to-end execution of complex data projects for leading AI Labs and MAG 7 companies.",
-      "applyUrl": "https://remowork.life/jobs/6af6ffaa5d79745d82fccfbe/apply-out?ch=card",
-      "source": "AI • Operations"
-    },
-    {
-      "id": "6af7a8fad16a386cdaa8e1c5",
-      "title": "Security Engineering Lead",
-      "company": "Peraton",
-      "logo": "https://www.google.com/s2/favicons?domain=peraton.com&sz=32",
-      "category": "Security Engineer",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Engineering",
-        "Leadership",
-        "Architecture",
-        "Infrastructure",
-        "Compliance",
-        "DevSecOps",
-        "Operations",
-        "Microsoft Teams"
-      ],
-      "location": "United States",
-      "pay": "$112,000 – $179,000/yr",
-      "date": "Nov 13, 2026",
-      "timestamp": 1794528000,
-      "excerpt": "Peraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy.",
-      "applyUrl": "https://remowork.life/jobs/6af7a8fad16a386cdaa8e1c5/apply-out?ch=card",
-      "source": "Engineering • Leadership"
     },
     {
       "id": "ashby-58c1bb1d-2a19-42af-84e2-e6d276591ef6",
