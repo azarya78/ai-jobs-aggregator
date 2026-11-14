@@ -1,7 +1,91 @@
 {
-  "lastUpdated": "2026-11-13 21:43 UTC",
+  "lastUpdated": "2026-11-14 00:50 UTC",
   "totalJobs": 373,
   "jobs": [
+    {
+      "id": "gh-5279894007",
+      "title": "Operation & Maintenance Engineer (Power Plant) - Memphis",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Southaven, MS; Memphis, TN",
+      "pay": "Lihat Detail",
+      "date": "Nov 13, 2026",
+      "timestamp": 1794613278,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5279894007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5241381007",
+      "title": "Plumber (Service & Repair) - Memphis ",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": " Southaven, MS; Memphis, TN",
+      "pay": "Lihat Detail",
+      "date": "Nov 13, 2026",
+      "timestamp": 1794612614,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5241381007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-4599700005",
+      "title": "Senior Infrastructure Software Engineer, Enterprise AI",
+      "company": "Scale AI",
+      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "Scale AI"
+      ],
+      "location": "New York, NY; San Francisco, CA",
+      "pay": "Lihat Detail",
+      "date": "Nov 13, 2026",
+      "timestamp": 1794611847,
+      "excerpt": "Scale GP is building the infrastructure that makes enterprise AI seamless. We are looking for an Infrastructure Engineer to act as a primary technical lead, engineering the 'paved road' for our knowledge retrieval and in...",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4599700005",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5214918007",
+      "title": "Lead Engineer, Data Center - Memphis",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": "Memphis, TN",
+      "pay": "Lihat Detail",
+      "date": "Nov 13, 2026",
+      "timestamp": 1794608551,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5214918007",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "ashby-5e003193-3e64-400f-ad97-ec43e5152d2e",
       "title": "Field Marketer - Southern Europe (Freelance)",
@@ -894,7 +978,7 @@
         "Written Feedback"
       ],
       "location": "United States",
-      "pay": "$30 – $50/hr",
+      "pay": "$30 – $60/hr",
       "date": "Nov 13, 2026",
       "timestamp": 1794528000,
       "excerpt": "Time Commitment: 15-25 hours/week, short-term project micro1 is looking for Financial Aid Advisors to help evaluate and improve AI systems on federal student loan topics.",
@@ -2439,33 +2523,6 @@
       "excerpt": "The Role As Strategic Projects Lead (SPL), you will own end-to-end execution of complex data projects for leading AI Labs and MAG 7 companies.",
       "applyUrl": "https://remowork.life/jobs/6af6ffaa5d79745d82fccfbe/apply-out?ch=card",
       "source": "AI • Operations"
-    },
-    {
-      "id": "6af6b03991a760610930baab",
-      "title": "Senior Financial Analyst, Commercial Finance",
-      "company": "Mozilla",
-      "logo": "https://www.google.com/s2/favicons?domain=mozilla.org&sz=32",
-      "category": "Financial Planning & Analysis (FP&A)",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Finance",
-        "Make",
-        "AI",
-        "Open Source",
-        "Advertising",
-        "Marketing",
-        "Analysis",
-        "Reconciliation"
-      ],
-      "location": "United States, Canada",
-      "pay": "Lihat Detail",
-      "date": "Nov 13, 2026",
-      "timestamp": 1794528000,
-      "excerpt": "Why Mozilla? Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser.",
-      "applyUrl": "https://remowork.life/jobs/6af6b03991a760610930baab/senior-financial-analyst-commercial-finance",
-      "source": "Finance • Make"
     },
     {
       "id": "6af75613d16a386cdaa85d96",
@@ -4048,6 +4105,33 @@
       "source": "Salesforce • AI"
     },
     {
+      "id": "6af65d22a73e5ad84a1a0427",
+      "title": "Staff Accountant",
+      "company": "Tailscale",
+      "logo": "https://www.google.com/s2/favicons?domain=tailscale.com&sz=32",
+      "category": "Senior Accountant",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Statistics",
+        "Microsoft Teams",
+        "Finance",
+        "Accounting",
+        "Operations",
+        "Sales",
+        "Reconciliations",
+        "SaaS"
+      ],
+      "location": "United States, Canada",
+      "pay": "$86k – $107k/yr",
+      "date": "Nov 12, 2026",
+      "timestamp": 1794441600,
+      "excerpt": "Thank you for considering Tailscale. If this job description resonates with you, please apply. Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications.",
+      "applyUrl": "https://remowork.life/jobs/6af65d22a73e5ad84a1a0427/apply-out?ch=card",
+      "source": "Statistics • Microsoft Teams"
+    },
+    {
       "id": "6af65d2ba73e5ad84a1a05f5",
       "title": "Malay Conversation Partner (AI Training) - Penutur Bahasa Melayu untuk Rakaman Perbualan (Data Latihan AI)",
       "company": "Babel Audio",
@@ -4303,27 +4387,6 @@
       "timestamp": 1794349399,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
       "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5220531007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5214918007",
-      "title": "Lead Engineer, Data Center - Memphis",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": "Memphis, TN",
-      "pay": "Lihat Detail",
-      "date": "Nov 10, 2026",
-      "timestamp": 1794342516,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5214918007",
       "source": "⚡ Direct API"
     },
     {
@@ -5419,7 +5482,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5266499007",
+      "id": "gh-5286282007",
       "title": "Data Center Operations Technician - Memphis",
       "company": "xAI",
       "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
@@ -5436,7 +5499,7 @@
       "date": "Nov 05, 2026",
       "timestamp": 1793910400,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5266499007",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5286282007",
       "source": "⚡ Direct API"
     },
     {
@@ -5920,27 +5983,6 @@
       "timestamp": 1793905260,
       "excerpt": "About Scale AI Scale AI is the data foundation for AI, helping organizations build and deploy reliable production AI applications. We partner with the world's leading enterprises and government organizations to accelerat...",
       "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4720478005",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-4599700005",
-      "title": "Senior Infrastructure Software Engineer, Enterprise AI",
-      "company": "Scale AI",
-      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "Scale AI"
-      ],
-      "location": "New York, NY; San Francisco, CA",
-      "pay": "Lihat Detail",
-      "date": "Nov 05, 2026",
-      "timestamp": 1793905260,
-      "excerpt": "Scale GP is building the infrastructure that makes enterprise AI seamless. We are looking for a Senior Infrastructure Engineer to act as a primary technical lead, engineering the 'paved road' for our knowledge retrieval ...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4599700005",
       "source": "⚡ Direct API"
     },
     {
@@ -6781,48 +6823,6 @@
       "timestamp": 1793903591,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
       "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5182046007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5279894007",
-      "title": "Operation & Maintenance Engineer (Power Plant) - Memphis",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Southaven, MS; Memphis, TN",
-      "pay": "Lihat Detail",
-      "date": "Nov 05, 2026",
-      "timestamp": 1793903591,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5279894007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5241381007",
-      "title": "Plumber (Service & Repair) - Memphis ",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": " Southaven, MS; Memphis, TN",
-      "pay": "Lihat Detail",
-      "date": "Nov 05, 2026",
-      "timestamp": 1793903591,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5241381007",
       "source": "⚡ Direct API"
     },
     {
