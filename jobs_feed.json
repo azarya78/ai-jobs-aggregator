@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-14 03:45 UTC",
-  "totalJobs": 373,
+  "lastUpdated": "2026-11-14 06:50 UTC",
+  "totalJobs": 371,
   "jobs": [
     {
       "id": "6af7ace6d16a386cdaa90f40",
@@ -580,7 +580,7 @@
         "Storytelling"
       ],
       "location": "United States",
-      "pay": "From $165k/yr",
+      "pay": "From $165,000/yr",
       "date": "Nov 13, 2026",
       "timestamp": 1794528000,
       "excerpt": "Our mission is to bring clarity and control to the world's most complex codebases. AI is accelerating code creation, but the infrastructure to understand, oversee, and evolve that code hasn't kept pace.",
@@ -3954,60 +3954,6 @@
       "excerpt": "Peraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy.",
       "applyUrl": "https://remowork.life/jobs/6af7a8fad16a386cdaa8e1c5/apply-out?ch=card",
       "source": "Engineering • Leadership"
-    },
-    {
-      "id": "6af7a8fad16a386cdaa8e1c1",
-      "title": "Penetration Testing Lead",
-      "company": "Peraton",
-      "logo": "https://www.google.com/s2/favicons?domain=peraton.com&sz=32",
-      "category": "Penetration Tester",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Testing",
-        "Organization",
-        "Infrastructure",
-        "Leadership",
-        "Management",
-        "Product Management",
-        "APIs",
-        "AWS"
-      ],
-      "location": "United States",
-      "pay": "$104,000 – $166,000/yr",
-      "date": "Nov 13, 2026",
-      "timestamp": 1794528000,
-      "excerpt": "Peraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy.",
-      "applyUrl": "https://remowork.life/jobs/6af7a8fad16a386cdaa8e1c1/apply-out?ch=card",
-      "source": "Testing • Organization"
-    },
-    {
-      "id": "6af7a8fad16a386cdaa8e1b3",
-      "title": "Service Level Agreement (SLA) Specialist",
-      "company": "Peraton",
-      "logo": "https://www.google.com/s2/favicons?domain=peraton.com&sz=32",
-      "category": "Business Operations Analyst",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Monitoring",
-        "Analysis",
-        "ROOT",
-        "Accuracy",
-        "Microsoft Teams",
-        "Reporting",
-        "Leadership",
-        "Management"
-      ],
-      "location": "United States",
-      "pay": "$86,000 – $138,000/yr",
-      "date": "Nov 13, 2026",
-      "timestamp": 1794528000,
-      "excerpt": "Peraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy.",
-      "applyUrl": "https://remowork.life/jobs/6af7a8fad16a386cdaa8e1b3/apply-out?ch=card",
-      "source": "Monitoring • Analysis"
     },
     {
       "id": "ashby-58c1bb1d-2a19-42af-84e2-e6d276591ef6",
