@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-11-15 12:41 UTC",
+  "lastUpdated": "2026-11-15 15:34 UTC",
   "totalJobs": 373,
   "jobs": [
+    {
+      "id": "6ac5e5abd2f3bde811c5e82c",
+      "title": "AI/ML Engineer, Internal Platforms",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "AI Engineer",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "AI",
+        "Machine Learning",
+        "Recruiting",
+        "LLMs",
+        "Make",
+        "APIs",
+        "Python",
+        "RAG"
+      ],
+      "location": "United States",
+      "pay": "$130,000 – $160,000/yr",
+      "date": "Nov 15, 2026",
+      "timestamp": 1794700800,
+      "excerpt": "The Role Join our team to build and improve a next-generation AI recruiting agent. You'll develop new capabilities, experiment with the latest LLMs and agent frameworks, and ship production-ready AI features that make the agent smarter, more reliable, and more useful.",
+      "applyUrl": "https://jobs.micro1.ai/post/7c09cefc-fd08-4ee4-b792-48e3a4753e9c?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "AI • Machine Learning"
+    },
     {
       "id": "6af951e820177a3762b2294d",
       "title": "Product Manager, Network & Accounts",
@@ -688,7 +715,7 @@
       "date": "Nov 14, 2026",
       "timestamp": 1794614400,
       "excerpt": "Work with Us. Change the World. At AECOM, we're delivering a better world. Whether improving your commute, keeping the lights on, providing access to clean water, or transforming skylines, our work helps people and communities thrive.",
-      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000161593777-mechanical-engineer-data-centers-remote-u-s-",
+      "applyUrl": "https://remowork.life/jobs/6af7ad46d16a386cdaa91392/apply-out?ch=card",
       "source": "Infrastructure • Consulting"
     },
     {
@@ -3997,33 +4024,6 @@
       "source": "Turkish • Translation"
     },
     {
-      "id": "6af75832d16a386cdaa86ec3",
-      "title": "Vietnamese Linguistic Expert",
-      "company": "Mercor",
-      "logo": "https://www.google.com/s2/favicons?domain=mercor.com&sz=128",
-      "category": "Linguistics (SME)",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Vietnamese",
-        "Translation",
-        "AI",
-        "Research",
-        "Vietnamese Language",
-        "Accuracy",
-        "Summarization",
-        "Grammar"
-      ],
-      "location": "Remote (Global)",
-      "pay": "$40/hr",
-      "date": "Nov 13, 2026",
-      "timestamp": 1794528000,
-      "excerpt": "Mercor is seeking experienced Vietnamese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab.",
-      "applyUrl": "https://remowork.life/jobs/6af75832d16a386cdaa86ec3/apply-out?ch=card",
-      "source": "Vietnamese • Translation"
-    },
-    {
       "id": "ashby-58c1bb1d-2a19-42af-84e2-e6d276591ef6",
       "title": "Content Strategist",
       "company": "Cohere",
@@ -4450,7 +4450,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4751149005",
+      "id": "gh-4751081005",
       "title": "Senior Applied AI Engineer",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -4462,12 +4462,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Kuwait City, Kuwait (+1 lokasi lain)",
+      "location": "London, UK (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Nov 10, 2026",
       "timestamp": 1794322129,
       "excerpt": "About the role Scale's Global Public Sector team is focused on using AI to address critical challenges facing the public sector around the world. As a Senior Applied AI Engineer, you'll own the AI behaviour of production...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751149005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751081005",
       "source": "⚡ Direct API"
     },
     {
@@ -8167,7 +8167,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5823642004",
+      "id": "gh-5823640004",
       "title": "Data Collection Contributor",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8179,12 +8179,12 @@
         "Direct API",
         "HumanSignal"
       ],
-      "location": "Bulgaria (+21 lokasi lain)",
+      "location": "Austria (+21 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823642004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823640004",
       "source": "⚡ Direct API"
     },
     {
