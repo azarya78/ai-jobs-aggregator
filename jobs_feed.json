@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-11-15 03:46 UTC",
+  "lastUpdated": "2026-11-15 06:55 UTC",
   "totalJobs": 373,
   "jobs": [
+    {
+      "id": "6af951e820177a3762b2294d",
+      "title": "Product Manager, Network & Accounts",
+      "company": "Worldly",
+      "logo": "https://www.google.com/s2/favicons?domain=worldly.io&sz=32",
+      "category": "Product Manager",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Analysis",
+        "Compliance",
+        "Make",
+        "Accuracy",
+        "Index",
+        "Sourcing",
+        "Microsoft Teams",
+        "Cross-Functional Collaboration"
+      ],
+      "location": "United States, France, United Kingdom +1 Germany",
+      "pay": "Lihat Detail",
+      "date": "Nov 15, 2026",
+      "timestamp": 1794700800,
+      "excerpt": "Location: Remote - United Kingdom United States, and Europe (France, Germany, Portugal) About Worldly Worldly is the world’s most comprehensive impact intelligence platform — delivering real data to businesses on impacts within their supply chain.",
+      "applyUrl": "https://jobs.ashbyhq.com/worldly/d50b171f-66e4-4a48-8512-3d7315a2dc60/application",
+      "source": "Analysis • Compliance"
+    },
     {
       "id": "gh-4744402005",
       "title": "AI Safety Residency — Scale Labs Preparedness & Policy (SLPreP)",
@@ -688,7 +715,7 @@
       "date": "Nov 14, 2026",
       "timestamp": 1794614400,
       "excerpt": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation.",
-      "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8929253002",
+      "applyUrl": "https://remowork.life/jobs/6af7a4b4d16a386cdaa8b17f/apply-out?ch=card",
       "source": "GitLab • DevSecOps"
     },
     {
@@ -3997,33 +4024,6 @@
       "source": "Vietnamese • Translation"
     },
     {
-      "id": "6af75832d16a386cdaa86ec4",
-      "title": "Russian Linguistic Expert",
-      "company": "Mercor",
-      "logo": "https://www.google.com/s2/favicons?domain=mercor.com&sz=128",
-      "category": "Linguistics (SME)",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Russian",
-        "Translation",
-        "AI",
-        "Research",
-        "Russian Language",
-        "Accuracy",
-        "Summarization",
-        "Grammar"
-      ],
-      "location": "Remote (Global)",
-      "pay": "$40/hr",
-      "date": "Nov 13, 2026",
-      "timestamp": 1794528000,
-      "excerpt": "Mercor is seeking experienced Russian Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab.",
-      "applyUrl": "https://remowork.life/jobs/6af75832d16a386cdaa86ec4/apply-out?ch=card",
-      "source": "Russian • Translation"
-    },
-    {
       "id": "ashby-58c1bb1d-2a19-42af-84e2-e6d276591ef6",
       "title": "Content Strategist",
       "company": "Cohere",
@@ -4450,7 +4450,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4751149005",
+      "id": "gh-4751081005",
       "title": "Senior Applied AI Engineer",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -4462,12 +4462,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Kuwait City, Kuwait (+1 lokasi lain)",
+      "location": "London, UK (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Nov 10, 2026",
       "timestamp": 1794322129,
       "excerpt": "About the role Scale's Global Public Sector team is focused on using AI to address critical challenges facing the public sector around the world. As a Senior Applied AI Engineer, you'll own the AI behaviour of production...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751149005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751081005",
       "source": "⚡ Direct API"
     },
     {
@@ -8167,7 +8167,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5823642004",
+      "id": "gh-5823640004",
       "title": "Data Collection Contributor",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8179,12 +8179,12 @@
         "Direct API",
         "HumanSignal"
       ],
-      "location": "Bulgaria (+21 lokasi lain)",
+      "location": "Austria (+21 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823642004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823640004",
       "source": "⚡ Direct API"
     },
     {
