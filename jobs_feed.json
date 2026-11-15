@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15 15:34 UTC",
+  "lastUpdated": "2026-11-15 18:37 UTC",
   "totalJobs": 373,
   "jobs": [
     {
@@ -155,7 +155,7 @@
       "date": "Nov 14, 2026",
       "timestamp": 1794614400,
       "excerpt": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced Large Language Models. 1.",
-      "applyUrl": "https://work.mercor.com/jobs/list_AAABodwhSO6KHR7Vl4tALZJa/cmc-manufacturing-quality-expert?referralCode=c16ad3f0-df48-8fb1-34e7-1730849ebf3a",
+      "applyUrl": "https://remowork.life/jobs/6af8fcadd16a386cdaac218f/apply-out?ch=card",
       "source": "Manufacturing • AI"
     },
     {
@@ -265,6 +265,33 @@
       "excerpt": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing.",
       "applyUrl": "https://jobs.ashbyhq.com/1password/6d3acd23-5a6d-4e38-bf5a-bee4d9a3460b/application",
       "source": "Finance • ARR"
+    },
+    {
+      "id": "6af850d7d16a386cdaab050b",
+      "title": "Staff / Principal ML Engineer",
+      "company": "Instawork",
+      "logo": "https://www.google.com/s2/favicons?domain=instawork.com&sz=32",
+      "category": "Applied ML Engineer",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Machine Learning",
+        "Apache Spark",
+        "AI",
+        "Statistics",
+        "Physics",
+        "Analysis",
+        "Modeling",
+        "Communication"
+      ],
+      "location": "United States",
+      "pay": "$210,000 – $270,000/yr",
+      "date": "Nov 14, 2026",
+      "timestamp": 1794614400,
+      "excerpt": "At Instawork, we’re driven by our vision to create economic opportunity for local businesses and skilled hourly professionals in communities around the world.",
+      "applyUrl": "https://www.workatastartup.com/jobs/72351",
+      "source": "Machine Learning • Apache Spark"
     },
     {
       "id": "6af850acd16a386cdaaaff9d",
@@ -398,7 +425,7 @@
       "date": "Nov 14, 2026",
       "timestamp": 1794614400,
       "excerpt": "Mercor is partnering with a leading AI company to develop advanced AI models designed to support enterprise sales teams. We are seeking experienced Enterprise and Strategic Account Executives to contribute their expertise in complex B2B sales, account strategy, and enterprise…",
-      "applyUrl": "https://work.mercor.com/jobs/list_AAABodjkZ9uPRh5LQSxNUZtG/enterprise-account-executive-ai-sales-expert?referralCode=c16ad3f0-df48-8fb1-34e7-1730849ebf3a",
+      "applyUrl": "https://remowork.life/jobs/6af85394d16a386cdaab1b02/apply-out?ch=card",
       "source": "AI • Sales"
     },
     {
@@ -688,7 +715,7 @@
       "date": "Nov 14, 2026",
       "timestamp": 1794614400,
       "excerpt": "Blueprint is a technology solutions firm headquartered in Bellevue, Washington, with teams across the United States. We help organizations turn complex challenges into meaningful outcomes by connecting strategy and execution across AI, cloud, data, product development, and…",
-      "applyUrl": "https://job-boards.greenhouse.io/bpcs/jobs/8386909",
+      "applyUrl": "https://remowork.life/jobs/6af7a868d16a386cdaa8debc/apply-out?ch=card",
       "source": "Microsoft Teams • Strategic Thinking"
     },
     {
@@ -3997,33 +4024,6 @@
       "source": "Ukrainian • Translation"
     },
     {
-      "id": "6af75832d16a386cdaa86ec2",
-      "title": "Turkish Linguistic Expert",
-      "company": "Mercor",
-      "logo": "https://www.google.com/s2/favicons?domain=mercor.com&sz=128",
-      "category": "Linguistics (SME)",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Turkish",
-        "Translation",
-        "AI",
-        "Research",
-        "Accuracy",
-        "Summarization",
-        "Grammar",
-        "Analysis"
-      ],
-      "location": "Remote (Global)",
-      "pay": "$40/hr",
-      "date": "Nov 13, 2026",
-      "timestamp": 1794528000,
-      "excerpt": "Mercor is seeking experienced Turkish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab.",
-      "applyUrl": "https://remowork.life/jobs/6af75832d16a386cdaa86ec2/apply-out?ch=card",
-      "source": "Turkish • Translation"
-    },
-    {
       "id": "ashby-58c1bb1d-2a19-42af-84e2-e6d276591ef6",
       "title": "Content Strategist",
       "company": "Cohere",
@@ -4450,7 +4450,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4751081005",
+      "id": "gh-4751149005",
       "title": "Senior Applied AI Engineer",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -4462,12 +4462,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "London, UK (+1 lokasi lain)",
+      "location": "Kuwait City, Kuwait (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Nov 10, 2026",
       "timestamp": 1794322129,
       "excerpt": "About the role Scale's Global Public Sector team is focused on using AI to address critical challenges facing the public sector around the world. As a Senior Applied AI Engineer, you'll own the AI behaviour of production...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751081005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751149005",
       "source": "⚡ Direct API"
     },
     {
@@ -8167,7 +8167,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5823640004",
+      "id": "gh-5823642004",
       "title": "Data Collection Contributor",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8179,12 +8179,12 @@
         "Direct API",
         "HumanSignal"
       ],
-      "location": "Austria (+21 lokasi lain)",
+      "location": "Bulgaria (+21 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823640004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823642004",
       "source": "⚡ Direct API"
     },
     {
