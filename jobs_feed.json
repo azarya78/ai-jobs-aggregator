@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-16 16:38 UTC",
-  "totalJobs": 376,
+  "lastUpdated": "2026-11-16 18:49 UTC",
+  "totalJobs": 375,
   "jobs": [
     {
       "id": "ashby-6de4d812-1c2e-4e3e-942a-54d20e5f6cc6",
@@ -43,6 +43,60 @@
       "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
       "applyUrl": "https://jobs.ashbyhq.com/cohere/c4192057-43fa-45c9-a40e-6f29131bf11d",
       "source": "⚡ Direct API"
+    },
+    {
+      "id": "6adbf90cd14075bef1e494d6",
+      "title": "Machine Learning Researcher",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "AI Expert - Machine Learning & AI Research",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Flexible",
+        "AI",
+        "Training",
+        "Optimization",
+        "Python",
+        "Machine Learning",
+        "Engineering",
+        "Debugging"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$60 – $120/hr",
+      "date": "Nov 16, 2026",
+      "timestamp": 1794787200,
+      "excerpt": "Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and…",
+      "applyUrl": "https://jobs.micro1.ai/post/8dd58c0e-78c8-44b4-a8e3-0bfbfc1f765f?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "Flexible • AI"
+    },
+    {
+      "id": "6adbf90cd14075bef1e494d5",
+      "title": "Applied Scientists — Machine Learning",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "AI Expert - Machine Learning & AI Research",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Flexible",
+        "AI",
+        "Training",
+        "Optimization",
+        "Python",
+        "Machine Learning",
+        "Engineering",
+        "Debugging"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$60 – $120/hr",
+      "date": "Nov 16, 2026",
+      "timestamp": 1794787200,
+      "excerpt": "Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and…",
+      "applyUrl": "https://jobs.micro1.ai/post/f65f4c3c-34b6-48bd-96bd-5f274f7dcd09?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "Flexible • AI"
     },
     {
       "id": "6afb0345675c5eda67c7dc9a",
@@ -413,7 +467,7 @@
         "Westlaw"
       ],
       "location": "Remote (Global)",
-      "pay": "$50 – $110/hr",
+      "pay": "$50 – $140/hr",
       "date": "Nov 15, 2026",
       "timestamp": 1794700800,
       "excerpt": "Role Title: Legal Research Attorney – AI Training Role Type: Contractor Location: Remote micro1 is engaging Legal Research Attorneys to contribute expertise to a dynamic customer project. In this role, you'll apply your expertise to help train next-generation AI systems.",
@@ -685,7 +739,7 @@
       "date": "Nov 15, 2026",
       "timestamp": 1794700800,
       "excerpt": "Standard (Mon-Fri) Environmental Conditions Office Job Description Role Purpose Lead market development and service marketing across the portfolio, translating customer needs and business priorities into insight-led campaigns, digital experiences, sales enablement and measurable…",
-      "applyUrl": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-California-USA/Senior-Manager--Market-Development_R-01374475",
+      "applyUrl": "https://remowork.life/jobs/6afaa65887c073209100cd4a/apply-out?ch=card",
       "source": "Marketing • Sales"
     },
     {
@@ -712,7 +766,7 @@
       "date": "Nov 15, 2026",
       "timestamp": 1794700800,
       "excerpt": "NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people.",
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Safety-Manager_JR2029915",
+      "applyUrl": "https://remowork.life/jobs/6afa9e8087c0732091008c35/apply-out?ch=card",
       "source": "Gaming • AI"
     },
     {
@@ -924,33 +978,6 @@
       "excerpt": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing.",
       "applyUrl": "https://remowork.life/jobs/6af8f9acd16a386cdaac0806/apply-out?ch=card",
       "source": "Finance • ARR"
-    },
-    {
-      "id": "6af850d7d16a386cdaab050b",
-      "title": "Staff / Principal ML Engineer",
-      "company": "Instawork",
-      "logo": "https://www.google.com/s2/favicons?domain=instawork.com&sz=32",
-      "category": "Applied ML Engineer",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Machine Learning",
-        "Apache Spark",
-        "AI",
-        "Statistics",
-        "Physics",
-        "Analysis",
-        "Modeling",
-        "Communication"
-      ],
-      "location": "United States",
-      "pay": "$210,000 – $270,000/yr",
-      "date": "Nov 14, 2026",
-      "timestamp": 1794614400,
-      "excerpt": "At Instawork, we’re driven by our vision to create economic opportunity for local businesses and skilled hourly professionals in communities around the world.",
-      "applyUrl": "https://remowork.life/jobs/6af850d7d16a386cdaab050b/apply-out?ch=card",
-      "source": "Machine Learning • Apache Spark"
     },
     {
       "id": "6af850acd16a386cdaaaff9d",
@@ -2045,7 +2072,7 @@
     },
     {
       "id": "6af7a4eed16a386cdaa8b22a",
-      "title": "Head of Enterprise, West",
+      "title": "Head of Enterprise Sales, West",
       "company": "Stripe",
       "logo": "https://www.google.com/s2/favicons?domain=stripe.com&sz=128",
       "category": "Enterprise Sales Manager",
@@ -2053,9 +2080,9 @@
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
+        "Sales",
         "Infrastructure",
         "Payments",
-        "Sales",
         "Strategic Thinking",
         "Operations",
         "Organization",
@@ -2068,7 +2095,7 @@
       "timestamp": 1794528000,
       "excerpt": "Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities.",
       "applyUrl": "https://remowork.life/jobs/6af7a4eed16a386cdaa8b22a/apply-out?ch=card",
-      "source": "Infrastructure • Payments"
+      "source": "Sales • Infrastructure"
     },
     {
       "id": "6af7ace6d16a386cdaa90f34",
@@ -4035,33 +4062,6 @@
       "source": "Hebrew • Translation"
     },
     {
-      "id": "6af75832d16a386cdaa86ea4",
-      "title": "Thai Linguistic Expert",
-      "company": "Mercor",
-      "logo": "https://www.google.com/s2/favicons?domain=mercor.com&sz=128",
-      "category": "Linguistics (SME)",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Thai",
-        "Translation",
-        "AI",
-        "Research",
-        "Thai Language",
-        "Accuracy",
-        "Summarization",
-        "Grammar"
-      ],
-      "location": "Remote (Global)",
-      "pay": "$40/hr",
-      "date": "Nov 13, 2026",
-      "timestamp": 1794528000,
-      "excerpt": "Mercor is seeking experienced Thai Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab.",
-      "applyUrl": "https://remowork.life/jobs/6af75832d16a386cdaa86ea4/apply-out?ch=card",
-      "source": "Thai • Translation"
-    },
-    {
       "id": "6af75832d16a386cdaa86ea5",
       "title": "Indonesian Linguistic Expert",
       "company": "Mercor",
@@ -4515,7 +4515,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4751149005",
+      "id": "gh-4751081005",
       "title": "Senior Applied AI Engineer",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -4527,12 +4527,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Kuwait City, Kuwait (+1 lokasi lain)",
+      "location": "London, UK (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Nov 10, 2026",
       "timestamp": 1794322129,
       "excerpt": "About the role Scale's Global Public Sector team is focused on using AI to address critical challenges facing the public sector around the world. As a Senior Applied AI Engineer, you'll own the AI behaviour of production...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751149005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751081005",
       "source": "⚡ Direct API"
     },
     {
@@ -4701,27 +4701,6 @@
       "timestamp": 1794297962,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
       "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5270902007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5207340007",
-      "title": "AI Tutor, Croatian - Temporary",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": "Remote, International",
-      "pay": "Lihat Detail",
-      "date": "Nov 10, 2026",
-      "timestamp": 1794297935,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5207340007",
       "source": "⚡ Direct API"
     },
     {
@@ -5544,7 +5523,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5286282007",
+      "id": "gh-5266499007",
       "title": "Data Center Operations Technician - Memphis",
       "company": "xAI",
       "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
@@ -5561,7 +5540,7 @@
       "date": "Nov 05, 2026",
       "timestamp": 1793910400,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5286282007",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5266499007",
       "source": "⚡ Direct API"
     },
     {
@@ -8232,7 +8211,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5823642004",
+      "id": "gh-5823640004",
       "title": "Data Collection Contributor",
       "company": "HumanSignal",
       "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
@@ -8244,12 +8223,12 @@
         "Direct API",
         "HumanSignal"
       ],
-      "location": "Bulgaria (+21 lokasi lain)",
+      "location": "Austria (+21 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "May 27, 2026",
       "timestamp": 1779929246,
       "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823642004",
+      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823640004",
       "source": "⚡ Direct API"
     },
     {
