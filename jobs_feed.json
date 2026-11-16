@@ -1,7 +1,55 @@
 {
-  "lastUpdated": "2026-11-16 08:29 UTC",
-  "totalJobs": 373,
+  "lastUpdated": "2026-11-16 10:36 UTC",
+  "totalJobs": 374,
   "jobs": [
+    {
+      "id": "ashby-c4192057-43fa-45c9-a40e-6f29131bf11d",
+      "title": "Staff Software Engineer, Data Infrastructure",
+      "company": "Cohere",
+      "logo": "https://www.google.com/s2/favicons?domain=cohere.com&sz=128",
+      "category": "Engineering & Infra",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Engineering & Infra",
+        "Direct API"
+      ],
+      "location": "New York",
+      "pay": "Lihat Detail",
+      "date": "Nov 16, 2026",
+      "timestamp": 1794825076,
+      "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/c4192057-43fa-45c9-a40e-6f29131bf11d",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "6afa4b4f87c073209100072c",
+      "title": "CPU Performance Architect",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "AI Expert - Computer Science",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Modeling",
+        "Benchmarking",
+        "Documentation",
+        "Accuracy",
+        "Analysis",
+        "Interpretation",
+        "Architecture",
+        "Optimization"
+      ],
+      "location": "Remote (Global)",
+      "pay": "Lihat Detail",
+      "date": "Nov 15, 2026",
+      "timestamp": 1794700800,
+      "excerpt": "Role Title: CPU Performance Architect Role Type: Contractor Location: Remote micro1 is engaging CPU Performance Architects to contribute to a customer's specialized project focused on realistic CPU cycle modeling and code-speed estimation.",
+      "applyUrl": "https://jobs.micro1.ai/post/1bbd36b4-3276-4157-9399-e429e0e4c2b9?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "Modeling • Benchmarking"
+    },
     {
       "id": "6af9f80b87c0732091ff8980",
       "title": "Senior Implementation Engineer",
@@ -325,6 +373,60 @@
       "source": "Analysis • Compliance"
     },
     {
+      "id": "6afaa65887c073209100cd4a",
+      "title": "Senior Manager, Market Development",
+      "company": "Thermo Fisher Scientific",
+      "logo": "https://www.google.com/s2/favicons?domain=thermofisher.com&sz=64",
+      "category": "Growth Marketer (General)",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Marketing",
+        "Sales",
+        "Management",
+        "Microsoft Teams",
+        "Planning",
+        "Leadership",
+        "Alignment",
+        "Reporting"
+      ],
+      "location": "United States (US: CA)",
+      "pay": "$131,300 – $197,000/yr",
+      "date": "Nov 15, 2026",
+      "timestamp": 1794700800,
+      "excerpt": "Standard (Mon-Fri) Environmental Conditions Office Job Description Role Purpose Lead market development and service marketing across the portfolio, translating customer needs and business priorities into insight-led campaigns, digital experiences, sales enablement and measurable…",
+      "applyUrl": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-California-USA/Senior-Manager--Market-Development_R-01374475",
+      "source": "Marketing • Sales"
+    },
+    {
+      "id": "6afa9e8087c0732091008c35",
+      "title": "Senior Software Safety Manager",
+      "company": "NVIDIA",
+      "logo": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=32",
+      "category": "Engineering Manager",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Gaming",
+        "AI",
+        "Make",
+        "Communication",
+        "Engineering",
+        "Architecture",
+        "Verification",
+        "Microsoft Teams"
+      ],
+      "location": "United States (US: CA, CO, MI +2)",
+      "pay": "$183,750 – $429,000/yr",
+      "date": "Nov 15, 2026",
+      "timestamp": 1794700800,
+      "excerpt": "NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people.",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Safety-Manager_JR2029915",
+      "source": "Gaming • AI"
+    },
+    {
       "id": "gh-4744402005",
       "title": "AI Safety Residency — Scale Labs Preparedness & Policy (SLPreP)",
       "company": "Scale AI",
@@ -504,7 +606,7 @@
       "date": "Nov 14, 2026",
       "timestamp": 1794614400,
       "excerpt": "Join a leading AI lab's cutting-edge GenAI team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced Large Language Models. 1.",
-      "applyUrl": "https://work.mercor.com/jobs/list_AAABodwhFg-ByligFaNMTbdJ/regulatory-affairs-expert?referralCode=c16ad3f0-df48-8fb1-34e7-1730849ebf3a",
+      "applyUrl": "https://remowork.life/jobs/6af8fcadd16a386cdaac2192/apply-out?ch=card",
       "source": "AI • GenAI"
     },
     {
@@ -639,7 +741,7 @@
       "date": "Nov 14, 2026",
       "timestamp": 1794614400,
       "excerpt": "Role Title: Physics Expert (PhD / Postdoc) Role Type: Contractor Location: Remote micro1 is engaging Physics Experts (PhD / Postdoc) to contribute their advanced knowledge to a frontier research-level physics benchmark, supporting a customer’s innovative project.",
-      "applyUrl": "https://jobs.micro1.ai/post/94cc73a6-b8fe-496a-a8ad-4a3466db76f4?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "applyUrl": "https://remowork.life/jobs/6af850acd16a386cdaaaff9f/apply-out?ch=card",
       "source": "Physics • AI"
     },
     {
@@ -666,7 +768,7 @@
       "date": "Nov 14, 2026",
       "timestamp": 1794614400,
       "excerpt": "Mercor is partnering with a leading AI company to develop advanced AI models designed to support enterprise sales teams. We are seeking experienced Enterprise Sales Managers, Regional Sales Managers, and Frontline Sales Leaders to contribute their expertise in sales coaching,…",
-      "applyUrl": "https://work.mercor.com/jobs/list_AAABodjkhcin__KeNFZHg54O/enterprise-sales-manager-ai-training-specialist?referralCode=c16ad3f0-df48-8fb1-34e7-1730849ebf3a",
+      "applyUrl": "https://remowork.life/jobs/6af85394d16a386cdaab1b01/apply-out?ch=card",
       "source": "Sales • AI"
     },
     {
@@ -693,7 +795,7 @@
       "date": "Nov 14, 2026",
       "timestamp": 1794614400,
       "excerpt": "Mercor is partnering with a leading AI company to develop advanced AI models designed to support enterprise sales teams. We are seeking experienced Enterprise and Strategic Account Executives to contribute their expertise in complex B2B sales, account strategy, and enterprise…",
-      "applyUrl": "https://work.mercor.com/jobs/list_AAABodjkZ9uPRh5LQSxNUZtG/enterprise-account-executive-ai-sales-expert?referralCode=c16ad3f0-df48-8fb1-34e7-1730849ebf3a",
+      "applyUrl": "https://remowork.life/jobs/6af85394d16a386cdaab1b02/apply-out?ch=card",
       "source": "AI • Sales"
     },
     {
@@ -3939,87 +4041,6 @@
       "excerpt": "Mercor is seeking experienced Polish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab.",
       "applyUrl": "https://remowork.life/jobs/6af75832d16a386cdaa86eae/apply-out?ch=card",
       "source": "Polish • Translation"
-    },
-    {
-      "id": "6af75832d16a386cdaa86eaf",
-      "title": "Brazilian Portuguese Linguistic Expert",
-      "company": "Mercor",
-      "logo": "https://www.google.com/s2/favicons?domain=mercor.com&sz=128",
-      "category": "Linguistics (SME)",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Portuguese",
-        "Translation",
-        "AI",
-        "Research",
-        "Accuracy",
-        "Summarization",
-        "Grammar",
-        "Analysis"
-      ],
-      "location": "Remote (Global)",
-      "pay": "$40/hr",
-      "date": "Nov 13, 2026",
-      "timestamp": 1794528000,
-      "excerpt": "Mercor is seeking experienced Brazilian Portuguese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab.",
-      "applyUrl": "https://remowork.life/jobs/6af75832d16a386cdaa86eaf/apply-out?ch=card",
-      "source": "Portuguese • Translation"
-    },
-    {
-      "id": "6af75832d16a386cdaa86eb0",
-      "title": "European Portuguese Linguistic Expert",
-      "company": "Mercor",
-      "logo": "https://www.google.com/s2/favicons?domain=mercor.com&sz=128",
-      "category": "Linguistics (SME)",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Portuguese",
-        "Translation",
-        "AI",
-        "Research",
-        "Accuracy",
-        "Summarization",
-        "Grammar",
-        "Analysis"
-      ],
-      "location": "Remote (Global)",
-      "pay": "$40/hr",
-      "date": "Nov 13, 2026",
-      "timestamp": 1794528000,
-      "excerpt": "Mercor is seeking experienced European Portuguese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab.",
-      "applyUrl": "https://remowork.life/jobs/6af75832d16a386cdaa86eb0/apply-out?ch=card",
-      "source": "Portuguese • Translation"
-    },
-    {
-      "id": "6af75832d16a386cdaa86eb1",
-      "title": "Spanish (Venezuela) Linguistic Expert",
-      "company": "Mercor",
-      "logo": "https://www.google.com/s2/favicons?domain=mercor.com&sz=128",
-      "category": "Linguistics (SME)",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Spanish",
-        "Translation",
-        "AI",
-        "Research",
-        "Spanish Language",
-        "Accuracy",
-        "Summarization",
-        "Grammar"
-      ],
-      "location": "Remote (Global)",
-      "pay": "$40/hr",
-      "date": "Nov 13, 2026",
-      "timestamp": 1794528000,
-      "excerpt": "Mercor is seeking experienced Spanish (Venezuela) Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab.",
-      "applyUrl": "https://remowork.life/jobs/6af75832d16a386cdaa86eb1/apply-out?ch=card",
-      "source": "Spanish • Translation"
     },
     {
       "id": "ashby-58c1bb1d-2a19-42af-84e2-e6d276591ef6",
