@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-11-17 12:56 UTC",
-  "totalJobs": 372,
+  "lastUpdated": "2026-11-17 15:51 UTC",
+  "totalJobs": 371,
   "jobs": [
+    {
+      "id": "ashby-41cb2a12-e33a-4368-a9f8-0ae0d19c023e",
+      "title": "Technical Program Manager, AI Delivery",
+      "company": "Cohere",
+      "logo": "https://www.google.com/s2/favicons?domain=cohere.com&sz=128",
+      "category": "Product Management & Program Management",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Product Management & Program Management",
+        "Direct API"
+      ],
+      "location": "Canada",
+      "pay": "Lihat Detail",
+      "date": "Nov 17, 2026",
+      "timestamp": 1794923328,
+      "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/41cb2a12-e33a-4368-a9f8-0ae0d19c023e",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "gh-4748372005",
       "title": "Expansion Specialist, Bids & Business Development",
@@ -43,6 +64,141 @@
       "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
       "applyUrl": "https://jobs.ashbyhq.com/cohere/d5cc437c-2397-4c1a-9d12-3a2bf64d98ea",
       "source": "⚡ Direct API"
+    },
+    {
+      "id": "6afc4da2551f7253c1e055b3",
+      "title": "Licensed Mental Health Professional",
+      "company": "Turing",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037261/remowork/companies/turing-logo.webp",
+      "category": "AI Expert - Psychology",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Research",
+        "AI",
+        "Training",
+        "Reasoning",
+        "STEM",
+        "Accuracy",
+        "Nuance",
+        "Confidentiality"
+      ],
+      "location": "Remote (Global)",
+      "pay": "Lihat Detail",
+      "date": "Nov 17, 2026",
+      "timestamp": 1794873600,
+      "excerpt": "Based in San Francisco, California, Turing is the world’s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems.",
+      "applyUrl": "https://work.turing.com/r/nsttWQGLqL",
+      "source": "Research • AI"
+    },
+    {
+      "id": "6afc4da2551f7253c1e055b5",
+      "title": "BA - Generalist (English + Creative data annotation) - III",
+      "company": "Turing",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037261/remowork/companies/turing-logo.webp",
+      "category": "LLM Evaluator (English)",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "English",
+        "Annotation",
+        "AI",
+        "Reasoning",
+        "STEM",
+        "Alignment",
+        "Communication",
+        "Literature"
+      ],
+      "location": "Remote (Global)",
+      "pay": "Lihat Detail",
+      "date": "Nov 17, 2026",
+      "timestamp": 1794873600,
+      "excerpt": "Turing is one of the world’s fastest-growing AI companies, accelerating the advancement and deployment of powerful AI systems.",
+      "applyUrl": "https://work.turing.com/r/aHq7UJUI0V",
+      "source": "English • Annotation"
+    },
+    {
+      "id": "6afc4d6d551f7253c1e0518a",
+      "title": "Head of Systems Integrators & Technical Alliances",
+      "company": "Tether",
+      "logo": "https://www.google.com/s2/favicons?domain=tether.io&sz=32",
+      "category": "Partnerships Manager",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Infrastructure",
+        "Finance",
+        "AI",
+        "Telecommunications",
+        "Ruby on Rails",
+        "Communication",
+        "Engineering",
+        "Fintech"
+      ],
+      "location": "United States, Germany, United Kingdom",
+      "pay": "Lihat Detail",
+      "date": "Nov 17, 2026",
+      "timestamp": 1794873600,
+      "excerpt": "Tether is a pioneer in digital asset technology, financial freedom, and decentralized infrastructure. Beyond developing USD₮—the world’s most liquid and widely adopted digital dollar—Tether has expanded into a multi-pillar technology powerhouse across Finance, Data & AI,…",
+      "applyUrl": "https://remowork.life/jobs/6afc4d6d551f7253c1e0518a/head-of-systems-integrators-and-technical-alliances",
+      "source": "Infrastructure • Finance"
+    },
+    {
+      "id": "6afc4263551f7253c1e01686",
+      "title": "Crux - Video and Audio QA - English (US)",
+      "company": "Welo Data",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037347/remowork/companies/welo-data-logo.webp",
+      "category": "QA Reviewer / Auditor",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Quality Assurance",
+        "English",
+        "Annotation",
+        "Data Classification",
+        "Accuracy",
+        "Documentation",
+        "Culture",
+        "Audit"
+      ],
+      "location": "United States",
+      "pay": "$28.61/hr",
+      "date": "Nov 17, 2026",
+      "timestamp": 1794873600,
+      "excerpt": "We are hiring Quality Control (QC) evaluators for a project that spans both Search and Linguistic tasks. You will perform quality checks on initial ratings produced by evaluators—validating user intent assessment, query annotation, text classification, and multimedia (video,…",
+      "applyUrl": "https://jobs.lever.co/weloglobal/92e9560f-6079-4d00-b5df-9cc8dcf3885e",
+      "source": "Quality Assurance • English"
+    },
+    {
+      "id": "6afc4263551f7253c1e0168a",
+      "title": "Crux - Video and Audio Raters - English (US)",
+      "company": "Welo Data",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037347/remowork/companies/welo-data-logo.webp",
+      "category": "Image & Video Annotation",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "English",
+        "Analysis",
+        "Grammar",
+        "Procedures",
+        "Writing",
+        "Proofreading",
+        "Consistency",
+        "Data Classification"
+      ],
+      "location": "United States",
+      "pay": "$20.25/hr",
+      "date": "Nov 17, 2026",
+      "timestamp": 1794873600,
+      "excerpt": "We are seeking evaluators for a project that combines Search Evaluation and Linguistic Analysis. In this role, you will assess user intent, annotate search queries, classify text, and evaluate multimedia content including videos, images, and audio for relevance and quality.",
+      "applyUrl": "https://jobs.lever.co/weloglobal/d78f3ff9-8d1d-452b-9981-2a6302c46b3b",
+      "source": "English • Analysis"
     },
     {
       "id": "6afbf41e5199c1ff1b0f4b54",
@@ -395,6 +551,87 @@
       "source": "AI • Insurance"
     },
     {
+      "id": "6afc4d5f551f7253c1e04f69",
+      "title": "US Employment Paralegal",
+      "company": "Weekday",
+      "logo": "https://www.google.com/s2/favicons?domain=weekday.works&sz=32",
+      "category": "AI Expert - Legal",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Paralegal",
+        "Documentation",
+        "AI",
+        "Research",
+        "Training",
+        "Accuracy",
+        "Microsoft Teams",
+        "Procedures"
+      ],
+      "location": "United States",
+      "pay": "$70 – $110/hr",
+      "date": "Nov 17, 2026",
+      "timestamp": 1794873600,
+      "excerpt": "Pay: $70 to $110 per hour Type : Independent Contractor Expected commitment : 10 to 20 hours per week. Remote (preferably US) 1.",
+      "applyUrl": "https://apply.workable.com/weekday-1/j/96DD1B573C",
+      "source": "Paralegal • Documentation"
+    },
+    {
+      "id": "6afc4d5f551f7253c1e04f51",
+      "title": "Senior SWE - Python / TypeScript",
+      "company": "Weekday",
+      "logo": "https://www.google.com/s2/favicons?domain=weekday.works&sz=32",
+      "category": "LLM Evaluator (Code)",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Python",
+        "TypeScript",
+        "AI",
+        "Engineering",
+        "Communication",
+        "Combine",
+        "Rubrics",
+        "Infrastructure"
+      ],
+      "location": "United States",
+      "pay": "$100 – $150/hr",
+      "date": "Nov 17, 2026",
+      "timestamp": 1794873600,
+      "excerpt": "Compensation: $100–$150 per hour Location: North America Employment Type: Freelance Contractor Contract Duration: 3 months Work Commitment: Minimum 20 hours per week, with at least 4 hours of daily availability.",
+      "applyUrl": "https://apply.workable.com/weekday-1/j/D9371C15DF",
+      "source": "Python • TypeScript"
+    },
+    {
+      "id": "6afc4d5f551f7253c1e04efe",
+      "title": "Healthcare Specialist",
+      "company": "Weekday",
+      "logo": "https://www.google.com/s2/favicons?domain=weekday.works&sz=32",
+      "category": "AI Expert - Clinical & Medical",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Healthcare",
+        "Documentation",
+        "Management",
+        "AI",
+        "Research",
+        "Operations",
+        "Decision Making",
+        "ICD-10"
+      ],
+      "location": "United States, United Kingdom, Canada +2 Australia India",
+      "pay": "$70 – $110/hr",
+      "date": "Nov 17, 2026",
+      "timestamp": 1794873600,
+      "excerpt": "Expected commitment : 10 to 20 hours per week. Location: Remote (Global) Pay: $70 to $110 per hour 1. Role Overview We are looking for experienced Healthcare Domain Specialists across medical coding and billing, clinical documentation integrity, provider credentialing and…",
+      "applyUrl": "https://apply.workable.com/weekday-1/j/0C85614902",
+      "source": "Healthcare • Documentation"
+    },
+    {
       "id": "6afbfbfe5199c1ff1b0f8068",
       "title": "Revenue Optimization & Pricing Lead",
       "company": "Bask Health",
@@ -526,7 +763,7 @@
       "date": "Nov 17, 2026",
       "timestamp": 1794873600,
       "excerpt": "Bask Health is a telehealth technology platform that helps entrepreneurs, healthcare businesses, and brands launch, manage, and grow their own telehealth businesses.",
-      "applyUrl": "https://apply.workable.com/bask-health-1/j/E7F5D12E2D",
+      "applyUrl": "https://remowork.life/jobs/6afbfbfe5199c1ff1b0f8017/apply-out?ch=card",
       "source": "Telemedicine • Healthcare"
     },
     {
@@ -553,7 +790,7 @@
       "date": "Nov 17, 2026",
       "timestamp": 1794873600,
       "excerpt": "Bask Health is a telehealth technology platform that helps entrepreneurs, healthcare businesses, and brands launch, manage, and grow their own telehealth businesses.",
-      "applyUrl": "https://apply.workable.com/bask-health-1/j/F54035774C",
+      "applyUrl": "https://remowork.life/jobs/6afbfbfe5199c1ff1b0f8013/apply-out?ch=card",
       "source": "Reconciliation • Telemedicine"
     },
     {
@@ -580,7 +817,7 @@
       "date": "Nov 17, 2026",
       "timestamp": 1794873600,
       "excerpt": "Bask Health is a telehealth technology platform that helps entrepreneurs, healthcare businesses, and brands launch, manage, and grow their own telehealth businesses.",
-      "applyUrl": "https://apply.workable.com/bask-health-1/j/8F7C4076E8",
+      "applyUrl": "https://remowork.life/jobs/6afbfbfe5199c1ff1b0f8002/apply-out?ch=card",
       "source": "Telemedicine • Healthcare"
     },
     {
@@ -607,7 +844,7 @@
       "date": "Nov 17, 2026",
       "timestamp": 1794873600,
       "excerpt": "Bask Health is a telehealth technology platform that helps entrepreneurs, healthcare businesses, and brands launch, manage, and grow their own telehealth businesses.",
-      "applyUrl": "https://apply.workable.com/bask-health-1/j/9E7F7A8A91",
+      "applyUrl": "https://remowork.life/jobs/6afbfbfe5199c1ff1b0f7fd2/apply-out?ch=card",
       "source": "Operations • Telemedicine"
     },
     {
@@ -634,7 +871,7 @@
       "date": "Nov 17, 2026",
       "timestamp": 1794873600,
       "excerpt": "Bask Health is a telehealth technology platform that helps entrepreneurs, healthcare businesses, and brands launch, manage, and grow their own telehealth businesses.",
-      "applyUrl": "https://apply.workable.com/bask-health-1/j/A5960634B0",
+      "applyUrl": "https://remowork.life/jobs/6afbfbfe5199c1ff1b0f7fd0/apply-out?ch=card",
       "source": "Telemedicine • Healthcare"
     },
     {
@@ -661,7 +898,7 @@
       "date": "Nov 17, 2026",
       "timestamp": 1794873600,
       "excerpt": "Bask Health is a telehealth technology platform that helps entrepreneurs, healthcare businesses, and brands launch, manage, and grow their own telehealth businesses.",
-      "applyUrl": "https://apply.workable.com/bask-health-1/j/E4AAACE73A",
+      "applyUrl": "https://remowork.life/jobs/6afbfbfe5199c1ff1b0f7fc8/apply-out?ch=card",
       "source": "Reconciliation • Telemedicine"
     },
     {
@@ -688,7 +925,7 @@
       "date": "Nov 17, 2026",
       "timestamp": 1794873600,
       "excerpt": "Bask Health is a telehealth technology platform that helps entrepreneurs, healthcare businesses, and brands launch, manage, and grow their own telehealth businesses.",
-      "applyUrl": "https://apply.workable.com/bask-health-1/j/9453F02B71",
+      "applyUrl": "https://remowork.life/jobs/6afbfbfe5199c1ff1b0f7fb8/apply-out?ch=card",
       "source": "Analytics • Telemedicine"
     },
     {
@@ -715,7 +952,7 @@
       "date": "Nov 17, 2026",
       "timestamp": 1794873600,
       "excerpt": "Bask Health is a telehealth technology platform that helps entrepreneurs, healthcare businesses, and brands launch, manage, and grow their own telehealth businesses.",
-      "applyUrl": "https://apply.workable.com/bask-health-1/j/95BCF3B93C",
+      "applyUrl": "https://remowork.life/jobs/6afba7715199c1ff1b0ef439/apply-out?ch=card",
       "source": "Operations • Telemedicine"
     },
     {
@@ -3800,220 +4037,6 @@
       "source": "E-Commerce • AI"
     },
     {
-      "id": "6afb0417675c5eda67c7e468",
-      "title": "NLP Engineer",
-      "company": "Social Discovery Group",
-      "logo": "https://www.google.com/s2/favicons?domain=socialdiscoverygroup.com&sz=64",
-      "category": "NLP Engineer",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Natural Language Processing",
-        "Communication",
-        "Training",
-        "Annotation",
-        "APIs",
-        "Monitoring",
-        "Python",
-        "Writing"
-      ],
-      "location": "Remote (Global)",
-      "pay": "Lihat Detail",
-      "date": "Nov 16, 2026",
-      "timestamp": 1794787200,
-      "excerpt": "Social Discovery Group (SDG) is a group of social discovery companies. SDG solves the problems of loneliness, isolation, and disconnection - transforming virtual intimacy into the new normal. SDG’s products redefine the way people interact and connect with one another.",
-      "applyUrl": "https://remowork.life/jobs/6afb0417675c5eda67c7e468/apply-out?ch=card",
-      "source": "Natural Language Processing • Communication"
-    },
-    {
-      "id": "6afba22a5199c1ff1b0ec983",
-      "title": "Website Designer",
-      "company": "Peraton",
-      "logo": "https://www.google.com/s2/favicons?domain=peraton.com&sz=32",
-      "category": "Web Designer",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Documentation",
-        "Communication",
-        "Architecture",
-        "Optimization",
-        "Compliance",
-        "Management",
-        "SharePoint",
-        "Templates"
-      ],
-      "location": "United States",
-      "pay": "$66,000 – $106,000/yr",
-      "date": "Nov 16, 2026",
-      "timestamp": 1794787200,
-      "excerpt": "Peraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy.",
-      "applyUrl": "https://remowork.life/jobs/6afba22a5199c1ff1b0ec983/apply-out?ch=card",
-      "source": "Documentation • Communication"
-    },
-    {
-      "id": "6afba22a5199c1ff1b0ec980",
-      "title": "Project Manager",
-      "company": "Peraton",
-      "logo": "https://www.google.com/s2/favicons?domain=peraton.com&sz=32",
-      "category": "Project Manager",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Training",
-        "Reporting",
-        "Product Management",
-        "Healthcare",
-        "Management",
-        "Communication",
-        "Microsoft Teams",
-        "Education"
-      ],
-      "location": "United States",
-      "pay": "$66,000 – $106,000/yr",
-      "date": "Nov 16, 2026",
-      "timestamp": 1794787200,
-      "excerpt": "Peraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy.",
-      "applyUrl": "https://remowork.life/jobs/6afba22a5199c1ff1b0ec980/apply-out?ch=card",
-      "source": "Training • Reporting"
-    },
-    {
-      "id": "6afb4e2d5199c1ff1b0e4567",
-      "title": "Customer Support Representative",
-      "company": "Peraton",
-      "logo": "https://www.google.com/s2/favicons?domain=peraton.com&sz=32",
-      "category": "Customer Support Specialist",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Management",
-        "Compliance",
-        "Transportation",
-        "Make",
-        "Economics",
-        "Training",
-        "Writing",
-        "Communication"
-      ],
-      "location": "United States",
-      "pay": "$39,000 – $62,000/yr",
-      "date": "Nov 16, 2026",
-      "timestamp": 1794787200,
-      "excerpt": "Peraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy.",
-      "applyUrl": "https://remowork.life/jobs/6afb4e2d5199c1ff1b0e4567/apply-out?ch=card",
-      "source": "Management • Compliance"
-    },
-    {
-      "id": "6afb4e2d5199c1ff1b0e4544",
-      "title": "Business Systems Analyst",
-      "company": "Peraton",
-      "logo": "https://www.google.com/s2/favicons?domain=peraton.com&sz=32",
-      "category": "Business Analyst",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Optimization",
-        "Microsoft Teams",
-        "Mentoring",
-        "Management",
-        "Leadership",
-        "Cross-Functional Collaboration",
-        "Analysis",
-        "Quality Assurance"
-      ],
-      "location": "United States",
-      "pay": "$80,000 – $128,000/yr",
-      "date": "Nov 16, 2026",
-      "timestamp": 1794787200,
-      "excerpt": "Peraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy.",
-      "applyUrl": "https://remowork.life/jobs/6afb4e2d5199c1ff1b0e4544/apply-out?ch=card",
-      "source": "Optimization • Microsoft Teams"
-    },
-    {
-      "id": "6afb4e2d5199c1ff1b0e4540",
-      "title": "Quality Assurance Project Manager (QA PM)",
-      "company": "Peraton",
-      "logo": "https://www.google.com/s2/favicons?domain=peraton.com&sz=32",
-      "category": "Project Manager",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Assurance",
-        "Quality Assurance",
-        "Product Management",
-        "Management",
-        "Compliance",
-        "DevSecOps",
-        "Testing",
-        "Accessibility"
-      ],
-      "location": "United States",
-      "pay": "$86,000 – $138,000/yr",
-      "date": "Nov 16, 2026",
-      "timestamp": 1794787200,
-      "excerpt": "Peraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy.",
-      "applyUrl": "https://remowork.life/jobs/6afb4e2d5199c1ff1b0e4540/apply-out?ch=card",
-      "source": "Assurance • Quality Assurance"
-    },
-    {
-      "id": "6afb4e2d5199c1ff1b0e4533",
-      "title": "Incident Manager",
-      "company": "Peraton",
-      "logo": "https://www.google.com/s2/favicons?domain=peraton.com&sz=32",
-      "category": "Crisis / Incident Manager",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Problem Solving",
-        "Management",
-        "Communication",
-        "Critical Thinking",
-        "Product Management",
-        "Operations",
-        "Monitoring",
-        "Infrastructure"
-      ],
-      "location": "United States",
-      "pay": "$51,000 – $82,000/yr",
-      "date": "Nov 16, 2026",
-      "timestamp": 1794787200,
-      "excerpt": "Peraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy.",
-      "applyUrl": "https://remowork.life/jobs/6afb4e2d5199c1ff1b0e4533/apply-out?ch=card",
-      "source": "Problem Solving • Management"
-    },
-    {
-      "id": "6afaffd4675c5eda67c7c5aa",
-      "title": "AI Evaluation Rubric Reviewer",
-      "company": "Mercor",
-      "logo": "https://www.google.com/s2/favicons?domain=mercor.com&sz=128",
-      "category": "Agent System Evaluator",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "AI",
-        "Testing",
-        "Writing",
-        "Rubrics",
-        "LLM Evaluation",
-        "AI Agents"
-      ],
-      "location": "Remote (Global)",
-      "pay": "$40 – $75/hr",
-      "date": "Nov 16, 2026",
-      "timestamp": 1794787200,
-      "excerpt": "We are testing AI agents on realistic shopping and delivery tasks. You'll review AI-drafted tasks (prompt, grading rubric) along with model attempts, and decide whether each failure is fair: - Was the information available?",
-      "applyUrl": "https://remowork.life/jobs/6afaffd4675c5eda67c7c5aa/apply-out?ch=card",
-      "source": "AI • Testing"
-    },
-    {
       "id": "gh-4744402005",
       "title": "AI Safety Residency — Scale Labs Preparedness & Policy (SLPreP)",
       "company": "Scale AI",
@@ -4614,7 +4637,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4751081005",
+      "id": "gh-4751149005",
       "title": "Senior Applied AI Engineer",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -4626,12 +4649,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "London, UK (+1 lokasi lain)",
+      "location": "Kuwait City, Kuwait (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Nov 10, 2026",
       "timestamp": 1794322129,
       "excerpt": "About the role Scale's Global Public Sector team is focused on using AI to address critical challenges facing the public sector around the world. As a Senior Applied AI Engineer, you'll own the AI behaviour of production...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751081005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751149005",
       "source": "⚡ Direct API"
     },
     {
@@ -7578,27 +7601,6 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-6208927004",
-      "title": "Field Data Collection Specialist (Columbus, OH)",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Columbus, Ohio",
-      "pay": "Lihat Detail",
-      "date": "Sep 25, 2026",
-      "timestamp": 1790371185,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6208927004",
-      "source": "⚡ Direct API"
-    },
-    {
       "id": "ashby-40c3389e-c7ea-4054-8c90-05b1beb38bff",
       "title": "Research Scientist",
       "company": "Roboflow",
@@ -7702,27 +7704,6 @@
       "excerpt": "We have a new quick-turnaround audio project and are looking for authentic Indonesian-accented English speakers to join as voice contributors.",
       "applyUrl": "https://remowork.life/jobs/6a9abe4896fca3a67e9206de/apply-out?ch=card",
       "source": "Indonesian • English"
-    },
-    {
-      "id": "ashby-41cb2a12-e33a-4368-a9f8-0ae0d19c023e",
-      "title": "Technical Program Manager, AI Delivery",
-      "company": "Cohere",
-      "logo": "https://www.google.com/s2/favicons?domain=cohere.com&sz=128",
-      "category": "Product Management & Program Management",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Product Management & Program Management",
-        "Direct API"
-      ],
-      "location": "United States",
-      "pay": "Lihat Detail",
-      "date": "Sep 03, 2026",
-      "timestamp": 1788470559,
-      "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
-      "applyUrl": "https://jobs.ashbyhq.com/cohere/41cb2a12-e33a-4368-a9f8-0ae0d19c023e",
-      "source": "⚡ Direct API"
     },
     {
       "id": "ashby-01a34bc3-6421-4af2-bf5b-f42e98155dda",
