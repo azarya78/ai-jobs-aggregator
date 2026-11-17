@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-11-17 15:51 UTC",
+  "lastUpdated": "2026-11-17 18:53 UTC",
   "totalJobs": 371,
   "jobs": [
+    {
+      "id": "gh-4569678005",
+      "title": "Staff Software Engineer, Enterprise GenAI",
+      "company": "Scale AI",
+      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "Scale AI"
+      ],
+      "location": "San Francisco, CA; New York, NY",
+      "pay": "Lihat Detail",
+      "date": "Nov 17, 2026",
+      "timestamp": 1794936022,
+      "excerpt": "Scale GP (Scale Generative AI Platform) is an enterprise-grade Generative AI platform that provides APIs for knowledge retrieval, inference, evaluation, and more. We are looking for a strong engineer to join our team and...",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4569678005",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "ashby-41cb2a12-e33a-4368-a9f8-0ae0d19c023e",
       "title": "Technical Program Manager, AI Delivery",
@@ -66,8 +87,35 @@
       "source": "⚡ Direct API"
     },
     {
+      "id": "6ac5e5abd2f3bde811c5e832",
+      "title": "Associate Forward Deployed Engineer (aFDE)",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "Data Engineer",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Combine",
+        "Engineering",
+        "Make",
+        "APIs",
+        "Microsoft Teams",
+        "Documentation",
+        "Programming",
+        "Python"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$40 – $60/hr",
+      "date": "Nov 17, 2026",
+      "timestamp": 1794873600,
+      "excerpt": "Work Arrangement: Hourly, with expected weekly hours agreed upfront The Role We’re hiring junior engineers to help scale data ingestion and customer data workflows.",
+      "applyUrl": "https://jobs.micro1.ai/post/b1316606-46fb-4c3d-a4f9-5a2368e88d70?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "Combine • Engineering"
+    },
+    {
       "id": "6afc4da2551f7253c1e055b3",
-      "title": "Licensed Mental Health Professional",
+      "title": "Mental Health Experts",
       "company": "Turing",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037261/remowork/companies/turing-logo.webp",
       "category": "AI Expert - Psychology",
@@ -80,9 +128,9 @@
         "Training",
         "Reasoning",
         "STEM",
-        "Accuracy",
-        "Nuance",
-        "Confidentiality"
+        "Psychology",
+        "Rubrics",
+        "Accuracy"
       ],
       "location": "Remote (Global)",
       "pay": "Lihat Detail",
@@ -736,7 +784,7 @@
       "date": "Nov 17, 2026",
       "timestamp": 1794873600,
       "excerpt": "Bask Health is a telehealth technology platform that helps entrepreneurs, healthcare businesses, and brands launch, manage, and grow their own telehealth businesses.",
-      "applyUrl": "https://apply.workable.com/bask-health-1/j/D35EDCC191",
+      "applyUrl": "https://remowork.life/jobs/6afbfbfe5199c1ff1b0f8022/apply-out?ch=card",
       "source": "Operations • Telemedicine"
     },
     {
@@ -1281,7 +1329,7 @@
     },
     {
       "id": "6afb999f5199c1ff1b0ea5f4",
-      "title": "Compensation Business Partner",
+      "title": "Tech Compensation Business Partner",
       "company": "Cohere",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037245/remowork/companies/cohere-logo.webp",
       "category": "Compensation & Benefits",
@@ -4010,33 +4058,6 @@
       "source": "E-Commerce • Simulation"
     },
     {
-      "id": "6a425f0241b9af7acf0af8f5",
-      "title": "E-commerce Data & Catalog Specialist",
-      "company": "Micro1",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
-      "category": "AI Prompt Engineer",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "E-Commerce",
-        "AI",
-        "Accuracy",
-        "Consistency",
-        "Databases",
-        "Management",
-        "Decision Making",
-        "Microsoft Teams"
-      ],
-      "location": "Remote (Global)",
-      "pay": "$40 – $50/hr",
-      "date": "Nov 16, 2026",
-      "timestamp": 1794787200,
-      "excerpt": "Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.",
-      "applyUrl": "https://remowork.life/jobs/6a425f0241b9af7acf0af8f5/apply-out?ch=card",
-      "source": "E-Commerce • AI"
-    },
-    {
       "id": "gh-4744402005",
       "title": "AI Safety Residency — Scale Labs Preparedness & Policy (SLPreP)",
       "company": "Scale AI",
@@ -4637,7 +4658,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4751149005",
+      "id": "gh-4751081005",
       "title": "Senior Applied AI Engineer",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -4649,12 +4670,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Kuwait City, Kuwait (+1 lokasi lain)",
+      "location": "London, UK (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Nov 10, 2026",
       "timestamp": 1794322129,
       "excerpt": "About the role Scale's Global Public Sector team is focused on using AI to address critical challenges facing the public sector around the world. As a Senior Applied AI Engineer, you'll own the AI behaviour of production...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751149005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751081005",
       "source": "⚡ Direct API"
     },
     {
@@ -6335,27 +6356,6 @@
       "timestamp": 1793905260,
       "excerpt": "Software is eating the world, but AI is eating software. We live in unprecedented times – AI has the potential to exponentially augment human intelligence. Every person will have a personal tutor, coach, assistant, perso...",
       "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4649903005",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-4569678005",
-      "title": "Staff Software Engineer, Enterprise GenAI",
-      "company": "Scale AI",
-      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "Scale AI"
-      ],
-      "location": "San Francisco, CA; New York, NY",
-      "pay": "Lihat Detail",
-      "date": "Nov 05, 2026",
-      "timestamp": 1793905260,
-      "excerpt": "Scale GP (Scale Generative AI Platform) is an enterprise-grade Generative AI platform that provides APIs for knowledge retrieval, inference, evaluation, and more. We are looking for a strong engineer to join our team and...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4569678005",
       "source": "⚡ Direct API"
     },
     {
