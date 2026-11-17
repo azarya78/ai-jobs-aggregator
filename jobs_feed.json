@@ -1,7 +1,49 @@
 {
-  "lastUpdated": "2026-11-17 09:56 UTC",
-  "totalJobs": 371,
+  "lastUpdated": "2026-11-17 12:56 UTC",
+  "totalJobs": 372,
   "jobs": [
+    {
+      "id": "gh-4748372005",
+      "title": "Expansion Specialist, Bids & Business Development",
+      "company": "Scale AI",
+      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "Scale AI"
+      ],
+      "location": "London, UK",
+      "pay": "Lihat Detail",
+      "date": "Nov 17, 2026",
+      "timestamp": 1794913976,
+      "excerpt": "The Role The UK is making a wholesale shift to AI: government, from the AI Opportunities Action Plan through to the tools the Incubator for AI is putting in front of civil servants, and enterprises racing to put AI to wo...",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4748372005",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "ashby-d5cc437c-2397-4c1a-9d12-3a2bf64d98ea",
+      "title": "Member of Technical Staff, Search",
+      "company": "Cohere",
+      "logo": "https://www.google.com/s2/favicons?domain=cohere.com&sz=128",
+      "category": "Embeddings & Search",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Embeddings & Search",
+        "Direct API"
+      ],
+      "location": "United States",
+      "pay": "Lihat Detail",
+      "date": "Nov 17, 2026",
+      "timestamp": 1794909917,
+      "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/d5cc437c-2397-4c1a-9d12-3a2bf64d98ea",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "6afbf41e5199c1ff1b0f4b54",
       "title": "Executive Recruiter",
@@ -1893,33 +1935,6 @@
       "excerpt": "Role Title: Bluebook Citation Specialist (Law Students & Recent JDs) Role Type: Contractor Location: Remote Opportunity Snapshot Pay: $50–80/hour You’ll need: Current or recent law school enrollment, hands-on Bluebook experience, and law journal or law review editing experience…",
       "applyUrl": "https://remowork.life/jobs/6ad73b6198120414ce80bdd4/apply-out?ch=card",
       "source": "Editing • Citation Checking"
-    },
-    {
-      "id": "6afb4b905199c1ff1b0e3edf",
-      "title": "Head of Data Science / Machine Learning",
-      "company": "Instawork",
-      "logo": "https://www.google.com/s2/favicons?domain=instawork.com&sz=32",
-      "category": "Applied ML Engineer",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Apache Spark",
-        "AI",
-        "Statistics",
-        "Physics",
-        "Analysis",
-        "Modeling",
-        "Machine Learning",
-        "Communication"
-      ],
-      "location": "United States",
-      "pay": "$230,000 – $265,000/yr",
-      "date": "Nov 16, 2026",
-      "timestamp": 1794787200,
-      "excerpt": "At Instawork, we’re driven by our vision to create economic opportunity for local businesses and skilled hourly professionals in communities around the world.",
-      "applyUrl": "https://remowork.life/jobs/6afb4b905199c1ff1b0e3edf/apply-out?ch=card",
-      "source": "Apache Spark • AI"
     },
     {
       "id": "6abc5808dd1acda28bd5a5fe",
@@ -3974,6 +3989,31 @@
       "source": "Problem Solving • Management"
     },
     {
+      "id": "6afaffd4675c5eda67c7c5aa",
+      "title": "AI Evaluation Rubric Reviewer",
+      "company": "Mercor",
+      "logo": "https://www.google.com/s2/favicons?domain=mercor.com&sz=128",
+      "category": "Agent System Evaluator",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "AI",
+        "Testing",
+        "Writing",
+        "Rubrics",
+        "LLM Evaluation",
+        "AI Agents"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$40 – $75/hr",
+      "date": "Nov 16, 2026",
+      "timestamp": 1794787200,
+      "excerpt": "We are testing AI agents on realistic shopping and delivery tasks. You'll review AI-drafted tasks (prompt, grading rubric) along with model attempts, and decide whether each failure is fair: - Was the information available?",
+      "applyUrl": "https://remowork.life/jobs/6afaffd4675c5eda67c7c5aa/apply-out?ch=card",
+      "source": "AI • Testing"
+    },
+    {
       "id": "gh-4744402005",
       "title": "AI Safety Residency — Scale Labs Preparedness & Policy (SLPreP)",
       "company": "Scale AI",
@@ -4574,7 +4614,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4751149005",
+      "id": "gh-4751081005",
       "title": "Senior Applied AI Engineer",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -4586,12 +4626,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Kuwait City, Kuwait (+1 lokasi lain)",
+      "location": "London, UK (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Nov 10, 2026",
       "timestamp": 1794322129,
       "excerpt": "About the role Scale's Global Public Sector team is focused on using AI to address critical challenges facing the public sector around the world. As a Senior Applied AI Engineer, you'll own the AI behaviour of production...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751149005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751081005",
       "source": "⚡ Direct API"
     },
     {
@@ -5726,27 +5766,6 @@
       "timestamp": 1793905260,
       "excerpt": "The AI Development Strategist will report directly to vertical sales leadership and will play a critical role in generating and qualifying pipeline across Scale AI’s enterprise business. This is an education-focused, cus...",
       "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4741087005",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-4748372005",
-      "title": "Expansion Specialist, Bids & Business Development",
-      "company": "Scale AI",
-      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "Scale AI"
-      ],
-      "location": "London, UK",
-      "pay": "Lihat Detail",
-      "date": "Nov 05, 2026",
-      "timestamp": 1793905260,
-      "excerpt": "The Role The UK is making a wholesale shift to AI: government, from the AI Opportunities Action Plan through to the tools the Incubator for AI is putting in front of civil servants, and enterprises racing to put AI to wo...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4748372005",
       "source": "⚡ Direct API"
     },
     {
