@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-11-16 21:43 UTC",
-  "totalJobs": 375,
+  "lastUpdated": "2026-11-17 00:54 UTC",
+  "totalJobs": 371,
   "jobs": [
+    {
+      "id": "gh-5191800007",
+      "title": "Manager, Human Data Operations",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": "Palo Alto, CA",
+      "pay": "Lihat Detail",
+      "date": "Nov 16, 2026",
+      "timestamp": 1794871922,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5191800007",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "gh-4533894007",
       "title": "Software Engineer, Training/Inference (C++)",
@@ -66,6 +87,33 @@
       "source": "⚡ Direct API"
     },
     {
+      "id": "6ac6e3112e6f478028a3f1c6",
+      "title": "Referral Partnerships Manager",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "Marketing Operations",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Microsoft Teams",
+        "Slack",
+        "Channels",
+        "Outreach",
+        "Management",
+        "Communication",
+        "Organization",
+        "Problem Solving"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$20 – $40/hr",
+      "date": "Nov 16, 2026",
+      "timestamp": 1794787200,
+      "excerpt": "Job Summary: micro1 is looking for a Referral Partnerships Manager to onboard, engage, and grow our company referral partner network. You’ll build partner relationships, drive referral activity, and work with internal teams to ensure a smooth partner experience.",
+      "applyUrl": "https://jobs.micro1.ai/post/479e1aa8-2d92-42b7-a77c-aa83369cece8?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "Microsoft Teams • Slack"
+    },
+    {
       "id": "6afb4e565199c1ff1b0e4989",
       "title": "Customer Care Specialist",
       "company": "Veracyte",
@@ -93,6 +141,33 @@
       "source": "Make • Empathy"
     },
     {
+      "id": "6ad73b6198120414ce80bdd4",
+      "title": "Bluebook Citation Specialist (Law Students & Recent JDs)",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "AI Expert - Legal",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Editing",
+        "Citation Checking",
+        "Rubrics",
+        "AI",
+        "Formatting",
+        "JD",
+        "Reasoning",
+        "Onboarding"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$50 – $80/hr",
+      "date": "Nov 16, 2026",
+      "timestamp": 1794787200,
+      "excerpt": "Role Title: Bluebook Citation Specialist (Law Students & Recent JDs) Role Type: Contractor Location: Remote Opportunity Snapshot Pay: $50–80/hour You’ll need: Current or recent law school enrollment, hands-on Bluebook experience, and law journal or law review editing experience…",
+      "applyUrl": "https://jobs.micro1.ai/post/f78b7cdc-5357-4f5c-b86c-92d88b5de36d?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "Editing • Citation Checking"
+    },
+    {
       "id": "6afb4b905199c1ff1b0e3edf",
       "title": "Head of Data Science / Machine Learning",
       "company": "Instawork",
@@ -118,6 +193,60 @@
       "excerpt": "At Instawork, we’re driven by our vision to create economic opportunity for local businesses and skilled hourly professionals in communities around the world.",
       "applyUrl": "https://www.workatastartup.com/jobs/70802",
       "source": "Apache Spark • AI"
+    },
+    {
+      "id": "6abc5808dd1acda28bd5a5fe",
+      "title": "Bankruptcy Attorney",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "AI Expert - Legal",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Bankruptcy",
+        "AI",
+        "Training",
+        "Accuracy",
+        "Alignment",
+        "Communications",
+        "JD",
+        "Communication"
+      ],
+      "location": "United States",
+      "pay": "$100 – $170/hr",
+      "date": "Nov 16, 2026",
+      "timestamp": 1794787200,
+      "excerpt": "Role Title: Bankruptcy Attorney Role Type: Contractor Location: Remote, US-based only micro1 is engaging Bankruptcy Attorneys to contribute their specialized legal expertise to a customer's innovative project.",
+      "applyUrl": "https://jobs.micro1.ai/post/01c797e9-0eab-4a2f-988b-a0206e84f21d?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "Bankruptcy • AI"
+    },
+    {
+      "id": "6abc5809dd1acda28bd5a600",
+      "title": "Litigator / Practicing Attorney (US)",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "AI Expert - Legal",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "AI",
+        "Reasoning",
+        "Litigation",
+        "Accuracy",
+        "Calibration",
+        "Cross-Functional Collaboration",
+        "Communication",
+        "JD"
+      ],
+      "location": "United States",
+      "pay": "$100 – $160/hr",
+      "date": "Nov 16, 2026",
+      "timestamp": 1794787200,
+      "excerpt": "Role Title: Litigator / Practicing Attorney Role Type: Contractor Location: Remote, US only. micro1 is engaging Litigator / Practicing Attorneys to contribute expertise to a customer project focused on the intersection of law and emerging technology.",
+      "applyUrl": "https://jobs.micro1.ai/post/50d0cd3d-0d16-4c70-9094-8a66bbc9dffb?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "AI • Reasoning"
     },
     {
       "id": "6afb4c535199c1ff1b0e42a7",
@@ -199,6 +328,60 @@
       "excerpt": "Blueprint is a technology solutions firm headquartered in Bellevue, Washington, with teams across the United States. We help organizations turn complex challenges into meaningful outcomes by connecting strategy and execution across AI, cloud, data, product development, and…",
       "applyUrl": "https://job-boards.greenhouse.io/bpcs/jobs/8393521",
       "source": "AI • Microsoft Teams"
+    },
+    {
+      "id": "6afb4ab45199c1ff1b0e3a5a",
+      "title": "Attorney",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "AI Expert - Legal",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "AI",
+        "Reasoning",
+        "Litigation",
+        "Bankruptcy",
+        "Compliance",
+        "Accuracy",
+        "Research",
+        "Writing"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$80 – $150/hr",
+      "date": "Nov 16, 2026",
+      "timestamp": 1794787200,
+      "excerpt": "Role Title: Attorney Role Type: Contractor Location: Remote micro1 is looking for experienced attorneys to contribute their legal expertise to a project focused on improving AI's ability to analyze and reason through complex legal matters.",
+      "applyUrl": "https://jobs.micro1.ai/post/f5b76e03-411a-4648-8f5f-10ff604317ef?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "AI • Reasoning"
+    },
+    {
+      "id": "6afb4ab45199c1ff1b0e3a59",
+      "title": "Legal Counsel",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "AI Expert - Legal",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "AI",
+        "Microsoft Excel",
+        "Analysis",
+        "Communication",
+        "Contracts",
+        "Compliance",
+        "Accuracy",
+        "Microsoft Teams"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$80 – $150/hr",
+      "date": "Nov 16, 2026",
+      "timestamp": 1794787200,
+      "excerpt": "Role Title: Legal Counsel Role Type: Contractor Location: Remote micro1 is engaging Legal Counsels to contribute their legal expertise on a customer's project focused on shaping the future of AI technologies.",
+      "applyUrl": "https://jobs.micro1.ai/post/dac3063b-48c0-43ec-ae6d-98dfc4363350?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "AI • Microsoft Excel"
     },
     {
       "id": "6ad01c971657ef2f3e40d33e",
@@ -417,6 +600,33 @@
       "source": "Triage • Cadence"
     },
     {
+      "id": "6afb4ab45199c1ff1b0e393f",
+      "title": "Unreal Engine Developer",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "AI Expert - Software Engineering",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Unreal Engine",
+        "Training",
+        "AI",
+        "C++",
+        "Programming",
+        "Mechanics",
+        "Debugging",
+        "GitHub"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$50 – $100/hr",
+      "date": "Nov 16, 2026",
+      "timestamp": 1794787200,
+      "excerpt": "Role Title: Unreal Engine Developer Role Type: Contractor Location: Remote micro1 is engaging experienced Unreal Engine Developers to contribute their technical expertise to a customer project focused on training next-generation AI systems.",
+      "applyUrl": "https://jobs.micro1.ai/post/6c5c8f87-fcbd-4535-b954-44d66eaff075?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "Unreal Engine • Training"
+    },
+    {
       "id": "6afb53045199c1ff1b0e7317",
       "title": "Electrical Buyer",
       "company": "Aston Carter",
@@ -575,7 +785,7 @@
       "date": "Nov 16, 2026",
       "timestamp": 1794787200,
       "excerpt": "Work with Us. Change the World. At AECOM, we're delivering a better world. Whether improving your commute, keeping the lights on, providing access to clean water, or transforming skylines, our work helps people and communities thrive.",
-      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000161856221-civil-underground-utility-design-engineer",
+      "applyUrl": "https://remowork.life/jobs/6afb555b5199c1ff1b0e781b/apply-out?ch=card",
       "source": "Infrastructure • Consulting"
     },
     {
@@ -602,7 +812,7 @@
       "date": "Nov 16, 2026",
       "timestamp": 1794787200,
       "excerpt": "Work with Us. Change the World. At AECOM, we're delivering a better world. Whether improving your commute, keeping the lights on, providing access to clean water, or transforming skylines, our work helps people and communities thrive.",
-      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000161857733-technical-project-manager-global-fiber",
+      "applyUrl": "https://remowork.life/jobs/6afb555b5199c1ff1b0e781c/apply-out?ch=card",
       "source": "Infrastructure • Consulting"
     },
     {
@@ -629,14 +839,14 @@
       "date": "Nov 16, 2026",
       "timestamp": 1794787200,
       "excerpt": "The Analyst, Sales Operations supports Contract Operations by administering contract, product, pricing, rebate, and customer eligibility data within Vistex and related systems.",
-      "applyUrl": "https://careers.astoncarter.com/us/en/job/JP-006423498/Analyst-Sales-Operations",
+      "applyUrl": "https://remowork.life/jobs/6afb53045199c1ff1b0e731b/apply-out?ch=card",
       "source": "Sales • Operations"
     },
     {
       "id": "6afb50f05199c1ff1b0e64a7",
       "title": "Director Commercial Enterprise Sales",
       "company": "Omnidian",
-      "logo": "",
+      "logo": "https://www.google.com/s2/favicons?domain=omnidian.com&sz=32",
       "category": "Enterprise Sales Manager",
       "eligible": false,
       "isIndonesian": false,
@@ -683,7 +893,7 @@
       "date": "Nov 16, 2026",
       "timestamp": 1794787200,
       "excerpt": "We are seeking legal professionals to help evaluate the performance of advanced AI systems on real-world legal tasks. In this role, you will create realistic legal scenarios, assess AI-generated work products, and provide detailed feedback to improve the accuracy, reasoning, and…",
-      "applyUrl": "https://careers.astoncarter.com/us/en/job/JP-006423434/AI-Trainer-Legal",
+      "applyUrl": "https://remowork.life/jobs/6afb53045199c1ff1b0e731a/apply-out?ch=card",
       "source": "AI • Accuracy"
     },
     {
@@ -710,7 +920,7 @@
       "date": "Nov 16, 2026",
       "timestamp": 1794787200,
       "excerpt": "SentiLink helps institutions and protects customers by accurately resolving identities and flagging fraud risk. Each day, we verify more than 3 million identities, flagging 150k+ fraud attempts in the process.",
-      "applyUrl": "https://jobs.ashbyhq.com/sentilink/06efc456-e3e6-493c-a3b0-16d4feefc34d/application",
+      "applyUrl": "https://remowork.life/jobs/6afb4c535199c1ff1b0e4294/apply-out?ch=card",
       "source": "Institutions • Analysis"
     },
     {
@@ -737,7 +947,7 @@
       "date": "Nov 16, 2026",
       "timestamp": 1794787200,
       "excerpt": "We are seeking accounting professionals to help evaluate the performance of advanced AI models on real-world accounting workflows.",
-      "applyUrl": "https://careers.astoncarter.com/us/en/job/JP-006423351/AI-Trainer-Accounting",
+      "applyUrl": "https://remowork.life/jobs/6afb53045199c1ff1b0e7319/apply-out?ch=card",
       "source": "AI • Accounting"
     },
     {
@@ -2521,33 +2731,6 @@
       "source": "Research • AI"
     },
     {
-      "id": "6afb4ab45199c1ff1b0e393f",
-      "title": "Unreal Engine Developer",
-      "company": "Micro1",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
-      "category": "AI Expert - Software Engineering",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Unreal Engine",
-        "Training",
-        "AI",
-        "C++",
-        "Programming",
-        "Mechanics",
-        "Debugging",
-        "GitHub"
-      ],
-      "location": "Remote (Global)",
-      "pay": "$50 – $100/hr",
-      "date": "Nov 15, 2026",
-      "timestamp": 1794700800,
-      "excerpt": "Role Title: Unreal Engine Developer Role Type: Contractor Location: Remote micro1 is engaging experienced Unreal Engine Developers to contribute their technical expertise to a customer project focused on training next-generation AI systems.",
-      "applyUrl": "https://remowork.life/jobs/6afb4ab45199c1ff1b0e393f/apply-out?ch=card",
-      "source": "Unreal Engine • Training"
-    },
-    {
       "id": "6af9fa7a87c0732091ff9cfd",
       "title": "Insurance Distribution Market Expert – Paid Research Interview",
       "company": "Mercor",
@@ -3926,168 +4109,6 @@
       "excerpt": "At Veracyte, we offer exciting career opportunities for those interested in joining a pioneering team that is committed to transforming cancer care for patients across the globe.",
       "applyUrl": "https://remowork.life/jobs/6af7a90fd16a386cdaa8e5fa/apply-out?ch=card",
       "source": "Bioinformatics • Make"
-    },
-    {
-      "id": "6af7ad19d16a386cdaa912e3",
-      "title": "SVP, Brand Strategy",
-      "company": "BGBx",
-      "logo": "https://www.google.com/s2/favicons?domain=bgbx.com&sz=64",
-      "category": "Brand Strategist",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Strategic Thinking",
-        "Healthcare",
-        "Microsoft Teams",
-        "Consulting",
-        "Communications",
-        "Make",
-        "Collaboration",
-        "Leadership"
-      ],
-      "location": "United States",
-      "pay": "$215,000 – $265,000/yr",
-      "date": "Nov 13, 2026",
-      "timestamp": 1794528000,
-      "excerpt": "At BGBx, we're driven by a simple idea: breakthrough thinking creates breakthrough impact. As an independent commercial solutions partner to pharmaceutical and life science companies, we bring together strategists, scientists, communicators, creatives, technologists, and data…",
-      "applyUrl": "https://remowork.life/jobs/6af7ad19d16a386cdaa912e3/apply-out?ch=card",
-      "source": "Strategic Thinking • Healthcare"
-    },
-    {
-      "id": "6af7acc7d16a386cdaa90ca9",
-      "title": "Customer Support Specialist",
-      "company": "8am",
-      "logo": "https://www.google.com/s2/favicons?domain=8am.com&sz=64",
-      "category": "Customer Support Specialist",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Communication",
-        "Operations",
-        "Compliance",
-        "Accounting",
-        "Microsoft Teams",
-        "Troubleshooting",
-        "Salesforce",
-        "Ethics"
-      ],
-      "location": "United States",
-      "pay": "Lihat Detail",
-      "date": "Nov 13, 2026",
-      "timestamp": 1794528000,
-      "excerpt": "It's a new day with a new opportunity at 8am! About the role: 8am is looking for a professional and highly motivated problem solver to join our Customer Support Team.",
-      "applyUrl": "https://remowork.life/jobs/6af7acc7d16a386cdaa90ca9/apply-out?ch=card",
-      "source": "Communication • Operations"
-    },
-    {
-      "id": "6af7ab17d16a386cdaa8fdf4",
-      "title": "Engineering Manager",
-      "company": "Bestow",
-      "logo": "https://www.google.com/s2/favicons?domain=bestow.com&sz=32",
-      "category": "Engineering Manager",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Engineering",
-        "Insurance",
-        "AI",
-        "Automation",
-        "Infrastructure",
-        "Precision",
-        "Flexible",
-        "SaaS"
-      ],
-      "location": "United States",
-      "pay": "$180,000 – $205,000/yr",
-      "date": "Nov 13, 2026",
-      "timestamp": 1794528000,
-      "excerpt": "Life insurance is one of the world's most important products. It's also one of the hardest to build, distribute, and modernize. Bestow exists to change that. Bestow is a leading vertical technology platform serving some of the largest and most innovative life insurers.",
-      "applyUrl": "https://remowork.life/jobs/6af7ab17d16a386cdaa8fdf4/apply-out?ch=card",
-      "source": "Engineering • Insurance"
-    },
-    {
-      "id": "6af7a4ffd16a386cdaa8b4a1",
-      "title": "Senior Platform Security Engineer",
-      "company": "Discord",
-      "logo": "https://www.google.com/s2/favicons?domain=discord.com&sz=128",
-      "category": "Security Engineer",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Gaming",
-        "Communications",
-        "Engineering",
-        "Management",
-        "Infrastructure",
-        "Authorization",
-        "Make",
-        "Architecture"
-      ],
-      "location": "United States (US: CA, OR, WA)",
-      "pay": "$196,000 – $245,000/yr",
-      "date": "Nov 13, 2026",
-      "timestamp": 1794528000,
-      "excerpt": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games.",
-      "applyUrl": "https://remowork.life/jobs/6af7a4ffd16a386cdaa8b4a1/apply-out?ch=card",
-      "source": "Gaming • Communications"
-    },
-    {
-      "id": "6af7ad8bd16a386cdaa91889",
-      "title": "Order Management Specialist I",
-      "company": "Jamf",
-      "logo": "https://www.google.com/s2/favicons?domain=jamf.com&sz=64",
-      "category": "Business Operations Analyst",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Management",
-        "Flexible",
-        "Culture",
-        "STEM",
-        "Finance",
-        "Verification",
-        "Documentation",
-        "Accuracy"
-      ],
-      "location": "United States",
-      "pay": "$44,000 – $60,000/yr",
-      "date": "Nov 13, 2026",
-      "timestamp": 1794528000,
-      "excerpt": "At Jamf, we believe in an open, flexible culture based on respect and trust. Our track record and thriving work environment all stem from the freedom we grant ourselves to get the job done right.",
-      "applyUrl": "https://remowork.life/jobs/6af7ad8bd16a386cdaa91889/apply-out?ch=card",
-      "source": "Management • Flexible"
-    },
-    {
-      "id": "6af7aa8bd16a386cdaa8ed6d",
-      "title": "Enterprise Account Executive, US [IC5]",
-      "company": "Sourcegraph",
-      "logo": "https://www.google.com/s2/favicons?domain=sourcegraph.com&sz=32",
-      "category": "Account Executive (Mid-Market / Enterprise)",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "AI",
-        "Infrastructure",
-        "Engineering",
-        "Microsoft Teams",
-        "MCP",
-        "Make",
-        "Communication",
-        "Storytelling"
-      ],
-      "location": "United States",
-      "pay": "From $165,000/yr",
-      "date": "Nov 13, 2026",
-      "timestamp": 1794528000,
-      "excerpt": "Our mission is to bring clarity and control to the world's most complex codebases. AI is accelerating code creation, but the infrastructure to understand, oversee, and evolve that code hasn't kept pace.",
-      "applyUrl": "https://remowork.life/jobs/6af7aa8bd16a386cdaa8ed6d/apply-out?ch=card",
-      "source": "AI • Infrastructure"
     },
     {
       "id": "6af75832d16a386cdaa86ea5",
@@ -8153,111 +8174,6 @@
       "excerpt": "Babel Audio bermitra dengan perusahaan teknologi terkemuka untuk mengumpulkan data suara berkualitas tinggi yang digunakan untuk melatih model AI tercanggih.",
       "applyUrl": "https://remowork.life/jobs/6a6a30aee681430a6b620fd1/apply-out?ch=card",
       "source": "Indonesian • AI"
-    },
-    {
-      "id": "gh-6006505004",
-      "title": "AI Trainer - Automotive Expertise Required",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Europe",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/6006505004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5825271004",
-      "title": "Content Creator (Flexible Gig)",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Remote",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5825271004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5823725004",
-      "title": "Data Annotation Contributor ",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "International",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823725004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5823642004",
-      "title": "Data Collection Contributor",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "Bulgaria (+21 lokasi lain)",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5823642004",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5774193004",
-      "title": "Data Collector (International)",
-      "company": "HumanSignal",
-      "logo": "https://www.google.com/s2/favicons?domain=humansignal.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "HumanSignal"
-      ],
-      "location": "International",
-      "pay": "Lihat Detail",
-      "date": "May 27, 2026",
-      "timestamp": 1779929246,
-      "excerpt": "About HumanSignal Real-world data is the competitive edge in AI. HumanSignal is a human data partner for companies building AI models and products. Our customers ship better AI, faster, because we partner with their rese...",
-      "applyUrl": "https://job-boards.greenhouse.io/humansignal/jobs/5774193004",
-      "source": "⚡ Direct API"
     },
     {
       "id": "6a6a30aee681430a6b620fbe",
