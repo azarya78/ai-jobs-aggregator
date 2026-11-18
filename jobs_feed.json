@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18 03:50 UTC",
+  "lastUpdated": "2026-11-18 07:05 UTC",
   "totalJobs": 371,
   "jobs": [
     {
@@ -43,6 +43,60 @@
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
       "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5216863007",
       "source": "⚡ Direct API"
+    },
+    {
+      "id": "6acd84f82e6f478028b13bd4",
+      "title": "Data Partnerships Manager",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "Partnerships Manager",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "AI",
+        "Training",
+        "Sourcing",
+        "Onboarding",
+        "Compliance",
+        "Operations",
+        "Microsoft Teams",
+        "Messaging"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$110,000 – $130,000/yr",
+      "date": "Nov 18, 2026",
+      "timestamp": 1794960000,
+      "excerpt": "The Role We are looking for a Data Partnerships Manager to identify, engage, and close partnerships with companies interested in contributing workflow data for AI training and evaluation.",
+      "applyUrl": "https://jobs.micro1.ai/post/64592ac1-f184-4c0f-9e5d-796cccdd499b?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "AI • Training"
+    },
+    {
+      "id": "6ac5e5abd2f3bde811c5e846",
+      "title": "Product Owner",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "Product Manager",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Engineering",
+        "Microsoft Teams",
+        "AI",
+        "Alignment",
+        "Communication",
+        "Management",
+        "Machine Learning",
+        "LLMs"
+      ],
+      "location": "United States",
+      "pay": "$120,000 – $160,000/yr",
+      "date": "Nov 18, 2026",
+      "timestamp": 1794960000,
+      "excerpt": "The Role You’ll work closely with engineering, data, and business teams to turn complex problems into intuitive products people enjoy using. Experience in AI, data, developer tools, or other strong product-led technology companies is highly relevant.",
+      "applyUrl": "https://jobs.micro1.ai/post/01f86047-2c74-46bb-a6fc-a00e1be3dd5b?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "Engineering • Microsoft Teams"
     },
     {
       "id": "6afcf52e551f7253c1e1690f",
@@ -794,7 +848,7 @@
       "date": "Nov 17, 2026",
       "timestamp": 1794873600,
       "excerpt": "Join the Reliability team as a Senior Software Engineer, reporting to Tushar Roy, and help improve the reliability of operating Temporal Cloud end to end.",
-      "applyUrl": "https://jobs.ashbyhq.com/temporal/af8d1e25-14b1-476d-a079-0d72cc5fdcd8/application",
+      "applyUrl": "https://remowork.life/jobs/6afcf7e5551f7253c1e1768f/apply-out?ch=card",
       "source": "Reporting • SRE"
     },
     {
@@ -821,7 +875,7 @@
       "date": "Nov 17, 2026",
       "timestamp": 1794873600,
       "excerpt": "At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences.",
-      "applyUrl": "https://job-boards.greenhouse.io/twilio/jobs/8393928",
+      "applyUrl": "https://remowork.life/jobs/6afceba7551f7253c1e12359/apply-out?ch=card",
       "source": "Communications • Culture"
     },
     {
@@ -3607,33 +3661,6 @@
       "source": "Collaboration • Healthcare"
     },
     {
-      "id": "6afc9cc8551f7253c1e0b51f",
-      "title": "Health Information Specialist I-Entry Level-8413",
-      "company": "Datavant",
-      "logo": "https://www.google.com/s2/favicons?domain=datavant.com&sz=32",
-      "category": "Clinical Data Specialist",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Collaboration",
-        "Healthcare",
-        "Make",
-        "AI",
-        "Accuracy",
-        "Compliance",
-        "Authorization",
-        "HIPAA"
-      ],
-      "location": "United States (US: AL, MS, NC +1)",
-      "pay": "$15/hr",
-      "date": "Nov 17, 2026",
-      "timestamp": 1794873600,
-      "excerpt": "Datavant is the data collaboration platform trusted for healthcare. Guided by our mission to make the world’s health data secure, accessible and actionable, we provide critical data solutions for organizations across the healthcare ecosystem - including providers, health plans,…",
-      "applyUrl": "https://remowork.life/jobs/6afc9cc8551f7253c1e0b51f/apply-out?ch=card",
-      "source": "Collaboration • Healthcare"
-    },
-    {
       "id": "6afc9cc8551f7253c1e0b520",
       "title": "Health Information Specialist I-Entry Level-8527",
       "company": "Datavant",
@@ -3983,33 +4010,6 @@
       "excerpt": "Based in San Francisco, California, Turing is the world’s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems.",
       "applyUrl": "https://remowork.life/jobs/6afc4da2551f7253c1e055b4/apply-out?ch=card",
       "source": "Research • AI"
-    },
-    {
-      "id": "6afc4da2551f7253c1e055b5",
-      "title": "BA - Generalist (English + Creative data annotation) - III",
-      "company": "Turing",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037261/remowork/companies/turing-logo.webp",
-      "category": "LLM Evaluator (English)",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "English",
-        "Annotation",
-        "AI",
-        "Reasoning",
-        "STEM",
-        "Alignment",
-        "Communication",
-        "Literature"
-      ],
-      "location": "Remote (Global)",
-      "pay": "Lihat Detail",
-      "date": "Nov 17, 2026",
-      "timestamp": 1794873600,
-      "excerpt": "Turing is one of the world’s fastest-growing AI companies, accelerating the advancement and deployment of powerful AI systems.",
-      "applyUrl": "https://remowork.life/jobs/6afc4da2551f7253c1e055b5/apply-out?ch=card",
-      "source": "English • Annotation"
     },
     {
       "id": "gh-5191800007",
