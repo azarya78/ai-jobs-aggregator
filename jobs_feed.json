@@ -1,7 +1,70 @@
 {
-  "lastUpdated": "2026-11-18 15:54 UTC",
-  "totalJobs": 371,
+  "lastUpdated": "2026-11-18 18:49 UTC",
+  "totalJobs": 372,
   "jobs": [
+    {
+      "id": "gh-5298891007",
+      "title": "AI Tutor, Biology - Temporary",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": "Remote, International",
+      "pay": "Lihat Detail",
+      "date": "Nov 18, 2026",
+      "timestamp": 1795027745,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5298891007",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-4282118005",
+      "title": "Strategic Projects Lead, Generative AI",
+      "company": "Scale AI",
+      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "Scale AI"
+      ],
+      "location": "San Francisco, CA; New York, NY",
+      "pay": "Lihat Detail",
+      "date": "Nov 18, 2026",
+      "timestamp": 1795027613,
+      "excerpt": "Scale’s Generative AI business unit is currently seeing historic levels of growth. As a Strategic Projects Lead (SPL), you will  leading initiatives that will drive $XXM+ in new revenue for the business. This is a demand...",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4282118005",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "gh-5194492007",
+      "title": "Safety Trainer, X Money",
+      "company": "xAI",
+      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "xAI"
+      ],
+      "location": "Austin, TX",
+      "pay": "Lihat Detail",
+      "date": "Nov 18, 2026",
+      "timestamp": 1795024317,
+      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5194492007",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "gh-4748372005",
       "title": "Expansion Specialist, Bids & Business Development",
@@ -1113,27 +1176,6 @@
       "excerpt": "SLSQ328R38 While candidates in the listed location(s) are encouraged for this role, candidates in other locations will be considered.",
       "applyUrl": "https://remowork.life/jobs/6afcec04551f7253c1e12a1f/apply-out?ch=card",
       "source": "Sales • Communication"
-    },
-    {
-      "id": "gh-4282118005",
-      "title": "Strategic Projects Lead, Generative AI",
-      "company": "Scale AI",
-      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "Scale AI"
-      ],
-      "location": "San Francisco, CA; New York, NY",
-      "pay": "Lihat Detail",
-      "date": "Nov 17, 2026",
-      "timestamp": 1794951694,
-      "excerpt": "Scale’s Generative AI business unit is currently seeing historic levels of growth. As a Strategic Projects Lead (SPL), you will  leading initiatives that will drive $XXM+ in new revenue for the business. This is a demand...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4282118005",
-      "source": "⚡ Direct API"
     },
     {
       "id": "ashby-41cb2a12-e33a-4368-a9f8-0ae0d19c023e",
@@ -5637,7 +5679,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5266499007",
+      "id": "gh-5286282007",
       "title": "Data Center Operations Technician - Memphis",
       "company": "xAI",
       "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
@@ -5654,7 +5696,7 @@
       "date": "Nov 05, 2026",
       "timestamp": 1793910400,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5266499007",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5286282007",
       "source": "⚡ Direct API"
     },
     {
@@ -5973,7 +6015,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4650514005",
+      "id": "gh-4589749005",
       "title": "Product Manager of AI Applications, Global Public Sector",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -5985,12 +6027,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Riyadh, Saudi Arabia (+1 lokasi lain)",
+      "location": "Doha, Qatar ; Dubai, UAE (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Nov 05, 2026",
       "timestamp": 1793905260,
       "excerpt": "Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most exciting and quickly expanding teams at Scale. This team is responsible for generating, executing, and fost...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
       "source": "⚡ Direct API"
     },
     {
@@ -6957,27 +6999,6 @@
       "timestamp": 1793903591,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
       "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5184586007",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-5194492007",
-      "title": "Safety Trainer, X Money",
-      "company": "xAI",
-      "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "xAI"
-      ],
-      "location": "Bastrop, TX",
-      "pay": "Lihat Detail",
-      "date": "Nov 05, 2026",
-      "timestamp": 1793903591,
-      "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5194492007",
       "source": "⚡ Direct API"
     },
     {
