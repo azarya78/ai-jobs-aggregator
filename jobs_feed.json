@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-19 09:58 UTC",
+  "lastUpdated": "2026-11-19 13:04 UTC",
   "totalJobs": 369,
   "jobs": [
     {
@@ -567,7 +567,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4589749005",
+      "id": "gh-4650514005",
       "title": "Product Manager of AI Applications, Global Public Sector",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -579,12 +579,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Doha, Qatar ; Dubai, UAE (+1 lokasi lain)",
+      "location": "Riyadh, Saudi Arabia (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Nov 18, 2026",
       "timestamp": 1795048855,
       "excerpt": "Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most exciting and quickly expanding teams at Scale. This team is responsible for generating, executing, and fost...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
       "source": "⚡ Direct API"
     },
     {
@@ -1725,33 +1725,6 @@
       "source": "Microsoft Teams • Infrastructure"
     },
     {
-      "id": "6afe486b1ab49b62d3be0e75",
-      "title": "Software Engineer",
-      "company": "Coinbase",
-      "logo": "https://www.google.com/s2/favicons?domain=coinbase.com&sz=64",
-      "category": "Backend Engineer",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Finance",
-        "Microsoft Teams",
-        "Compliance",
-        "Investigations",
-        "AI",
-        "MCP",
-        "Make",
-        "Go"
-      ],
-      "location": "United States",
-      "pay": "$152,405 – $179,300/yr",
-      "date": "Nov 19, 2026",
-      "timestamp": 1795046400,
-      "excerpt": "Ready to do the most impactful work of your career? At Coinbase, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
-      "applyUrl": "https://www.coinbase.com/careers/positions/8400323?gh_jid=8400323",
-      "source": "Finance • Microsoft Teams"
-    },
-    {
       "id": "6afe3d6a1ab49b62d3bdc5d7",
       "title": "Native Spanish Speaker: Healthcare AI Voice Conversations",
       "company": "Alignerr",
@@ -1883,7 +1856,7 @@
       "date": "Nov 19, 2026",
       "timestamp": 1795046400,
       "excerpt": "Thank you for considering Tailscale. If this job description resonates with you, please apply. Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications.",
-      "applyUrl": "https://remowork.life/jobs/6afe46451ab49b62d3bde7ee/apply-out?ch=card",
+      "applyUrl": "https://job-boards.greenhouse.io/tailscale/jobs/4756274005",
       "source": "Statistics • Microsoft Teams"
     },
     {
@@ -5065,6 +5038,33 @@
       "excerpt": "Min Experience: 12+ years Location: United States JobType: full-time We are seeking a highly experienced Senior AI Architect to lead the AI/ML architecture and technology strategy for a large-scale enterprise finance technology organisation.",
       "applyUrl": "https://remowork.life/jobs/6afdf3f21ab49b62d3bd744f/apply-out?ch=card",
       "source": "AI • Machine Learning"
+    },
+    {
+      "id": "6afd94c41ab49b62d3bcc4d3",
+      "title": "Senior Platform Engineer (Remote)",
+      "company": "Hospitable",
+      "logo": "https://www.google.com/s2/favicons?domain=hospitable.com&sz=128",
+      "category": "Platform Engineer",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Culture",
+        "Infrastructure",
+        "Make",
+        "Kubernetes",
+        "React",
+        "Docker",
+        "Terraform",
+        "DigitalOcean"
+      ],
+      "location": "United States, Germany, Netherlands +1 United Kingdom",
+      "pay": "$134k – $167k/yr",
+      "date": "Nov 18, 2026",
+      "timestamp": 1794960000,
+      "excerpt": "TLDR; We build software for vacation rentals to rent themselves, with a state-of-the-art product and user experience. We have crafted an Applicant Handbook, which we highly recommend you check out, where you can find out more about the company, culture, how we recruit, what we…",
+      "applyUrl": "https://remowork.life/jobs/6afd94c41ab49b62d3bcc4d3/apply-out?ch=card",
+      "source": "Culture • Infrastructure"
     },
     {
       "id": "ashby-41cb2a12-e33a-4368-a9f8-0ae0d19c023e",
