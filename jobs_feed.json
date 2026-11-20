@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20 15:52 UTC",
+  "lastUpdated": "2026-11-20 18:54 UTC",
   "totalJobs": 373,
   "jobs": [
     {
@@ -287,33 +287,6 @@
       "source": "Onboarding • Dart"
     },
     {
-      "id": "6affe79c1ab49b62d3c1c59e",
-      "title": "Freelance Marketing Specialist",
-      "company": "Micro1",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
-      "category": "AI Expert - Marketing",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Marketing",
-        "AI",
-        "Training",
-        "Templates",
-        "SEO",
-        "Advertising",
-        "Management",
-        "Consulting"
-      ],
-      "location": "Remote (Global)",
-      "pay": "$80 – $120/hr",
-      "date": "Nov 20, 2026",
-      "timestamp": 1795132800,
-      "excerpt": "Role Title: Freelance Marketing Specialist Role Type: Contractor Location: Remote - USA Preferred micro1 is looking for experienced Freelance Marketing Specialists and Consultants to contribute their expertise to an exciting AI training project.",
-      "applyUrl": "https://jobs.micro1.ai/post/7e993cc2-d486-42f8-891e-5af07107fe37?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
-      "source": "Marketing • AI"
-    },
-    {
       "id": "6affee601ab49b62d3c1ee5e",
       "title": "Marketing Professionals: Feedback on Creative and Production Workflows",
       "company": "Terac",
@@ -407,11 +380,11 @@
         "Engineering",
         "Statistics",
         "Microsoft Teams",
-        "Sales",
-        "Architecture",
+        "Leadership",
+        "Coaching",
         "Network Fundamentals",
-        "Decision Making",
-        "Strategic Thinking"
+        "Organization",
+        "Marketing"
       ],
       "location": "United States",
       "pay": "$135,000 – $224,000/yr",
@@ -1289,7 +1262,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4751149005",
+      "id": "gh-4751081005",
       "title": "Senior Applied AI Engineer",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -1301,12 +1274,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Kuwait City, Kuwait (+1 lokasi lain)",
+      "location": "London, UK (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Nov 18, 2026",
       "timestamp": 1795048855,
       "excerpt": "About the role Scale's Global Public Sector team is focused on using AI to address critical challenges facing the public sector around the world. As a Senior Applied AI Engineer, you'll own the AI behaviour of production...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751149005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751081005",
       "source": "⚡ Direct API"
     },
     {
@@ -1918,7 +1891,7 @@
       "date": "Nov 19, 2026",
       "timestamp": 1795046400,
       "excerpt": "Mercury* is building a complete financial stack for ambitious businesses. Since we launched in 2019, our customer base has grown to over 200,000 startups and small businesses from all around the world.",
-      "applyUrl": "https://remowork.life/jobs/6aff99751ab49b62d3c183b7/apply-out?ch=card",
+      "applyUrl": "https://job-boards.greenhouse.io/mercury?error=true",
       "source": "Strategic Thinking • AI"
     },
     {
@@ -5068,6 +5041,33 @@
       "excerpt": "Experience: 12+ Location: Palo Alto, USA., California, United States, Palo Alto, California, United States We are looking for an experienced Electrical Engineer with strong expertise in electronic hardware design, embedded product development, and end-to-end product sustenance.",
       "applyUrl": "https://remowork.life/jobs/6afef1241ab49b62d3c05c8d/apply-out?ch=card",
       "source": "Management • Manufacturing"
+    },
+    {
+      "id": "6afe9c4b1ab49b62d3be7616",
+      "title": "Senior Java Engineer (Codebase Owner)",
+      "company": "AfterQuery",
+      "logo": "https://www.google.com/s2/favicons?domain=experts.afterquery.com&sz=128",
+      "category": "AI Expert - Software Engineering",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Java",
+        "Research",
+        "AI",
+        "Writing",
+        "Engineering",
+        "Flexible",
+        "GitHub",
+        "Spring Boot"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$75/hr",
+      "date": "Nov 19, 2026",
+      "timestamp": 1795046400,
+      "excerpt": "AfterQuery is an applied research lab. AI labs use the data we build to train and test their models. We're looking for senior Java engineers who build and maintain real production software, ideally as the founder, technical lead or owner of a substantial Java codebase, for paid,…",
+      "applyUrl": "https://remowork.life/jobs/6afe9c4b1ab49b62d3be7616/apply-out?ch=card",
+      "source": "Java • Research"
     },
     {
       "id": "gh-5299078007",
