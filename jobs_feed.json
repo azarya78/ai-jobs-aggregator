@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20 03:48 UTC",
+  "lastUpdated": "2026-11-20 07:04 UTC",
   "totalJobs": 373,
   "jobs": [
     {
@@ -22,6 +22,33 @@
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
       "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5180223007",
       "source": "⚡ Direct API"
+    },
+    {
+      "id": "6ac5e5abd2f3bde811c5e83c",
+      "title": "Research Marketing Lead",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "Product Marketing Manager",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Research",
+        "Marketing",
+        "AI",
+        "Positioning",
+        "Accuracy",
+        "Channels",
+        "Machine Learning",
+        "Communication"
+      ],
+      "location": "United States",
+      "pay": "$150,000 – $210,000/yr",
+      "date": "Nov 20, 2026",
+      "timestamp": 1795132800,
+      "excerpt": "The Role We’re looking for a Research Marketing Lead to own how our research, benchmarks, and technical work are positioned, launched, and adopted across the AI ecosystem.",
+      "applyUrl": "https://jobs.micro1.ai/post/09891468-1722-465f-b47e-f420c9f1e154?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "Research • Marketing"
     },
     {
       "id": "6aff95141ab49b62d3c15093",
@@ -1918,7 +1945,7 @@
       "date": "Nov 19, 2026",
       "timestamp": 1795046400,
       "excerpt": "We're running a paid study on the software ecosystem that architecture and engineering firms use to run their businesses. Understanding how these tools handle project management, time tracking, and client billing is critical to improving operational workflows.",
-      "applyUrl": "https://terac.com/opportunities/P7KiKMRXQoPMXBDg",
+      "applyUrl": "https://remowork.life/jobs/6aff973c1ab49b62d3c16724/apply-out?ch=card",
       "source": "Architecture • Engineering"
     },
     {
@@ -3512,7 +3539,7 @@
     },
     {
       "id": "6afeec041ab49b62d3c04046",
-      "title": "Freelance Linguist | English into Brazilian Portuguese | Patent Linguists",
+      "title": "Freelance Linguist | English into Brazilian Portuguese",
       "company": "TransPerfect",
       "logo": "https://www.google.com/s2/favicons?domain=transperfect.com&sz=128",
       "category": "Translator",
@@ -3522,24 +3549,24 @@
       "skills": [
         "English",
         "Portuguese",
-        "Collaboration",
-        "Proofreading",
         "Translation",
-        "Communication",
-        "Grammar",
-        "Confidentiality"
+        "Vietnamese",
+        "Accuracy",
+        "Consistency",
+        "MTPE",
+        "Proofreading"
       ],
       "location": "Remote (Global)",
       "pay": "Lihat Detail",
       "date": "Nov 19, 2026",
       "timestamp": 1795046400,
-      "excerpt": "Linguists are key players at TransPerfect. Your particular language skill and subject matter expertise will allow you to create and finalize the end product before it goes to the client.",
+      "excerpt": "TransPerfect is seeking experienced freelance linguists specializing in English-to-Brazilian Portuguese translation to support our international language projects.",
       "applyUrl": "https://remowork.life/jobs/6afeec041ab49b62d3c04046/apply-out?ch=card",
       "source": "English • Portuguese"
     },
     {
       "id": "6afeec041ab49b62d3c04047",
-      "title": "Freelance Linguist | English into VIetnamese | Patent Linguists",
+      "title": "Freelance Linguist | English into VIetnamese",
       "company": "TransPerfect",
       "logo": "https://www.google.com/s2/favicons?domain=transperfect.com&sz=128",
       "category": "Translator",
@@ -3549,18 +3576,18 @@
       "skills": [
         "English",
         "Vietnamese",
-        "Collaboration",
-        "Proofreading",
         "Translation",
-        "Communication",
-        "Grammar",
-        "Confidentiality"
+        "Accuracy",
+        "Consistency",
+        "MTPE",
+        "Proofreading",
+        "Editing"
       ],
       "location": "Remote (Global)",
       "pay": "Lihat Detail",
       "date": "Nov 19, 2026",
       "timestamp": 1795046400,
-      "excerpt": "Linguists are key players at TransPerfect. Your particular language skill and subject matter expertise will allow you to create and finalize the end product before it goes to the client.",
+      "excerpt": "TransPerfect is seeking experienced freelance linguists specializing in English-to-Vietnamese translation to support our international language projects. We are expanding our network of freelance language professionals with expertise in Technical and/or IT Patent translation.",
       "applyUrl": "https://remowork.life/jobs/6afeec041ab49b62d3c04047/apply-out?ch=card",
       "source": "English • Vietnamese"
     },
@@ -3887,33 +3914,6 @@
       "excerpt": "Peraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy.",
       "applyUrl": "https://remowork.life/jobs/6aff41901ab49b62d3c0c946/apply-out?ch=card",
       "source": "COBOL • Cross-Functional Collaboration"
-    },
-    {
-      "id": "6aff40201ab49b62d3c0c77a",
-      "title": "Data Analyst",
-      "company": "Cotiviti",
-      "logo": "https://www.google.com/s2/favicons?domain=cotiviti.com&sz=32",
-      "category": "Business Analyst",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Analysis",
-        "Operations",
-        "Management",
-        "Healthcare",
-        "ROOT",
-        "SQL",
-        "Engineering",
-        "Programming"
-      ],
-      "location": "United States",
-      "pay": "$67,000 – $87,000/yr",
-      "date": "Nov 19, 2026",
-      "timestamp": 1795046400,
-      "excerpt": "At Cotiviti, we are custodians of data for our clients, which requires efficient processes to manage data implementations, data production, data quality and data security.",
-      "applyUrl": "https://remowork.life/jobs/6aff40201ab49b62d3c0c77a/apply-out?ch=card",
-      "source": "Analysis • Operations"
     },
     {
       "id": "6aff40201ab49b62d3c0c776",
@@ -4585,33 +4585,6 @@
       "source": "Healthcare • Automation"
     },
     {
-      "id": "6aff414a1ab49b62d3c0c86b",
-      "title": "Senior Engineer, Software",
-      "company": "Ensemble Health Partners",
-      "logo": "https://www.google.com/s2/favicons?domain=ensemblehp.com&sz=32",
-      "category": "Backend Engineer",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Management",
-        "Healthcare",
-        "Culture",
-        "Creativity",
-        "Experimentation",
-        "APIs",
-        "Architecture",
-        "Engineering"
-      ],
-      "location": "United States",
-      "pay": "$111,800 – $192,900/yr",
-      "date": "Nov 19, 2026",
-      "timestamp": 1795046400,
-      "excerpt": "Thank you for considering a career at Ensemble! Ensemble is a leading provider of technology-enabled revenue cycle management solutions for health systems, including hospitals and affiliated physician groups.",
-      "applyUrl": "https://remowork.life/jobs/6aff414a1ab49b62d3c0c86b/apply-out?ch=card",
-      "source": "Management • Healthcare"
-    },
-    {
       "id": "6aff3f9b1ab49b62d3c0c233",
       "title": "Director I, AP Calculus Curriculum and Assessment",
       "company": "College Board",
@@ -4960,28 +4933,6 @@
       "source": "Strategic Thinking • Architecture"
     },
     {
-      "id": "6afe46dc1ab49b62d3bdf9f2",
-      "title": "Digital Note-Takers: 30-Minute Interview on Reading Habits",
-      "company": "Terac",
-      "logo": "https://www.google.com/s2/favicons?domain=terac.com&sz=32",
-      "category": "Research Study Participant",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Organized",
-        "Recall",
-        "Research"
-      ],
-      "location": "United States",
-      "pay": "$500 one-time",
-      "date": "Nov 18, 2026",
-      "timestamp": 1794960000,
-      "excerpt": "We're running a paid study on the daily reading and note-taking workflows. Our goal is to map out how information is consumed, highlighted, and organized for future recall. Your insights will help us evaluate the friction points in current digital reading ecosystems.",
-      "applyUrl": "https://remowork.life/jobs/6afe46dc1ab49b62d3bdf9f2/apply-out?ch=card",
-      "source": "Organized • Recall"
-    },
-    {
       "id": "6afe480d1ab49b62d3be0643",
       "title": "Bilingual Delivery Confirmation & Outbound Calling Virtual Assistant",
       "company": "20four7VA",
@@ -5169,6 +5120,60 @@
       "excerpt": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games.",
       "applyUrl": "https://remowork.life/jobs/6afe3c971ab49b62d3bdb16e/apply-out?ch=card",
       "source": "Gaming • Infrastructure"
+    },
+    {
+      "id": "6afe3c971ab49b62d3bdb16f",
+      "title": "Staff Software Engineer, Safety Processing",
+      "company": "Discord",
+      "logo": "https://www.google.com/s2/favicons?domain=discord.com&sz=128",
+      "category": "Backend Engineer",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Gaming",
+        "Make",
+        "Engineering",
+        "Python",
+        "Scalability",
+        "Cross-Functional Collaboration",
+        "Microsoft Teams",
+        "Compliance"
+      ],
+      "location": "United States",
+      "pay": "$279,000 – $341,000/yr",
+      "date": "Nov 18, 2026",
+      "timestamp": 1794960000,
+      "excerpt": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games.",
+      "applyUrl": "https://remowork.life/jobs/6afe3c971ab49b62d3bdb16f/apply-out?ch=card",
+      "source": "Gaming • Make"
+    },
+    {
+      "id": "6afe3c931ab49b62d3bdb0a0",
+      "title": "Team Lead, Payer Enrollment",
+      "company": "Medallion",
+      "logo": "https://www.google.com/s2/favicons?domain=medallion.co&sz=32",
+      "category": "Operations Manager",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Healthcare",
+        "Microsoft Teams",
+        "Operations",
+        "Licensing",
+        "Compliance",
+        "Monitoring",
+        "Management",
+        "Salesforce"
+      ],
+      "location": "United States",
+      "pay": "$65,000 – $90,000/yr",
+      "date": "Nov 18, 2026",
+      "timestamp": 1794960000,
+      "excerpt": "At Medallion, we believe healthcare teams should focus on what truly matters - delivering exceptional patient care. That’s why we’ve built a leading provider operations platform to eliminate the administrative bottlenecks that slow healthcare organizations down.",
+      "applyUrl": "https://remowork.life/jobs/6afe3c931ab49b62d3bdb0a0/apply-out?ch=card",
+      "source": "Healthcare • Microsoft Teams"
     },
     {
       "id": "ashby-41cb2a12-e33a-4368-a9f8-0ae0d19c023e",
