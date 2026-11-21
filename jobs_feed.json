@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-21 03:46 UTC",
+  "lastUpdated": "2026-11-21 06:58 UTC",
   "totalJobs": 373,
   "jobs": [
     {
@@ -30,6 +30,33 @@
       "source": "Strategic Thinking • Nuance"
     },
     {
+      "id": "6b0134f11ab49b62d3c542ec",
+      "title": "Sr. People Systems Analyst, Advanced Comp",
+      "company": "Harvey",
+      "logo": "https://www.google.com/s2/favicons?domain=harvey.ai&sz=64",
+      "category": "Compensation & Benefits",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "AI",
+        "Workday",
+        "Reporting",
+        "Optimization",
+        "Planning",
+        "Payments",
+        "Payroll",
+        "Microsoft Teams"
+      ],
+      "location": "United States",
+      "pay": "$136,000 – $187,000/yr",
+      "date": "Nov 21, 2026",
+      "timestamp": 1795219200,
+      "excerpt": "At Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come.",
+      "applyUrl": "https://jobs.ashbyhq.com/harvey/2adc1183-4d71-4277-871e-314b7669a241/application",
+      "source": "AI • Workday"
+    },
+    {
       "id": "6b00e9921ab49b62d3c50081",
       "title": "Director, Security Engineering",
       "company": "Lyra Health",
@@ -57,6 +84,33 @@
       "source": "Engineering • Research"
     },
     {
+      "id": "6b0134ba1ab49b62d3c53e7c",
+      "title": "Senior Strategic Account Executive, Financials - North Carolina",
+      "company": "Cloudflare",
+      "logo": "https://www.google.com/s2/favicons?domain=cloudflare.com&sz=128",
+      "category": "Account Executive (Mid-Market / Enterprise)",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Economics",
+        "Cloudflare",
+        "Culture",
+        "AI",
+        "Make",
+        "Sales",
+        "Leadership",
+        "Architecture"
+      ],
+      "location": "United States (US: NC)",
+      "pay": "Lihat Detail",
+      "date": "Nov 21, 2026",
+      "timestamp": 1795219200,
+      "excerpt": "At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies.",
+      "applyUrl": "https://job-boards.greenhouse.io/cloudflare/jobs/8402860?gh_jid=8402860",
+      "source": "Economics • Cloudflare"
+    },
+    {
       "id": "6b00e7ef1ab49b62d3c4eccf",
       "title": "Staff Product Manager, Agentic Ads Buying",
       "company": "Reddit",
@@ -82,6 +136,60 @@
       "excerpt": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about.",
       "applyUrl": "https://job-boards.greenhouse.io/reddit/jobs/8400056",
       "source": "AI • Marketing"
+    },
+    {
+      "id": "6b0134ba1ab49b62d3c53e7b",
+      "title": "Senior Strategic Account Executive, Financials - New York",
+      "company": "Cloudflare",
+      "logo": "https://www.google.com/s2/favicons?domain=cloudflare.com&sz=128",
+      "category": "Account Executive (Mid-Market / Enterprise)",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Economics",
+        "Cloudflare",
+        "Culture",
+        "AI",
+        "Make",
+        "Sales",
+        "Leadership",
+        "Architecture"
+      ],
+      "location": "United States (US: NY)",
+      "pay": "$360,000 – $400,000/yr",
+      "date": "Nov 21, 2026",
+      "timestamp": 1795219200,
+      "excerpt": "At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies.",
+      "applyUrl": "https://job-boards.greenhouse.io/cloudflare/jobs/8402822?gh_jid=8402822",
+      "source": "Economics • Cloudflare"
+    },
+    {
+      "id": "6b0134ba1ab49b62d3c53e69",
+      "title": "Senior Majors Account Executive - Michigan",
+      "company": "Cloudflare",
+      "logo": "https://www.google.com/s2/favicons?domain=cloudflare.com&sz=128",
+      "category": "Account Executive (Mid-Market / Enterprise)",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Cloudflare",
+        "Culture",
+        "AI",
+        "Make",
+        "Sales",
+        "Leadership",
+        "Architecture",
+        "Cross-Functional Collaboration"
+      ],
+      "location": "United States (US: MI)",
+      "pay": "Lihat Detail",
+      "date": "Nov 21, 2026",
+      "timestamp": 1795219200,
+      "excerpt": "At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies.",
+      "applyUrl": "https://job-boards.greenhouse.io/cloudflare/jobs/8404438?gh_jid=8404438",
+      "source": "Cloudflare • Culture"
     },
     {
       "id": "6b00e0971ab49b62d3c4b9b6",
@@ -834,7 +942,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5286282007",
+      "id": "gh-5266499007",
       "title": "Data Center Operations Technician - Memphis",
       "company": "xAI",
       "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
@@ -851,7 +959,7 @@
       "date": "Nov 20, 2026",
       "timestamp": 1795216688,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5286282007",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5266499007",
       "source": "⚡ Direct API"
     },
     {
@@ -2420,7 +2528,7 @@
       "date": "Nov 20, 2026",
       "timestamp": 1795132800,
       "excerpt": "Equip is the leading virtual, evidence-based eating disorder treatment program on a mission to ensure that everyone with an eating disorder can access treatment that works.",
-      "applyUrl": "https://jobs.ashbyhq.com/equip/c55be18a-6d8f-4895-8963-f807924482a2/application",
+      "applyUrl": "https://remowork.life/jobs/6b00e0e71ab49b62d3c4bd74/apply-out?ch=card",
       "source": "Insurance • Culture"
     },
     {
@@ -2447,7 +2555,7 @@
       "date": "Nov 20, 2026",
       "timestamp": 1795132800,
       "excerpt": "9amHealth is an AI-enabled virtual specialty care platform focused on managing high-cost chronic conditions at scale. The company partners with employers, health plans, and pharmacy benefit managers to deliver comprehensive, cost-effective medical care for individuals living…",
-      "applyUrl": "https://jobs.ashbyhq.com/join9am/64b3ac72-6476-4709-91b4-15c0fd84e703/application",
+      "applyUrl": "https://remowork.life/jobs/6b00e0fa1ab49b62d3c4bf04/apply-out?ch=card",
       "source": "Pharmacy • Medicine"
     },
     {
@@ -2474,7 +2582,7 @@
       "date": "Nov 20, 2026",
       "timestamp": 1795132800,
       "excerpt": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about.",
-      "applyUrl": "https://job-boards.greenhouse.io/reddit/jobs/8399817",
+      "applyUrl": "https://remowork.life/jobs/6b00e7ef1ab49b62d3c4ec86/apply-out?ch=card",
       "source": "Infrastructure • Organization"
     },
     {
@@ -2501,7 +2609,7 @@
       "date": "Nov 20, 2026",
       "timestamp": 1795132800,
       "excerpt": "Monte Carlo is the agent trust platform that autonomously observes, fixes, and continuously improves agents and the data that powers them — so enterprises can scale trust at the speed of AI.",
-      "applyUrl": "https://jobs.ashbyhq.com/montecarlodata/853632f8-1457-4d95-bd11-8beb5d2bedbc/application",
+      "applyUrl": "https://remowork.life/jobs/6b00e1021ab49b62d3c4bfd9/apply-out?ch=card",
       "source": "Marketing • AI"
     },
     {
@@ -4496,33 +4604,6 @@
       "source": "Tutoring • Data Classification"
     },
     {
-      "id": "6aff91891ab49b62d3c13fc6",
-      "title": "Python Engineer II",
-      "company": "Meta",
-      "logo": "https://www.google.com/s2/favicons?domain=about.meta.com&sz=32",
-      "category": "Python Developer",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Python",
-        "Writing",
-        "Testing",
-        "Debugging",
-        "Procedures",
-        "Programming",
-        "Documentation",
-        "Microsoft Teams"
-      ],
-      "location": "United States",
-      "pay": "$49/hr",
-      "date": "Nov 20, 2026",
-      "timestamp": 1795132800,
-      "excerpt": "The main responsibilities of a Python Engineer include writing and testing code, debugging programs and integrating applications with third-party web services.",
-      "applyUrl": "https://remowork.life/jobs/6aff91891ab49b62d3c13fc6/apply-out?ch=card",
-      "source": "Python • Writing"
-    },
-    {
       "id": "6aff96ba1ab49b62d3c155dd",
       "title": "Demand Generation Coordinator",
       "company": "Tailscale",
@@ -6094,33 +6175,6 @@
       "source": "Economics • Combine"
     },
     {
-      "id": "6aff93881ab49b62d3c148a8",
-      "title": "Staff People Business Partner",
-      "company": "Sanity",
-      "logo": "https://www.google.com/s2/favicons?domain=sanity.io&sz=32",
-      "category": "HR Business Partner",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Operations",
-        "AI",
-        "Microsoft Teams",
-        "Figma",
-        "Leadership",
-        "Logistics",
-        "Investigations",
-        "Communication"
-      ],
-      "location": "United States",
-      "pay": "Lihat Detail",
-      "date": "Nov 19, 2026",
-      "timestamp": 1795046400,
-      "excerpt": "At Sanity.io, we're building the future of AI-powered Content Operations. Our AI Content Operating System gives teams the freedom to model, create, and automate content the way their business works, accelerating digital development and supercharging content operations…",
-      "applyUrl": "https://remowork.life/jobs/6aff93881ab49b62d3c148a8/apply-out?ch=card",
-      "source": "Operations • AI"
-    },
-    {
       "id": "6aff8f2e1ab49b62d3c13ad8",
       "title": "Commercial Sales Engineer- West",
       "company": "Chainguard",
@@ -6737,58 +6791,6 @@
       "excerpt": "You'll own a hybrid enterprise territory: existing customers to grow and renew, plus net-new accounts to win. In the install base, most growth comes from new teams inside an account that already buys from us.",
       "applyUrl": "https://remowork.life/jobs/6aff438a1ab49b62d3c0d61a/apply-out?ch=card",
       "source": "Microsoft Teams • Communication"
-    },
-    {
-      "id": "6b0091421ab49b62d3c46c0b",
-      "title": "Radiologist — Medical Imaging AI Evaluation",
-      "company": "Rise Data Labs",
-      "logo": "https://www.google.com/s2/favicons?domain=risedatalabs.com&sz=32",
-      "category": "AI Expert - Clinical & Medical",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "AI",
-        "Accuracy",
-        "Radiology",
-        "Training",
-        "Reporting",
-        "Medical Imaging",
-        "LLM Evaluation"
-      ],
-      "location": "Remote (Global)",
-      "pay": "$50 – $150/hr",
-      "date": "Nov 19, 2026",
-      "timestamp": 1795046400,
-      "excerpt": "Rise Data Labs is seeking diagnostic radiologists for non-clinical AI evaluation projects. You’ll use de-identified imaging cases to assess whether a model’s findings and impression are supported by the images and clinical context.",
-      "applyUrl": "https://remowork.life/jobs/6b0091421ab49b62d3c46c0b/apply-out?ch=card",
-      "source": "AI • Accuracy"
-    },
-    {
-      "id": "6b0091421ab49b62d3c46c0c",
-      "title": "Join the Rise Data Labs Expert Talent Network",
-      "company": "Rise Data Labs",
-      "logo": "https://www.google.com/s2/favicons?domain=risedatalabs.com&sz=32",
-      "category": "Personal Workflow Evaluator",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "AI",
-        "Training",
-        "Research",
-        "Healthcare",
-        "Engineering",
-        "Finance",
-        "AI Training"
-      ],
-      "location": "Remote (Global)",
-      "pay": "$50 – $150/hr",
-      "date": "Nov 19, 2026",
-      "timestamp": 1795046400,
-      "excerpt": "Rise Data Labs is building a network of experts for future AI training and evaluation projects. This standing application is open to people with hands-on, professional, or research experience in a field they know well.",
-      "applyUrl": "https://remowork.life/jobs/6b0091421ab49b62d3c46c0c/apply-out?ch=card",
-      "source": "AI • Training"
     },
     {
       "id": "ashby-41cb2a12-e33a-4368-a9f8-0ae0d19c023e",
