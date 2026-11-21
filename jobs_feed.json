@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-21 09:44 UTC",
+  "lastUpdated": "2026-11-21 12:47 UTC",
   "totalJobs": 373,
   "jobs": [
     {
@@ -942,7 +942,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5286282007",
+      "id": "gh-5266499007",
       "title": "Data Center Operations Technician - Memphis",
       "company": "xAI",
       "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
@@ -959,7 +959,7 @@
       "date": "Nov 20, 2026",
       "timestamp": 1795216688,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5286282007",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5266499007",
       "source": "⚡ Direct API"
     },
     {
@@ -2316,6 +2316,33 @@
       "source": "Statistics • Microsoft Teams"
     },
     {
+      "id": "6b00e7771ab49b62d3c4e0d2",
+      "title": "Senior Software Engineer, Infrastructure Automation",
+      "company": "ClickHouse",
+      "logo": "https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32",
+      "category": "Infrastructure Engineer",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Infrastructure",
+        "Automation",
+        "Engineering",
+        "Microsoft Teams",
+        "Operations",
+        "Architecture",
+        "AWS",
+        "Google Cloud Platform"
+      ],
+      "location": "Canada, United States",
+      "pay": "$150k – $230k/yr",
+      "date": "Nov 20, 2026",
+      "timestamp": 1795132800,
+      "excerpt": "About the Team The Cloud Platform Infrastructure team builds, defines, and manages the foundational infrastructure blocks and standards powering ClickHouse Cloud end-to-end.",
+      "applyUrl": "https://jobs.ashbyhq.com/clickhouse/03767ebf-9a34-4204-8580-4d720121d5ab/application",
+      "source": "Infrastructure • Automation"
+    },
+    {
       "id": "6b00e9ae1ab49b62d3c50236",
       "title": "MHLS Advisors (7 HC)",
       "company": "Aston Carter",
@@ -2501,7 +2528,7 @@
       "date": "Nov 20, 2026",
       "timestamp": 1795132800,
       "excerpt": "APPLICATION INSTRUCTIONS: If you’ve already completed the 20four7VA Recruiting Process—including the Final Interview—or have previously been contracted by a 20four7VA Client, please make sure to apply via the 20four7VA Team Portal for faster processing.",
-      "applyUrl": "https://20four7va.breezy.hr/p/235f04cfbd3a-cpt-11801-b2b-appointment-setting-virtual-assistant",
+      "applyUrl": "https://remowork.life/jobs/6b00e9661ab49b62d3c4fc92/apply-out?ch=card",
       "source": "Recruiting • Make"
     },
     {
@@ -4116,6 +4143,33 @@
       "excerpt": "The Role We’re looking for a Research Marketing Lead to own how our research, benchmarks, and technical work are positioned, launched, and adopted across the AI ecosystem.",
       "applyUrl": "https://remowork.life/jobs/6ac5e5abd2f3bde811c5e83c/apply-out?ch=card",
       "source": "Research • Marketing"
+    },
+    {
+      "id": "6affed7f1ab49b62d3c1df8b",
+      "title": "Senior Software Engineer - Postgres Engine",
+      "company": "ClickHouse",
+      "logo": "https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32",
+      "category": "Backend Engineer",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "PostgreSQL",
+        "Microsoft Teams",
+        "Automation",
+        "Flexible",
+        "Ruby",
+        "Go",
+        "TypeScript",
+        "C++"
+      ],
+      "location": "United States, Canada, United Kingdom +3 Australia Netherlands India",
+      "pay": "$190k – $260k/yr",
+      "date": "Nov 20, 2026",
+      "timestamp": 1795132800,
+      "excerpt": "ClickHouse is launching a strategic Postgres initiative to extend our developer-first cloud platform, so teams can easily integrate Postgres with ClickHouse and power end-to-end data workflows. We’re looking for a Senior Software Engineer to join the team building this platform.",
+      "applyUrl": "https://remowork.life/jobs/6affed7f1ab49b62d3c1df8b/apply-out?ch=card",
+      "source": "PostgreSQL • Microsoft Teams"
     },
     {
       "id": "6b00e5991ab49b62d3c4d3b9",
@@ -6737,60 +6791,6 @@
       "excerpt": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale.",
       "applyUrl": "https://remowork.life/jobs/6aff92e81ab49b62d3c1438b/apply-out?ch=card",
       "source": "Engineering • Grafana"
-    },
-    {
-      "id": "6aff44381ab49b62d3c0e6af",
-      "title": "AI Assistant Raters - US Based",
-      "company": "Turing",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037261/remowork/companies/turing-logo.webp",
-      "category": "Response Rater",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "AI",
-        "Reasoning",
-        "Healthcare",
-        "Gemini",
-        "Education",
-        "English",
-        "Communication",
-        "History"
-      ],
-      "location": "United States",
-      "pay": "Lihat Detail",
-      "date": "Nov 19, 2026",
-      "timestamp": 1795046400,
-      "excerpt": "Turing’s mission is to accelerate superintelligence to drive real economic progress. Headquartered in San Francisco, Turing works with frontier AI labs to generate high-quality data, evaluations, and reinforcement learning environments that improve model capabilities in coding,…",
-      "applyUrl": "https://remowork.life/jobs/6aff44381ab49b62d3c0e6af/apply-out?ch=card",
-      "source": "AI • Reasoning"
-    },
-    {
-      "id": "6aff438a1ab49b62d3c0d61a",
-      "title": "Enterprise Account Executive-Mid Atlantic",
-      "company": "ClickHouse",
-      "logo": "https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32",
-      "category": "Account Executive (Mid-Market / Enterprise)",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Microsoft Teams",
-        "Communication",
-        "Elasticsearch",
-        "SIEM",
-        "AI",
-        "Sales",
-        "Procurement",
-        "Open Source"
-      ],
-      "location": "United States",
-      "pay": "$280,000 – $330,000/yr",
-      "date": "Nov 19, 2026",
-      "timestamp": 1795046400,
-      "excerpt": "You'll own a hybrid enterprise territory: existing customers to grow and renew, plus net-new accounts to win. In the install base, most growth comes from new teams inside an account that already buys from us.",
-      "applyUrl": "https://remowork.life/jobs/6aff438a1ab49b62d3c0d61a/apply-out?ch=card",
-      "source": "Microsoft Teams • Communication"
     },
     {
       "id": "ashby-41cb2a12-e33a-4368-a9f8-0ae0d19c023e",
