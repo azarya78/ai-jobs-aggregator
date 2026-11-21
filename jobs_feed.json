@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-11-21 18:39 UTC",
+  "lastUpdated": "2026-11-21 21:35 UTC",
   "totalJobs": 372,
   "jobs": [
+    {
+      "id": "6b01e73cdf5388341355ae52",
+      "title": "RTL design changes (Verilog)",
+      "company": "Hashlist",
+      "logo": "https://www.google.com/s2/favicons?domain=hashlist.com&sz=64",
+      "category": "AI Expert - Electrical Engineering",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Verilog",
+        "Make",
+        "Verilator",
+        "Go",
+        "Training",
+        "REST API",
+        "AI",
+        "RTL Design"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$450 per successful submission",
+      "date": "Nov 21, 2026",
+      "timestamp": 1795219200,
+      "excerpt": "Take a working Verilog block and ask for a change an RTL engineer would really be handed. Give the solver the change request and the evidence an engineer would work from: datasheets, timing diagrams, measured waveforms, bus traces, logs. What makes a task we will pay for.",
+      "applyUrl": "https://dop.hashlist.com/b/189233c5-9ac6-4da0-af18-15b91c1ac63a",
+      "source": "Verilog • Make"
+    },
     {
       "id": "6b00ea441ab49b62d3c509b6",
       "title": "Social Media Manager - Rebel Girls",
@@ -2501,7 +2528,7 @@
       "date": "Nov 20, 2026",
       "timestamp": 1795132800,
       "excerpt": "Zip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before.",
-      "applyUrl": "https://jobs.ashbyhq.com/zip/06a0113f-dcf4-46af-a3a3-70718ff81153/application",
+      "applyUrl": "https://remowork.life/jobs/6b00e12a1ab49b62d3c4c4cd/apply-out?ch=card",
       "source": "Workday • AI"
     },
     {
@@ -3367,6 +3394,33 @@
       "excerpt": "Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities.",
       "applyUrl": "https://remowork.life/jobs/6b008bfc1ab49b62d3c43a3c/apply-out?ch=card",
       "source": "Infrastructure • Payments"
+    },
+    {
+      "id": "6b01e745df5388341355aecf",
+      "title": "Account Executive Level 3",
+      "company": "Bloomerang",
+      "logo": "https://www.google.com/s2/favicons?domain=bloomerang.com&sz=64",
+      "category": "Account Executive (Mid-Market / Enterprise)",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Culture",
+        "Leadership",
+        "Sales",
+        "Management",
+        "Accuracy",
+        "Reporting",
+        "Salesforce",
+        "SaaS"
+      ],
+      "location": "United States",
+      "pay": "Lihat Detail",
+      "date": "Nov 20, 2026",
+      "timestamp": 1795132800,
+      "excerpt": "At Bloomerang, we believe change happens on purpose. We champion the power and potential of nonprofits, igniting next-level impact with the team and technology built for purpose.",
+      "applyUrl": "https://remowork.life/jobs/6b01e745df5388341355aecf/apply-out?ch=card",
+      "source": "Culture • Leadership"
     },
     {
       "id": "6b0091731ab49b62d3c46f6e",
@@ -4442,6 +4496,33 @@
       "source": "Make • Empathy"
     },
     {
+      "id": "6b01e284df5388341355729e",
+      "title": "Associate Specialist, Health Information Management",
+      "company": "Ensemble Health Partners",
+      "logo": "https://www.google.com/s2/favicons?domain=ensemblehp.com&sz=32",
+      "category": "Clinical Data Specialist",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Management",
+        "Healthcare",
+        "Culture",
+        "Creativity",
+        "Experimentation",
+        "Analysis",
+        "Assurance",
+        "Compliance"
+      ],
+      "location": "United States",
+      "pay": "Lihat Detail",
+      "date": "Nov 20, 2026",
+      "timestamp": 1795132800,
+      "excerpt": "Thank you for considering a career at Ensemble! Ensemble is a leading provider of technology-enabled revenue cycle management solutions for health systems, including hospitals and affiliated physician groups.",
+      "applyUrl": "https://remowork.life/jobs/6b01e284df5388341355729e/apply-out?ch=card",
+      "source": "Management • Healthcare"
+    },
+    {
       "id": "6b00ea241ab49b62d3c50810",
       "title": "Revenue Cycle Specialist | CA Capitation",
       "company": "Infinx",
@@ -5327,7 +5408,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4751149005",
+      "id": "gh-4751081005",
       "title": "Senior Applied AI Engineer",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -5339,12 +5420,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Kuwait City, Kuwait (+1 lokasi lain)",
+      "location": "London, UK (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Nov 18, 2026",
       "timestamp": 1795048855,
       "excerpt": "About the role Scale's Global Public Sector team is focused on using AI to address critical challenges facing the public sector around the world. As a Senior Applied AI Engineer, you'll own the AI behaviour of production...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751149005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751081005",
       "source": "⚡ Direct API"
     },
     {
@@ -5906,6 +5987,33 @@
       "source": "Manufacturing • Strategic Thinking"
     },
     {
+      "id": "6b01e745df5388341355aed4",
+      "title": "Onboarding Specialist",
+      "company": "Bloomerang",
+      "logo": "https://www.google.com/s2/favicons?domain=bloomerang.com&sz=64",
+      "category": "Onboarding Specialist",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Onboarding",
+        "Culture",
+        "Management",
+        "Microsoft Teams",
+        "Communication",
+        "SaaS",
+        "CRM",
+        "Training"
+      ],
+      "location": "United States",
+      "pay": "$55,000 – $62,000/yr",
+      "date": "Nov 19, 2026",
+      "timestamp": 1795046400,
+      "excerpt": "At Bloomerang, we believe change happens on purpose. We champion the power and potential of nonprofits, igniting next-level impact with the team and technology built for purpose.",
+      "applyUrl": "https://remowork.life/jobs/6b01e745df5388341355aed4/apply-out?ch=card",
+      "source": "Onboarding • Culture"
+    },
+    {
       "id": "6aff8f051ab49b62d3c13642",
       "title": "Forward Deployed Engineer, AI Trust and Reliability",
       "company": "Hopper",
@@ -6445,6 +6553,33 @@
       "source": "Strategic Thinking • Operations"
     },
     {
+      "id": "6b01e745df5388341355aed1",
+      "title": "Customer Support Specialist",
+      "company": "Bloomerang",
+      "logo": "https://www.google.com/s2/favicons?domain=bloomerang.com&sz=64",
+      "category": "Customer Support Specialist",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Culture",
+        "Procedures",
+        "Communication",
+        "Training",
+        "Webinars",
+        "Assurance",
+        "Testing",
+        "Troubleshooting"
+      ],
+      "location": "United States",
+      "pay": "$18 – $25/hr",
+      "date": "Nov 19, 2026",
+      "timestamp": 1795046400,
+      "excerpt": "At Bloomerang, we believe change happens on purpose. We champion the power and potential of nonprofits, igniting next-level impact with the team and technology built for purpose.",
+      "applyUrl": "https://remowork.life/jobs/6b01e745df5388341355aed1/apply-out?ch=card",
+      "source": "Culture • Procedures"
+    },
+    {
       "id": "6aff97631ab49b62d3c16996",
       "title": "Principal Cybersecurity Expert",
       "company": "Turing",
@@ -6656,141 +6791,6 @@
       "excerpt": "Role Title: Senior Hematologist-Oncologist Role Type: Contractor Location: Remote micro1 is engaging Senior Hematologist-Oncologists to contribute their expertise to a customer's innovative healthcare project.",
       "applyUrl": "https://remowork.life/jobs/6aff92db1ab49b62d3c140a7/apply-out?ch=card",
       "source": "Healthcare • AI"
-    },
-    {
-      "id": "6aff98a71ab49b62d3c17984",
-      "title": "Pricing Proposal Analyst",
-      "company": "Aston Carter",
-      "logo": "https://www.google.com/s2/favicons?domain=astoncarter.com&sz=64",
-      "category": "Financial Planning & Analysis (FP&A)",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Compliance",
-        "Cross-Functional Collaboration",
-        "Microsoft Teams",
-        "Audit",
-        "Contracts",
-        "Management",
-        "Documentation",
-        "Organized"
-      ],
-      "location": "United States",
-      "pay": "$34.17 – $48.07/hr",
-      "date": "Nov 19, 2026",
-      "timestamp": 1795046400,
-      "excerpt": "Job Title: Pricing Analyst Power and Controls Military Aftermarket Job Description This fully remote Pricing Analyst role focuses on preparing Military Spares and Repair pricing proposals in strict compliance with government regulations.",
-      "applyUrl": "https://remowork.life/jobs/6aff98a71ab49b62d3c17984/apply-out?ch=card",
-      "source": "Compliance • Cross-Functional Collaboration"
-    },
-    {
-      "id": "6aff8eec1ab49b62d3c132e1",
-      "title": "Solutions Consultant, Post Sales, Strategic",
-      "company": "Ramp",
-      "logo": "https://www.google.com/s2/favicons?domain=ramp.com&sz=128",
-      "category": "Sales Engineer",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Sales",
-        "Infrastructure",
-        "Finance",
-        "Microsoft Teams",
-        "Payments",
-        "FAR",
-        "Management",
-        "Engineering"
-      ],
-      "location": "United States, Canada",
-      "pay": "$217k – $298k/yr",
-      "date": "Nov 19, 2026",
-      "timestamp": 1795046400,
-      "excerpt": "Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends.",
-      "applyUrl": "https://remowork.life/jobs/6aff8eec1ab49b62d3c132e1/apply-out?ch=card",
-      "source": "Sales • Infrastructure"
-    },
-    {
-      "id": "6aff988e1ab49b62d3c17856",
-      "title": "Testing Psychologist - Contract (1099) - Iowa",
-      "company": "Lyra Health",
-      "logo": "https://www.google.com/s2/favicons?domain=lyrahealth.com&sz=64",
-      "category": "Telehealth Therapist / Counsellor",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Testing",
-        "Diagnosis",
-        "Planning",
-        "Microsoft Teams",
-        "Flexible",
-        "Accuracy",
-        "Reporting",
-        "Telemedicine"
-      ],
-      "location": "United States (US: IA)",
-      "pay": "Lihat Detail",
-      "date": "Nov 19, 2026",
-      "timestamp": 1795046400,
-      "excerpt": "Lyra Clinical Associates partners with Lyra Health, a leading provider of evidence-based mental health care, serving more than 20 million people globally in partnership with employers and more than 100 million through health plan and partner relationships.",
-      "applyUrl": "https://remowork.life/jobs/6aff988e1ab49b62d3c17856/apply-out?ch=card",
-      "source": "Testing • Diagnosis"
-    },
-    {
-      "id": "6aff8e861ab49b62d3c12f5a",
-      "title": "Executive Assistant, Product and Marketing",
-      "company": "GitLab",
-      "logo": "https://www.google.com/s2/favicons?domain=about.gitlab.com&sz=128",
-      "category": "C-Suite Executive Assistant",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Marketing",
-        "GitLab",
-        "DevSecOps",
-        "Compliance",
-        "AI",
-        "Culture",
-        "Trademark",
-        "Reporting"
-      ],
-      "location": "Canada, United States",
-      "pay": "$78k – $133k/yr",
-      "date": "Nov 19, 2026",
-      "timestamp": 1795046400,
-      "excerpt": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation.",
-      "applyUrl": "https://remowork.life/jobs/6aff8e861ab49b62d3c12f5a/apply-out?ch=card",
-      "source": "Marketing • GitLab"
-    },
-    {
-      "id": "6aff92e81ab49b62d3c1438b",
-      "title": "Senior Engineering Manager, Grafana Data Visualization | USA | Remote",
-      "company": "Grafana Labs",
-      "logo": "https://www.google.com/s2/favicons?domain=grafana.com&sz=32",
-      "category": "Engineering Manager",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Engineering",
-        "Grafana",
-        "Visualization",
-        "Observability",
-        "AI",
-        "Microsoft Teams",
-        "Salesforce",
-        "Open Source"
-      ],
-      "location": "United States",
-      "pay": "$214,860 – $257,832/yr",
-      "date": "Nov 19, 2026",
-      "timestamp": 1795046400,
-      "excerpt": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale.",
-      "applyUrl": "https://remowork.life/jobs/6aff92e81ab49b62d3c1438b/apply-out?ch=card",
-      "source": "Engineering • Grafana"
     },
     {
       "id": "ashby-41cb2a12-e33a-4368-a9f8-0ae0d19c023e",
