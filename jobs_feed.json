@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-21 15:40 UTC",
-  "totalJobs": 373,
+  "lastUpdated": "2026-11-21 18:39 UTC",
+  "totalJobs": 372,
   "jobs": [
     {
       "id": "6b00ea441ab49b62d3c509b6",
@@ -942,7 +942,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5266499007",
+      "id": "gh-5286282007",
       "title": "Data Center Operations Technician - Memphis",
       "company": "xAI",
       "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
@@ -959,7 +959,7 @@
       "date": "Nov 20, 2026",
       "timestamp": 1795216688,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5266499007",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5286282007",
       "source": "⚡ Direct API"
     },
     {
@@ -7834,27 +7834,6 @@
       "timestamp": 1787913215,
       "excerpt": "ABOUT ELEVENLABS  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users an...",
       "applyUrl": "https://jobs.ashbyhq.com/ElevenLabs/a89a7892-3d9d-40ab-a3f1-1c6ed1f7b84f",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "ashby-2d7f9a7c-a9e6-4877-bb38-34e4d989054c",
-      "title": "Research Engineer - Inference",
-      "company": "ElevenLabs",
-      "logo": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128",
-      "category": "Research & Research Engineering",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Research & Research Engineering",
-        "Direct API"
-      ],
-      "location": "United Kingdom",
-      "pay": "Lihat Detail",
-      "date": "Aug 28, 2026",
-      "timestamp": 1787911959,
-      "excerpt": "ABOUT ELEVENLABS  ElevenLabs is an AI research and product company transforming how we interact with technology.  We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users an...",
-      "applyUrl": "https://jobs.ashbyhq.com/ElevenLabs/2d7f9a7c-a9e6-4877-bb38-34e4d989054c",
       "source": "⚡ Direct API"
     },
     {
