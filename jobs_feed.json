@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-22 12:45 UTC",
+  "lastUpdated": "2026-11-22 15:40 UTC",
   "totalJobs": 372,
   "jobs": [
     {
@@ -990,7 +990,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5286282007",
+      "id": "gh-5266499007",
       "title": "Data Center Operations Technician - Memphis",
       "company": "xAI",
       "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
@@ -1007,7 +1007,7 @@
       "date": "Nov 20, 2026",
       "timestamp": 1795216688,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5286282007",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5266499007",
       "source": "⚡ Direct API"
     },
     {
@@ -3820,6 +3820,33 @@
       "excerpt": "Stripe is a financial infrastructure platform for businesses. Millions of companies — from the world's largest enterprises to the most ambitious startups — use Stripe to accept payments, grow their revenue, and accelerate new business opportunities.",
       "applyUrl": "https://remowork.life/jobs/6b008bfc1ab49b62d3c439d5/apply-out?ch=card",
       "source": "AI • Marketing"
+    },
+    {
+      "id": "6b0090c31ab49b62d3c45e21",
+      "title": "Langfuse - Product Designer",
+      "company": "ClickHouse",
+      "logo": "https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32",
+      "category": "Product Designer",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Langfuse",
+        "AI",
+        "GitHub",
+        "Slack",
+        "Channels",
+        "Precision",
+        "Monitoring",
+        "Make"
+      ],
+      "location": "Germany, Poland, Portugal +7 France United Kingdom Spain Italy Netherlands Switzerland United States (Europe or the eastern US only)",
+      "pay": "Lihat Detail",
+      "date": "Nov 20, 2026",
+      "timestamp": 1795132800,
+      "excerpt": "Your work will shape how engineers build with AI. Langfuse is often the primary interface engineers use to debug, evaluate, and improve their LLM applications. The designs you ship will be used for hours each day by thousands of developers and non-developers.",
+      "applyUrl": "https://remowork.life/jobs/6b0090c31ab49b62d3c45e21/apply-out?ch=card",
+      "source": "Langfuse • AI"
     },
     {
       "id": "6b008e181ab49b62d3c449c2",
@@ -6785,33 +6812,6 @@
       "excerpt": "APPLICATION INSTRUCTIONS: If you’ve already completed the 20four7VA Recruiting Process—including the Final Interview—or have previously been contracted by a 20four7VA Client, please make sure to apply via the 20four7VA Team Portal for faster processing.",
       "applyUrl": "https://remowork.life/jobs/6aff98641ab49b62d3c173f6/apply-out?ch=card",
       "source": "Sales • Recruiting"
-    },
-    {
-      "id": "6aff92db1ab49b62d3c140a7",
-      "title": "Senior Hematologist-Oncologist",
-      "company": "Micro1",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
-      "category": "AI Expert - Clinical & Medical",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Healthcare",
-        "AI",
-        "Documentation",
-        "History",
-        "Annotation",
-        "Templates",
-        "Management",
-        "Planning"
-      ],
-      "location": "Remote (Global)",
-      "pay": "$220 – $250/hr",
-      "date": "Nov 19, 2026",
-      "timestamp": 1795046400,
-      "excerpt": "Role Title: Senior Hematologist-Oncologist Role Type: Contractor Location: Remote micro1 is engaging Senior Hematologist-Oncologists to contribute their expertise to a customer's innovative healthcare project.",
-      "applyUrl": "https://remowork.life/jobs/6aff92db1ab49b62d3c140a7/apply-out?ch=card",
-      "source": "Healthcare • AI"
     },
     {
       "id": "ashby-41cb2a12-e33a-4368-a9f8-0ae0d19c023e",
