@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-11-22 06:58 UTC",
-  "totalJobs": 372,
+  "lastUpdated": "2026-11-22 09:44 UTC",
+  "totalJobs": 373,
   "jobs": [
+    {
+      "id": "ashby-f2bf078d-d104-4a7b-96fd-5187a550f4a0",
+      "title": "Technical Customer Support Specialist",
+      "company": "ElevenLabs",
+      "logo": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128",
+      "category": "Operations",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Operations",
+        "Direct API"
+      ],
+      "location": "Australia",
+      "pay": "Lihat Detail",
+      "date": "Nov 22, 2026",
+      "timestamp": 1795336418,
+      "excerpt": "Technical Customer Support Specialist (Contract, Remote)  Who we are A global team united by curiosity and a shared mission: to be the first choice for AI audio. We're building a new category of technology from the groun...",
+      "applyUrl": "https://jobs.ashbyhq.com/ElevenLabs/f2bf078d-d104-4a7b-96fd-5187a550f4a0",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "6b01e73cdf5388341355ae52",
       "title": "RTL design changes (Verilog)",
@@ -969,7 +990,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-5266499007",
+      "id": "gh-5286282007",
       "title": "Data Center Operations Technician - Memphis",
       "company": "xAI",
       "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
@@ -986,7 +1007,7 @@
       "date": "Nov 20, 2026",
       "timestamp": 1795216688,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5266499007",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5286282007",
       "source": "⚡ Direct API"
     },
     {
