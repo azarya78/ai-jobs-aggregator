@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-22 18:40 UTC",
+  "lastUpdated": "2026-11-22 21:37 UTC",
   "totalJobs": 372,
   "jobs": [
     {
@@ -22,6 +22,33 @@
       "excerpt": "Technical Customer Support Specialist (Contract, Remote)  Who we are A global team united by curiosity and a shared mission: to be the first choice for AI audio. We're building a new category of technology from the groun...",
       "applyUrl": "https://jobs.ashbyhq.com/ElevenLabs/f2bf078d-d104-4a7b-96fd-5187a550f4a0",
       "source": "⚡ Direct API"
+    },
+    {
+      "id": "6b03353c939cea4d63b3302b",
+      "title": "AI Researcher",
+      "company": "KelAI",
+      "logo": "",
+      "category": "Research Scientist (ML)",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "AI",
+        "Finance",
+        "Research",
+        "Quantitative Research",
+        "Reinforcement Learning",
+        "Engineering",
+        "Fine-Tuning",
+        "Optimization"
+      ],
+      "location": "United States, France, United Kingdom +2 Bulgaria Hungary (US: CA)",
+      "pay": "$150k – $350k/yr",
+      "date": "Nov 22, 2026",
+      "timestamp": 1795305600,
+      "excerpt": "KelAI is an AI quantitative finance lab advancing how machines understand markets. Today’s models can explain finance and write research code, but they still struggle to form, test, and revise reliable views of markets.",
+      "applyUrl": "https://www.workatastartup.com/jobs/123434",
+      "source": "AI • Finance"
     },
     {
       "id": "6b01e73cdf5388341355ae52",
@@ -2522,7 +2549,7 @@
       "date": "Nov 20, 2026",
       "timestamp": 1795132800,
       "excerpt": "Equip is the leading virtual, evidence-based eating disorder treatment program on a mission to ensure that everyone with an eating disorder can access treatment that works.",
-      "applyUrl": "https://jobs.ashbyhq.com/equip/b744ac15-f134-4203-adc9-5a86e5e9a4ae/application",
+      "applyUrl": "https://remowork.life/jobs/6b00e0e71ab49b62d3c4bd77/apply-out?ch=card",
       "source": "Telemedicine • Insurance"
     },
     {
@@ -6785,33 +6812,6 @@
       "excerpt": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about.",
       "applyUrl": "https://remowork.life/jobs/6aff972c1ab49b62d3c16470/apply-out?ch=card",
       "source": "Modeling • Microsoft Teams"
-    },
-    {
-      "id": "6aff98641ab49b62d3c173f6",
-      "title": "Sales & Social Media Virtual Assistant",
-      "company": "20four7VA",
-      "logo": "https://www.google.com/s2/favicons?domain=20four7va.com&sz=64",
-      "category": "Marketing / Sales VA",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Sales",
-        "Recruiting",
-        "Make",
-        "Organized",
-        "Consulting",
-        "Sourcing",
-        "Testing",
-        "Compliance"
-      ],
-      "location": "Remote (Global)",
-      "pay": "Lihat Detail",
-      "date": "Nov 19, 2026",
-      "timestamp": 1795046400,
-      "excerpt": "APPLICATION INSTRUCTIONS: If you’ve already completed the 20four7VA Recruiting Process—including the Final Interview—or have previously been contracted by a 20four7VA Client, please make sure to apply via the 20four7VA Team Portal for faster processing.",
-      "applyUrl": "https://remowork.life/jobs/6aff98641ab49b62d3c173f6/apply-out?ch=card",
-      "source": "Sales • Recruiting"
     },
     {
       "id": "ashby-41cb2a12-e33a-4368-a9f8-0ae0d19c023e",
