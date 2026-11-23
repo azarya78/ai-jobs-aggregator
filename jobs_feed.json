@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-11-23 03:57 UTC",
+  "lastUpdated": "2026-11-23 07:23 UTC",
   "totalJobs": 372,
   "jobs": [
+    {
+      "id": "6ada5290f54c649c71fd9ee9",
+      "title": "Mathematics Expert",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "AI Expert - Mathematics",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Mathematics",
+        "Flexible",
+        "AI",
+        "Training",
+        "Problem Solving",
+        "Python",
+        "Algorithms",
+        "Testing"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$80 – $120/hr",
+      "date": "Nov 23, 2026",
+      "timestamp": 1795392000,
+      "excerpt": "Job Type: Contractor (~15 hours per week) Schedule: Flexible—you can choose the hours and days you work, including weekends if desired as long as you're active.",
+      "applyUrl": "https://jobs.micro1.ai/post/9701abf9-febd-4f13-9183-80257478f22a?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "Mathematics • Flexible"
+    },
     {
       "id": "6b039108ef4f5988e2367dd4",
       "title": "Respiratory Health Patients: Paid Study on Daily Condition Management",
@@ -2516,7 +2543,7 @@
       "date": "Nov 20, 2026",
       "timestamp": 1795132800,
       "excerpt": "About the Team The Cloud Platform Infrastructure team builds, defines, and manages the foundational infrastructure blocks and standards powering ClickHouse Cloud end-to-end.",
-      "applyUrl": "https://jobs.ashbyhq.com/clickhouse/03767ebf-9a34-4204-8580-4d720121d5ab/application",
+      "applyUrl": "https://remowork.life/jobs/6b00e7771ab49b62d3c4e0d2/apply-out?ch=card",
       "source": "Infrastructure • Automation"
     },
     {
@@ -3463,33 +3490,6 @@
       "excerpt": "Cloud Data Store (CDS) owns the storage, retrieval, and lifecycle of all workflow data at planet scale. We design the persistence APIs, build storage abstractions that run across cloud vendors, and deliver the observability that lets customers trust their state machines for…",
       "applyUrl": "https://remowork.life/jobs/6b0093a91ab49b62d3c48af4/apply-out?ch=card",
       "source": "APIs • Observability"
-    },
-    {
-      "id": "6ada5290f54c649c71fd9ee9",
-      "title": "Mathematics Expert",
-      "company": "Micro1",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
-      "category": "AI Expert - Mathematics",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Mathematics",
-        "Flexible",
-        "AI",
-        "Training",
-        "Problem Solving",
-        "Python",
-        "Algorithms",
-        "Testing"
-      ],
-      "location": "Remote (Global)",
-      "pay": "$80 – $120/hr",
-      "date": "Nov 20, 2026",
-      "timestamp": 1795132800,
-      "excerpt": "Job Type: Contractor (~15 hours per week) Schedule: Flexible—you can choose the hours and days you work, including weekends if desired as long as you're active.",
-      "applyUrl": "https://remowork.life/jobs/6ada5290f54c649c71fd9ee9/apply-out?ch=card",
-      "source": "Mathematics • Flexible"
     },
     {
       "id": "6b0090b21ab49b62d3c45c07",
@@ -4862,33 +4862,6 @@
       "source": "Ethics • Compliance"
     },
     {
-      "id": "6b00911f1ab49b62d3c466ea",
-      "title": "Sr. Lending and Collections Manager",
-      "company": "Nuvei",
-      "logo": "https://www.google.com/s2/favicons?domain=nuvei.com&sz=32",
-      "category": "Partnerships Manager",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Fintech",
-        "Flexible",
-        "Payments",
-        "Economics",
-        "Management",
-        "Underwriting",
-        "Operations",
-        "Compliance"
-      ],
-      "location": "United States",
-      "pay": "Lihat Detail",
-      "date": "Nov 20, 2026",
-      "timestamp": 1795132800,
-      "excerpt": "The world of payment processing is rapidly evolving, and businesses are looking for loyal and strategic partners to help them grow. Meet Nuvei, the Canadian fintech company accelerating the business of clients around the world.",
-      "applyUrl": "https://remowork.life/jobs/6b00911f1ab49b62d3c466ea/apply-out?ch=card",
-      "source": "Fintech • Flexible"
-    },
-    {
       "id": "6b0091001ab49b62d3c4643b",
       "title": "Korean Product Review Specialist (Remote)",
       "company": "LXT",
@@ -5513,7 +5486,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4589749005",
+      "id": "gh-4650514005",
       "title": "Product Manager of AI Applications, Global Public Sector",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -5525,12 +5498,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Doha, Qatar ; Dubai, UAE (+1 lokasi lain)",
+      "location": "Riyadh, Saudi Arabia (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Nov 18, 2026",
       "timestamp": 1795048855,
       "excerpt": "Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most exciting and quickly expanding teams at Scale. This team is responsible for generating, executing, and fost...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
       "source": "⚡ Direct API"
     },
     {
@@ -5639,7 +5612,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4751081005",
+      "id": "gh-4751149005",
       "title": "Senior Applied AI Engineer",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -5651,12 +5624,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "London, UK (+1 lokasi lain)",
+      "location": "Kuwait City, Kuwait (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Nov 18, 2026",
       "timestamp": 1795048855,
       "excerpt": "About the role Scale's Global Public Sector team is focused on using AI to address critical challenges facing the public sector around the world. As a Senior Applied AI Engineer, you'll own the AI behaviour of production...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751081005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751149005",
       "source": "⚡ Direct API"
     },
     {
@@ -6809,6 +6782,33 @@
       "excerpt": "At Bloomerang, we believe change happens on purpose. We champion the power and potential of nonprofits, igniting next-level impact with the team and technology built for purpose.",
       "applyUrl": "https://remowork.life/jobs/6b01e745df5388341355aed1/apply-out?ch=card",
       "source": "Culture • Procedures"
+    },
+    {
+      "id": "6aff97631ab49b62d3c16996",
+      "title": "Principal Cybersecurity Expert",
+      "company": "Turing",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037261/remowork/companies/turing-logo.webp",
+      "category": "AI Expert - Cybersecurity",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Cybersecurity",
+        "Research",
+        "AI",
+        "Training",
+        "Reasoning",
+        "STEM",
+        "Investigations",
+        "Leadership"
+      ],
+      "location": "Remote (Global)",
+      "pay": "Lihat Detail",
+      "date": "Nov 19, 2026",
+      "timestamp": 1795046400,
+      "excerpt": "Based in San Francisco, California, Turing is the world’s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems.",
+      "applyUrl": "https://remowork.life/jobs/6aff97631ab49b62d3c16996/apply-out?ch=card",
+      "source": "Cybersecurity • Research"
     },
     {
       "id": "ashby-41cb2a12-e33a-4368-a9f8-0ae0d19c023e",
