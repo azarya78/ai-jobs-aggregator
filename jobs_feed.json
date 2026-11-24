@@ -1,7 +1,49 @@
 {
-  "lastUpdated": "2026-11-23 21:47 UTC",
+  "lastUpdated": "2026-11-24 00:57 UTC",
   "totalJobs": 370,
   "jobs": [
+    {
+      "id": "gh-4744402005",
+      "title": "AI Safety Residency — Scale Labs Preparedness & Policy (SLPreP)",
+      "company": "Scale AI",
+      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "Scale AI"
+      ],
+      "location": "United Kingdom; United States",
+      "pay": "Lihat Detail",
+      "date": "Nov 23, 2026",
+      "timestamp": 1795477264,
+      "excerpt": "About the Program The Human Frontier Collective (HFC) brings researchers and scientists together to tackle consequential problems in AI. In partnership with the Preparedness and Policy research team , we are building a s...",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4744402005",
+      "source": "⚡ Direct API"
+    },
+    {
+      "id": "ashby-33dfe3cc-1fd2-4ba3-8c7c-e7e19cd477d7",
+      "title": "Senior Global Benefits Specialist",
+      "company": "Cohere",
+      "logo": "https://www.google.com/s2/favicons?domain=cohere.com&sz=128",
+      "category": "People Operations",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "People Operations",
+        "Direct API"
+      ],
+      "location": "United States",
+      "pay": "Lihat Detail",
+      "date": "Nov 23, 2026",
+      "timestamp": 1795477139,
+      "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/33dfe3cc-1fd2-4ba3-8c7c-e7e19cd477d7",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "gh-4750929005",
       "title": "Data Quality & Operations Lead, Gen AI",
@@ -45,25 +87,31 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4744402005",
-      "title": "AI Safety Residency — Scale Labs Preparedness & Policy (SLPreP)",
-      "company": "Scale AI",
-      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
+      "id": "6a767817b60b4fcb0a0a1c13",
+      "title": "Autodesk Fusion CAM Expert",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "AI Expert - CAD & 3D Modeling",
+      "eligible": false,
       "isIndonesian": false,
-      "isDirect": true,
+      "isDirect": false,
       "skills": [
-        "Direct API",
-        "Scale AI"
+        "CAM",
+        "AI",
+        "Training",
+        "Manufacturing",
+        "Rubrics",
+        "Teaching",
+        "Accuracy",
+        "Communication"
       ],
-      "location": "United Kingdom; United States",
-      "pay": "Lihat Detail",
+      "location": "Remote (Global)",
+      "pay": "$60 – $120/hr",
       "date": "Nov 23, 2026",
-      "timestamp": 1795461585,
-      "excerpt": "About the Program The Human Frontier Collective (HFC) brings researchers and scientists together to tackle consequential problems in AI. In partnership with the Preparedness and Policy research team , we are building a s...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4744402005",
-      "source": "⚡ Direct API"
+      "timestamp": 1795392000,
+      "excerpt": "micro1 is engaging Autodesk Fusion Experts to contribute their advanced technical expertise to a customer’s AI training project focused on manufacturing and digital fabrication. In this role, you'll apply your expertise to help train next-generation AI systems.",
+      "applyUrl": "https://jobs.micro1.ai/post/55e3a797-5ed9-4f99-bfd6-f90947d9b05b?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "CAM • AI"
     },
     {
       "id": "6b04865aae2a0646524b8660",
@@ -710,7 +758,7 @@
       "date": "Nov 23, 2026",
       "timestamp": 1795392000,
       "excerpt": "Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities.",
-      "applyUrl": "https://stripe.com/careers/listing/product-lead-support-experience/8332341",
+      "applyUrl": "https://remowork.life/jobs/6b047f89ae2a0646524b394e/apply-out?ch=card",
       "source": "Infrastructure • Payments"
     },
     {
@@ -5230,7 +5278,7 @@
     },
     {
       "id": "6b00ea621ab49b62d3c50d4c",
-      "title": "Lauch Producer, Business Marketing",
+      "title": "Launch Producer, Business Marketing",
       "company": "OpenAI",
       "logo": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
       "category": "Creative Director (Marketing)",
@@ -5688,33 +5736,6 @@
       "source": "Infrastructure • Payments"
     },
     {
-      "id": "6b008bfc1ab49b62d3c43a3c",
-      "title": "Technical Recruiter, OpenRouter (Fixed Term)",
-      "company": "Stripe",
-      "logo": "https://www.google.com/s2/favicons?domain=stripe.com&sz=128",
-      "category": "Recruiter (Tech)",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Infrastructure",
-        "Payments",
-        "AI",
-        "Microsoft Teams",
-        "Recruiting",
-        "Sales",
-        "Architecture",
-        "Marketing"
-      ],
-      "location": "United States",
-      "pay": "$115,000 – $172,600/yr",
-      "date": "Nov 20, 2026",
-      "timestamp": 1795132800,
-      "excerpt": "Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities.",
-      "applyUrl": "https://remowork.life/jobs/6b008bfc1ab49b62d3c43a3c/apply-out?ch=card",
-      "source": "Infrastructure • Payments"
-    },
-    {
       "id": "ashby-41b892ba-b530-44cb-9ae1-178908fc324c",
       "title": "Data Scientist - Product Analytics",
       "company": "ElevenLabs",
@@ -6156,7 +6177,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4589749005",
+      "id": "gh-4650514005",
       "title": "Product Manager of AI Applications, Global Public Sector",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -6168,33 +6189,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Doha, Qatar ; Dubai, UAE (+1 lokasi lain)",
+      "location": "Riyadh, Saudi Arabia (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Nov 18, 2026",
       "timestamp": 1795048855,
       "excerpt": "Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most exciting and quickly expanding teams at Scale. This team is responsible for generating, executing, and fost...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-4695042005",
-      "title": "Research Advisor - Human Frontier Collective (UK)",
-      "company": "Scale AI",
-      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "Scale AI"
-      ],
-      "location": "United Kingdom",
-      "pay": "Lihat Detail",
-      "date": "Nov 18, 2026",
-      "timestamp": 1795048855,
-      "excerpt": "About the Program The Human Frontier Collective (HFC) brings together top researchers and domain experts to collaborate on high-impact work that are shaping the future of AI. As an HFC Research Advisor, you’ll apply your...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4695042005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
       "source": "⚡ Direct API"
     },
     {
