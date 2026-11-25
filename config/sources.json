@@ -10,7 +10,7 @@
       "logo": "https://www.google.com/s2/favicons?domain=welodata.ai&sz=128",
       "pure_ai_eval_board": true,
       "enabled": true,
-      "rate_limit_rps": 2.0,
+      "rate_limit_rps": 2,
       "timeout_sec": 20,
       "notes": "Official Welo Data / Welocalize AI training & rating board (slug: weloglobal, ~197 roles Nov 2026). Corporate Welocalize uses Workday and is separate."
     },
@@ -23,7 +23,7 @@
       "logo": "https://www.google.com/s2/favicons?domain=rws.com&sz=128",
       "pure_ai_eval_board": false,
       "enabled": true,
-      "rate_limit_rps": 2.0,
+      "rate_limit_rps": 2,
       "timeout_sec": 20,
       "notes": "Official RWS TrainAI Community job board on Lever (~135 AI Data Specialist / Search Evaluator postings Nov 2026)."
     },
@@ -37,7 +37,7 @@
       "logo": "https://www.google.com/s2/favicons?domain=outlier.ai&sz=128",
       "pure_ai_eval_board": true,
       "enabled": true,
-      "rate_limit_rps": 2.0,
+      "rate_limit_rps": 2,
       "timeout_sec": 25,
       "notes": "Official Outlier (Scale AI) Greenhouse Job Board API; IDs map 1:1 to app.outlier.ai/opportunities/{id}."
     },
@@ -50,7 +50,7 @@
       "logo": "https://www.google.com/s2/favicons?domain=crowdgen.com&sz=128",
       "pure_ai_eval_board": false,
       "enabled": true,
-      "rate_limit_rps": 2.0,
+      "rate_limit_rps": 2,
       "timeout_sec": 20,
       "notes": "Official Appen SmartRecruiters public REST API for crowd/linguistic roles. Private app.crowdgen.com contributor dashboard is never scraped."
     },
@@ -64,7 +64,7 @@
       "logo": "https://www.google.com/s2/favicons?domain=transperfect.com&sz=128",
       "pure_ai_eval_board": false,
       "enabled": true,
-      "rate_limit_rps": 1.0,
+      "rate_limit_rps": 1,
       "timeout_sec": 20,
       "notes": "Official DataForce / TransPerfect Community Teamtailor board (~206 roles including Indonesia SME/annotation projects; filters out local recruiter roles)."
     },
@@ -73,12 +73,12 @@
       "platform": "Mercor",
       "official_url": "https://work.mercor.com/explore",
       "api_endpoint": "https://work.mercor.com/sitemap.xml",
-      "html_endpoint": "https://work.mercor.com/",
+      "html_endpoint": "https://work.mercor.com/explore",
       "method": "mercor_public_web",
       "logo": "https://www.google.com/s2/favicons?domain=mercor.com&sz=128",
       "pure_ai_eval_board": false,
       "enabled": true,
-      "rate_limit_rps": 1.0,
+      "rate_limit_rps": 1,
       "timeout_sec": 20,
       "notes": "Public Mercor opportunities & talent networks on work.mercor.com; skips closed listings marked 'no longer accepting applications'."
     },
@@ -91,7 +91,7 @@
       "logo": "https://www.google.com/s2/favicons?domain=micro1.ai&sz=128",
       "pure_ai_eval_board": false,
       "enabled": true,
-      "rate_limit_rps": 1.0,
+      "rate_limit_rps": 1,
       "timeout_sec": 20,
       "notes": "Public Micro1 AI Trainer & Domain Expert opportunities listing linking to jobs.micro1.ai/post/{uuid}."
     },
@@ -104,7 +104,7 @@
       "logo": "https://www.google.com/s2/favicons?domain=alignerr.com&sz=128",
       "pure_ai_eval_board": true,
       "enabled": true,
-      "rate_limit_rps": 1.0,
+      "rate_limit_rps": 1,
       "timeout_sec": 20,
       "notes": "Official Alignerr (Labelbox) public contract roles page (www.alignerr.com/jobs/{uuid})."
     },
@@ -118,7 +118,7 @@
       "logo": "https://www.google.com/s2/favicons?domain=oneforma.com&sz=128",
       "pure_ai_eval_board": true,
       "enabled": true,
-      "rate_limit_rps": 1.0,
+      "rate_limit_rps": 1,
       "timeout_sec": 20,
       "notes": "Public OneForma job board (migrated from legacy jobs.oneforma.com to www.oneforma.com/jobs/). Probes WP REST API first, falls back to public HTML cards."
     },
@@ -144,7 +144,7 @@
       "logo": "https://www.google.com/s2/favicons?domain=mindrift.ai&sz=128",
       "pure_ai_eval_board": true,
       "enabled": true,
-      "rate_limit_rps": 1.0,
+      "rate_limit_rps": 1,
       "timeout_sec": 20,
       "notes": "Consolidated Toloka contributor platform on mindrift.ai/apply (public active projects list)."
     },
@@ -157,7 +157,7 @@
       "logo": "https://www.google.com/s2/favicons?domain=imerit.ai&sz=128",
       "pure_ai_eval_board": false,
       "enabled": true,
-      "rate_limit_rps": 1.0,
+      "rate_limit_rps": 1,
       "timeout_sec": 20,
       "notes": "Public iMerit careers listing (filters for Independent Contractor / Scholar GenAI annotation & domain expert roles)."
     },
@@ -170,7 +170,7 @@
       "logo": "https://www.google.com/s2/favicons?domain=afterquery.com&sz=128",
       "pure_ai_eval_board": false,
       "enabled": true,
-      "rate_limit_rps": 2.0,
+      "rate_limit_rps": 2,
       "timeout_sec": 20,
       "notes": "Official AfterQuery Ashby API; corporate SF SWE roles are rejected by relevance/eligibility filter, retaining remote expert evaluation roles."
     },
@@ -183,7 +183,7 @@
       "logo": "https://www.google.com/s2/favicons?domain=invisible.co&sz=128",
       "pure_ai_eval_board": false,
       "enabled": true,
-      "rate_limit_rps": 2.0,
+      "rate_limit_rps": 2,
       "timeout_sec": 20,
       "notes": "Official Invisible Technologies Greenhouse API; retains only AI Trainer / RLHF / Evaluation Specialist roles."
     }
