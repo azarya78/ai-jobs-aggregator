@@ -169,6 +169,21 @@ def normalize_raw_listing(
 
     official_date = normalize_iso_date(cleaned_raw.official_posted_at)
 
+    requirements = []
+    if re.search(r"\bbilingual\b|\bSME Task Creator\b|\bVoice Recording Contributor\b", cleaned_raw.title, re.I):
+        requirements.append(cleaned_raw.title)
+    language_line = re.search(r"\bRequired Languages?\s*:\s*([A-Z][a-z]+(?: (?:and|&) [A-Z][a-z]+)?)", clean_desc)
+    if language_line:
+        requirements.append(language_line.group())
+    for match in re.finditer(
+        r"\b(?:native or near-native fluency in|business-level written|native fluency in|"
+        r"a bachelor['’]s degree|at least \d+ years? of experience)"
+        r"[^.!?;:]{0,125}(?=[.!?;:]|$|\s)", clean_desc, re.I
+    ):
+        requirements.append(match.group().strip())
+        if len(requirements) >= 3:
+            break
+
     record = NormalizedJobRecord(
         canonical_id=canonical_id,
         source_job_id=cleaned_raw.source_job_id or canonical_id.split(":", 1)[-1],
@@ -195,5 +210,6 @@ def normalize_raw_listing(
         job_status=STATUS_NEW,
         source_connector=cleaned_raw.source_connector,
         collected_at=collected_at_iso,
+        requirements_evidence=requirements,
     )
     return record, relevance, eligibility

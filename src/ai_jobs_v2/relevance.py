@@ -64,6 +64,7 @@ CATEGORY_RULES: List[Tuple[str, List[str]]] = [
         [
             r"\b(audio|speech|voice)\s+(quality\s+|conversation\s+)?(evaluat|rater|qa|annotat|transcri|collect|recording\s+contributor|recording\s+specialist)\b",
             r"\bpronunciation\s+assessment\s+annotat",
+            r"\b(?:audio|speech)\s+transcription\s+(?:reviewer|rater|adjudicator|annotator)\b",
             r"\basr[- ]generated\s+transcripts\b",
             r"\baudio\s+artifacts\b",
             r"\btrain\s+generative\s+ai\s+voice\s+models\b",
@@ -162,7 +163,7 @@ CORPORATE_TITLE_EXCLUSIONS = [
     r"\b(account\s+executive|business\s+development|sales\s+enablement|sales\s+representative|sales\s+agents?)\b",
     r"\b(marketing\s+manager|performance\s+marketing|content\s+marketer|growth\s+marketer)\b",
     r"\b(recruiter|talent\s+acquisition|sourcer|people\s+operations|hr\s+manager)\b",
-    r"\b(it\s+manager|corporate\s+it|legal\s+counsel|general\s+counsel|payroll|controller|accountant)\b",
+    r"\b(it\s+manager|corporate\s+it|it\s+support|help\s*desk|administrative\s+assistant|legal\s+counsel|general\s+counsel|payroll|controller|accountant)\b",
     r"\b(project\s+manager|program\s+manager|project\s+maanger|strategic\s+projects?\s+lead|engagement\s+manager|founder['']?s\s+office)\b",
     r"\b(cuda|gpu\s+programming|kernel)\b.*\bengineer\b",
 ]
@@ -192,7 +193,20 @@ def classify_relevance(raw: RawJobListing) -> RelevanceResult:
     desc = (raw.description_text or "").strip()
     dept = (raw.department or "").strip()
     emp_type = (raw.employment_type or "").strip().lower()
-    combined = f"{title}\n{dept}\n{desc}"
+    # Lever posts can start with the employer's services before the actual vacancy.
+    if raw.source_connector.startswith("lever_") and re.search(r"\bas a trusted global transformation partner\b", desc, re.I):
+        sections = re.split(r"\bOVERVIEW\b", desc, maxsplit=1)
+        desc = sections[-1]
+    combined = f"{title}\n{desc}"
+
+    if re.search(r"\b(?:not an active job opening|not (?:an? )?(?:active|current) vacancy)\b", desc, re.I):
+        return RelevanceResult(False, "Future opportunities", rejection_reason="talent_pool")
+
+    if re.search(r"\b(?:linguist|translator)\b", title, re.I) and not re.search(
+        r"\b(?:ai|llm|annotation|evaluat\w*|quality rat\w*|post[- ]edit\w*|machine translation|mtpe)\b",
+        combined, re.I,
+    ):
+        return RelevanceResult(False, "Translation services", rejection_reason="translation_only")
 
     if not title:
         return RelevanceResult(is_relevant=False, category="Irrelevant", rejection_reason="empty_title")

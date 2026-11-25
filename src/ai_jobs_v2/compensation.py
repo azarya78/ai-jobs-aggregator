@@ -19,10 +19,10 @@ CURRENCY_MAP = {
 RANGE_PATTERN = re.compile(
     r"(?P<prefix>up\s+to\s+)?"
     r"(?P<c1>US\$|\$|€|£|USD|EUR|GBP|IDR|Rp)?\s*"
-    r"(?P<v1>\d{1,3}(?:,\d{3})*(?:\.\d+)?|\d+(?:\.\d+)?)(?P<k1>[kK])?"
+    r"(?P<v1>\d{1,3}(?:,\d{3})+(?:\.\d+)?|\d+(?:\.\d+)?)(?P<k1>[kK])?"
     r"(?:\s*(?:-|–|to)\s*"
     r"(?P<c2>US\$|\$|€|£|USD|EUR|GBP|IDR|Rp)?\s*"
-    r"(?P<v2>\d{1,3}(?:,\d{3})*(?:\.\d+)?|\d+(?:\.\d+)?)(?P<k2>[kK])?)?"
+    r"(?P<v2>\d{1,3}(?:,\d{3})+(?:\.\d+)?|\d+(?:\.\d+)?)(?P<k2>[kK])?)?"
     r"\s*(?P<c3>USD|EUR|GBP|IDR)?"
     r"(?:\s*(?:/|per[\s\-]+)?\s*(?P<unit>hour(?:\s*-?\s*wage)?|hr|h|jam|task|approved\s+asset|approved\s+task|unit|item|prompt|session|project|one-time|one\s+time|month(?:\s*-?\s*salary)?|mo|year(?:\s*-?\s*salary)?|yr|annum))?",
     re.IGNORECASE,
@@ -74,7 +74,7 @@ def parse_compensation(raw_comp: str, fallback_text: str = "") -> CompensationIn
     source_text = (raw_comp or "").strip()
     if not source_text and fallback_text:
         pay_line_match = re.search(
-            r"(?:pay|rate|earn|compensation|salary(?:\s+range)?|tarif[^\n.;]{0,40}?rata-rata)\s*[:\-]?\s*([^\n.;]{3,65})",
+            r"\b(?:pay|rate|earn|compensation|salary(?:\s+range)?|tarif[^\n.;]{0,40}?rata-rata)\s*[:\-]?\s*([^\n;]{3,65})",
             fallback_text,
             re.IGNORECASE,
         )
@@ -89,6 +89,12 @@ def parse_compensation(raw_comp: str, fallback_text: str = "") -> CompensationIn
                 used_fallback = True
 
     if not source_text:
+        unit_only = re.search(
+            r"\b(?:paid|fixed rate) per (?:approved (?:asset|task)|task)\b",
+            fallback_text, re.I,
+        )
+        if unit_only:
+            return CompensationInfo(unit="per_task", raw_text=unit_only.group())
         return CompensationInfo()
 
     # Normalize comma decimals in explicit currency phrases like "USD $7,50 per jam" (not thousands like "$1,600")
@@ -111,7 +117,7 @@ def parse_compensation(raw_comp: str, fallback_text: str = "") -> CompensationIn
     for m in RANGE_PATTERN.finditer(normalized_for_match):
         c_raw = m.group("c1") or m.group("c2") or m.group("c3") or ""
         unit_raw = m.group("unit")
-        if not c_raw and not unit_raw and not has_currency:
+        if not c_raw and not unit_raw:
             continue
 
         v1 = _to_float(m.group("v1"), m.group("k1"))
@@ -122,8 +128,6 @@ def parse_compensation(raw_comp: str, fallback_text: str = "") -> CompensationIn
         currency = CURRENCY_MAP.get(c_raw.lower(), "USD" if ("$" in normalized_source or "usd" in normalized_source.lower()) else None)
         unit = _normalize_unit(unit_raw, normalized_source)
 
-        if unit is None and v1 >= 50000 and currency in ("USD", "EUR", "GBP"):
-            unit = "annual"
 
         is_up_to = bool(m.group("prefix")) or "up to" in normalized_source.lower()
         if v2 is not None:

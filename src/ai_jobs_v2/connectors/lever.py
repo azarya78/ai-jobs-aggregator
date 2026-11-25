@@ -50,8 +50,12 @@ class LeverConnector(BaseConnector):
                 new_on_page += 1
 
                 cats: Dict[str, Any] = item.get("categories") or {}
+                alternate_locations = cats.get("allLocations")
+                if not isinstance(alternate_locations, list):
+                    alternate_locations = []
                 loc_parts = [
                     str(cats.get("location") or "").strip(),
+                    *(place.strip() for place in alternate_locations if isinstance(place, str)),
                     str(item.get("country") or "").strip(),
                     str(item.get("workplaceType") or "").strip(),
                 ]
@@ -69,7 +73,7 @@ class LeverConnector(BaseConnector):
                 comp_raw = ""
                 sal = item.get("salaryRange")
                 if isinstance(sal, dict) and (sal.get("min") or sal.get("max")):
-                    cur = sal.get("currency") or "USD"
+                    cur = sal.get("currency") or ""
                     raw_interval = str(sal.get("interval") or "").strip()
                     interval = INTERVAL_NORMALIZE.get(raw_interval.lower(), raw_interval)
                     smin, smax = sal.get("min"), sal.get("max")

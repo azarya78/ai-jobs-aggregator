@@ -59,9 +59,11 @@ def _format_rate_range(
     def _fmt(v: float) -> str:
         return str(int(v)) if v == int(v) else f"{v:.2f}".rstrip("0").rstrip(".")
 
-    unit_lbl = "hr"
+    unit_lbl = ""
     p_low = (period or "").lower()
-    if "task" in p_low:
+    if p_low in ("h", "hr", "hour", "hourly", "per-hour-wage"):
+        unit_lbl = "hr"
+    elif "task" in p_low:
         unit_lbl = "task"
     elif "one" in p_low or "project" in p_low:
         unit_lbl = "project"
@@ -70,11 +72,12 @@ def _format_rate_range(
     elif "month" in p_low or "mo" in p_low:
         unit_lbl = "month"
 
+    suffix = f" / {unit_lbl}" if unit_lbl else ""
     if vmin is not None and vmax is not None and vmin != vmax:
         lo, hi = min(vmin, vmax), max(vmin, vmax)
-        return f"{currency_prefix}{_fmt(lo)} - {currency_prefix}{_fmt(hi)} / {unit_lbl}"
+        return f"{currency_prefix}{_fmt(lo)} - {currency_prefix}{_fmt(hi)}{suffix}"
     val = vmax if vmax is not None else vmin
-    return f"{currency_prefix}{_fmt(val)} / {unit_lbl}"  # type: ignore[arg-type]
+    return f"{currency_prefix}{_fmt(val)}{suffix}"  # type: ignore[arg-type]
 
 
 class MercorConnector(BaseConnector):
@@ -154,11 +157,11 @@ class MercorConnector(BaseConnector):
 
         comp_raw = str(jb.get("rate") or jb.get("pay") or jb.get("compensation") or "").strip()
         if isinstance(jb.get("rate"), (int, float)):
-            comp_raw = _format_rate_range(jb.get("rate"), jb.get("rate"), str(jb.get("ratePeriod") or jb.get("rate_period") or "hourly"))
+            comp_raw = _format_rate_range(jb.get("rate"), jb.get("rate"), str(jb.get("ratePeriod") or jb.get("rate_period") or ""))
         if not comp_raw:
             rmin = jb.get("rateMin") if jb.get("rateMin") is not None else jb.get("rate_min")
             rmax = jb.get("rateMax") if jb.get("rateMax") is not None else jb.get("rate_max")
-            period = str(jb.get("ratePeriod") or jb.get("rate_period") or jb.get("commitment") or "hourly")
+            period = str(jb.get("ratePeriod") or jb.get("rate_period") or "")
             comp_raw = _format_rate_range(rmin, rmax, period)
 
         desc_parts = [
@@ -171,10 +174,6 @@ class MercorConnector(BaseConnector):
         if isinstance(tags, list) and tags:
             desc_parts.append(" ".join(str(t) for t in tags if t))
         desc_text = "\n".join(p.strip() for p in desc_parts if p and p.strip())
-        if not desc_text:
-            # Mercor's work.mercor.com/explore marketplace lists human AI training & evaluation contracts
-            desc_text = f"{title}. Train and evaluate frontier AI models using domain expertise on Mercor."
-
         posted_raw = jb.get("createdAt") or jb.get("created_at") or jb.get("publishedAt") or jb.get("postedAt")
         return RawJobListing(
             source_connector=self.source_id,
@@ -254,10 +253,6 @@ class MercorConnector(BaseConnector):
             m_pay = re.search(r"\$\d+(?:\s*-\s*\$?\d+|\s*-\s*\d+)?\s*/\s*(?:hour|hr|task)", card_text, re.IGNORECASE)
             comp_raw = m_pay.group(0) if m_pay else ""
 
-            desc_text = card_text
-            if len(card_text) < 120:
-                desc_text = f"{card_text}. Train and evaluate frontier AI models on Mercor."
-
             by_id[jid] = RawJobListing(
                 source_connector=self.source_id,
                 platform=self.platform,
@@ -266,7 +261,7 @@ class MercorConnector(BaseConnector):
                 official_source_url=full_url,
                 raw_apply_url=full_url,
                 location_raw="Remote",
-                description_text=desc_text,
+                description_text=card_text,
                 compensation_raw=comp_raw,
                 logo_url=self.logo,
                 pure_ai_eval_board=self.pure_ai_eval_board,

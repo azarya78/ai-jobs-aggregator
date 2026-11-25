@@ -140,7 +140,7 @@ class TestAPIConnectorsAndPagination(unittest.TestCase):
                     {
                         "id": "lev-id-1",
                         "text": "Crux - Video and Audio Raters - Indonesian (Indonesia)",
-                        "categories": {"location": "Remote", "commitment": "Freelance"},
+                        "categories": {"location": "Remote", "allLocations": ["Remote", "Bandung"], "commitment": "Freelance"},
                         "country": "Indonesia",
                         "workplaceType": "remote",
                         "descriptionPlain": "Evaluate short video and audio clips in Bahasa Indonesia.",
@@ -173,6 +173,7 @@ class TestAPIConnectorsAndPagination(unittest.TestCase):
         self.assertEqual(calls[1]["skip"], 2)
         self.assertEqual(len(listings), 1)
         self.assertEqual(listings[0].source_job_id, "lev-id-1")
+        self.assertIn("Bandung", listings[0].location_raw)
         self.assertIn("Indonesia", listings[0].location_raw)
         self.assertEqual(listings[0].compensation_raw, "USD 4 / hour")
 

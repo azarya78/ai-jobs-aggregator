@@ -50,8 +50,6 @@ GLOBAL_ELIGIBLE_PATTERNS = [
     r"\bopen\s+(?:worldwide|globally|to\s+all\s+countries|to\s+every\s+country|to\s+(?:applicants?|candidates?|contributors?)\s+worldwide)\b",
     r"\bremote\s*[-\u2013\u2014()]+\s*(?:worldwide|global)\b",
     r"\bwork\s+from\s+anywhere\s+in\s+the\s+world\b",
-    r"\bacross\s+1[5-9]\d\+?\s+countries\b",
-    r"\bfreelancers\s+from\s+all\s+over\s+the\s+world\b",
     r"\bapplicants\s+based\s+elsewhere\s+are\s+welcome\b",
     r"\bno\s+geographic(?:al)?\s+restrictions\b",
 ]
@@ -223,6 +221,12 @@ def classify_eligibility(raw: RawJobListing) -> EligibilityResult:
                 is_indonesian_language=is_id_lang,
             )
 
+    legal_lock = re.search(
+        r"\b(?:w-2 only|us work authorization required|must be authorized to work in (?:the )?(?:u\.?s\.?|united states)\b)", desc, re.I
+    )
+    if legal_lock:
+        return EligibilityResult(ELIGIBILITY_RESTRICTED, "high", legal_lock.group(), is_id_lang)
+
     loc_has_indonesia = _contains_indonesia(loc)
     body_has_indonesia_residency = any(
         re.search(pat, desc, re.IGNORECASE) for pat in INDONESIA_BODY_ELIGIBLE_PATTERNS
@@ -299,17 +303,19 @@ def classify_eligibility(raw: RawJobListing) -> EligibilityResult:
                 is_indonesian_language=is_id_lang,
             )
 
+    # A language label such as "Bahasa Indonesia" identifies no work location.
+    geographic_title = re.sub(r"\bBahasa Indonesia\b", "", title, flags=re.I)
     for pat in INDONESIA_LOCATION_PATTERNS:
-        m = re.search(pat, f"{loc}\n{title}", re.IGNORECASE | re.MULTILINE)
+        m = re.search(pat, f"{loc}\n{geographic_title}", re.IGNORECASE | re.MULTILINE)
         if m:
             return EligibilityResult(
                 classification=ELIGIBILITY_INDONESIA,
                 confidence="high",
                 evidence=f"Explicit Indonesia location metadata/title: '{m.group(0).strip()}' (Location: '{loc or 'N/A'}')",
-                is_indonesian_language=True,
+                is_indonesian_language=is_id_lang,
             )
 
-    for pat in INDONESIA_BODY_ELIGIBLE_PATTERNS:
+    for pat in INDONESIA_BODY_ELIGIBLE_PATTERNS[:5]:
         m = re.search(pat, desc, re.IGNORECASE)
         if m:
             matched_id_clause = re.sub(r"\s+", " ", m.group(0)).strip()[:140]
@@ -317,34 +323,32 @@ def classify_eligibility(raw: RawJobListing) -> EligibilityResult:
                 classification=ELIGIBILITY_INDONESIA,
                 confidence="high",
                 evidence=f"Description confirms Indonesia residency eligibility: '{matched_id_clause}'",
-                is_indonesian_language=True,
+                is_indonesian_language=is_id_lang,
             )
 
-    has_us_tax_lock = bool(
-        re.search(
-            r"\b(w-2\s+only|us\s+work\s+authorization\s+required|must\s+be\s+authorized\s+to\s+work\s+in\s+the\s+u\.?s\.?)\b",
-            desc,
-            re.IGNORECASE,
-        )
+    approved = re.search(
+        r"candidates must be physically located in one of the approved countries[.:\s]+approved countries:\s*([^.!?]+)", desc, re.I
     )
-    if not has_us_tax_lock:
-        if loc and GLOBAL_LOCATION_EXACT_PATTERN.match(loc):
+    if approved and _contains_indonesia(approved[1]) and not _find_non_id_location_mention(loc, True):
+        return EligibilityResult(ELIGIBILITY_INDONESIA, "high", approved.group()[:350], is_id_lang)
+
+    if loc and GLOBAL_LOCATION_EXACT_PATTERN.match(loc):
+        return EligibilityResult(
+            classification=ELIGIBILITY_GLOBAL,
+            confidence="high",
+            evidence=f"Explicit global location metadata: '{loc}'",
+            is_indonesian_language=is_id_lang,
+        )
+    for gpat in GLOBAL_ELIGIBLE_PATTERNS:
+        gm = re.search(gpat, desc, re.IGNORECASE)
+        if gm:
+            matched_global_clause = re.sub(r"\s+", " ", gm.group(0)).strip()
             return EligibilityResult(
                 classification=ELIGIBILITY_GLOBAL,
                 confidence="high",
-                evidence=f"Explicit global location metadata: '{loc}'",
+                evidence=f"Verified global remote clause: '{matched_global_clause}'",
                 is_indonesian_language=is_id_lang,
             )
-        for gpat in GLOBAL_ELIGIBLE_PATTERNS:
-            gm = re.search(gpat, f"{loc}\n{desc}", re.IGNORECASE)
-            if gm:
-                matched_global_clause = re.sub(r"\s+", " ", gm.group(0)).strip()
-                return EligibilityResult(
-                    classification=ELIGIBILITY_GLOBAL,
-                    confidence="high",
-                    evidence=f"Verified global remote clause: '{matched_global_clause}'",
-                    is_indonesian_language=is_id_lang,
-                )
 
     for rpat in REGIONAL_AMBIGUOUS_PATTERNS:
         rm = re.search(rpat, f"{loc}\n{desc}", re.IGNORECASE)

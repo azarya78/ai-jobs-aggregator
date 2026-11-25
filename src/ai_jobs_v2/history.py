@@ -8,6 +8,9 @@ from typing import Dict, List, Set, Tuple, Any, Optional
 from .models import (
     NormalizedJobRecord,
     CompensationInfo,
+    ELIGIBILITY_INDONESIA,
+    ELIGIBILITY_GLOBAL,
+    ELIGIBILITY_RESTRICTED,
     STATUS_NEW,
     STATUS_EXISTING,
     STATUS_UPDATED,
@@ -60,6 +63,7 @@ class JobHistoryStore:
         failed_connectors: Set[str],
         run_timestamp_iso: str,
         unverified_records: Optional[List[NormalizedJobRecord]] = None,
+        withheld_records: Optional[Dict[str, str]] = None,
     ) -> Tuple[List[NormalizedJobRecord], DeduplicationSummary]:
         summary = DeduplicationSummary(total_input_records=len(incoming_records))
 
@@ -77,6 +81,8 @@ class JobHistoryStore:
             if rec.canonical_id not in self.records and rec.apply_url and rec.apply_url in url_to_existing_cid:
                 rec.canonical_id = url_to_existing_cid[rec.apply_url]
 
+            if rec.canonical_id in explicitly_closed_ids:
+                continue
             if rec.canonical_id in seen_canonical_ids:
                 summary.duplicates_collapsed += 1
                 continue
@@ -141,6 +147,17 @@ class JobHistoryStore:
             self.records[cid] = entry
             seen_canonical_ids.add(cid)
 
+        # These jobs are still listed. Keep their identities across changes of scope.
+        for cid, reason in (withheld_records or {}).items():
+            if cid in seen_canonical_ids or cid in explicitly_closed_ids or cid not in self.records:
+                continue
+            entry = self.records[cid]
+            entry.update(job_status=STATUS_UNVERIFIED, withheld_reason=reason, last_verified_at=run_timestamp_iso)
+            entry.pop("closed_at", None)
+            if reason == ELIGIBILITY_RESTRICTED:
+                entry["eligibility_class"] = reason
+            seen_canonical_ids.add(cid)
+
         for closed_cid in explicitly_closed_ids:
             if closed_cid in self.records and self.records[closed_cid].get("job_status") != STATUS_CLOSED:
                 self.records[closed_cid]["job_status"] = STATUS_CLOSED
@@ -158,6 +175,8 @@ class JobHistoryStore:
                     entry["job_status"] = STATUS_UNVERIFIED
                     entry["last_unverified_at"] = run_timestamp_iso
                     summary.unverified_connector_hold_count += 1
+                    if entry.get("withheld_reason") or entry.get("eligibility_class") not in (ELIGIBILITY_INDONESIA, ELIGIBILITY_GLOBAL):
+                        continue
                     restored = self._deserialize_history_entry(entry)
                     if restored is not None:
                         deduped_active.append(restored)
@@ -197,6 +216,7 @@ class JobHistoryStore:
             "job_status": rec.job_status,
             "source_connector": rec.source_connector,
             "collected_at": rec.collected_at,
+            "requirements_evidence": rec.requirements_evidence,
         }
 
     @staticmethod
@@ -236,6 +256,7 @@ class JobHistoryStore:
                 job_status=entry.get("job_status", STATUS_UNVERIFIED),
                 source_connector=entry.get("source_connector", ""),
                 collected_at=entry.get("collected_at", entry["last_verified_at"]),
+                requirements_evidence=entry.get("requirements_evidence", []),
             )
         except Exception:
             return None

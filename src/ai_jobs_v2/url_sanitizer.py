@@ -64,7 +64,15 @@ def sanitize_official_apply_url(raw_url: str, fallback_official_url: str = "") -
 
     last_reason = "invalid_url"
     for candidate in candidates:
-        parsed = urlparse(candidate)
+        try:
+            parsed = urlparse(candidate)
+            port = parsed.port
+        except ValueError:
+            last_reason = "malformed_url"
+            continue
+        if parsed.username is not None or parsed.password is not None or any(c.isspace() for c in parsed.netloc):
+            last_reason = "invalid_authority"
+            continue
         scheme = parsed.scheme.lower()
         if scheme not in ("https", "http"):
             last_reason = f"unsupported_scheme:{scheme or 'none'}"
@@ -93,8 +101,8 @@ def sanitize_official_apply_url(raw_url: str, fallback_official_url: str = "") -
             clean_path = clean_path.replace("//", "/")
 
         netloc = host
-        if parsed.port and parsed.port not in (80, 443):
-            netloc = f"{host}:{parsed.port}"
+        if port and port not in (80, 443):
+            netloc = f"{host}:{port}"
 
         cleaned = urlunparse((normalized_scheme, netloc, clean_path, "", clean_query, ""))
         return cleaned, True, "ok"

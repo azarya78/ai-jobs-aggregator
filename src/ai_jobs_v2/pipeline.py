@@ -65,16 +65,18 @@ class JobDiscoveryPipeline:
                 pass
 
         # Count previously active published records per source to guard against silent source-wide wipeouts
-        prev_active_by_source: Dict[str, int] = {}
+        prev_active_by_source: Dict[str, Set[str]] = {}
         for entry in self.history_store.records.values():
-            if entry.get("job_status") != STATUS_CLOSED:
+            if (entry.get("job_status") != STATUS_CLOSED and not entry.get("withheld_reason")
+                    and entry.get("eligibility_class") in (ELIGIBILITY_INDONESIA, ELIGIBILITY_GLOBAL)):
                 src_key = str(entry.get("source_connector") or "")
                 if src_key:
-                    prev_active_by_source[src_key] = prev_active_by_source.get(src_key, 0) + 1
+                    prev_active_by_source.setdefault(src_key, set()).add(entry["canonical_id"])
 
         connector_reports: List[ConnectorReport] = []
         primary_eligible_candidates: List[NormalizedJobRecord] = []
         unverified_review_records: List[NormalizedJobRecord] = []
+        withheld: Dict[str, str] = {}
         explicitly_closed_ids: Set[str] = set()
         succeeded_connectors: Set[str] = set()
         failed_connectors: Set[str] = set()
@@ -103,6 +105,7 @@ class JobDiscoveryPipeline:
                 source_eligible: List[NormalizedJobRecord] = []
                 source_unverified: List[NormalizedJobRecord] = []
                 source_closed_ids: Set[str] = set()
+                source_withheld: Dict[str, str] = {}
 
                 for raw in raw_listings:
                     if raw.is_explicitly_closed:
@@ -114,6 +117,9 @@ class JobDiscoveryPipeline:
 
                     norm_rec, rel_res, elig_res = normalize_raw_listing(raw, collected_at_iso=now_iso)
                     if norm_rec is None or not rel_res.is_relevant or elig_res is None:
+                        clean_u, _, _ = sanitize_official_apply_url(raw.raw_apply_url, raw.official_source_url)
+                        cid = build_canonical_id(raw.source_connector, raw.source_job_id, clean_u, raw.title)
+                        source_withheld[cid] = rel_res.rejection_reason or "out_of_scope"
                         report.rejected_irrelevant_count += 1
                         continue
 
@@ -128,17 +134,18 @@ class JobDiscoveryPipeline:
                         report.unverified_review_count += 1
                         source_unverified.append(norm_rec)
                     else:
+                        source_withheld[norm_rec.canonical_id] = ELIGIBILITY_RESTRICTED
                         report.restricted_count += 1
 
                 # Safeguard: prevent unexplained 100% source-wide drops on multi-job sources from silently closing active records
-                prior_active = prev_active_by_source.get(sid, 0)
+                prior_active = prev_active_by_source.get(sid, set())
                 if (
-                    prior_active >= self.ANOMALOUS_SOURCE_WIPEOUT_MIN_ACTIVE
+                    len(prior_active) >= self.ANOMALOUS_SOURCE_WIPEOUT_MIN_ACTIVE
                     and len(source_eligible) == 0
-                    and len(source_closed_ids) == 0
+                    and prior_active.difference(source_withheld, source_closed_ids, (rec.canonical_id for rec in source_unverified))
                 ):
                     raise RuntimeError(
-                        f"Anomalous source-wide drop for {sid}: {prior_active} previously active jobs dropped to 0 "
+                        f"Anomalous source-wide drop for {sid}: {len(prior_active)} previously active jobs dropped to 0 "
                         f"(raw={report.raw_count}) without explicit closure markers; holding existing jobs UNVERIFIED"
                     )
 
@@ -148,6 +155,7 @@ class JobDiscoveryPipeline:
                 primary_eligible_candidates.extend(source_eligible)
                 unverified_review_records.extend(source_unverified)
                 explicitly_closed_ids.update(source_closed_ids)
+                withheld.update(source_withheld)
 
             except Exception as exc:
                 err_clean = redact_secrets(str(exc))
@@ -166,6 +174,7 @@ class JobDiscoveryPipeline:
             failed_connectors=failed_connectors,
             run_timestamp_iso=now_iso,
             unverified_records=unverified_review_records,
+            withheld_records=withheld,
         )
 
         def _sort_key(r: NormalizedJobRecord):

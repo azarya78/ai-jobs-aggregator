@@ -99,6 +99,8 @@ class NormalizedJobRecord:
     source_connector: str
     collected_at: str
 
+    requirements_evidence: List[str] = field(default_factory=list)
+
     def to_android_feed_item(self, boolean_eligible: bool = False) -> Dict[str, Any]:
         """Serialize to backward-compatible Android jobs_feed.json item schema + optional v2 fields."""
         from datetime import datetime, timezone
@@ -145,6 +147,7 @@ class NormalizedJobRecord:
             "eligibilityClass": self.eligibility_class,
             "eligibilityConfidence": self.eligibility_confidence,
             "eligibilityEvidence": self.eligibility_evidence,
+            "requirementsEvidence": self.requirements_evidence,
             "compensation": self.compensation.to_dict(),
             "fullDescriptionHash": self.full_description_hash,
             "officialPostedDate": self.official_posted_date,
