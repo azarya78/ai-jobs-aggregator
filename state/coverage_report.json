@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T14:42:13Z",
+  "generatedAt": "2026-11-25T14:43:50Z",
   "summary": {
     "totalSourcesConfigured": 14,
     "sourcesSucceeded": 7,
@@ -37,8 +37,8 @@
       "restricted_count": 296,
       "rejected_irrelevant_count": 88,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-25T14:42:13Z",
-      "duration_ms": 40827,
+      "last_successful_check": "2026-11-25T14:43:50Z",
+      "duration_ms": 31827,
       "error_message": null
     },
     {
@@ -55,8 +55,8 @@
       "restricted_count": 70,
       "rejected_irrelevant_count": 30,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-25T14:42:13Z",
-      "duration_ms": 2503,
+      "last_successful_check": "2026-11-25T14:43:50Z",
+      "duration_ms": 2764,
       "error_message": null
     },
     {
@@ -74,7 +74,7 @@
       "rejected_irrelevant_count": 0,
       "closed_in_payload_count": 0,
       "last_successful_check": null,
-      "duration_ms": 162,
+      "duration_ms": 59,
       "error_message": "HTTP 404 access denied or not found for https://boards-api.greenhouse.io/v1/boards/outlier/jobs?content=true"
     },
     {
@@ -91,8 +91,8 @@
       "restricted_count": 5,
       "rejected_irrelevant_count": 3,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-25T14:42:13Z",
-      "duration_ms": 5486,
+      "last_successful_check": "2026-11-25T14:43:50Z",
+      "duration_ms": 5517,
       "error_message": null
     },
     {
@@ -109,8 +109,8 @@
       "restricted_count": 71,
       "rejected_irrelevant_count": 20,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-25T14:42:13Z",
-      "duration_ms": 654,
+      "last_successful_check": "2026-11-25T14:43:50Z",
+      "duration_ms": 570,
       "error_message": null
     },
     {
@@ -128,7 +128,7 @@
       "rejected_irrelevant_count": 0,
       "closed_in_payload_count": 0,
       "last_successful_check": "2026-11-25T14:38:57Z",
-      "duration_ms": 296,
+      "duration_ms": 257,
       "error_message": "Public HTML extractor returned zero listings for web_mercor; possible page-layout or rendering change"
     },
     {
@@ -146,7 +146,7 @@
       "rejected_irrelevant_count": 0,
       "closed_in_payload_count": 0,
       "last_successful_check": "2026-11-25T14:38:57Z",
-      "duration_ms": 162,
+      "duration_ms": 66,
       "error_message": "Public HTML extractor returned zero listings for web_micro1; possible page-layout or rendering change"
     },
     {
@@ -163,8 +163,8 @@
       "restricted_count": 5,
       "rejected_irrelevant_count": 31,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-25T14:42:13Z",
-      "duration_ms": 221,
+      "last_successful_check": "2026-11-25T14:43:50Z",
+      "duration_ms": 147,
       "error_message": null
     },
     {
@@ -182,7 +182,7 @@
       "rejected_irrelevant_count": 0,
       "closed_in_payload_count": 0,
       "last_successful_check": "2026-11-25T14:38:57Z",
-      "duration_ms": 1703,
+      "duration_ms": 1742,
       "error_message": "Public HTML extractor returned zero listings for web_oneforma; possible page-layout or rendering change"
     },
     {
@@ -218,7 +218,7 @@
       "rejected_irrelevant_count": 0,
       "closed_in_payload_count": 0,
       "last_successful_check": "2026-11-25T14:38:57Z",
-      "duration_ms": 597,
+      "duration_ms": 797,
       "error_message": "Public HTML extractor returned zero listings for web_mindrift; possible page-layout or rendering change"
     },
     {
@@ -236,7 +236,7 @@
       "rejected_irrelevant_count": 0,
       "closed_in_payload_count": 0,
       "last_successful_check": "2026-11-25T14:38:57Z",
-      "duration_ms": 258,
+      "duration_ms": 158,
       "error_message": "Public HTML extractor returned zero listings for web_imerit; possible page-layout or rendering change"
     },
     {
@@ -253,8 +253,8 @@
       "restricted_count": 3,
       "rejected_irrelevant_count": 37,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-25T14:42:13Z",
-      "duration_ms": 251,
+      "last_successful_check": "2026-11-25T14:43:50Z",
+      "duration_ms": 252,
       "error_message": null
     },
     {
@@ -271,8 +271,8 @@
       "restricted_count": 1,
       "rejected_irrelevant_count": 19,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-25T14:42:13Z",
-      "duration_ms": 346,
+      "last_successful_check": "2026-11-25T14:43:50Z",
+      "duration_ms": 214,
       "error_message": null
     }
   ]
