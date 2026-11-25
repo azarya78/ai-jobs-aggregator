@@ -149,6 +149,7 @@ class NormalizedJobRecord:
             "fullDescriptionHash": self.full_description_hash,
             "officialPostedDate": self.official_posted_date,
             "firstDetectedAt": self.first_detected_at,
+            "firstSeenAt": self.first_detected_at,
             "lastVerifiedAt": self.last_verified_at,
             "jobStatus": self.job_status,
             "sourceConnector": self.source_connector,

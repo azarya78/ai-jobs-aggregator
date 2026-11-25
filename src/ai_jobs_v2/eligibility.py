@@ -12,34 +12,48 @@ from .models import (
 )
 
 INDONESIA_LOCATION_PATTERNS = [
-    r"\b(?:remote\s*[-–·,|]\s*)?indonesia\b",
+    r"\b(?:remote\s*[-\u2013\u2014·,|/]+\s*)?indonesia\b",
     r"\bjakarta\b",
     r"\bsurabaya\b",
     r"\bbandung\b",
     r"\bbali\b",
+    r"\byogyakarta\b",
+    r"\bmedan\b",
     r"\bindonesian\s*\(\s*indonesia\s*\)",
-    r"\b[-–]\s*indonesia\s*$",
+    r"\b[-\u2013\u2014]\s*indonesia\s*$",
+    r"(?:^|[·|;])\s*ID\s*(?:[·|;]|$)",
 ]
 
 INDONESIA_BODY_ELIGIBLE_PATTERNS = [
-    r"\b(?:based|residing|living|located|work\s+location|open\s+to\s+applicants|hire[sd]?)\s+in\s+(?:[a-z,\s]+and\s+)?indonesia\b",
+    r"\b(?:based|residing|living|located|work\s+location|open\s+to\s+(?:applicants|experts|candidates|residents)|hire[sd]?)\s+in\s+(?:[a-z,\s]+and\s+)?indonesia\b",
+    r"\bresidency\s+in\s+indonesia\b",
+    r"\bresidents?\s+of\s+(?:[a-z,\s]+and\s+)?indonesia\b",
     r"\bindonesia[- ]based\b",
     r"\bremote\s+in\s+indonesia\b",
     r"\bincluding\s+indonesia\b",
-    r"\bcountries\s*:\s*[^\n.]{0,120}\bindonesia\b",
+    r"\bavailable\s+in\s+\d+\s+countries\s+[^\n.]{0,400}\bindonesia\b",
+    r"\bopen\s+in\s+\d+\s+countries\s+[^\n.]{0,400}\bindonesia\b",
+    r"\bcountries\s*:\s*[^\n.]{0,250}\bindonesia\b",
 ]
 
 INDONESIA_EXCLUSION_PATTERNS = [
     r"\b(?:excluding|except|not\s+available\s+in|not\s+open\s+to\s+residents\s+of)\s+[^\n.]{0,60}\bindonesia\b",
 ]
 
+GLOBAL_LOCATION_EXACT_PATTERN = re.compile(
+    r"^(?:remote\s*[-\u2013\u2014·,|/()\s]+)?(?:worldwide|global|english\s+global|all\s+countries|anywhere(?:\s+in\s+the\s+world)?)$",
+    re.IGNORECASE,
+)
+
 GLOBAL_ELIGIBLE_PATTERNS = [
-    r"\baccepts?\s+applicants?\s+(?:worldwide|globally)\b",
-    r"\bopen\s+(?:worldwide|globally|to\s+all\s+countries|to\s+every\s+country)\b",
-    r"\bremote\s*[-–(]?\s*(?:worldwide|global)\b",
+    r"\baccepts?\s+(?:applicants?|candidates?|contributors?|freelancers?)\s+(?:worldwide|globally|from\s+all\s+countries|from\s+anywhere(?:\s+in\s+the\s+world)?)\b",
+    r"\bopen\s+(?:worldwide|globally|to\s+all\s+countries|to\s+every\s+country|to\s+(?:applicants?|candidates?|contributors?)\s+worldwide)\b",
+    r"\bremote\s*[-\u2013\u2014()]+\s*(?:worldwide|global)\b",
     r"\bwork\s+from\s+anywhere\s+in\s+the\s+world\b",
     r"\bacross\s+1[5-9]\d\+?\s+countries\b",
     r"\bfreelancers\s+from\s+all\s+over\s+the\s+world\b",
+    r"\bapplicants\s+based\s+elsewhere\s+are\s+welcome\b",
+    r"\bno\s+geographic(?:al)?\s+restrictions\b",
 ]
 
 REGIONAL_AMBIGUOUS_PATTERNS = [
@@ -47,30 +61,89 @@ REGIONAL_AMBIGUOUS_PATTERNS = [
     r"\basia[- ]pacific\b",
     r"\bsoutheast\s+asia\b",
     r"\basean\b",
-    r"\basia\b",
+    r"\b(?:remote\s*[-\u2013\u2014·,|]+\s*)?asia\b",
+    r"\blatam\b",
+    r"\bemea\b",
 ]
 
+# Comprehensive non-Indonesia countries, territories, states, and major cities
 NON_INDONESIA_LOCATIONS = [
+    # North America
     "united states", "usa", "u.s.", "u.s. residents", "us only", "us/can", "canada",
-    "united kingdom", "uk only", "great britain", "london", "ireland", "germany",
-    "france", "spain", "italy", "netherlands", "belgium", "sweden", "norway",
-    "denmark", "finland", "poland", "hungary", "croatia", "czech", "romania",
-    "bulgaria", "austria", "switzerland", "greece", "portugal", "slovenia", "malta",
+    "puerto rico", "mexico", "costa rica", "panama", "guatemala", "dominican republic",
+    "el salvador", "honduras", "nicaragua", "jamaica", "cuba", "north america",
+    "nyc", "new york", "san francisco", "los angeles", "chicago", "seattle", "boston",
+    "austin", "atlanta", "denver", "phoenix", "san jose", "santa clara", "sunnyvale",
+    "mountain view", "dallas", "houston", "miami", "las vegas", "tysons", "plano",
+    "acworth", "toronto", "vancouver", "montreal", "ottawa", "calgary", "mexico city",
+    # Europe
+    "united kingdom", "uk only", "great britain", "england", "scotland", "wales",
+    "northern ireland", "ireland", "germany", "france", "spain", "italy", "netherlands",
+    "belgium", "sweden", "norway", "denmark", "finland", "iceland", "poland", "hungary",
+    "croatia", "czech republic", "czechia", "czech", "slovakia", "romania", "bulgaria",
+    "austria", "switzerland", "greece", "portugal", "slovenia", "malta", "cyprus",
+    "luxembourg", "estonia", "latvia", "lithuania", "ukraine", "belarus", "moldova",
+    "serbia", "bosnia", "herzegovina", "albania", "north macedonia", "montenegro",
+    "kosovo", "georgia", "armenia", "azerbaijan", "european union", "eu only",
+    "london", "dublin", "berlin", "munich", "frankfurt", "paris", "madrid", "barcelona",
+    "milan", "rome", "amsterdam", "brussels", "vienna", "zurich", "geneva", "stockholm",
+    "oslo", "copenhagen", "helsinki", "reykjavik", "warsaw", "prague", "budapest",
+    "bratislava", "ljubljana", "zagreb", "belgrade", "bucharest", "sofia", "athens",
+    "lisbon", "kyiv", "tallinn", "riga", "vilnius",
+    # Asia-Pacific (outside Indonesia)
     "australia", "new zealand", "japan", "south korea", "korea", "singapore",
     "malaysia", "vietnam", "thailand", "philippines", "taiwan", "hong kong",
-    "india", "delhi", "mumbai", "bangalore", "hyderabad", "odisha", "pakistan",
-    "bangladesh", "israel", "turkey", "saudi arabia", "uae", "mexico", "brazil",
-    "argentina", "colombia", "chile", "peru", "latam", "south africa", "kenya",
-    "nigeria", "egypt", "nyc", "new york", "san francisco", "los angeles",
-    "mountain view", "chatswood", "dallas", "houston", "miami", "acworth", "herat",
+    "china", "mainland china", "india", "pakistan", "bangladesh", "sri lanka",
+    "nepal", "bhutan", "myanmar", "cambodia", "laos", "brunei", "mongolia",
+    "kazakhstan", "uzbekistan", "kyrgyzstan", "tajikistan", "turkmenistan", "afghanistan",
+    "delhi", "new delhi", "mumbai", "bangalore", "bengaluru", "hyderabad", "chennai",
+    "pune", "kolkata", "ahmedabad", "odisha", "uttarpradesh", "uttar pradesh",
+    "gurgaon", "noida", "tokyo", "osaka", "seoul", "taipei", "manila", "bangkok",
+    "hanoi", "ho chi minh", "kuala lumpur", "colombo", "dhaka", "karachi", "lahore",
+    "kathmandu", "sydney", "melbourne", "brisbane", "perth", "chatswood", "auckland",
+    "herat", "almaty", "tashkent",
+    # Middle East & Africa
+    "israel", "turkey", "saudi arabia", "united arab emirates", "uae", "qatar",
+    "kuwait", "bahrain", "oman", "jordan", "lebanon", "palestine", "syria", "iraq",
+    "iran", "yemen", "south africa", "kenya", "nigeria", "egypt", "morocco", "tunisia",
+    "algeria", "libya", "ghana", "ethiopia", "cameroon", "rwanda", "uganda", "tanzania",
+    "zambia", "zimbabwe", "senegal", "dubai", "abu dhabi", "riyadh", "doha", "tel aviv",
+    "jerusalem", "amman", "beirut", "istanbul", "ankara", "cairo", "lagos", "nairobi",
+    "johannesburg", "cape town", "accra", "addis ababa", "kigali",
+    # South America
+    "brazil", "argentina", "colombia", "chile", "peru", "venezuela", "ecuador",
+    "bolivia", "paraguay", "uruguay", "sao paulo", "buenos aires", "bogota", "lima",
+    "santiago",
 ]
 
+# Non-ID ISO-3166-1 alpha-2 country codes matched ONLY in structured location delimiters
+NON_ID_ISO2_CODES = {
+    "US", "UK", "GB", "CA", "AU", "NZ", "DE", "FR", "ES", "IT", "NL", "BE", "LU",
+    "AT", "CH", "IE", "PT", "SE", "NO", "DK", "FI", "IS", "PL", "CZ", "SK", "HU",
+    "RO", "BG", "GR", "HR", "SI", "RS", "BA", "AL", "MK", "ME", "EE", "LV", "LT",
+    "UA", "BY", "MD", "GE", "AM", "AZ", "CY", "MT", "TR", "IL", "SA", "AE", "QA",
+    "KW", "BH", "OM", "JO", "LB", "PS", "SY", "IQ", "IR", "YE", "EG", "MA", "TN",
+    "DZ", "LY", "ZA", "NG", "KE", "GH", "ET", "CM", "RW", "UG", "TZ", "ZM", "ZW",
+    "JP", "KR", "CN", "TW", "HK", "MO", "SG", "MY", "VN", "TH", "PH", "MM", "KH",
+    "LA", "BN", "IN", "PK", "BD", "LK", "NP", "BT", "MV", "MN", "KZ", "UZ", "KG",
+    "TJ", "TM", "AF", "BR", "MX", "AR", "CO", "CL", "PE", "VE", "EC", "BO", "PY",
+    "UY", "CR", "PA", "GT", "DO", "SV", "HN", "NI", "JM", "PR", "CU",
+}
+
+US_STATE_CODES = {
+    "AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DC", "DE", "FL", "GA", "HI", "IA",
+    "IL", "KS", "KY", "LA", "MA", "MD", "MI", "MN", "MO", "MS", "MT", "NC", "ND",
+    "NE", "NH", "NJ", "NM", "NV", "NY", "OH", "OK", "PA", "RI", "SC", "SD", "TN",
+    "TX", "UT", "VA", "VT", "WA", "WI", "WV", "WY",
+}
+
 BODY_RESTRICTION_CLAUSES = [
-    r"(?:based\s+in\s+one\s+of\s+the\s+following\s+countries|open\s+to\s+residents\s+of|must\s+(?:reside|live|be\s+based|be\s+located)\s+in|currently\s+based\s+in|work\s+location\s*:\s*remote\s+in|owners\s+in\s+the)\s*[:\-]?\s*([^\n.]{3,160})",
-    r"\(\s*((?:us|u\.s\.|uk|canada|mexico|eu|australia|india)[a-z/\s,&]*only)\s*\)",
-    r"\b((?:us|u\.s\.|uk|mexico|canada|us/can)\s+(?:only|based|residents\s+only))\b",
-    r"\bin[- ]person\s+research\s+study\b",
-    r"\bon[- ]site\s+data\s+collection\b",
+    r"(?:based\s+in\s+one\s+of\s+the\s+following\s+countries|open\s+to\s+(?:residents|applicants|experts|candidates)\s+(?:living\s+|residing\s+|based\s+)?(?:of|in)|must\s+(?:reside|live|be\s+based|be\s+located)\s+in|have\s+lived\s+in|reside\s+in|currently\s+based\s+in|work\s+location\s*:\s*remote\s+in|owners\s+in\s+the)\s*[:-]?\s*([^\n.]{3,200})",
+    r"\b(?:available|open)\s+in\s+\d+\s+countries\s+([^\n.]{3,400})",
+    r"\(\s*(?:us|u\.s\.|uk|canada|mexico|eu|australia|india)[a-z/\s,&]*only\s*\)",
+    r"\b((?:us|u\.s\.|uk|mexico|canada|us/can|eu|india|australia)\s+(?:only|based|residents\s+only))\b",
+    r"\bin[- ]person\s+(?:research\s+|movement\s+)?study\b",
+    r"\bon[- ]site\s+(?:data\s+collection|study)\b",
     r"\bfull[- ]time\s+us\s+employees\b",
 ]
 
@@ -81,17 +154,54 @@ def _detect_indonesian_language(title: str, desc: str) -> bool:
 
 
 def _contains_indonesia(text: str) -> bool:
-    return bool(re.search(r"\bindonesia(?:n\s*\(\s*indonesia\s*\))?\b|\bjakarta\b", text, re.IGNORECASE))
+    return bool(
+        re.search(
+            r"\bindonesia(?:\s*\(\s*indonesia\s*\))?\b|\bjakarta\b|(?:^|[·|;])\s*ID\s*(?:[·|;]|$)",
+            text,
+            re.IGNORECASE,
+        )
+    )
 
 
-def _find_non_id_location_mention(text: str) -> Optional[str]:
+def _find_structured_iso_lock(loc_text: str) -> Optional[str]:
+    """Detect structured ISO-3166-1 alpha-2 or US state tokens in location metadata without false-matching prose words."""
+    stripped = loc_text.strip()
+    if not stripped:
+        return None
+    if stripped.upper() in NON_ID_ISO2_CODES and len(stripped) == 2:
+        return stripped.upper()
+
+    # Lever format: "Slovakia · SK · remote" or "Kyiv · UA · remote"
+    for tok in re.split(r"\s*[·|;/]\s*", stripped):
+        t_clean = tok.strip()
+        if re.fullmatch(r"[A-Z]{2}", t_clean) and t_clean in NON_ID_ISO2_CODES:
+            return t_clean
+
+    # SmartRecruiters / City, State, Country format: "Tysons, VA, us" or "Plano, TX, us"
+    comma_parts = [p.strip() for p in stripped.split(",") if p.strip()]
+    if len(comma_parts) >= 2:
+        last_tok = comma_parts[-1].upper()
+        if re.fullmatch(r"[A-Za-z]{2}", comma_parts[-1]) and last_tok in NON_ID_ISO2_CODES:
+            return last_tok
+        if len(comma_parts) >= 2 and comma_parts[1].upper() in US_STATE_CODES:
+            return f"US-{comma_parts[1].upper()}"
+
+    return None
+
+
+def _find_non_id_location_mention(text: str, check_structured_iso: bool = False) -> Optional[str]:
     low = text.lower()
     for place in NON_INDONESIA_LOCATIONS:
         if re.search(r"\b" + re.escape(place) + r"\b", low):
             return place
-    stripped = text.strip()
-    if stripped in {"US", "UK", "GB", "CA", "AU", "DE", "FR", "SE", "NO", "DK", "FI", "NL", "ES", "IT", "JP", "KR", "IN", "BR", "MX", "VN", "SG", "MY", "PH", "TH"}:
-        return stripped
+    if check_structured_iso:
+        iso_hit = _find_structured_iso_lock(text)
+        if iso_hit:
+            return iso_hit
+    else:
+        stripped = text.strip()
+        if stripped in NON_ID_ISO2_CODES:
+            return stripped
     return None
 
 
@@ -117,9 +227,12 @@ def classify_eligibility(raw: RawJobListing) -> EligibilityResult:
     body_has_indonesia_residency = any(
         re.search(pat, desc, re.IGNORECASE) for pat in INDONESIA_BODY_ELIGIBLE_PATTERNS
     )
+    body_has_explicit_worldwide = any(
+        re.search(pat, desc, re.IGNORECASE) for pat in GLOBAL_ELIGIBLE_PATTERNS
+    )
 
-    if loc and not loc_has_indonesia and not body_has_indonesia_residency:
-        non_id_loc = _find_non_id_location_mention(loc)
+    if loc and not loc_has_indonesia and not body_has_indonesia_residency and not body_has_explicit_worldwide:
+        non_id_loc = _find_non_id_location_mention(loc, check_structured_iso=True)
         if non_id_loc:
             return EligibilityResult(
                 classification=ELIGIBILITY_RESTRICTED,
@@ -129,28 +242,31 @@ def classify_eligibility(raw: RawJobListing) -> EligibilityResult:
             )
 
     title_loc_check = re.sub(r"\bindonesian\s*\(\s*indonesia\s*\)", "", title, flags=re.IGNORECASE)
-    if not loc_has_indonesia and not body_has_indonesia_residency:
-        title_restricted_match = re.search(
-            r"(?:\(\s*([^)]+)\s*\)|\bin\s+(nyc|new\s+york|los\s+angeles|london|sweden|vietnam|india|united\s+states|canada|uk|australia)\b)",
+    if not loc_has_indonesia and not body_has_indonesia_residency and not body_has_explicit_worldwide:
+        # Check parenthetical qualifiers "(Chicago)", "(EU, UK, US...)", trailing "- Vienna" / "– India", or "in NYC"
+        for qual_match in re.finditer(
+            r"(?:\(\s*([^)]+)\s*\)|[-\u2013\u2014]\s*([A-Za-z][A-Za-z\s,]{2,35})$|\bin\s+([A-Za-z][A-Za-z\s]{2,25})\b)",
             title_loc_check,
-            re.IGNORECASE,
-        )
-        if title_restricted_match:
-            qual = title_restricted_match.group(0)
-            non_id_in_title = _find_non_id_location_mention(qual)
+        ):
+            qual = qual_match.group(1) or qual_match.group(2) or qual_match.group(3) or ""
+            non_id_in_title = _find_non_id_location_mention(qual, check_structured_iso=False)
             if non_id_in_title and not _contains_indonesia(qual):
                 return EligibilityResult(
                     classification=ELIGIBILITY_RESTRICTED,
                     confidence="high",
-                    evidence=f"Title restricts geography to '{qual.strip()}'",
+                    evidence=f"Title restricts geography to '{qual.strip()}' (matched '{non_id_in_title}')",
                     is_indonesian_language=is_id_lang,
                 )
 
     for pat in BODY_RESTRICTION_CLAUSES:
         for m in re.finditer(pat, desc, re.IGNORECASE):
             clause = re.sub(r"\s+", " ", m.group(0)).strip()
-            if not _contains_indonesia(clause):
-                if _find_non_id_location_mention(clause) or re.search(r"\b(in[- ]person|on[- ]site|us\s+employees)\b", clause, re.IGNORECASE):
+            if not _contains_indonesia(clause) and not any(
+                re.search(gp, clause, re.IGNORECASE) for gp in GLOBAL_ELIGIBLE_PATTERNS
+            ):
+                if _find_non_id_location_mention(clause, check_structured_iso=False) or re.search(
+                    r"\b(in[- ]person|on[- ]site|us\s+employees)\b", clause, re.IGNORECASE
+                ):
                     return EligibilityResult(
                         classification=ELIGIBILITY_RESTRICTED,
                         confidence="high",
@@ -179,18 +295,21 @@ def classify_eligibility(raw: RawJobListing) -> EligibilityResult:
                 is_indonesian_language=True,
             )
 
-    for rpat in REGIONAL_AMBIGUOUS_PATTERNS:
-        rm = re.search(rpat, f"{loc}\n{desc}", re.IGNORECASE)
-        if rm:
+    has_us_tax_lock = bool(
+        re.search(
+            r"\b(w-2\s+only|us\s+work\s+authorization\s+required|must\s+be\s+authorized\s+to\s+work\s+in\s+the\s+u\.?s\.?)\b",
+            desc,
+            re.IGNORECASE,
+        )
+    )
+    if not has_us_tax_lock:
+        if loc and GLOBAL_LOCATION_EXACT_PATTERN.match(loc):
             return EligibilityResult(
-                classification=ELIGIBILITY_UNVERIFIED,
-                confidence="medium",
-                evidence=f"Regional scope '{rm.group(0)}' mentioned without explicit Indonesia confirmation (Location: '{loc or 'Unspecified'}')",
+                classification=ELIGIBILITY_GLOBAL,
+                confidence="high",
+                evidence=f"Explicit global location metadata: '{loc}'",
                 is_indonesian_language=is_id_lang,
             )
-
-    has_us_tax_lock = bool(re.search(r"\b(w-2\s+only|us\s+work\s+authorization\s+required|must\s+be\s+authorized\s+to\s+work\s+in\s+the\s+u\.?s\.?)\b", desc, re.IGNORECASE))
-    if not has_us_tax_lock:
         for gpat in GLOBAL_ELIGIBLE_PATTERNS:
             gm = re.search(gpat, f"{loc}\n{desc}", re.IGNORECASE)
             if gm:
@@ -201,6 +320,16 @@ def classify_eligibility(raw: RawJobListing) -> EligibilityResult:
                     evidence=f"Verified global remote clause: '{matched_global_clause}'",
                     is_indonesian_language=is_id_lang,
                 )
+
+    for rpat in REGIONAL_AMBIGUOUS_PATTERNS:
+        rm = re.search(rpat, f"{loc}\n{desc}", re.IGNORECASE)
+        if rm:
+            return EligibilityResult(
+                classification=ELIGIBILITY_UNVERIFIED,
+                confidence="medium",
+                evidence=f"Regional scope '{rm.group(0)}' mentioned without explicit Indonesia confirmation (Location: '{loc or 'Unspecified'}')",
+                is_indonesian_language=is_id_lang,
+            )
 
     if is_id_lang:
         return EligibilityResult(

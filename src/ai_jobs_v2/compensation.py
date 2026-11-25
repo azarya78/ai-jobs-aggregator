@@ -20,11 +20,11 @@ RANGE_PATTERN = re.compile(
     r"(?P<prefix>up\s+to\s+)?"
     r"(?P<c1>US\$|\$|€|£|USD|EUR|GBP|IDR|Rp)?\s*"
     r"(?P<v1>\d{1,3}(?:,\d{3})*(?:\.\d+)?|\d+(?:\.\d+)?)(?P<k1>[kK])?"
-    r"(?:\s*(?:-|–|—|to)\s*"
+    r"(?:\s*(?:-|–|to)\s*"
     r"(?P<c2>US\$|\$|€|£|USD|EUR|GBP|IDR|Rp)?\s*"
     r"(?P<v2>\d{1,3}(?:,\d{3})*(?:\.\d+)?|\d+(?:\.\d+)?)(?P<k2>[kK])?)?"
     r"\s*(?P<c3>USD|EUR|GBP|IDR)?"
-    r"(?:\s*(?:/|per\s+)?\s*(?P<unit>hour|hr|h|task|item|prompt|project|one-time|one\s+time|month|mo|year|yr|annum))?",
+    r"(?:\s*(?:/|per[\s\-]+)?\s*(?P<unit>hour(?:\s*-?\s*wage)?|hr|h|jam|task|approved\s+asset|approved\s+task|unit|item|prompt|session|project|one-time|one\s+time|month(?:\s*-?\s*salary)?|mo|year(?:\s*-?\s*salary)?|yr|annum))?",
     re.IGNORECASE,
 )
 
@@ -39,19 +39,28 @@ def _to_float(val_str: Optional[str], k_suffix: Optional[str]) -> Optional[float
 
 
 def _normalize_unit(unit_raw: Optional[str], context_text: str) -> Optional[str]:
-    u = (unit_raw or "").strip().lower()
+    u = re.sub(r"[\s\-]+", " ", (unit_raw or "").strip().lower())
     ctx = context_text.lower()
-    if u in ("hour", "hr", "h") or any(tok in ctx for tok in ("/hr", "/hour", "per hour", "/h ", "hourly")):
+    if u in ("hour", "hour wage", "hr", "h", "jam") or any(
+        tok in ctx for tok in ("/hr", "/hour", "per hour", "per-hour-wage", "per jam", "/h ", "hourly")
+    ):
         return "hourly"
-    if u in ("task", "item", "prompt") or any(tok in ctx for tok in ("/task", "per task", "per prompt", "per item")):
+    if u in ("task", "item", "prompt", "approved asset", "approved task", "unit") or any(
+        tok in ctx
+        for tok in ("/task", "per task", "per prompt", "per item", "per approved asset", "per approved task", "per unit")
+    ):
         return "per_task"
-    if u in ("project", "one-time", "one time") or any(
-        tok in ctx for tok in ("per project", "/project", "(one-time)", "one-time")
+    if u in ("project", "session", "one time") or any(
+        tok in ctx for tok in ("per project", "/project", "per session", "(one-time)", "one-time")
     ):
         return "per_project"
-    if u in ("month", "mo") or any(tok in ctx for tok in ("/month", "/mo", "per month", "monthly")):
+    if u in ("month", "month salary", "mo") or any(
+        tok in ctx for tok in ("/month", "/mo", "per month", "per-month-salary", "monthly")
+    ):
         return "monthly"
-    if u in ("year", "yr", "annum") or any(tok in ctx for tok in ("/year", "/yr", "per year", "annual", "salary range")):
+    if u in ("year", "year salary", "yr", "annum") or any(
+        tok in ctx for tok in ("/year", "/yr", "per year", "per-year-salary", "annual", "salary range")
+    ):
         return "annual"
     return None
 
@@ -61,29 +70,45 @@ def parse_compensation(raw_comp: str, fallback_text: str = "") -> CompensationIn
     Extract compensation amount and unit without fabricating missing values
     or inferring hourly rates from fixed-task/project pay.
     """
+    used_fallback = False
     source_text = (raw_comp or "").strip()
     if not source_text and fallback_text:
         pay_line_match = re.search(
-            r"(?:pay|rate|earn|compensation|salary(?:\s+range)?)\s*[:\-]?\s*([^\n.;]{3,65})",
+            r"(?:pay|rate|earn|compensation|salary(?:\s+range)?|tarif[^\n.;]{0,40}?rata-rata)\s*[:\-]?\s*([^\n.;]{3,65})",
             fallback_text,
             re.IGNORECASE,
         )
         if pay_line_match:
             candidate = pay_line_match.group(1).strip()
-            if re.search(r"(\$|€|£|USD|EUR|GBP|IDR|Rp)\s*\d|\d+\s*(\$|USD|/hr|/hour|/h\b|per hour|per task)", candidate, re.IGNORECASE):
+            if re.search(
+                r"(\$|€|£|USD|EUR|GBP|IDR|Rp)\s*\$?\s*\d|\d+\s*(\$|USD|/hr|/hour|/h\b|per hour|per jam|per task)",
+                candidate,
+                re.IGNORECASE,
+            ):
                 source_text = candidate
+                used_fallback = True
 
     if not source_text:
         return CompensationInfo()
 
-    has_currency = bool(re.search(r"(\$|€|£|\bUSD\b|\bEUR\b|\bGBP\b|\bIDR\b|\bRp\b)", source_text, re.IGNORECASE))
+    # Normalize comma decimals in explicit currency phrases like "USD $7,50 per jam" (not thousands like "$1,600")
+    normalized_source = re.sub(r"(\d+),(\d{1,2})\b(?!\d)", r"\1.\2", source_text)
+
+    has_currency = bool(re.search(r"(\$|€|£|\bUSD\b|\bEUR\b|\bGBP\b|\bIDR\b|\bRp\b)", normalized_source, re.IGNORECASE))
     has_unit = bool(
-        re.search(r"(/hr|/hour|/h\b|per\s+hour|/task|per\s+task|per\s+project|one-time|/month|/mo)", source_text, re.IGNORECASE)
+        re.search(
+            r"(/hr|/hour|/h\b|per[\s\-]+hour|per\s+jam|/task|per\s+task|per\s+approved\s+\w+|per\s+session|per\s+project|one-time|/month|/mo)",
+            normalized_source,
+            re.IGNORECASE,
+        )
     )
     if not (has_currency or has_unit):
         return CompensationInfo()
 
-    for m in RANGE_PATTERN.finditer(source_text):
+    # Handle "USD $7.50" double currency prefix cleanly
+    normalized_for_match = re.sub(r"\bUSD\s+\$", "$", normalized_source, flags=re.IGNORECASE)
+
+    for m in RANGE_PATTERN.finditer(normalized_for_match):
         c_raw = m.group("c1") or m.group("c2") or m.group("c3") or ""
         unit_raw = m.group("unit")
         if not c_raw and not unit_raw and not has_currency:
@@ -94,13 +119,13 @@ def parse_compensation(raw_comp: str, fallback_text: str = "") -> CompensationIn
         if v1 is None:
             continue
 
-        currency = CURRENCY_MAP.get(c_raw.lower(), "USD" if "$" in source_text else None)
-        unit = _normalize_unit(unit_raw, source_text)
+        currency = CURRENCY_MAP.get(c_raw.lower(), "USD" if ("$" in normalized_source or "usd" in normalized_source.lower()) else None)
+        unit = _normalize_unit(unit_raw, normalized_source)
 
         if unit is None and v1 >= 50000 and currency in ("USD", "EUR", "GBP"):
             unit = "annual"
 
-        is_up_to = bool(m.group("prefix")) or "up to" in source_text.lower()
+        is_up_to = bool(m.group("prefix")) or "up to" in normalized_source.lower()
         if v2 is not None:
             amt_min, amt_max = min(v1, v2), max(v1, v2)
         elif is_up_to:
@@ -108,9 +133,11 @@ def parse_compensation(raw_comp: str, fallback_text: str = "") -> CompensationIn
         else:
             amt_min, amt_max = v1, v1
 
-        clean_raw = re.sub(r"\s+", " ", source_text).strip()
-        if len(clean_raw) > 64:
+        if used_fallback or len(source_text) > 56:
             clean_raw = re.sub(r"\s+", " ", m.group(0)).strip()
+        else:
+            clean_raw = re.sub(r"\s+", " ", source_text).strip()
+            clean_raw = re.sub(r"\bper-hour-wage\b", "hour", clean_raw, flags=re.IGNORECASE)
 
         return CompensationInfo(
             amount_min=amt_min,

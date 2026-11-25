@@ -8,22 +8,22 @@ CATEGORY_RULES: List[Tuple[str, List[str]]] = [
     (
         "Indonesian Language AI Evaluation",
         [
-            r"\bindonesian\b.*\b(rater|evaluat|annotat|ai\b|llm|linguist|voice|audio|tutor|trainer|writer|grading|qa)\b",
-            r"\bbahasa\s+indonesia\b.*\b(ai\b|model|evaluat|peringkat|penulis|annotat|voice|percakapan)\b",
-            r"\b(rater|evaluat|annotat|ai\s+trainer|ai\s+tutor|linguist)\b.*\bindonesian\b",
+            r"\bindonesian\b.*\b(rater|evaluat|annotat|ai\b|llm|linguist|voice|audio|tutor|trainer|writer|grading|qa|generalist|bilingual|expert)\b",
+            r"\bbahasa\s+indonesia\b.*\b(ai\b|model|evaluat|peringkat|penulis|annotat|voice|percakapan|latih|melatih)\b",
+            r"\b(rater|evaluat|annotat|ai\s+trainer|ai\s+tutor|linguist|bilingual)\b.*\bindonesian\b",
         ],
     ),
     (
         "Search Quality Rating",
         [
-            r"\bsearch\s+(quality\s+)?(rater|evaluat|rating)\b",
+            r"\bsearch\s+(quality\s+|relevance\s+)?(rater|evaluat|rating|annotat)\b",
             r"\bsearch\s+engine\s+evaluat",
             r"\bonline\s+data\s+analyst\b",
             r"\bpersonalized\s+internet\s+assessor\b",
             r"\binternet\s+(safety\s+)?(evaluat|assessor|analyst)\b",
-            r"\bad(s)?\s+(quality\s+)?(rater|evaluat)",
-            r"\bmaps?\s+(quality\s+)?(evaluat|analyst|rater)\b",
-            r"\bgrade\s+how\s+useful\s+and\s+precise\s+users['’]?\s+queries\b",
+            r"\bad(s)?\s+(quality\s+)?(rater|evaluat|assessor)",
+            r"\bmaps?\s+(quality\s+|search\s+)?(evaluat|analyst|rater)\b",
+            r"\bgrade\s+how\s+useful\s+and\s+precise\s+users['']?\s+queries\b",
         ],
     ),
     (
@@ -62,7 +62,8 @@ CATEGORY_RULES: List[Tuple[str, List[str]]] = [
     (
         "Audio & Speech Evaluation",
         [
-            r"\b(audio|speech|voice)\s+(conversation\s+)?(evaluat|rater|qa|annotat|transcri|collect|recording\s+contributor|recording\s+specialist)\b",
+            r"\b(audio|speech|voice)\s+(quality\s+|conversation\s+)?(evaluat|rater|qa|annotat|transcri|collect|recording\s+contributor|recording\s+specialist)\b",
+            r"\bpronunciation\s+assessment\s+annotat",
             r"\basr[- ]generated\s+transcripts\b",
             r"\baudio\s+artifacts\b",
             r"\btrain\s+generative\s+ai\s+voice\s+models\b",
@@ -74,7 +75,7 @@ CATEGORY_RULES: List[Tuple[str, List[str]]] = [
             r"\bmultimodal\b.*\b(evaluat|annotat|ai|data|model)\b",
             r"\bvision[- ]language\b",
             r"\bvlm\b.*\b(annotat|evaluat|data)\b",
-            r"\bvideo\s+and\s+audio\s+(rater|qa|evaluat)",
+            r"\bvideo\s+and\s+(?:audio|image)\s+(?:localization\s+)?(?:quality\s+)?(rater|qa|evaluat)",
         ],
     ),
     (
@@ -95,7 +96,7 @@ CATEGORY_RULES: List[Tuple[str, List[str]]] = [
     (
         "LLM Evaluation",
         [
-            r"\bllm\s+evaluat",
+            r"\bllm\s+(?:evaluat|prompt\s+author)",
             r"\bai\s+response\s+evaluat",
             r"\bprompt\s*(&|and)\s*response\s+(evaluat|creation)\b",
             r"\bai\s+chatbot\s+(tester|evaluat)",
@@ -103,7 +104,7 @@ CATEGORY_RULES: List[Tuple[str, List[str]]] = [
             r"\bai\s+red\s+team\b",
             r"\bred[- ]teaming\b",
             r"\bai\s+safety\b.*\b(expert|evaluat|trainer|generalist)\b",
-            r"\bevaluate\s+ai\s+(outputs|responses|writing|conversations)\b",
+            r"\bevaluate\s+ai[- ](?:generated\s+)?(outputs|responses|writing|text|conversations)\b",
             r"\brate\s+responses\s+from\s+cutting[- ]edge\s+chatbots\b",
         ],
     ),
@@ -112,19 +113,20 @@ CATEGORY_RULES: List[Tuple[str, List[str]]] = [
         [
             r"\bai\s+(tutor|trainer)s?\b",
             r"\b(sme|domain)\s+task\s+(creator|author)\b",
-            r"\btask\s+author\s*\(?ai\s+training\)?\b",
+            r"\btask\s+author\s*(?:\(ai\s+training\))?\b",
             r"\bprompt\s+writer\b",
-            r"\btrain(ing)?\s+(and\s+evaluating\s+)?(next[- ]generation\s+|frontier\s+|groundbreaking\s+)?ai\s+(models|systems)\b",
+            r"\btrain(ing)?\s+(and\s+(?:evaluating|enhancing)\s+)?(next[- ]generation\s+|frontier\s+|groundbreaking\s+|advanced\s+)?(?:ai\s+)?(models|systems|llms)\b",
             r"\bcreate\s+realistic\s+work\s+tasks\s+and\s+materials\s+for\s+ai\s+training\b",
         ],
     ),
     (
         "Linguistic Evaluation & Translation Quality",
         [
-            r"\blinguistic\s+(ai\s+)?(evaluat|auditor|qa|specialist)\b",
-            r"\btranslation\s+quality\b",
+            r"\blinguistic\s+(ai\s+)?(evaluat|auditor|qa|specialist|expert)s?\b",
+            r"\btranslation\s+(?:quality|evaluat)\b",
+            r"\bmachine\s+translation\s+post[- ]edit",
             r"\bevaluate\s+machine\s+translated\s+text\b",
-            r"\b(linguist|bilingual\s+.*expert)\b.*\b(ai|llm|machine\s+translation|train|evaluat)\b",
+            r"\b(linguist|language\s+expert|bilingual\s+.*(?:expert|generalist))\b.*\b(ai|llm|machine\s+translation|train|evaluat|annotat)\b",
         ],
     ),
     (
@@ -146,12 +148,13 @@ CATEGORY_RULES: List[Tuple[str, List[str]]] = [
         [
             r"\b(gen\s*ai\s+|ai\s+)?data\s+(annotat|label(ing|er)|specialist)\b",
             r"\bannotat(e|ing)\s+data\s*sets\b",
+            r"\bdata\s+annotation\b",
         ],
     ),
 ]
 
 CORPORATE_TITLE_EXCLUSIONS = [
-    r"\b(senior|staff|principal|lead|founding|forward\s+deployed|platform|backend|frontend|full[- ]stack|devops|mlops|site\s+reliability| infrastructure|ios|android)\s+(software\s+)?engineer\b",
+    r"\b(senior|staff|principal|lead|founding|forward\s+deployed|platform|backend|frontend|full[- ]stack|devops|mlops|site\s+reliability|infrastructure|ios|android)\s+(software\s+)?engineer\b",
     r"\bsoftware\s+engineer\b",
     r"\bengineering\s+manager\b",
     r"\bmember\s+of\s+technical\s+staff\b",
@@ -160,20 +163,26 @@ CORPORATE_TITLE_EXCLUSIONS = [
     r"\b(marketing\s+manager|performance\s+marketing|content\s+marketer|growth\s+marketer)\b",
     r"\b(recruiter|talent\s+acquisition|sourcer|people\s+operations|hr\s+manager)\b",
     r"\b(it\s+manager|corporate\s+it|legal\s+counsel|general\s+counsel|payroll|controller|accountant)\b",
-    r"\b(project\s+manager|program\s+manager|project\s+maanger|strategic\s+projects?\s+lead|engagement\s+manager|founder['’]?s\s+office)\b",
+    r"\b(project\s+manager|program\s+manager|project\s+maanger|strategic\s+projects?\s+lead|engagement\s+manager|founder['']?s\s+office)\b",
     r"\b(cuda|gpu\s+programming|kernel)\b.*\bengineer\b",
+]
+
+NON_AI_EVAL_STUDY_EXCLUSIONS = [
+    r"\b(sharing\s+your\s+fitness\s+data|youth\s+study|clinical\s+trial)\b",
+    r"\b(email\s+(?:data\s+)?collection|share\s+order\s+and\s+delivery\s+emails)\b",
+    r"\b(indoor\s+3d\s+home\s+capture|movement\s+recording\s+study)\b",
 ]
 
 SKILL_PATTERNS = [
     ("Indonesian", r"\b(indonesian|bahasa\s+indonesia)\b"),
     ("LLM Evaluation", r"\b(llm|large\s+language\s+model|chatbot)\b"),
     ("RLHF", r"\b(rlhf|preference\s+ranking|side[- ]by[- ]side)\b"),
-    ("Search Rating", r"\b(search\s+quality|search\s+engine|queries)\b"),
+    ("Search Rating", r"\b(search\s+quality|search\s+relevance|search\s+engine|queries)\b"),
     ("Factuality", r"\b(factuality|hallucination|rubric)\b"),
     ("Audio / Speech", r"\b(audio|speech|voice|asr|tts)\b"),
     ("Multimodal / Video", r"\b(video|image|multimodal|vlm)\b"),
     ("Data Annotation", r"\b(annotation|labeling|tagging)\b"),
-    ("Prompt Writing", r"\b(prompt\s+writing|prompt\s+engineering|prompts)\b"),
+    ("Prompt Writing", r"\b(prompt\s+writing|prompt\s+authoring|prompt\s+engineering|prompts)\b"),
     ("Translation / Linguistics", r"\b(linguist|translation|bilingual)\b"),
 ]
 
@@ -220,12 +229,13 @@ def classify_relevance(raw: RawJobListing) -> RelevanceResult:
             rejection_reason="salaried_equity_staff_role",
         )
 
-    if re.search(r"\b(sharing\s+your\s+fitness\s+data|youth\s+study|clinical\s+trial)\b", title, re.IGNORECASE):
-        return RelevanceResult(
-            is_relevant=False,
-            category="Rejected Non-AI Study",
-            rejection_reason="non_ai_consumer_study",
-        )
+    for study_pat in NON_AI_EVAL_STUDY_EXCLUSIONS:
+        if re.search(study_pat, combined, re.IGNORECASE):
+            return RelevanceResult(
+                is_relevant=False,
+                category="Rejected Non-AI Study",
+                rejection_reason="non_ai_consumer_study",
+            )
 
     matched_categories: List[str] = []
     matched_signals: List[str] = []

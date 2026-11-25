@@ -1,16 +1,25 @@
-"""Lever Postings API v0 Connector (with skip/limit pagination)."""
+"""Lever Postings API v0 Connector (with skip/limit pagination and duplicate-page guard)."""
 from __future__ import annotations
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Set
 from .base import BaseConnector
 from ..models import RawJobListing
+
+INTERVAL_NORMALIZE = {
+    "per-hour-wage": "hour",
+    "per-day-wage": "day",
+    "per-week-wage": "week",
+    "per-month-salary": "month",
+    "per-year-salary": "year",
+}
 
 
 class LeverConnector(BaseConnector):
     PAGE_SIZE = 100
-    MAX_PAGES = 20
+    MAX_PAGES = 50
 
     def fetch_listings(self) -> List[RawJobListing]:
         results: List[RawJobListing] = []
+        seen_ids: Set[str] = set()
         skip = 0
 
         for _ in range(self.MAX_PAGES):
@@ -27,6 +36,7 @@ class LeverConnector(BaseConnector):
             if not data:
                 break
 
+            new_on_page = 0
             for item in data:
                 if not isinstance(item, dict):
                     continue
@@ -34,6 +44,10 @@ class LeverConnector(BaseConnector):
                 title = str(item.get("text") or "").strip()
                 if not jid or not title:
                     continue
+                if jid in seen_ids:
+                    continue
+                seen_ids.add(jid)
+                new_on_page += 1
 
                 cats: Dict[str, Any] = item.get("categories") or {}
                 loc_parts = [
@@ -56,7 +70,8 @@ class LeverConnector(BaseConnector):
                 sal = item.get("salaryRange")
                 if isinstance(sal, dict) and (sal.get("min") or sal.get("max")):
                     cur = sal.get("currency") or "USD"
-                    interval = sal.get("interval") or ""
+                    raw_interval = str(sal.get("interval") or "").strip()
+                    interval = INTERVAL_NORMALIZE.get(raw_interval.lower(), raw_interval)
                     smin, smax = sal.get("min"), sal.get("max")
                     if smin and smax and smin != smax:
                         comp_raw = f"{cur} {smin} - {smax} / {interval}".strip(" /")
@@ -86,7 +101,7 @@ class LeverConnector(BaseConnector):
                     )
                 )
 
-            if len(data) < self.PAGE_SIZE:
+            if len(data) < self.PAGE_SIZE or new_on_page == 0:
                 break
             skip += self.PAGE_SIZE
 

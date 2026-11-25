@@ -37,6 +37,7 @@ from ai_jobs_v2.connectors.lever import LeverConnector
 from ai_jobs_v2.connectors.greenhouse import GreenhouseConnector
 from ai_jobs_v2.connectors.ashby import AshbyConnector
 from ai_jobs_v2.connectors.smartrecruiters import SmartRecruitersConnector
+from ai_jobs_v2.connectors.teamtailor import TeamtailorConnector
 
 HAS_BS4 = importlib.util.find_spec("bs4") is not None
 
@@ -57,7 +58,7 @@ class TestAPIConnectorsAndPagination(unittest.TestCase):
                         "country": "Indonesia",
                         "workplaceType": "remote",
                         "descriptionPlain": "Evaluate short video and audio clips in Bahasa Indonesia.",
-                        "salaryRange": {"min": 4, "max": 4, "currency": "USD", "interval": "hour"},
+                        "salaryRange": {"min": 4, "max": 4, "currency": "USD", "interval": "per-hour-wage"},
                         "hostedUrl": "https://jobs.lever.co/weloglobal/lev-id-1",
                         "applyUrl": "https://jobs.lever.co/weloglobal/lev-id-1/apply",
                         "createdAt": 1763337600000,
@@ -87,6 +88,7 @@ class TestAPIConnectorsAndPagination(unittest.TestCase):
         self.assertEqual(len(listings), 1)
         self.assertEqual(listings[0].source_job_id, "lev-id-1")
         self.assertIn("Indonesia", listings[0].location_raw)
+        self.assertEqual(listings[0].compensation_raw, "USD 4 / hour")
 
     def test_greenhouse_ashby_and_smartrecruiters_connectors(self):
         def fake_transport(url, headers, params, timeout):
@@ -150,7 +152,7 @@ class TestAPIConnectorsAndPagination(unittest.TestCase):
             {
                 "id": "greenhouse_outlier",
                 "platform": "Outlier",
-                "official_url": "https://job-boards.greenhouse.io/outlier",
+                "official_url": "https://app.outlier.ai/opportunities",
                 "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/outlier/jobs?content=true",
                 "canonical_apply_template": "https://app.outlier.ai/opportunities/{job_id}",
                 "method": "greenhouse_api",
@@ -213,7 +215,6 @@ class TestHTTPResilienceAndSecurity(unittest.TestCase):
             self.assertTrue(r2.not_modified)
             self.assertEqual(r2.json(), [{"ok": True}])
 
-            # Confirm HTTP 403 is never retried (strict anti-bot/auth compliance)
             forbid_calls = {"n": 0}
             def forbid_transport(url, headers, params, timeout):
                 forbid_calls["n"] += 1
@@ -225,6 +226,27 @@ class TestHTTPResilienceAndSecurity(unittest.TestCase):
             self.assertEqual(forbid_calls["n"], 1)
             self.assertNotIn("MY_SECRET_999", str(ctx.exception))
             self.assertIn("[REDACTED]", redact_secrets("url?api_key=xyz987"))
+
+    def test_http_304_with_empty_or_bodyless_cache_refetches_unconditionally(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            cache_file = pathlib.Path(tmp) / "http_cache.json"
+            cache_file.write_text(
+                json.dumps({"https://api.lever.co/v0/postings/weloglobal": {"etag": '"stale"', "body": ""}}),
+                encoding="utf-8",
+            )
+            seen_headers = []
+
+            def fake_transport(url, headers, params, timeout):
+                seen_headers.append(dict(headers))
+                if "If-None-Match" in headers:
+                    return HTTPResponseData(304, "", {"etag": '"stale"'}, url)
+                return HTTPResponseData(200, '[{"id": "job1"}]', {"etag": '"fresh"'}, url)
+
+            client = PoliteHTTPClient(cache_path=cache_file, transport_override=fake_transport, sleep_fn=lambda _: None)
+            resp = client.get("https://api.lever.co/v0/postings/weloglobal")
+            self.assertEqual(resp.status_code, 200)
+            self.assertEqual(resp.json(), [{"id": "job1"}])
+            self.assertNotIn("If-None-Match", seen_headers[0])
 
 
 class TestCompensationRelevanceEligibilityAndURLs(unittest.TestCase):
@@ -239,6 +261,16 @@ class TestCompensationRelevanceEligibilityAndURLs(unittest.TestCase):
         self.assertEqual(hourly.amount_max, 25.0)
         self.assertEqual(hourly.currency, "USD")
         self.assertEqual(hourly.unit, "hourly")
+
+        lever_wage = parse_compensation("USD 5 / per-hour-wage")
+        self.assertEqual(lever_wage.amount_min, 5.0)
+        self.assertEqual(lever_wage.unit, "hourly")
+        self.assertEqual(lever_wage.raw_text, "USD 5 / hour")
+
+        fallback_trimmed = parse_compensation("", "Compensation: 5 USD/hour Help Shape the Future of AI This short project offers")
+        self.assertEqual(fallback_trimmed.amount_min, 5.0)
+        self.assertEqual(fallback_trimmed.unit, "hourly")
+        self.assertEqual(fallback_trimmed.raw_text, "5 USD/hour")
 
         per_task = parse_compensation("$98 - $150 per task")
         self.assertEqual(per_task.amount_min, 98.0)
@@ -259,12 +291,14 @@ class TestCompensationRelevanceEligibilityAndURLs(unittest.TestCase):
         fitness = RawJobListing("web_mercor", "Mercor", "fit1", "iPhone Users: Earn Money for Sharing Your Fitness Data", "https://work.mercor.com/jobs/fit1", "https://work.mercor.com/jobs/fit1", description_text="Share workouts.")
         self.assertFalse(classify_relevance(fitness).is_relevant)
 
+        email_study = RawJobListing("web_oneforma", "OneForma", "em1", "Online Shopping Email Collection: Part-Time Remote Work From Home", "https://www.oneforma.com/projects/em1/", "https://www.oneforma.com/projects/em1/", description_text="Share order and delivery emails from your own inbox.", pure_ai_eval_board=True)
+        self.assertFalse(classify_relevance(email_study).is_relevant)
+
         codename = RawJobListing("lever_weloglobal", "Welo Data", "crux-9", "Project Sirius", "https://jobs.lever.co/weloglobal/crux-9", "https://jobs.lever.co/weloglobal/crux-9", description_text="Contributors evaluate machine translated text and rank AI responses.", pure_ai_eval_board=True)
         rel = classify_relevance(codename)
         self.assertTrue(rel.is_relevant)
 
     def test_eligibility_indonesia_global_restricted_and_unverified(self):
-        # Indonesian language role restricted to US & Canada residents -> Restricted (zero false positive!)
         us_locked = RawJobListing(
             "greenhouse_outlier",
             "Outlier",
@@ -279,17 +313,47 @@ class TestCompensationRelevanceEligibilityAndURLs(unittest.TestCase):
         self.assertEqual(res_us.classification, ELIGIBILITY_RESTRICTED)
         self.assertTrue(res_us.is_indonesian_language)
 
-        # APAC without Indonesia confirmation -> Unverified
         apac = RawJobListing("lever_rws", "RWS", "1", "AI Data Specialist (APAC)", "https://jobs.lever.co/rws/1", "https://jobs.lever.co/rws/1", location_raw="Remote - APAC", description_text="Evaluate LLM outputs across APAC.")
         self.assertEqual(classify_eligibility(apac).classification, ELIGIBILITY_UNVERIFIED)
 
-        # Explicit Indonesia -> Indonesia Eligible
-        id_ok = RawJobListing("teamtailor_dataforce", "DataForce", "736980", "SME Task Creator – Indonesia", "https://community.transperfect.com/jobs/736980", "https://community.transperfect.com/jobs/736980", location_raw="Remote", description_text="Work Location: Remote in Indonesia.")
+        id_ok = RawJobListing("teamtailor_dataforce", "DataForce", "736980", "SME Task Creator - Indonesia", "https://community.transperfect.com/jobs/736980", "https://community.transperfect.com/jobs/736980", location_raw="Remote", description_text="Work Location: Remote in Indonesia.")
         self.assertEqual(classify_eligibility(id_ok).classification, ELIGIBILITY_INDONESIA)
 
-        # Explicit Worldwide -> Remote Global
         glob_ok = RawJobListing("web_mindrift", "Mindrift", "md-1", "AI Factuality Tutor", "https://mindrift.ai/apply", "https://mindrift.ai/apply", location_raw="Remote", description_text="Accepts applicants worldwide to verify LLM factuality.")
         self.assertEqual(classify_eligibility(glob_ok).classification, ELIGIBILITY_GLOBAL)
+
+    def test_eligibility_audit_regressions_iso_codes_cities_and_global_precedence(self):
+        for loc_sample in ("Slovakia · SK · remote", "Iceland · IS · remote", "Kyiv · UA · remote"):
+            rec = RawJobListing("lever_weloglobal", "Welo Data", "eu1", "Ads Quality Rater", "https://jobs.lever.co/weloglobal/1", "https://jobs.lever.co/weloglobal/1", location_raw=loc_sample, description_text="Rate ads.")
+            self.assertEqual(classify_eligibility(rec).classification, ELIGIBILITY_RESTRICTED, loc_sample)
+
+        appen_us = RawJobListing(
+            "smartrecruiters_appen",
+            "Appen",
+            "743999694507495",
+            "Internet Analyst for Bilingual Speakers",
+            "https://jobs.smartrecruiters.com/Appen/743999694507495",
+            "https://jobs.smartrecruiters.com/Appen/743999694507495",
+            location_raw="Tysons, VA, us",
+            description_text="Partnering with top 10 global technology companies across North America and Asia Pacific to improve search for users worldwide.",
+        )
+        self.assertEqual(classify_eligibility(appen_us).classification, ELIGIBILITY_RESTRICTED)
+
+        chicago = RawJobListing("web_alignerr", "Alignerr", "al1", "Native Spanish Speaker: Healthcare AI Voice Conversations (Chicago)", "https://www.alignerr.com/jobs/al1", "https://www.alignerr.com/jobs/al1", location_raw="Remote", description_text="Voice recording.")
+        vienna = RawJobListing("web_alignerr", "Alignerr", "al2", "German Workspace AI Reviewer - Vienna", "https://www.alignerr.com/jobs/al2", "https://www.alignerr.com/jobs/al2", location_raw="Remote", description_text="Review AI outputs.")
+        self.assertEqual(classify_eligibility(chicago).classification, ELIGIBILITY_RESTRICTED)
+        self.assertEqual(classify_eligibility(vienna).classification, ELIGIBILITY_RESTRICTED)
+
+        of_id = RawJobListing("web_oneforma", "OneForma", "of1", "Paragraph-Level Translation Quality Rater", "https://www.oneforma.com/projects/of1/", "https://www.oneforma.com/projects/of1/", location_raw="Available in 12 countries Czech Republic Germany Iceland India Indonesia Spain United States", description_text="Evaluate translation quality.")
+        of_no_id = RawJobListing("web_oneforma", "OneForma", "of2", "Local Search Quality Evaluator", "https://www.oneforma.com/projects/of2/", "https://www.oneforma.com/projects/of2/", location_raw="", description_text="Available in 6 countries China Mexico Norway South Korea United Kingdom United States")
+        self.assertEqual(classify_eligibility(of_id).classification, ELIGIBILITY_INDONESIA)
+        self.assertEqual(classify_eligibility(of_no_id).classification, ELIGIBILITY_RESTRICTED)
+
+        worldwide_with_asia = RawJobListing("web_mercor", "Mercor", "m1", "AI Evaluation Rubric Auditor", "https://work.mercor.com/jobs/m1", "https://work.mercor.com/jobs/m1", location_raw="Remote", description_text="Open to applicants worldwide across the Americas, Europe, and Asia.")
+        self.assertEqual(classify_eligibility(worldwide_with_asia).classification, ELIGIBILITY_GLOBAL)
+
+        bare_remote = RawJobListing("web_alignerr", "Alignerr", "al3", "Customer Support & Success Expert: AI Workflow Review", "https://www.alignerr.com/jobs/al3", "https://www.alignerr.com/jobs/al3", location_raw="Remote", description_text="Evaluate AI customer support workflows.")
+        self.assertEqual(classify_eligibility(bare_remote).classification, ELIGIBILITY_UNVERIFIED)
 
     def test_official_url_sanitization_blocks_remowork_and_referrals(self):
         clean, ok, _ = sanitize_official_apply_url(
@@ -341,7 +405,6 @@ class TestPersistentHistoryAndAndroidValidator(unittest.TestCase):
             hist_path = tmp_p / "job_history.json"
             feed_path = tmp_p / "jobs_feed.json"
 
-            # Run 1: Duplicate apply_url collapsed; NEW job recorded; missing officialPostedDate preserved as None
             store1 = JobHistoryStore(hist_path)
             r1 = self._make_rec("web_telus_ai:Req1", "Req1", "https://jobs.telusdigital.com/job/1", desc_hash="h1", posted=None)
             r1_dup = self._make_rec("web_telus_ai:Req1_mirror", "Req1_mirror", "https://jobs.telusdigital.com/job/1", desc_hash="h1", posted=None)
@@ -352,11 +415,15 @@ class TestPersistentHistoryAndAndroidValidator(unittest.TestCase):
             self.assertEqual(len(active1), 1)
             self.assertIsNone(active1[0].official_posted_date)
 
-            # Validate Android feed serialization (both default string & --boolean-eligible)
+            feed_item = active1[0].to_android_feed_item(boolean_eligible=False)
+            self.assertIsNone(feed_item["officialPostedDate"])
+            self.assertEqual(feed_item["firstDetectedAt"], "2026-11-25T00:00:00Z")
+            self.assertEqual(feed_item["firstSeenAt"], "2026-11-25T00:00:00Z")
+
             payload = {
                 "lastUpdated": "2026-11-25T00:00:00Z",
                 "totalJobs": 1,
-                "jobs": [active1[0].to_android_feed_item(boolean_eligible=False)],
+                "jobs": [feed_item],
             }
             write_json_atomically(feed_path, payload, validate_android_schema=True)
             loaded_feed = json.loads(feed_path.read_text(encoding="utf-8"))
@@ -364,7 +431,6 @@ class TestPersistentHistoryAndAndroidValidator(unittest.TestCase):
             self.assertTrue(ok, errs)
             self.assertEqual(loaded_feed["jobs"][0]["date"], "2026-11-25")
 
-            # Run 2: Connector fails -> job MUST become UNVERIFIED (not CLOSED) and preserve firstDetectedAt
             store2 = JobHistoryStore(hist_path)
             active2, sum2 = store2.reconcile([], set(), set(), {"web_telus_ai"}, "2026-11-25T04:00:00Z")
             store2.save_atomic("2026-11-25T04:00:00Z")
@@ -374,7 +440,6 @@ class TestPersistentHistoryAndAndroidValidator(unittest.TestCase):
             self.assertEqual(active2[0].job_status, STATUS_UNVERIFIED)
             self.assertEqual(active2[0].first_detected_at, "2026-11-25T00:00:00Z")
 
-            # Run 3: Connector recovers with updated description hash -> UPDATED, preserving firstDetectedAt
             store3 = JobHistoryStore(hist_path)
             r3 = self._make_rec("web_telus_ai:Req1", "Req1", "https://jobs.telusdigital.com/job/1", desc_hash="h2_changed", posted=None)
             active3, sum3 = store3.reconcile([r3], set(), {"web_telus_ai"}, set(), "2026-11-25T08:00:00Z")
@@ -383,7 +448,6 @@ class TestPersistentHistoryAndAndroidValidator(unittest.TestCase):
             self.assertEqual(active3[0].job_status, STATUS_UPDATED)
             self.assertEqual(active3[0].first_detected_at, "2026-11-25T00:00:00Z")
 
-            # Run 4: Connector succeeds with 0 listings -> job marked CLOSED
             store4 = JobHistoryStore(hist_path)
             active4, sum4 = store4.reconcile([], set(), {"web_telus_ai"}, set(), "2026-11-25T12:00:00Z")
             self.assertEqual(sum4.closed_count, 1)
@@ -449,14 +513,14 @@ class TestEndToEndJobDiscoveryPipeline(unittest.TestCase):
 
             def fake_transport(url, headers, params, timeout):
                 rss = """<?xml version="1.0" encoding="UTF-8"?>
-                <rss version="2.0"><channel>
-                  <item>
-                    <title>SME Task Creator – Indonesia</title>
-                    <link>https://community.transperfect.com/jobs/736980-sme-indonesia</link>
-                    <description>&lt;p&gt;Work Location: Remote in Indonesia. Create realistic work tasks and materials for AI training.&lt;/p&gt;</description>
-                    <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
-                  </item>
-                </channel></rss>"""
+<rss version="2.0"><channel>
+  <item>
+    <title>SME Task Creator - Indonesia</title>
+    <link>https://community.transperfect.com/jobs/736980-sme-indonesia</link>
+    <description>&lt;p&gt;Work Location: Remote in Indonesia. Create realistic work tasks and materials for AI training.&lt;/p&gt;</description>
+    <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
+  </item>
+</channel></rss>"""
                 return HTTPResponseData(200, rss, {}, url)
 
             client = PoliteHTTPClient(transport_override=fake_transport, sleep_fn=lambda _: None)
@@ -470,6 +534,63 @@ class TestEndToEndJobDiscoveryPipeline(unittest.TestCase):
             self.assertNotIn("<p>", feed_json["jobs"][0]["excerpt"])
             self.assertTrue((tmp_p / "state/COVERAGE_REPORT.md").exists())
             self.assertTrue((tmp_p / "state/daily_new_candidates.json").exists())
+
+    def test_anomalous_source_wide_drop_holds_previously_verified_jobs(self):
+        from unittest.mock import patch
+        from ai_jobs_v2.pipeline import JobDiscoveryPipeline
+
+        with tempfile.TemporaryDirectory() as tmp:
+            root = pathlib.Path(tmp)
+            config = root / "sources.json"
+            config.write_text(
+                json.dumps(
+                    {
+                        "sources": [
+                            {
+                                "id": "lever_weloglobal",
+                                "platform": "Welo Data",
+                                "official_url": "https://jobs.lever.co/weloglobal",
+                                "api_endpoint": "https://api.lever.co/v0/postings/weloglobal",
+                                "method": "lever_api",
+                                "enabled": True,
+                            }
+                        ]
+                    }
+                ),
+                encoding="utf-8",
+            )
+            output = root / "staging/jobs_feed.json"
+            initial_jobs = [
+                RawJobListing(
+                    "lever_weloglobal",
+                    "Welo Data",
+                    f"id-{i}",
+                    f"Search Quality Rater - Indonesia {i}",
+                    f"https://jobs.lever.co/weloglobal/id-{i}",
+                    f"https://jobs.lever.co/weloglobal/id-{i}/apply",
+                    location_raw="Indonesia · ID · remote",
+                    description_text="Evaluate search queries in Bahasa Indonesia.",
+                )
+                for i in range(3)
+            ]
+
+            class FakeConnector:
+                def __init__(self, listings):
+                    self.listings = listings
+
+                def fetch_listings(self):
+                    return self.listings
+
+            with patch("ai_jobs_v2.pipeline.create_connector", return_value=FakeConnector(initial_jobs)):
+                r1 = JobDiscoveryPipeline(config, root / "state", output).run("2026-11-25T00:00:00Z")
+                self.assertEqual(r1["summary"]["publishedAndroidFeedTotal"], 3)
+
+            with patch("ai_jobs_v2.pipeline.create_connector", return_value=FakeConnector([])):
+                r2 = JobDiscoveryPipeline(config, root / "state", output).run("2026-11-25T04:00:00Z")
+                self.assertEqual(r2["sources"][0]["status"], "FAILED")
+                self.assertEqual(r2["summary"]["deduplication"]["closedJobs"], 0)
+                self.assertEqual(r2["summary"]["deduplication"]["unverifiedHeldDueToConnectorFailure"], 3)
+                self.assertEqual(r2["summary"]["publishedAndroidFeedTotal"], 3)
 
 
 class TestEmptyPublicHTMLFaultHold(unittest.TestCase):
@@ -506,14 +627,14 @@ class TestEmptyPublicHTMLFaultHold(unittest.TestCase):
 
             with patch("ai_jobs_v2.pipeline.create_connector", return_value=FakeConnector([job])):
                 first = JobDiscoveryPipeline(config, root / "state", output).run("2026-11-25T00:00:00Z")
-            self.assertEqual(first["summary"]["publishedAndroidFeedTotal"], 1)
+                self.assertEqual(first["summary"]["publishedAndroidFeedTotal"], 1)
 
             with patch("ai_jobs_v2.pipeline.create_connector", return_value=FakeConnector([])):
                 second = JobDiscoveryPipeline(config, root / "state", output).run("2026-11-25T04:00:00Z")
-            self.assertEqual(second["sources"][0]["status"], "FAILED")
-            self.assertEqual(second["summary"]["deduplication"]["closedJobs"], 0)
-            self.assertEqual(second["summary"]["publishedAndroidFeedTotal"], 1)
-            self.assertEqual(second["summary"]["deduplication"]["unverifiedHeldDueToConnectorFailure"], 1)
+                self.assertEqual(second["sources"][0]["status"], "FAILED")
+                self.assertEqual(second["summary"]["deduplication"]["closedJobs"], 0)
+                self.assertEqual(second["summary"]["publishedAndroidFeedTotal"], 1)
+                self.assertEqual(second["summary"]["deduplication"]["unverifiedHeldDueToConnectorFailure"], 1)
 
 
 class TestMercorPublicBoard(unittest.TestCase):
@@ -545,6 +666,351 @@ class TestMercorPublicBoard(unittest.TestCase):
         self.assertEqual(jobs[0].source_job_id, "list_test123")
         self.assertIn("Indonesian AI Response Evaluator", jobs[0].title)
         self.assertEqual(jobs[0].raw_apply_url, "https://work.mercor.com/jobs/list_test123")
+
+
+@unittest.skipUnless(HAS_BS4, "beautifulsoup4 required for HTML/SSR connector tests")
+class TestRecoveredConnectorsSuite(unittest.TestCase):
+    def test_mercor_dehydrated_react_query_next_data_and_closed_flag(self):
+        from ai_jobs_v2.connectors.public_web import MercorConnector
+
+        next_data = {
+            "props": {
+                "pageProps": {
+                    "dehydratedState": {
+                        "queries": [
+                            {
+                                "state": {
+                                    "data": {
+                                        "listings": [
+                                            {
+                                                "listingId": "list_AAABoXlzADizwRyyDutBMpdx",
+                                                "slug": "indonesian-linguistic-experts",
+                                                "title": "Indonesian Linguistic Experts",
+                                                "rateMin": 30,
+                                                "rateMax": 30,
+                                                "ratePeriod": "hourly",
+                                                "location": "Indonesia",
+                                                "description": "Evaluate LLM-generated Indonesian text and annotate data.",
+                                            },
+                                            {
+                                                "listingId": "list_closed99",
+                                                "slug": "closed-role",
+                                                "title": "Bilingual Indonesian Generalist Expert — AI Safety",
+                                                "statusText": "no longer accepting applications",
+                                                "isClosed": True,
+                                            },
+                                        ]
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+        html = f'<html><body><script id="__NEXT_DATA__" type="application/json">{json.dumps(next_data)}</script></body></html>'
+        client = PoliteHTTPClient(transport_override=lambda u, h, p, t: HTTPResponseData(200, html, {}, u), sleep_fn=lambda _: None)
+        conn = MercorConnector(
+            {
+                "id": "web_mercor",
+                "platform": "Mercor",
+                "official_url": "https://work.mercor.com/explore",
+                "api_endpoint": "https://work.mercor.com/sitemap.xml",
+                "html_endpoint": "https://work.mercor.com/explore",
+                "method": "mercor_public_web",
+            },
+            client,
+        )
+        jobs = conn.fetch_listings()
+        self.assertEqual(len(jobs), 2)
+        self.assertEqual(jobs[0].raw_apply_url, "https://work.mercor.com/jobs/list_AAABoXlzADizwRyyDutBMpdx/indonesian-linguistic-experts")
+        self.assertEqual(jobs[0].compensation_raw, "$30 / hr")
+        self.assertFalse(jobs[0].is_explicitly_closed)
+        self.assertTrue(jobs[1].is_explicitly_closed)
+
+    def test_micro1_portal_post_api_and_canonical_post_urls(self):
+        from ai_jobs_v2.connectors.public_web import Micro1Connector
+
+        portal_payload = {
+            "data": {
+                "jobs": [
+                    {
+                        "job_id": "fd2eabd8-79df-4f01-bf92-06cf69af2acd",
+                        "job_title": "Bilingual Indonesian Generalists",
+                        "skills": ["Indonesian", "Data Annotation"],
+                        "min_pay": 30,
+                        "max_pay": 65,
+                        "location": "Remote - Indonesia",
+                        "description": "Develop and refine Indonesian-language training datasets to train frontier AI models with high quality data.",
+                        "posted_at": "2026-11-21T00:00:00Z",
+                    }
+                ]
+            }
+        }
+
+        def fake_post(url, headers, body, timeout):
+            self.assertEqual(url, "https://prod-api.micro1.ai/api/v1/job/portal")
+            return HTTPResponseData(200, json.dumps(portal_payload), {}, url)
+
+        client = PoliteHTTPClient(post_transport_override=fake_post, sleep_fn=lambda _: None)
+        conn = Micro1Connector(
+            {
+                "id": "web_micro1",
+                "platform": "Micro1",
+                "official_url": "https://www.micro1.ai/experts/opportunities",
+                "api_endpoint": "https://www.micro1.ai/experts/opportunities",
+                "portal_api_endpoint": "https://prod-api.micro1.ai/api/v1/job/portal",
+                "method": "micro1_public_web",
+            },
+            client,
+        )
+        jobs = conn.fetch_listings()
+        self.assertEqual(len(jobs), 1)
+        self.assertEqual(jobs[0].raw_apply_url, "https://jobs.micro1.ai/post/fd2eabd8-79df-4f01-bf92-06cf69af2acd")
+        self.assertEqual(jobs[0].compensation_raw, "$30 - $65 / hr")
+        self.assertEqual(classify_eligibility(jobs[0]).classification, ELIGIBILITY_INDONESIA)
+
+    def test_oneforma_wp_rest_and_paginated_projects_html_merge(self):
+        from ai_jobs_v2.connectors.public_web import OneFormaConnector
+
+        wp_json = [
+            {
+                "id": 901,
+                "slug": "paragraph-level-translation-quality-rater",
+                "link": "https://www.oneforma.com/projects/paragraph-level-translation-quality-rater/",
+                "title": {"rendered": "Paragraph-Level Translation Quality Rater"},
+                "content": {"rendered": "<p>Evaluate translation quality for multilingual AI systems.</p>"},
+                "date_gmt": "2026-11-20T09:00:00",
+            }
+        ]
+        page1_html = """
+        <html><body>
+          <article>
+            <h3>Paragraph-Level Translation Quality Rater</h3>
+            <p>Azerbaijan · Brazil +29 Available in 31 countries Azerbaijan Brazil India Indonesia United States Remote 2 hr per day</p>
+            <a href="https://www.oneforma.com/projects/paragraph-level-translation-quality-rater/">Apply</a>
+          </article>
+          <a href="https://www.oneforma.com/projects/page/2/">2</a>
+        </body></html>
+        """
+        page2_html = """
+        <html><body>
+          <article>
+            <h3>Uzbek Audio Quality Evaluator (Project Echo)</h3>
+            <p>Open to applicants in Uzbekistan. $9.20 per hour</p>
+            <a href="https://www.oneforma.com/projects/uzbek-audio-quality-evaluator/">Apply</a>
+          </article>
+        </body></html>
+        """
+
+        def fake_get(url, headers, params, timeout):
+            if "wp-json/wp/v2/job" in url:
+                return HTTPResponseData(200, json.dumps(wp_json), {}, url)
+            if url.endswith("/projects/page/2/"):
+                return HTTPResponseData(200, page2_html, {}, url)
+            return HTTPResponseData(200, page1_html, {}, url)
+
+        client = PoliteHTTPClient(transport_override=fake_get, sleep_fn=lambda _: None)
+        conn = OneFormaConnector(
+            {
+                "id": "web_oneforma",
+                "platform": "OneForma (Centific)",
+                "official_url": "https://www.oneforma.com/projects/",
+                "api_endpoint": "https://www.oneforma.com/wp-json/wp/v2/job?per_page=100&_embed=1",
+                "html_endpoint": "https://www.oneforma.com/projects/",
+                "method": "oneforma_public_web",
+                "pure_ai_eval_board": True,
+            },
+            client,
+        )
+        jobs = conn.fetch_listings()
+        self.assertEqual(len(jobs), 2)
+        self.assertEqual(jobs[0].source_job_id, "901")
+        self.assertIn("Indonesia", jobs[0].location_raw)
+        self.assertEqual(classify_eligibility(jobs[0]).classification, ELIGIBILITY_INDONESIA)
+        self.assertEqual(jobs[1].compensation_raw, "$9.20 per hour")
+        self.assertEqual(classify_eligibility(jobs[1]).classification, ELIGIBILITY_RESTRICTED)
+
+    def test_mindrift_workable_widget_deduplicates_shortcodes(self):
+        from ai_jobs_v2.connectors.public_web import MindriftConnector
+
+        workable_json = {
+            "name": "Mindrift",
+            "jobs": [
+                {
+                    "title": "Freelance AI Tutor - Indonesian",
+                    "shortcode": "IND101",
+                    "telecommuting": True,
+                    "country": "Indonesia",
+                    "city": "Jakarta",
+                    "published_on": "2026-11-22",
+                    "description": "<p>Evaluate AI-generated responses in Bahasa Indonesia.</p>",
+                    "locations": [{"country": "Indonesia", "city": "Jakarta", "hidden": False}],
+                },
+                {
+                    "title": "Freelance AI Tutor - Indonesian",
+                    "shortcode": "IND101",
+                    "telecommuting": True,
+                    "country": "Indonesia",
+                    "city": "Surabaya",
+                    "published_on": "2026-11-22",
+                    "description": "<p>Evaluate AI-generated responses in Bahasa Indonesia.</p>",
+                    "locations": [{"country": "Indonesia", "city": "Surabaya", "hidden": False}],
+                },
+            ],
+        }
+        apply_html = '<html><body><div><h3>Freelance AI Tutor - Indonesian</h3> up to $ 30 /hr Open <a href="https://apply.workable.com/toloka-ai/j/IND101">Apply</a></div></body></html>'
+
+        def fake_get(url, headers, params, timeout):
+            if "workable.com" in url:
+                return HTTPResponseData(200, json.dumps(workable_json), {}, url)
+            return HTTPResponseData(200, apply_html, {}, url)
+
+        client = PoliteHTTPClient(transport_override=fake_get, sleep_fn=lambda _: None)
+        conn = MindriftConnector(
+            {
+                "id": "web_mindrift",
+                "platform": "Mindrift (Toloka)",
+                "official_url": "https://mindrift.ai/apply",
+                "api_endpoint": "https://apply.workable.com/api/v1/widget/accounts/toloka-ai?details=true",
+                "html_endpoint": "https://mindrift.ai/apply",
+                "method": "mindrift_public_web",
+                "pure_ai_eval_board": True,
+            },
+            client,
+        )
+        jobs = conn.fetch_listings()
+        self.assertEqual(len(jobs), 1)
+        self.assertEqual(jobs[0].source_job_id, "IND101")
+        self.assertEqual(jobs[0].raw_apply_url, "https://apply.workable.com/toloka-ai/j/IND101")
+        self.assertEqual(jobs[0].compensation_raw, "up to $30 /hr")
+        self.assertEqual(classify_eligibility(jobs[0]).classification, ELIGIBILITY_INDONESIA)
+
+    def test_imerit_jobs_json_filters_expired_roles_and_preserves_hash_urls(self):
+        from ai_jobs_v2.connectors.public_web import IMeritConnector
+
+        jobs_json = [
+            {
+                "hash": "flynpID999",
+                "title": "Indonesian Language Expert",
+                "department": "Operations",
+                "type": "Independent Contractor (Scholar)",
+                "country": "Indonesia",
+                "language": "Indonesian",
+                "rate": "12",
+                "closing_date": "2027-12-31",
+                "apply_url": "https://app.scholars.net/signup",
+                "overview": "Perform Gen AI data annotations across text and image modalities.",
+            },
+            {
+                "hash": "expiredHash001",
+                "title": "Expired Language Expert",
+                "country": "Indonesia",
+                "closing_date": "2025-01-01",
+                "overview": "Perform Gen AI data annotations.",
+            },
+        ]
+
+        client = PoliteHTTPClient(
+            transport_override=lambda u, h, p, t: HTTPResponseData(200, json.dumps(jobs_json), {}, u),
+            sleep_fn=lambda _: None,
+        )
+        conn = IMeritConnector(
+            {
+                "id": "web_imerit",
+                "platform": "iMerit Scholars",
+                "official_url": "https://imerit.ai/careers-listing/",
+                "api_endpoint": "https://imerit.ai/jobs.json",
+                "html_endpoint": "https://imerit.ai/careers-listing/",
+                "method": "imerit_public_web",
+            },
+            client,
+        )
+        jobs = conn.fetch_listings()
+        self.assertEqual(len(jobs), 2)
+        self.assertFalse(jobs[0].is_explicitly_closed)
+        self.assertEqual(jobs[0].raw_apply_url, "https://imerit.ai/careers-listing/?hash=flynpID999")
+        self.assertEqual(jobs[0].compensation_raw, "$12/hr")
+        self.assertTrue(jobs[1].is_explicitly_closed)
+
+    def test_outlier_and_telus_report_access_restrictions_without_bypass(self):
+        from ai_jobs_v2.connectors.public_web import TelusAIConnector
+
+        def outlier_transport(url, headers, params, timeout):
+            if "greenhouse.io" in url:
+                return HTTPResponseData(404, "Not Found", {}, url)
+            return HTTPResponseData(200, "<html><body>0 Opportunities</body></html>", {}, url)
+
+        gh_client = PoliteHTTPClient(transport_override=outlier_transport, sleep_fn=lambda _: None)
+        with self.assertRaises(RuntimeError) as out_ctx:
+            GreenhouseConnector(
+                {
+                    "id": "greenhouse_outlier",
+                    "platform": "Outlier",
+                    "official_url": "https://app.outlier.ai/opportunities",
+                    "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/outlier/jobs?content=true",
+                    "public_fallback_url": "https://app.outlier.ai/opportunities",
+                    "method": "greenhouse_api",
+                },
+                gh_client,
+            ).fetch_listings()
+        self.assertIn("CSRF", str(out_ctx.exception))
+
+        telus_client = PoliteHTTPClient(
+            transport_override=lambda u, h, p, t: HTTPResponseData(
+                200, "<html><body><noscript>You need to enable JavaScript to run this app.</noscript></body></html>", {}, u
+            ),
+            sleep_fn=lambda _: None,
+        )
+        with self.assertRaises(RuntimeError) as telus_ctx:
+            TelusAIConnector(
+                {
+                    "id": "web_telus_ai",
+                    "platform": "TELUS Digital AI",
+                    "official_url": "https://www.telusinternational.ai/opportunities",
+                    "api_endpoint": "https://www.telusinternational.ai/opportunities",
+                    "method": "telus_ai_public_web",
+                },
+                telus_client,
+            ).fetch_listings()
+        self.assertIn("React SPA shell", str(telus_ctx.exception))
+
+    def test_teamtailor_supplements_html_pages_when_rss_hits_cap(self):
+        rss_items = "".join(
+            f"<item><title>Role {i}</title><link>https://community.transperfect.com/jobs/{1000 + i}-role</link><description>Work Location: US</description></item>"
+            for i in range(2)
+        )
+        rss_xml = f'<?xml version="1.0"?><rss version="2.0"><channel>{rss_items}</channel></rss>'
+        html_p1 = '<html><body><a href="/jobs/1000-role">Role 0</a><a href="/jobs/2001-indonesia-annotator">AI Data Annotator - Indonesia</a><a href="?page=2">Next</a></body></html>'
+        html_p2 = '<html><body><a href="/jobs/2001-indonesia-annotator">AI Data Annotator - Indonesia</a></body></html>'
+        detail_html = '<html><head><script type="application/ld+json">{"@type":"JobPosting","description":"Work Location: Remote in Indonesia. Annotate datasets.","datePosted":"2026-11-24"}</script></head></html>'
+
+        def fake_get(url, headers, params, timeout):
+            if url.endswith(".rss"):
+                return HTTPResponseData(200, rss_xml, {}, url)
+            if "2001-indonesia-annotator" in url:
+                return HTTPResponseData(200, detail_html, {}, url)
+            if (params or {}).get("page") == 2:
+                return HTTPResponseData(200, html_p2, {}, url)
+            return HTTPResponseData(200, html_p1, {}, url)
+
+        client = PoliteHTTPClient(transport_override=fake_get, sleep_fn=lambda _: None)
+        conn = TeamtailorConnector(
+            {
+                "id": "teamtailor_dataforce",
+                "platform": "DataForce by TransPerfect",
+                "official_url": "https://community.transperfect.com/jobs",
+                "api_endpoint": "https://community.transperfect.com/jobs.rss",
+                "html_endpoint": "https://community.transperfect.com/jobs",
+                "method": "teamtailor_feed",
+            },
+            client,
+        )
+        conn.RSS_CAP_THRESHOLD = 2
+        jobs = conn.fetch_listings()
+        self.assertEqual(len(jobs), 3)
+        self.assertEqual(jobs[2].source_job_id, "2001-indonesia-annotator")
+        self.assertEqual(jobs[2].location_raw, "Remote in Indonesia")
 
 
 if __name__ == "__main__":

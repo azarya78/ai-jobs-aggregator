@@ -1,4 +1,4 @@
-"""Multi-Source Pipeline Orchestrator with Independent Connector Fault Isolation."""
+"""Multi-Source Pipeline Orchestrator with Independent Connector Fault Isolation & Drop Safeguard."""
 from __future__ import annotations
 import json
 import logging
@@ -16,6 +16,7 @@ from .models import (
     ELIGIBILITY_GLOBAL,
     ELIGIBILITY_RESTRICTED,
     ELIGIBILITY_UNVERIFIED,
+    STATUS_CLOSED,
 )
 from .normalizer import normalize_raw_listing, build_canonical_id
 from .url_sanitizer import sanitize_official_apply_url
@@ -31,6 +32,8 @@ logger = logging.getLogger("ai_jobs_v2.pipeline")
 
 
 class JobDiscoveryPipeline:
+    ANOMALOUS_SOURCE_WIPEOUT_MIN_ACTIVE = 3
+
     def __init__(
         self,
         sources_config_path: pathlib.Path,
@@ -61,6 +64,14 @@ class JobDiscoveryPipeline:
             except Exception:
                 pass
 
+        # Count previously active published records per source to guard against silent source-wide wipeouts
+        prev_active_by_source: Dict[str, int] = {}
+        for entry in self.history_store.records.values():
+            if entry.get("job_status") != STATUS_CLOSED:
+                src_key = str(entry.get("source_connector") or "")
+                if src_key:
+                    prev_active_by_source[src_key] = prev_active_by_source.get(src_key, 0) + 1
+
         connector_reports: List[ConnectorReport] = []
         primary_eligible_candidates: List[NormalizedJobRecord] = []
         unverified_review_records: List[NormalizedJobRecord] = []
@@ -83,29 +94,22 @@ class JobDiscoveryPipeline:
                 connector = create_connector(src_cfg, self.http_client)
                 raw_listings = connector.fetch_listings()
                 report.raw_count = len(raw_listings)
-                # A successful HTTP response does not prove that an HTML scraper
-                # extracted the public job board. Treat zero parsed cards as a
-                # connector failure so existing jobs are held, not marked CLOSED.
-                # Structured APIs may legitimately return an empty dataset.
                 if not raw_listings and src_cfg.get("method", "").endswith("_public_web"):
                     raise RuntimeError(
                         f"Public HTML extractor returned zero listings for {sid}; "
                         "possible page-layout or rendering change"
                     )
-                report.last_successful_check = now_iso
-                succeeded_connectors.add(sid)
 
-                if len(raw_listings) == 0:
-                    report.status = "EMPTY"
-                else:
-                    report.status = "SUCCESS"
+                source_eligible: List[NormalizedJobRecord] = []
+                source_unverified: List[NormalizedJobRecord] = []
+                source_closed_ids: Set[str] = set()
 
                 for raw in raw_listings:
                     if raw.is_explicitly_closed:
                         report.closed_in_payload_count += 1
                         clean_u, _, _ = sanitize_official_apply_url(raw.raw_apply_url, raw.official_source_url)
                         cid = build_canonical_id(raw.source_connector, raw.source_job_id, clean_u, raw.title)
-                        explicitly_closed_ids.add(cid)
+                        source_closed_ids.add(cid)
                         continue
 
                     norm_rec, rel_res, elig_res = normalize_raw_listing(raw, collected_at_iso=now_iso)
@@ -116,15 +120,34 @@ class JobDiscoveryPipeline:
                     report.relevant_count += 1
                     if elig_res.classification == ELIGIBILITY_INDONESIA:
                         report.indonesia_eligible_count += 1
-                        primary_eligible_candidates.append(norm_rec)
+                        source_eligible.append(norm_rec)
                     elif elig_res.classification == ELIGIBILITY_GLOBAL:
                         report.remote_global_count += 1
-                        primary_eligible_candidates.append(norm_rec)
+                        source_eligible.append(norm_rec)
                     elif elig_res.classification == ELIGIBILITY_UNVERIFIED:
                         report.unverified_review_count += 1
-                        unverified_review_records.append(norm_rec)
+                        source_unverified.append(norm_rec)
                     else:
                         report.restricted_count += 1
+
+                # Safeguard: prevent unexplained 100% source-wide drops on multi-job sources from silently closing active records
+                prior_active = prev_active_by_source.get(sid, 0)
+                if (
+                    prior_active >= self.ANOMALOUS_SOURCE_WIPEOUT_MIN_ACTIVE
+                    and len(source_eligible) == 0
+                    and len(source_closed_ids) == 0
+                ):
+                    raise RuntimeError(
+                        f"Anomalous source-wide drop for {sid}: {prior_active} previously active jobs dropped to 0 "
+                        f"(raw={report.raw_count}) without explicit closure markers; holding existing jobs UNVERIFIED"
+                    )
+
+                report.last_successful_check = now_iso
+                succeeded_connectors.add(sid)
+                report.status = "EMPTY" if len(raw_listings) == 0 else "SUCCESS"
+                primary_eligible_candidates.extend(source_eligible)
+                unverified_review_records.extend(source_unverified)
+                explicitly_closed_ids.update(source_closed_ids)
 
             except Exception as exc:
                 err_clean = redact_secrets(str(exc))
