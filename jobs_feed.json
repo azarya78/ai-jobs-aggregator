@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-11-25 15:58 UTC",
+  "lastUpdated": "2026-11-25 18:46 UTC",
   "totalJobs": 370,
   "jobs": [
+    {
+      "id": "gh-4565768005",
+      "title": "Staff Product Designer, Global Public Sector",
+      "company": "Scale AI",
+      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "Scale AI"
+      ],
+      "location": "Doha, Qatar ; Dubai, UAE; London, UK",
+      "pay": "Lihat Detail",
+      "date": "Nov 25, 2026",
+      "timestamp": 1795627856,
+      "excerpt": "Do you thrive in the ambiguity and possibility of early stage product design? We're looking for a bilingual Product Designer to help build intuitive, AI-driven experiences for government and enterprise clients across the...",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4565768005",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "gh-4684808005",
       "title": "Support Systems Specialist (Zendesk, Routing & Analytics)",
@@ -1383,14 +1404,14 @@
         "Reasoning",
         "Compliance",
         "Onboarding",
-        "Engineering",
-        "Finance"
+        "LLM Evaluation",
+        "Administrative Law"
       ],
       "location": "United States",
       "pay": "$60 – $80/hr",
       "date": "Nov 25, 2026",
       "timestamp": 1795564800,
-      "excerpt": "Location: Remote, US-based only Commitment: 12-15 hours per week, flexible around your schedule, part-time, project-based Compensation: $60 - $80USD per hour About the opportunity This role is for people who have worked on federal rulemaking, such as drafting rules or notices,…",
+      "excerpt": "Location: Remote, (US, Canada, UK, EU or other NATO country) Commitment: 12-15 hours per week, flexible around your schedule, part-time, project-based Compensation: $60 - $80USD per hour About the opportunity This role is for people who have worked on federal rulemaking, such as…",
       "applyUrl": "https://remowork.life/jobs/6b067cae9f7de28ada7ebeaf/apply-out?ch=card",
       "source": "Flexible • AI"
     },
@@ -1531,7 +1552,7 @@
     },
     {
       "id": "6b062d8a635e030a810b39c5",
-      "title": "Senior Product Manager",
+      "title": "Senior Product Manager, Workforce Management",
       "company": "Coinbase",
       "logo": "https://www.google.com/s2/favicons?domain=coinbase.com&sz=64",
       "category": "Product Manager",
@@ -1539,12 +1560,12 @@
       "isIndonesian": false,
       "isDirect": false,
       "skills": [
+        "Management",
         "Finance",
         "Institutions",
         "Derivatives",
         "AI",
         "Operations",
-        "Management",
         "Leadership",
         "Audit"
       ],
@@ -1554,7 +1575,7 @@
       "timestamp": 1795564800,
       "excerpt": "Ready to do the most impactful work of your career? Coinbase is building the future of finance for people, institutions and their agents, with one place to trade crypto, equities, derivatives and prediction markets, use stablecoins, and connect AI agents with clear controls.",
       "applyUrl": "https://remowork.life/jobs/6b062d8a635e030a810b39c5/apply-out?ch=card",
-      "source": "Finance • Institutions"
+      "source": "Management • Finance"
     },
     {
       "id": "6b0628d1635e030a810b067b",
@@ -1744,7 +1765,7 @@
       "source": "Telemedicine • Management"
     },
     {
-      "id": "gh-5301426007",
+      "id": "gh-5308892007",
       "title": "Lead Automation & Controls Engineer, Data Center Facilities ",
       "company": "xAI",
       "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
@@ -1761,7 +1782,7 @@
       "date": "Nov 24, 2026",
       "timestamp": 1795560471,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5301426007",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5308892007",
       "source": "⚡ Direct API"
     },
     {
@@ -2969,7 +2990,7 @@
     },
     {
       "id": "6b062d8a635e030a810b399c",
-      "title": "Product Manager II",
+      "title": "Product Manager II, Prime Onchain",
       "company": "Coinbase",
       "logo": "https://www.google.com/s2/favicons?domain=coinbase.com&sz=64",
       "category": "Product Manager",
@@ -6300,7 +6321,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4650514005",
+      "id": "gh-4589749005",
       "title": "Product Manager of AI Applications, Global Public Sector",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -6312,12 +6333,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Riyadh, Saudi Arabia (+1 lokasi lain)",
+      "location": "Doha, Qatar ; Dubai, UAE (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Nov 18, 2026",
       "timestamp": 1795048855,
       "excerpt": "Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most exciting and quickly expanding teams at Scale. This team is responsible for generating, executing, and fost...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
       "source": "⚡ Direct API"
     },
     {
@@ -6363,7 +6384,7 @@
       "source": "⚡ Direct API"
     },
     {
-      "id": "gh-4751149005",
+      "id": "gh-4751081005",
       "title": "Senior Applied AI Engineer",
       "company": "Scale AI",
       "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
@@ -6375,12 +6396,12 @@
         "Direct API",
         "Scale AI"
       ],
-      "location": "Kuwait City, Kuwait (+1 lokasi lain)",
+      "location": "London, UK (+1 lokasi lain)",
       "pay": "Lihat Detail",
       "date": "Nov 18, 2026",
       "timestamp": 1795048855,
       "excerpt": "About the role Scale's Global Public Sector team is focused on using AI to address critical challenges facing the public sector around the world. As a Senior Applied AI Engineer, you'll own the AI behaviour of production...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751149005",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4751081005",
       "source": "⚡ Direct API"
     },
     {
@@ -6675,27 +6696,6 @@
       "timestamp": 1795048855,
       "excerpt": "About Scale AI Scale AI is the data foundation for AI, helping organizations build and deploy reliable production AI applications. We partner with the world's leading enterprises and government organizations to accelerat...",
       "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4720487005",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-4565768005",
-      "title": "Staff Product Designer, Global Public Sector",
-      "company": "Scale AI",
-      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "Scale AI"
-      ],
-      "location": "Doha, Qatar ; Dubai, UAE; London, UK",
-      "pay": "Lihat Detail",
-      "date": "Nov 18, 2026",
-      "timestamp": 1795048855,
-      "excerpt": "Do you thrive in the ambiguity and possibility of early stage product design? We're looking for a bilingual Product Designer to help build intuitive, AI-driven experiences for government and enterprise clients across the...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4565768005",
       "source": "⚡ Direct API"
     },
     {
