@@ -984,7 +984,7 @@ class TestRecoveredConnectorsSuite(unittest.TestCase):
                 "type": "Independent Contractor (Scholar)",
                 "country": "Indonesia",
                 "language": "Indonesian",
-                "rate": "12",
+                "rate": "$12/hr",
                 "closing_date": "2027-12-31",
                 "apply_url": "https://app.scholars.net/signup",
                 "overview": "Perform Gen AI data annotations across text and image modalities.",

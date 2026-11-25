@@ -134,7 +134,8 @@ class NormalizedJobRecord:
             "isDirect": self.is_direct,
             "skills": self.skills,
             "location": self.location or "Remote",
-            "pay": self.compensation.raw_text,
+            "pay": (self.compensation.raw_text if self.compensation.currency or self.compensation.unit
+                    else ""),
             "date": date_str,
             "timestamp": ts_ms,
             "excerpt": self.short_description,

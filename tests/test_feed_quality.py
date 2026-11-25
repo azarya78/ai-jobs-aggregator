@@ -53,6 +53,39 @@ class TestFeedQuality(unittest.TestCase):
         self.assertFalse(classify_relevance(raw).is_relevant)
         self.assertIsNone(parse_compensation(raw.compensation_raw).unit)
 
+    def test_mercor_structured_location_and_payment_frequency(self):
+        from ai_jobs_v2.connectors.public_web import MercorConnector
+        conn = MercorConnector(dict(id="web_mercor", platform="Mercor", method="mercor_public_web",
+                                    official_url="https://work.mercor.com", api_endpoint="https://work.mercor.com/explore"), Mock())
+        data = dict(id="123", title="AI Trainer", rateMin=8, rateMax=12,
+                    payRateFrequency="per-task", eligibleResidenceLocation=["USA"],
+                    description="Open to applicants worldwide")
+        rec = conn._build_from_mercor_dict(data)
+        self.assertEqual(classify_eligibility(rec).classification, "Restricted")
+        self.assertEqual(parse_compensation(rec.compensation_raw).unit, "per_task")
+        data.update(eligibleResidenceLocation=[], payRateFrequency="hourly")
+        rec = conn._build_from_mercor_dict(data)
+        self.assertEqual(classify_eligibility(rec).classification, "Remote Global")
+        self.assertEqual(parse_compensation(rec.compensation_raw).unit, "hourly")
+        rec.extra_metadata["eligibleResidenceLocation"] = ["IDN", "MYS"]
+        self.assertEqual(classify_eligibility(rec).classification, "Indonesia Eligible")
+        rec.extra_metadata["ineligibleLocation"] = ["IDN"]
+        self.assertEqual(classify_eligibility(rec).classification, "Restricted")
+
+    def test_imerit_bare_pay_preserves_only_supported_fields(self):
+        from ai_jobs_v2.connectors.public_web import IMeritConnector
+        from ai_jobs_v2.normalizer import normalize_raw_listing
+        http = Mock()
+        http.get.return_value.json.return_value = [dict(job_id="ID1", title="AI Trainer", country="Indonesia",
+            pay_rate="8", apply_link="https://app.scholars.net/jobs/635")]
+        conn = IMeritConnector(dict(id="web_imerit", platform="iMerit", method="imerit_public_web",
+                                    official_url="https://imerit.ai", api_endpoint="https://imerit.ai/jobs.json"), http)
+        raw = conn.fetch_listings()[0]
+        job, _, _ = normalize_raw_listing(raw, "2026-11-26T00:00:00Z")
+        feed = job.to_android_feed_item()
+        self.assertEqual(feed["pay"], "")
+        self.assertEqual(feed["compensation"], dict(min=8, max=8, unit=None, currency=None, raw="8"))
+
     def test_pay_amount_period_and_unknowns(self):
         pay = parse_compensation("", "Rate: 7.50 USD/hour.")
         self.assertEqual((pay.amount_min, pay.unit), (7.5, "hourly"))

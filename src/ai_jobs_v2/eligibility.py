@@ -211,6 +211,18 @@ def classify_eligibility(raw: RawJobListing) -> EligibilityResult:
 
     is_id_lang = _detect_indonesian_language(title, desc)
 
+    # Public Mercor posting metadata separates applicant and residence country lists.
+    permitted_country_field = None
+    for key in ("ineligibleResidenceLocation", "ineligibleLocation", "eligibleResidenceLocation", "eligibleLocation"):
+        values = raw.extra_metadata.get(key)
+        if not values or not isinstance(values, list) or not all(isinstance(v, str) and re.fullmatch(r"[A-Z]{3}", v) for v in values):
+            continue
+        allow_list = key.startswith("eligible")
+        if (allow_list and "IDN" not in values) or (not allow_list and "IDN" in values):
+            return EligibilityResult(ELIGIBILITY_RESTRICTED, "high", f"{key}: {', '.join(values)}", is_id_lang)
+        if allow_list:
+            permitted_country_field = key
+
     for pat in INDONESIA_EXCLUSION_PATTERNS:
         m = re.search(pat, combined, re.IGNORECASE)
         if m:
@@ -235,7 +247,7 @@ def classify_eligibility(raw: RawJobListing) -> EligibilityResult:
         re.search(pat, desc, re.IGNORECASE) for pat in GLOBAL_ELIGIBLE_PATTERNS
     )
 
-    if loc and not loc_has_indonesia and not body_has_indonesia_residency and not body_has_explicit_worldwide:
+    if loc and not permitted_country_field and not loc_has_indonesia and not body_has_indonesia_residency and not body_has_explicit_worldwide:
         non_id_loc = _find_non_id_location_mention(loc, check_structured_iso=True)
         if non_id_loc:
             return EligibilityResult(
@@ -277,6 +289,9 @@ def classify_eligibility(raw: RawJobListing) -> EligibilityResult:
                         evidence=f"Description restricts eligibility: '{clause[:140]}'",
                         is_indonesian_language=is_id_lang,
                     )
+
+    if permitted_country_field:
+        return EligibilityResult(ELIGIBILITY_INDONESIA, "high", f"Indonesia (IDN) listed in {permitted_country_field}", is_id_lang)
 
     # A broad country list in employer boilerplate must not silently override
     # structured location metadata that points to another country.  Such roles

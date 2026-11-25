@@ -142,6 +142,7 @@ class MercorConnector(BaseConnector):
         status_str = f"{jb.get('status', '')} {jb.get('statusText', '')}".lower()
         closed = (
             bool(jb.get("isClosed"))
+            or jb.get("disableApplications") is True
             or jb.get("acceptingApplications") is False
             or any(
                 tok in status_str
@@ -156,12 +157,12 @@ class MercorConnector(BaseConnector):
             loc_str = str(loc_val or "Remote").strip() or "Remote"
 
         comp_raw = str(jb.get("rate") or jb.get("pay") or jb.get("compensation") or "").strip()
+        period = str(jb.get("payRateFrequency") or jb.get("ratePeriod") or jb.get("rate_period") or "")
         if isinstance(jb.get("rate"), (int, float)):
-            comp_raw = _format_rate_range(jb.get("rate"), jb.get("rate"), str(jb.get("ratePeriod") or jb.get("rate_period") or ""))
+            comp_raw = _format_rate_range(jb.get("rate"), jb.get("rate"), period)
         if not comp_raw:
             rmin = jb.get("rateMin") if jb.get("rateMin") is not None else jb.get("rate_min")
             rmax = jb.get("rateMax") if jb.get("rateMax") is not None else jb.get("rate_max")
-            period = str(jb.get("ratePeriod") or jb.get("rate_period") or "")
             comp_raw = _format_rate_range(rmin, rmax, period)
 
         desc_parts = [
@@ -190,6 +191,9 @@ class MercorConnector(BaseConnector):
             department=str(jb.get("domain") or jb.get("category") or ""),
             logo_url=self.logo,
             pure_ai_eval_board=self.pure_ai_eval_board,
+            extra_metadata={key: jb[key] for key in (
+                "eligibleLocation", "eligibleResidenceLocation", "ineligibleLocation", "ineligibleResidenceLocation"
+            ) if isinstance(jb.get(key), list)},
             is_explicitly_closed=closed,
         )
 
@@ -1417,13 +1421,10 @@ class IMeritConnector(BaseConnector):
                 or ""
             ).strip()
             comp_raw = ""
-            if raw_rate and raw_rate.lower() not in ("none", "null", "n/a", "tbd", "0", "0.0"):
-                if re.fullmatch(r"\d+(?:\.\d+)?", raw_rate):
-                    val_f = float(raw_rate)
-                    if 0 < val_f <= 500:
-                        comp_raw = f"${raw_rate}/hr"
-                else:
-                    comp_raw = raw_rate
+            if raw_rate.lower() not in ("", "none", "null", "n/a", "tbd", "0", "0.0"):
+                comp_raw = raw_rate
+                if raw_rate == str(item.get("hourly_rate")) and re.fullmatch(r"\d+(?:\.\d+)?", raw_rate):
+                    comp_raw = f"{raw_rate} per hour"
 
             close_val = (
                 item.get("closing_date")

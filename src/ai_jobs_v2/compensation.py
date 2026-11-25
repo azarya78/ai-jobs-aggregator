@@ -72,6 +72,9 @@ def parse_compensation(raw_comp: str, fallback_text: str = "") -> CompensationIn
     """
     used_fallback = False
     source_text = (raw_comp or "").strip()
+    if re.fullmatch(r"\d+(?:\.\d+)?", source_text):
+        amount = float(source_text)
+        return CompensationInfo(amount_min=amount, amount_max=amount, raw_text=source_text)
     if not source_text and fallback_text:
         pay_line_match = re.search(
             r"\b(?:pay|rate|earn|compensation|salary(?:\s+range)?|tarif[^\n.;]{0,40}?rata-rata)\s*[:\-]?\s*([^\n;]{3,65})",
