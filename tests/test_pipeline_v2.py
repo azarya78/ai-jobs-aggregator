@@ -42,6 +42,45 @@ from ai_jobs_v2.connectors.teamtailor import TeamtailorConnector
 HAS_BS4 = importlib.util.find_spec("bs4") is not None
 
 
+class TestEligibilityReclassificationHistory(unittest.TestCase):
+    def test_previously_eligible_review_job_is_not_closed(self):
+        from ai_jobs_v2.history import JobHistoryStore
+        from ai_jobs_v2.normalizer import normalize_raw_listing
+
+        with tempfile.TemporaryDirectory() as d:
+            store = JobHistoryStore(pathlib.Path(d) / "history.json")
+            def make(location, description):
+                raw = RawJobListing(
+                    "lever_weloglobal", "Welo Data", "job-123", "AI Review Lead",
+                    "https://jobs.lever.co/weloglobal/job-123",
+                    "https://jobs.lever.co/weloglobal/job-123/apply",
+                    location_raw=location, description_text=description,
+                )
+                job, _, _ = normalize_raw_listing(raw, collected_at_iso="2026-11-25T00:00:00Z")
+                return job
+
+            original = make("Indonesia · ID · remote", "Evaluate AI outputs in Indonesia.")
+            self.assertIsNotNone(original)
+            feed, first = store.reconcile([original], set(), {"lever_weloglobal"}, set(), "2026-11-25T00:00:00Z")
+            self.assertEqual(len(feed), 1)
+            self.assertEqual(first.new_count, 1)
+
+            review = make("Croatia · HR · remote", "Countries: Australia, Indonesia, Germany. Evaluate AI outputs.")
+            self.assertIsNotNone(review)
+            self.assertEqual(review.eligibility_class, ELIGIBILITY_UNVERIFIED)
+            feed, second = store.reconcile([], set(), {"lever_weloglobal"}, set(), "2026-11-26T00:00:00Z", unverified_records=[review])
+            self.assertEqual(len(feed), 0)
+            self.assertEqual(second.closed_count, 0)
+            self.assertEqual(store.records[original.canonical_id]["job_status"], STATUS_UNVERIFIED)
+            self.assertEqual(store.records[original.canonical_id]["eligibility_class"], ELIGIBILITY_UNVERIFIED)
+
+            # Historical false closure can be repaired when still present in source.
+            store.records[original.canonical_id]["job_status"] = STATUS_CLOSED
+            feed, third = store.reconcile([], set(), {"lever_weloglobal"}, set(), "2026-11-27T00:00:00Z", unverified_records=[review])
+            self.assertEqual(third.closed_count, 0)
+            self.assertEqual(store.records[original.canonical_id]["job_status"], STATUS_UNVERIFIED)
+
+
 class TestConflictingGeographicEvidence(unittest.TestCase):
     def test_broad_employer_country_list_does_not_override_foreign_location(self):
         description = (
