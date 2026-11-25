@@ -1,0 +1,190 @@
+"""Multi-Source Pipeline Orchestrator with Independent Connector Fault Isolation."""
+from __future__ import annotations
+import json
+import logging
+import pathlib
+import time
+from datetime import datetime, timezone
+from typing import Dict, Any, List, Optional, Set
+
+from .connectors import create_connector
+from .http_client import PoliteHTTPClient, redact_secrets
+from .models import (
+    ConnectorReport,
+    NormalizedJobRecord,
+    ELIGIBILITY_INDONESIA,
+    ELIGIBILITY_GLOBAL,
+    ELIGIBILITY_RESTRICTED,
+    ELIGIBILITY_UNVERIFIED,
+)
+from .normalizer import normalize_raw_listing, build_canonical_id
+from .url_sanitizer import sanitize_official_apply_url
+from .history import JobHistoryStore
+from .validator import write_json_atomically
+from .reporter import (
+    build_coverage_report_dict,
+    render_coverage_markdown,
+    extract_daily_new_digest_candidates,
+)
+
+logger = logging.getLogger("ai_jobs_v2.pipeline")
+
+
+class JobDiscoveryPipeline:
+    def __init__(
+        self,
+        sources_config_path: pathlib.Path,
+        state_dir: pathlib.Path,
+        output_feed_path: pathlib.Path,
+        http_client: Optional[PoliteHTTPClient] = None,
+        boolean_eligible: bool = False,
+    ):
+        self.sources_config_path = sources_config_path
+        self.state_dir = state_dir
+        self.output_feed_path = output_feed_path
+        self.boolean_eligible = boolean_eligible
+        self.http_client = http_client or PoliteHTTPClient(cache_path=state_dir / "http_cache.json")
+        self.history_store = JobHistoryStore(state_dir / "job_history.json")
+
+    def run(self, run_timestamp_iso: Optional[str] = None) -> Dict[str, Any]:
+        now_iso = run_timestamp_iso or datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+        cfg = json.loads(self.sources_config_path.read_text(encoding="utf-8"))
+        sources = [s for s in cfg.get("sources", []) if s.get("enabled", True)]
+
+        prev_last_ok: Dict[str, Optional[str]] = {}
+        cov_path = self.state_dir / "coverage_report.json"
+        if cov_path.exists():
+            try:
+                old_cov = json.loads(cov_path.read_text(encoding="utf-8"))
+                for s in old_cov.get("sources", []):
+                    prev_last_ok[s["source_id"]] = s.get("last_successful_check")
+            except Exception:
+                pass
+
+        connector_reports: List[ConnectorReport] = []
+        primary_eligible_candidates: List[NormalizedJobRecord] = []
+        unverified_review_records: List[NormalizedJobRecord] = []
+        explicitly_closed_ids: Set[str] = set()
+        succeeded_connectors: Set[str] = set()
+        failed_connectors: Set[str] = set()
+
+        for src_cfg in sources:
+            sid = src_cfg["id"]
+            t0 = time.monotonic()
+            report = ConnectorReport(
+                source_id=sid,
+                platform=src_cfg["platform"],
+                official_url=src_cfg["official_url"],
+                method=src_cfg["method"],
+                status="SUCCESS",
+                last_successful_check=prev_last_ok.get(sid),
+            )
+            try:
+                connector = create_connector(src_cfg, self.http_client)
+                raw_listings = connector.fetch_listings()
+                report.raw_count = len(raw_listings)
+                report.last_successful_check = now_iso
+                succeeded_connectors.add(sid)
+
+                if len(raw_listings) == 0:
+                    report.status = "EMPTY"
+                else:
+                    report.status = "SUCCESS"
+
+                for raw in raw_listings:
+                    if raw.is_explicitly_closed:
+                        report.closed_in_payload_count += 1
+                        clean_u, _, _ = sanitize_official_apply_url(raw.raw_apply_url, raw.official_source_url)
+                        cid = build_canonical_id(raw.source_connector, raw.source_job_id, clean_u, raw.title)
+                        explicitly_closed_ids.add(cid)
+                        continue
+
+                    norm_rec, rel_res, elig_res = normalize_raw_listing(raw, collected_at_iso=now_iso)
+                    if norm_rec is None or not rel_res.is_relevant or elig_res is None:
+                        report.rejected_irrelevant_count += 1
+                        continue
+
+                    report.relevant_count += 1
+                    if elig_res.classification == ELIGIBILITY_INDONESIA:
+                        report.indonesia_eligible_count += 1
+                        primary_eligible_candidates.append(norm_rec)
+                    elif elig_res.classification == ELIGIBILITY_GLOBAL:
+                        report.remote_global_count += 1
+                        primary_eligible_candidates.append(norm_rec)
+                    elif elig_res.classification == ELIGIBILITY_UNVERIFIED:
+                        report.unverified_review_count += 1
+                        unverified_review_records.append(norm_rec)
+                    else:
+                        report.restricted_count += 1
+
+            except Exception as exc:
+                err_clean = redact_secrets(str(exc))
+                logger.error("Connector %s failed independently: %s", sid, err_clean)
+                report.status = "FAILED"
+                report.error_message = err_clean[:240]
+                failed_connectors.add(sid)
+            finally:
+                report.duration_ms = int((time.monotonic() - t0) * 1000)
+                connector_reports.append(report)
+
+        reconciled_active, dedup_summary = self.history_store.reconcile(
+            incoming_records=primary_eligible_candidates,
+            explicitly_closed_ids=explicitly_closed_ids,
+            succeeded_connectors=succeeded_connectors,
+            failed_connectors=failed_connectors,
+            run_timestamp_iso=now_iso,
+        )
+
+        def _sort_key(r: NormalizedJobRecord):
+            tier = 0 if r.eligibility_class == ELIGIBILITY_INDONESIA else 1
+            date_iso = r.official_posted_date or r.first_detected_at
+            return (tier, -int(datetime.fromisoformat(date_iso.replace("Z", "+00:00")).timestamp()))
+
+        reconciled_active.sort(key=_sort_key)
+
+        feed_items = [r.to_android_feed_item(boolean_eligible=self.boolean_eligible) for r in reconciled_active]
+        feed_payload = {
+            "lastUpdated": now_iso,
+            "totalJobs": len(feed_items),
+            "schemaVersion": "2.0",
+            "pipeline": "ai-jobs-hub-v2-direct",
+            "jobs": feed_items,
+        }
+
+        write_json_atomically(self.output_feed_path, feed_payload, validate_android_schema=True)
+        self.history_store.save_atomic(updated_at_iso=now_iso)
+        self.http_client.save_cache()
+
+        dedup_unverified = {}
+        for urec in unverified_review_records:
+            dedup_unverified.setdefault(urec.canonical_id, urec.to_android_feed_item(boolean_eligible=self.boolean_eligible))
+        write_json_atomically(
+            self.state_dir / "unverified_jobs.json",
+            {
+                "lastUpdated": now_iso,
+                "totalUnverified": len(dedup_unverified),
+                "jobs": list(dedup_unverified.values()),
+            },
+            validate_android_schema=False,
+        )
+
+        write_json_atomically(
+            self.state_dir / "daily_new_candidates.json",
+            extract_daily_new_digest_candidates(reconciled_active, now_iso),
+            validate_android_schema=False,
+        )
+
+        cov_dict = build_coverage_report_dict(
+            run_timestamp_iso=now_iso,
+            connector_reports=connector_reports,
+            dedup_summary=dedup_summary,
+            published_count=len(feed_items),
+            unverified_queue_count=len(dedup_unverified),
+        )
+        write_json_atomically(self.state_dir / "coverage_report.json", cov_dict, validate_android_schema=False)
+        md_text = render_coverage_markdown(cov_dict)
+        md_tmp = (self.state_dir / "COVERAGE_REPORT.md").with_suffix(".tmp")
+        md_tmp.write_text(md_text, encoding="utf-8")
+        md_tmp.replace(self.state_dir / "COVERAGE_REPORT.md")
+
+        return cov_dict

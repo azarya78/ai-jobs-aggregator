@@ -1,0 +1,110 @@
+name: "AI Jobs Hub v2 — Direct Discovery (Staging)"
+
+on:
+  schedule:
+    # Every 4 hours at minute 17 UTC to avoid GitHub Actions :00 queue spikes.
+    # 00:17 UTC = 07:17 WIB (Asia/Jakarta), completing ahead of the 08:00 WIB daily digest.
+    - cron: "17 */4 * * *"
+  workflow_dispatch:
+    inputs:
+      boolean_eligible:
+        description: "Emit boolean 'eligible' instead of string classification"
+        required: false
+        default: "false"
+        type: boolean
+  push:
+    branches:
+      - "feat/v2-direct-discovery"
+    paths:
+      - "src/**"
+      - "config/**"
+      - "tests/**"
+      - "collect_jobs.py"
+      - "requirements.txt"
+      - ".github/workflows/collect_v2_staging.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ai-jobs-v2-staging-${{ github.ref_name }}
+  cancel-in-progress: false
+
+jobs:
+  test-collect-validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout development branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Gate 1 — Run automated regression tests
+        env:
+          PYTHONPATH: src
+        run: |
+          pytest tests/ -v --tb=short
+
+      - name: Gate 2 — Execute multi-source direct job collectors (Staging)
+        run: |
+          EXTRA_FLAGS=""
+          if [ "${{ inputs.boolean_eligible }}" = "true" ]; then
+            EXTRA_FLAGS="--boolean-eligible"
+          fi
+          python collect_jobs.py --mode staging $EXTRA_FLAGS
+
+      - name: Gate 3 — Validate staging feed Android schema compatibility
+        run: |
+          python collect_jobs.py --validate-only staging/jobs_feed.json
+
+      - name: Publish Source Coverage Report to Step Summary
+        if: always()
+        run: |
+          if [ -f state/COVERAGE_REPORT.md ]; then
+            cat state/COVERAGE_REPORT.md >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Upload staging feed, persistent state, and coverage artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ai-jobs-v2-staging-artifacts-${{ github.run_number }}
+          path: |
+            staging/jobs_feed.json
+            state/coverage_report.json
+            state/COVERAGE_REPORT.md
+            state/unverified_jobs.json
+            state/daily_new_candidates.json
+            state/job_history.json
+          retention-days: 14
+
+      - name: Commit updated staging feed & persistent job history (Protected Branch Guard)
+        run: |
+          CURRENT_BRANCH="${GITHUB_REF_NAME}"
+          if [ "$CURRENT_BRANCH" = "main" ] || [ "$CURRENT_BRANCH" = "master" ]; then
+            echo "SAFETY GUARD: Refusing to overwrite main branch from staging workflow."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add staging/jobs_feed.json state/job_history.json state/http_cache.json state/unverified_jobs.json state/daily_new_candidates.json state/coverage_report.json state/COVERAGE_REPORT.md
+          if git diff --cached --quiet; then
+            echo "No changes in staging feed or state."
+          else
+            git commit -m "chore(v2-staging): sync direct AI job sources & history [skip ci]"
+            git pull --rebase origin "$CURRENT_BRANCH"
+            git push origin "HEAD:$CURRENT_BRANCH"
+          fi
