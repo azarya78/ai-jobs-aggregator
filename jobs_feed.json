@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-11-25 03:56 UTC",
+  "lastUpdated": "2026-11-25 07:09 UTC",
   "totalJobs": 370,
   "jobs": [
+    {
+      "id": "gh-4693078005",
+      "title": "Research Advisor - Human Frontier Collective",
+      "company": "Scale AI",
+      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
+      "category": "AI & Data",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Direct API",
+        "Scale AI"
+      ],
+      "location": "United States",
+      "pay": "Lihat Detail",
+      "date": "Nov 25, 2026",
+      "timestamp": 1795590237,
+      "excerpt": "About the Program The Human Frontier Collective (HFC) brings together top researchers and domain experts to collaborate on high-impact work that are shaping the future of AI. As an HFC Research Advisor, you’ll apply your...",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4693078005",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "6b062d8a635e030a810b39c5",
       "title": "Senior Product Manager",
@@ -407,7 +428,7 @@
         "Fintech"
       ],
       "location": "Canada, United States",
-      "pay": "Lihat Detail",
+      "pay": "$129k – $161k/yr",
       "date": "Nov 24, 2026",
       "timestamp": 1795478400,
       "excerpt": "In 1933, Harry Beck introduced a radically different map of the London Underground. Rather than faithfully depicting the geography of London, he simplified the sprawling transit network into clean lines, clear connections, and a system that anyone could navigate.",
@@ -434,7 +455,7 @@
         "Python"
       ],
       "location": "Canada, United States",
-      "pay": "Lihat Detail",
+      "pay": "$167k – $208k/yr",
       "date": "Nov 24, 2026",
       "timestamp": 1795478400,
       "excerpt": "Mercury's Detection and Response team writes detections, triages alerts, responds to incidents, hunts for threats, and protects the Mercury brand. As a Senior Detection and Response Engineer you'll own that work from start to finish on a small, fast-moving team.",
@@ -839,10 +860,10 @@
         "Strategic Thinking"
       ],
       "location": "United States",
-      "pay": "$60 – $80/hr",
+      "pay": "$50 – $80/hr",
       "date": "Nov 24, 2026",
       "timestamp": 1795478400,
-      "excerpt": "Reports to: Director of Content Compensation: $60–$80/hr, based on experience, 20 hrs/week Role type: Part-time independent contractor (1099) 🚀 About Jump Jump’s mission is to empower financial professionals and their clients to thrive in the age of AI.",
+      "excerpt": "Reports to: Director of Content Compensation: $50–$80/hr, based on experience, 20 hrs/week Role type: Part-time independent contractor (1099) 🚀 About Jump Jump’s mission is to empower financial professionals and their clients to thrive in the age of AI.",
       "applyUrl": "https://remowork.life/jobs/6b062b97635e030a810b2626/apply-out?ch=card",
       "source": "Marketing • AI"
     },
@@ -1163,7 +1184,7 @@
         "Operations"
       ],
       "location": "Canada, United States",
-      "pay": "Lihat Detail",
+      "pay": "$201k – $251k/yr",
       "date": "Nov 24, 2026",
       "timestamp": 1795478400,
       "excerpt": "Mercury is building a complete finance stack for startups. We work hard to create the easiest and safest banking* experience possible to simplify entrepreneurs' and business owners’ financial lives.",
@@ -1244,7 +1265,7 @@
         "Communication"
       ],
       "location": "Canada, United States",
-      "pay": "Lihat Detail",
+      "pay": "$147k – $204k/yr",
       "date": "Nov 24, 2026",
       "timestamp": 1795478400,
       "excerpt": "Scott Cook once said that “a brand is no longer what we tell the consumer it is; it is what consumers tell each other it is.” At Mercury, we understand that our brand is not just a logo or a set of colors; it is the collective experience of our customers.",
@@ -6269,27 +6290,6 @@
       "timestamp": 1795048855,
       "excerpt": "Scale is growing rapidly, and joining the Global Public Sector team is an opportunity to work on one of the most exciting and quickly expanding teams at Scale. This team is responsible for generating, executing, and fost...",
       "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
-      "source": "⚡ Direct API"
-    },
-    {
-      "id": "gh-4693078005",
-      "title": "Research Advisor - Human Frontier Collective (US)",
-      "company": "Scale AI",
-      "logo": "https://www.google.com/s2/favicons?domain=scale.com&sz=128",
-      "category": "AI & Data",
-      "eligible": true,
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Direct API",
-        "Scale AI"
-      ],
-      "location": "United States",
-      "pay": "Lihat Detail",
-      "date": "Nov 18, 2026",
-      "timestamp": 1795048855,
-      "excerpt": "About the Program The Human Frontier Collective (HFC) brings together top researchers and domain experts to collaborate on high-impact work that are shaping the future of AI. As an HFC Research Advisor, you’ll apply your...",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4693078005",
       "source": "⚡ Direct API"
     },
     {
