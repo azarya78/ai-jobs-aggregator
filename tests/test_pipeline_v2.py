@@ -516,5 +516,36 @@ class TestEmptyPublicHTMLFaultHold(unittest.TestCase):
             self.assertEqual(second["summary"]["deduplication"]["unverifiedHeldDueToConnectorFailure"], 1)
 
 
+class TestMercorPublicBoard(unittest.TestCase):
+    def test_mercor_source_targets_explore_and_extracts_public_job_card(self):
+        from ai_jobs_v2.connectors.public_web import MercorConnector
+        project_root = pathlib.Path(__file__).resolve().parents[1]
+        registry = json.loads((project_root / "config/sources.json").read_text(encoding="utf-8"))
+        cfg = next(s for s in registry["sources"] if s["id"] == "web_mercor")
+        self.assertEqual(cfg["html_endpoint"], "https://work.mercor.com/explore")
+
+        called = []
+        html = """
+        <html><body><article>
+          <a href="/jobs/list_test123">
+            <h3>Indonesian AI Response Evaluator</h3>
+            Evaluate LLM responses and grade model quality.
+          </a>
+        </article></body></html>
+        """
+
+        def fake_transport(url, headers, params, timeout):
+            called.append(url)
+            return HTTPResponseData(200, html, {}, url)
+
+        client = PoliteHTTPClient(transport_override=fake_transport, sleep_fn=lambda _: None)
+        jobs = MercorConnector(cfg, client).fetch_listings()
+        self.assertEqual(called, ["https://work.mercor.com/explore"])
+        self.assertEqual(len(jobs), 1)
+        self.assertEqual(jobs[0].source_job_id, "list_test123")
+        self.assertIn("Indonesian AI Response Evaluator", jobs[0].title)
+        self.assertEqual(jobs[0].raw_apply_url, "https://work.mercor.com/jobs/list_test123")
+
+
 if __name__ == "__main__":
     unittest.main()
