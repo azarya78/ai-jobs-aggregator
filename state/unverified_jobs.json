@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T14:38:57Z",
+  "lastUpdated": "2026-11-25T14:42:13Z",
   "totalUnverified": 137,
   "jobs": [
     {
@@ -34,11 +34,11 @@
       },
       "fullDescriptionHash": "643310a11a23a9dc",
       "officialPostedDate": "2022-12-08T10:19:31Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:d3612c79-981b-435c-bcb1-10dad7b1c840",
@@ -72,11 +72,11 @@
       },
       "fullDescriptionHash": "211275006254821e",
       "officialPostedDate": "2022-12-08T10:16:59Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:994ab8ea-1cc1-4211-91e2-38192ef12fe0",
@@ -110,11 +110,11 @@
       },
       "fullDescriptionHash": "5b4582ed0b38f6b6",
       "officialPostedDate": "2022-12-08T10:21:28Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:ea80b159-e6f2-4ae9-a118-ecfd0f7d0e57",
@@ -148,11 +148,11 @@
       },
       "fullDescriptionHash": "39c9929cd69d0775",
       "officialPostedDate": "2022-12-08T10:24:38Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:6d10f2c0-ad1c-4432-be17-f04175a56367",
@@ -191,11 +191,11 @@
       },
       "fullDescriptionHash": "ca582811b227f694",
       "officialPostedDate": "2025-08-07T12:36:21Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:12499f58-91b4-43a1-8bf8-6b2bf73849c6",
@@ -234,11 +234,11 @@
       },
       "fullDescriptionHash": "c45e992027e1c5ba",
       "officialPostedDate": "2025-08-07T12:42:49Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:44d6ca77-3703-4293-a6a4-9a7aa639dad4",
@@ -277,11 +277,11 @@
       },
       "fullDescriptionHash": "715d07bf65c76b85",
       "officialPostedDate": "2025-08-07T12:50:11Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:e0af350d-f782-4fd7-9f4a-7a011df6bcab",
@@ -320,11 +320,11 @@
       },
       "fullDescriptionHash": "2694d493fb64855b",
       "officialPostedDate": "2025-08-07T12:55:29Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:63cff927-d6ac-4769-b594-00686ede8e40",
@@ -363,11 +363,11 @@
       },
       "fullDescriptionHash": "c1dcac4c4327ae3e",
       "officialPostedDate": "2025-08-07T13:10:20Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:bf4e3b3b-f551-462b-ac47-0c700e7a8de1",
@@ -406,11 +406,11 @@
       },
       "fullDescriptionHash": "595f3373f7d4e0bd",
       "officialPostedDate": "2025-08-07T13:15:11Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:b426802e-e06a-48a9-94cf-58741da49675",
@@ -444,11 +444,11 @@
       },
       "fullDescriptionHash": "0af15cfb27ad1d48",
       "officialPostedDate": "2025-05-30T14:44:45Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:7fb8b7be-2f14-4587-b11f-3019be8f87a2",
@@ -487,11 +487,11 @@
       },
       "fullDescriptionHash": "918027a6a500f571",
       "officialPostedDate": "2025-06-03T12:50:55Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:4d0af7a9-e0f7-43b4-a55c-986a5dd29a26",
@@ -530,11 +530,11 @@
       },
       "fullDescriptionHash": "77b77a5b17aca6c8",
       "officialPostedDate": "2025-06-10T08:21:46Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:a5a093a9-2153-4ec0-b8b0-3b9da42fc51d",
@@ -573,11 +573,11 @@
       },
       "fullDescriptionHash": "c98b8d227eba6392",
       "officialPostedDate": "2025-08-07T13:22:24Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:88fe7330-e32e-4577-9384-9bb85e1a30f1",
@@ -616,11 +616,11 @@
       },
       "fullDescriptionHash": "3b2ddbc267e78922",
       "officialPostedDate": "2025-08-07T14:16:33Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:3d307d0b-bfa5-4c9d-bdef-2bb74263e996",
@@ -659,11 +659,11 @@
       },
       "fullDescriptionHash": "a5138d324743af2f",
       "officialPostedDate": "2025-06-19T09:14:01Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:5b9f350f-20fe-4f4f-b480-10500f6fb334",
@@ -702,11 +702,11 @@
       },
       "fullDescriptionHash": "8bfaa4ae570bcaab",
       "officialPostedDate": "2025-08-07T14:23:24Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:6433fcef-8104-4c5f-804b-19db0f717b4e",
@@ -745,11 +745,11 @@
       },
       "fullDescriptionHash": "90714490c6d3e0ef",
       "officialPostedDate": "2026-07-15T02:31:51Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:0122edc9-ba6e-4640-8a53-aef1bf7e21e7",
@@ -788,11 +788,11 @@
       },
       "fullDescriptionHash": "22e42aa4e4dc48b1",
       "officialPostedDate": "2025-06-03T14:59:57Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:6f93cdd1-60c0-4ab2-bfd0-e3a45267152f",
@@ -831,11 +831,11 @@
       },
       "fullDescriptionHash": "ff1684b8328e226e",
       "officialPostedDate": "2025-06-10T08:24:56Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:cefe2e6b-b17f-4943-ad1d-c9660a8d6784",
@@ -874,11 +874,11 @@
       },
       "fullDescriptionHash": "43d9a36143f1bf11",
       "officialPostedDate": "2025-08-07T14:28:19Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:be55cc98-ec0b-49f1-b06a-f4080ff89149",
@@ -917,11 +917,11 @@
       },
       "fullDescriptionHash": "0d88b16515e8c098",
       "officialPostedDate": "2025-08-07T14:37:34Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:0c05faa7-dbad-4d4b-9d13-2b628cef25c7",
@@ -960,11 +960,11 @@
       },
       "fullDescriptionHash": "d15d0cfbbe85db04",
       "officialPostedDate": "2025-06-02T11:06:52Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:287d2601-9908-4360-bd10-72d963d07c11",
@@ -1003,11 +1003,11 @@
       },
       "fullDescriptionHash": "5d642cbac1af0353",
       "officialPostedDate": "2025-08-13T12:32:39Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:0bfce19a-f593-45af-ac16-bd1cbef93952",
@@ -1046,11 +1046,11 @@
       },
       "fullDescriptionHash": "0248fd252a913730",
       "officialPostedDate": "2025-05-30T15:33:36Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:0895dbf0-7987-4e27-9d93-66f9d875e38c",
@@ -1089,11 +1089,11 @@
       },
       "fullDescriptionHash": "9fdf5bb6dfe3824c",
       "officialPostedDate": "2025-06-03T15:02:16Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:7425c9df-784e-46d2-9b95-86aae3778e1f",
@@ -1132,11 +1132,11 @@
       },
       "fullDescriptionHash": "e82f56e735979f3c",
       "officialPostedDate": "2025-08-07T14:44:45Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:c49354ff-75f3-4b23-a841-a9051e10cc45",
@@ -1175,11 +1175,11 @@
       },
       "fullDescriptionHash": "e11047f64e4c3b8c",
       "officialPostedDate": "2025-05-30T14:40:29Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:54157634-2cb4-4073-a1e6-4b51f3d411fd",
@@ -1218,11 +1218,11 @@
       },
       "fullDescriptionHash": "c171292f08abc227",
       "officialPostedDate": "2025-06-05T11:12:57Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:2ae3872c-5a7d-401b-a571-59b9b8a314ad",
@@ -1261,11 +1261,11 @@
       },
       "fullDescriptionHash": "f1507ee96b501ea5",
       "officialPostedDate": "2026-07-20T04:00:14Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:b5ea7b0f-006d-4a1e-bd2b-310a6742b95d",
@@ -1304,11 +1304,11 @@
       },
       "fullDescriptionHash": "7b2d2456bbff7773",
       "officialPostedDate": "2025-08-07T14:55:49Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:168c2afb-d782-442f-bd86-4748dde476db",
@@ -1347,11 +1347,11 @@
       },
       "fullDescriptionHash": "1fc851af050950d7",
       "officialPostedDate": "2025-08-07T15:00:49Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:91247918-40a1-458c-a075-06a65e325023",
@@ -1389,11 +1389,11 @@
       },
       "fullDescriptionHash": "7cc14648f11b09f4",
       "officialPostedDate": "2025-03-19T19:21:51Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:3f8cc8aa-a677-4974-bd3d-cdf5991b9e91",
@@ -1430,11 +1430,11 @@
       },
       "fullDescriptionHash": "299e5f232e9ce0fc",
       "officialPostedDate": "2025-01-27T16:01:06Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:947b2763-251c-41f9-b984-70fd52280fe2",
@@ -1471,11 +1471,11 @@
       },
       "fullDescriptionHash": "96633acc7fee562b",
       "officialPostedDate": "2026-04-30T07:13:51Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:b9004a42-2024-4d3a-ba91-3d2b4a1dd06b",
@@ -1512,11 +1512,11 @@
       },
       "fullDescriptionHash": "2a9edfced8eac387",
       "officialPostedDate": "2026-06-18T07:56:53Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:8a1b20d6-8c8d-4edb-9ef2-a132d8aa8a80",
@@ -1554,11 +1554,11 @@
       },
       "fullDescriptionHash": "1208d65d3dee5ac6",
       "officialPostedDate": "2025-09-22T14:58:32Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:7bb0b5e7-edb8-42f8-8a47-9a5c4f680cbb",
@@ -1596,11 +1596,11 @@
       },
       "fullDescriptionHash": "22dc6d2778f522fc",
       "officialPostedDate": "2025-09-22T14:59:09Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:8df70d93-4324-4e36-8321-74e9c3f340f2",
@@ -1636,11 +1636,11 @@
       },
       "fullDescriptionHash": "e0af57bf7b1271a8",
       "officialPostedDate": "2024-10-01T11:58:16Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:8f9753cc-c4ea-43cf-bc43-f0d045e8b916",
@@ -1676,11 +1676,11 @@
       },
       "fullDescriptionHash": "bf6b0b282ee92d61",
       "officialPostedDate": "2025-06-04T19:07:59Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:f0a8b6f4-01e7-43b3-9c7f-ce3af8347363",
@@ -1716,11 +1716,11 @@
       },
       "fullDescriptionHash": "604b31cb6b8ce188",
       "officialPostedDate": "2026-10-27T03:34:35Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:86a36333-e670-46eb-a81b-bc6feebe29fe",
@@ -1757,11 +1757,11 @@
       },
       "fullDescriptionHash": "c8cab5530a5357fd",
       "officialPostedDate": "2026-10-29T11:08:04Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:913a1dc6-d6e0-4ffd-8f11-ea2c02893b52",
@@ -1798,11 +1798,11 @@
       },
       "fullDescriptionHash": "4f9ebe2b3cdd1b6f",
       "officialPostedDate": "2026-11-06T15:58:32Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:fc18239b-0371-4327-99d4-5ac1b8ad0192",
@@ -1839,11 +1839,11 @@
       },
       "fullDescriptionHash": "b40768508b144d3e",
       "officialPostedDate": "2026-11-06T15:20:23Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:e23a0405-c622-4ad6-8e86-4b5c4d4c3ef5",
@@ -1879,11 +1879,11 @@
       },
       "fullDescriptionHash": "c43d119706f14e79",
       "officialPostedDate": "2025-12-31T07:50:48Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:95942952-f17d-4f69-95ab-84d5b6445103",
@@ -1921,11 +1921,11 @@
       },
       "fullDescriptionHash": "27c0450a84cf55d5",
       "officialPostedDate": "2025-03-19T20:14:51Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:3f1634a4-a714-4b86-99eb-7b367ab02ba4",
@@ -1963,11 +1963,11 @@
       },
       "fullDescriptionHash": "74af3b01f2241611",
       "officialPostedDate": "2025-03-19T20:16:19Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:da0ca594-cd79-40af-84bd-3e2f02a0e7c3",
@@ -2004,11 +2004,11 @@
       },
       "fullDescriptionHash": "0740350be1ab49a2",
       "officialPostedDate": "2026-11-03T08:54:54Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:c242b5e1-dfdd-4679-a652-242155e394a8",
@@ -2044,11 +2044,11 @@
       },
       "fullDescriptionHash": "41002b0cb7584f9a",
       "officialPostedDate": "2026-07-07T09:18:04Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:dbeb5ae6-4292-48e7-8ad5-9804cc996c40",
@@ -2084,11 +2084,11 @@
       },
       "fullDescriptionHash": "d6acd01d97a34381",
       "officialPostedDate": "2026-07-07T08:27:11Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:42895bb9-c5d6-47a8-81e4-7c71012c7700",
@@ -2124,11 +2124,11 @@
       },
       "fullDescriptionHash": "149e6d99e80a1e76",
       "officialPostedDate": "2026-07-07T09:10:39Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:a18c005c-b79b-4fd5-a826-7bc771bcd64e",
@@ -2165,11 +2165,11 @@
       },
       "fullDescriptionHash": "61a32ebdecec9827",
       "officialPostedDate": "2026-10-27T23:09:12Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:405280a1-a7d7-4a50-a4a0-fbae40055b1f",
@@ -2205,11 +2205,11 @@
       },
       "fullDescriptionHash": "1ab506559a07fe25",
       "officialPostedDate": "2026-07-22T08:43:46Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:c44616db-d360-4e2f-a326-2ea04e8f5001",
@@ -2247,11 +2247,11 @@
       },
       "fullDescriptionHash": "812898ef4ff4ff39",
       "officialPostedDate": "2026-09-09T10:47:54Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:be3a92c6-de7f-42be-8c4a-a0c350c50443",
@@ -2287,11 +2287,11 @@
       },
       "fullDescriptionHash": "f1305f1818dc09f2",
       "officialPostedDate": "2025-05-28T20:11:41Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:0445deb8-0af9-4c57-b2d1-51104e35b94c",
@@ -2329,11 +2329,11 @@
       },
       "fullDescriptionHash": "b52f610181a18e5f",
       "officialPostedDate": "2026-02-02T07:32:51Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:dbd5d30b-11c5-445d-a306-b52582cf3099",
@@ -2372,11 +2372,11 @@
       },
       "fullDescriptionHash": "cecbaa61e754f5d5",
       "officialPostedDate": "2025-06-19T10:00:21Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:189616d3-70af-4411-8600-cadb2dd105ac",
@@ -2412,11 +2412,11 @@
       },
       "fullDescriptionHash": "8ed23f2b22c2f967",
       "officialPostedDate": "2026-11-06T16:26:22Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:7ec3c363-146f-49af-a2a1-1b7856981f4a",
@@ -2452,11 +2452,11 @@
       },
       "fullDescriptionHash": "f50ed7ad7170e81f",
       "officialPostedDate": "2026-11-06T16:07:40Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:17626ed6-c820-432b-9dba-34f19060326c",
@@ -2490,11 +2490,11 @@
       },
       "fullDescriptionHash": "80283e92a9e4f0a4",
       "officialPostedDate": "2025-08-18T18:30:06Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:494aca5f-9858-487e-86b1-410bd081d544",
@@ -2530,11 +2530,11 @@
       },
       "fullDescriptionHash": "deb80905e471336d",
       "officialPostedDate": "2026-08-28T16:17:11Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:b4bbf6a7-fd2e-45b1-b51f-4337c00190db",
@@ -2570,11 +2570,11 @@
       },
       "fullDescriptionHash": "8e4b21f63895bb6c",
       "officialPostedDate": "2026-08-28T16:16:16Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_weloglobal:3cae4791-66ad-43c9-94f7-321271d17d81",
@@ -2611,11 +2611,11 @@
       },
       "fullDescriptionHash": "d3b912f728b8a7a5",
       "officialPostedDate": "2026-11-19T15:06:58Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:66c4bb8a-6cb4-4206-b46e-9103275922fc",
@@ -2653,11 +2653,11 @@
       },
       "fullDescriptionHash": "cfee185d380b819a",
       "officialPostedDate": "2026-02-20T17:04:59Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:4a000f95-f9fc-4a91-aa35-69098258b898",
@@ -2695,11 +2695,11 @@
       },
       "fullDescriptionHash": "00abaf1822dc9671",
       "officialPostedDate": "2026-02-20T16:56:48Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:1e4e743c-9de0-49af-8c3f-cd74ac54ff64",
@@ -2737,11 +2737,11 @@
       },
       "fullDescriptionHash": "40cf14438c4a59d7",
       "officialPostedDate": "2025-11-20T15:49:37Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:d40a7572-b268-453f-9632-3d21128ef8a6",
@@ -2779,11 +2779,11 @@
       },
       "fullDescriptionHash": "fb767822e6349e6f",
       "officialPostedDate": "2026-02-20T16:58:13Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:b5ade753-9fd4-487b-8239-d6b3ed70460e",
@@ -2821,11 +2821,11 @@
       },
       "fullDescriptionHash": "200dc72892d83a3d",
       "officialPostedDate": "2025-11-20T17:31:07Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:66285c33-663b-40f1-875b-3fd702cd91b7",
@@ -2863,11 +2863,11 @@
       },
       "fullDescriptionHash": "8760fe684e92ac33",
       "officialPostedDate": "2026-02-20T16:30:13Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:6ae45dac-02be-4300-b11d-b93a3fe9f116",
@@ -2905,11 +2905,11 @@
       },
       "fullDescriptionHash": "0703e705b8277cd3",
       "officialPostedDate": "2026-01-23T11:21:14Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:b1053c62-4efb-400b-b012-8e8113358b03",
@@ -2947,11 +2947,11 @@
       },
       "fullDescriptionHash": "a5b333e180e8df8d",
       "officialPostedDate": "2025-11-20T15:56:37Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:9c4812c2-094f-403c-9448-f836e73d4b54",
@@ -2989,11 +2989,11 @@
       },
       "fullDescriptionHash": "4d5c99055667a784",
       "officialPostedDate": "2026-10-27T17:12:10Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:22345c6a-896f-4cd5-9889-81428ff1c51f",
@@ -3031,11 +3031,11 @@
       },
       "fullDescriptionHash": "1eeecb59275a5b2b",
       "officialPostedDate": "2026-02-20T15:22:42Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:861865e6-efc9-4d65-ba8d-a2c18454262b",
@@ -3072,11 +3072,11 @@
       },
       "fullDescriptionHash": "dcb34106c8876f99",
       "officialPostedDate": "2025-11-20T13:23:16Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:613a9553-e941-4476-80f1-4dbd00410113",
@@ -3114,11 +3114,11 @@
       },
       "fullDescriptionHash": "2619b460090b27ae",
       "officialPostedDate": "2025-09-16T19:17:43Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:726a3bbc-1a36-48a2-84eb-24a43f5af088",
@@ -3156,11 +3156,11 @@
       },
       "fullDescriptionHash": "ad1febffb370cc78",
       "officialPostedDate": "2026-02-20T09:40:38Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:d70afa3f-68d0-495b-b0b3-d0a2ec891b67",
@@ -3198,11 +3198,11 @@
       },
       "fullDescriptionHash": "563f6686bdc54d63",
       "officialPostedDate": "2026-06-18T20:14:26Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:02b5cd1e-7f5b-4120-8abf-eb7a93ea7033",
@@ -3240,11 +3240,11 @@
       },
       "fullDescriptionHash": "fa247f4476c2323a",
       "officialPostedDate": "2026-11-18T19:39:01Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:0a1ba562-de05-4bc4-825b-53cf0762abf6",
@@ -3282,11 +3282,11 @@
       },
       "fullDescriptionHash": "c4cbd974310b25ca",
       "officialPostedDate": "2026-02-20T17:24:00Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:877b0066-193d-4256-b678-dfcf9379cef7",
@@ -3324,11 +3324,11 @@
       },
       "fullDescriptionHash": "67c8fdca509a0b3a",
       "officialPostedDate": "2026-01-23T11:52:42Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:23099290-241c-4525-95dd-e2651bec838e",
@@ -3365,11 +3365,11 @@
       },
       "fullDescriptionHash": "1d6672ae1f19e72b",
       "officialPostedDate": "2025-08-06T11:39:04Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:3627840a-34a6-49f7-b73f-7a9db5ab80b4",
@@ -3407,11 +3407,11 @@
       },
       "fullDescriptionHash": "7f1e5fb9c9256820",
       "officialPostedDate": "2025-11-20T17:28:32Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:8636c284-ef55-4336-bc0c-5449e334c175",
@@ -3449,11 +3449,11 @@
       },
       "fullDescriptionHash": "6b8d66eb001fd4f5",
       "officialPostedDate": "2026-02-20T16:34:28Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:2dfbc5a2-255f-4631-a59a-20f81ac4532a",
@@ -3491,11 +3491,11 @@
       },
       "fullDescriptionHash": "078f2c3ff3ad8e51",
       "officialPostedDate": "2025-09-18T09:02:27Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:362b43b8-488b-42bc-aa20-afdfbde27ec6",
@@ -3533,11 +3533,11 @@
       },
       "fullDescriptionHash": "37cfcdd9d22fa66c",
       "officialPostedDate": "2026-02-20T17:25:47Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:3887c975-c1a0-4ff5-b88a-60dc62b3aeb6",
@@ -3575,11 +3575,11 @@
       },
       "fullDescriptionHash": "2741263c48c46ffa",
       "officialPostedDate": "2026-02-20T17:02:13Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:98a26563-10a6-4efd-a97e-06f215ed19be",
@@ -3617,11 +3617,11 @@
       },
       "fullDescriptionHash": "1c56342b96d65ce7",
       "officialPostedDate": "2026-02-20T16:45:47Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:e1378ad3-d199-4af1-a049-67b2bb03b9ce",
@@ -3659,11 +3659,11 @@
       },
       "fullDescriptionHash": "50b572f3cd41c7a5",
       "officialPostedDate": "2025-11-20T20:11:40Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:71e386a7-cc3a-4cc8-b299-1efaa712081b",
@@ -3700,11 +3700,11 @@
       },
       "fullDescriptionHash": "ebd6fe9c73bad206",
       "officialPostedDate": "2026-10-20T09:31:49Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:bc4bc4e6-b7a4-41a7-bf07-de699c96f504",
@@ -3741,11 +3741,11 @@
       },
       "fullDescriptionHash": "16bb10ae7b9bca6c",
       "officialPostedDate": "2026-10-20T09:51:08Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:f6347a54-df51-42b3-84c5-2cc745e76171",
@@ -3782,11 +3782,11 @@
       },
       "fullDescriptionHash": "09a07f7e6ec8b60d",
       "officialPostedDate": "2026-10-20T09:50:41Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:4c85a4da-44bd-438a-9658-9bbb16cf9456",
@@ -3823,11 +3823,11 @@
       },
       "fullDescriptionHash": "d793992db21efe3e",
       "officialPostedDate": "2026-10-20T09:44:41Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:175c6939-981a-4229-9cd3-42850c8884af",
@@ -3864,11 +3864,11 @@
       },
       "fullDescriptionHash": "80b5f9a8efb82d23",
       "officialPostedDate": "2026-10-20T09:46:54Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:e8ba867c-9479-41f2-a5a1-088a9f7daacb",
@@ -3905,11 +3905,11 @@
       },
       "fullDescriptionHash": "a6fd1fe1688529ee",
       "officialPostedDate": "2026-10-20T09:37:49Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:0c65d81c-4ebb-4092-8670-d6f84bc6136b",
@@ -3946,11 +3946,11 @@
       },
       "fullDescriptionHash": "176a5083fa6a4aab",
       "officialPostedDate": "2026-10-20T09:13:50Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:baa16896-baeb-4896-897c-ee1c3b020830",
@@ -3986,11 +3986,11 @@
       },
       "fullDescriptionHash": "7256ffd4500efed4",
       "officialPostedDate": "2026-05-08T15:18:32Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:408b1a17-7a61-429f-bbc7-b265b0ab8d06",
@@ -4027,11 +4027,11 @@
       },
       "fullDescriptionHash": "e9834d8955c08511",
       "officialPostedDate": "2026-05-08T12:54:50Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:9a0d5c38-97e3-4124-b9cb-7401660fe01e",
@@ -4067,11 +4067,11 @@
       },
       "fullDescriptionHash": "a225eb8459f16226",
       "officialPostedDate": "2026-05-08T12:55:09Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:322b1168-7cdb-47b8-8050-c4034db1fc29",
@@ -4108,11 +4108,11 @@
       },
       "fullDescriptionHash": "75f4c0cf26883066",
       "officialPostedDate": "2026-05-08T13:30:08Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:684aec2d-12fe-4fa4-88ec-c41686cb22d2",
@@ -4148,11 +4148,11 @@
       },
       "fullDescriptionHash": "3c0b7e84f2b38cfe",
       "officialPostedDate": "2026-05-08T14:54:49Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:048f8c3e-e09f-4b13-81f7-a060584f45f0",
@@ -4188,11 +4188,11 @@
       },
       "fullDescriptionHash": "34a82364a26cceb9",
       "officialPostedDate": "2026-05-08T15:44:48Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:3d2e529c-744a-4ed6-b04d-e8e416969a1b",
@@ -4228,11 +4228,11 @@
       },
       "fullDescriptionHash": "a04070c45fddf6dd",
       "officialPostedDate": "2026-05-08T12:46:19Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:d5bcef39-c110-4aae-ad0c-1909e85ddd07",
@@ -4268,11 +4268,11 @@
       },
       "fullDescriptionHash": "0ab95870ffe37886",
       "officialPostedDate": "2026-05-05T20:16:31Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:768d0459-fcde-4fe5-b6e2-2ae2d9f07b56",
@@ -4308,11 +4308,11 @@
       },
       "fullDescriptionHash": "413930797b90931f",
       "officialPostedDate": "2026-05-08T14:32:53Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:c8d77692-dc67-4cb7-86f7-8fca806c6682",
@@ -4348,11 +4348,11 @@
       },
       "fullDescriptionHash": "e065bce269fca035",
       "officialPostedDate": "2026-05-08T13:15:19Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:adf2ce84-802a-4ab8-aa91-8ea9d8883280",
@@ -4388,11 +4388,11 @@
       },
       "fullDescriptionHash": "978185b75991e20c",
       "officialPostedDate": "2026-05-08T15:31:32Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:c6f4a7fe-986e-4367-8507-fb6c7be831b6",
@@ -4428,11 +4428,11 @@
       },
       "fullDescriptionHash": "61a56007e7345a54",
       "officialPostedDate": "2026-05-08T16:02:51Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:8123e349-8063-44ee-8317-1357fa49306d",
@@ -4468,11 +4468,11 @@
       },
       "fullDescriptionHash": "10a450780cc93593",
       "officialPostedDate": "2026-05-07T19:03:22Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:b9a82aa5-a659-4a0b-a69c-f7177d4f2cdb",
@@ -4509,11 +4509,11 @@
       },
       "fullDescriptionHash": "b30b1066ec755189",
       "officialPostedDate": "2026-05-08T14:48:10Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "lever_rws:8e205221-b941-4974-9971-0fa55795cefd",
@@ -4550,11 +4550,11 @@
       },
       "fullDescriptionHash": "fd377abe01e899c7",
       "officialPostedDate": "2026-10-02T12:55:13Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "smartrecruiters_appen:743999694507495",
@@ -4592,11 +4592,11 @@
       },
       "fullDescriptionHash": "3eeed8fc9acdb485",
       "officialPostedDate": "2019-09-05T01:45:10Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "smartrecruiters_appen",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "smartrecruiters_appen:743999694507279",
@@ -4633,11 +4633,11 @@
       },
       "fullDescriptionHash": "ff07ddf9dd281432",
       "officialPostedDate": "2019-09-05T01:41:39Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "smartrecruiters_appen",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "teamtailor_dataforce:745096-qa-hebrew",
@@ -4673,11 +4673,11 @@
       },
       "fullDescriptionHash": "e6c4f1ba0a104cbf",
       "officialPostedDate": "2026-11-24T08:48:07Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "teamtailor_dataforce",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "web_alignerr:2b70eaa9-6e45-43c6-a9fb-9909fade7421",
@@ -4694,7 +4694,7 @@
       "location": "Remote",
       "pay": "$15-20/hr",
       "date": "2026-11-25",
-      "timestamp": 1795617537000,
+      "timestamp": 1795617733000,
       "excerpt": "Native Spanish Speaker: Healthcare AI Voice Conversations (Chicago) Chicago-based native Spanish speakers — get paid to help train AI healthcare systems with your authentic voice. Fully remote and flexible.... $15-20/hr...",
       "applyUrl": "https://www.alignerr.com/jobs/2b70eaa9-6e45-43c6-a9fb-9909fade7421",
       "source": "web_alignerr",
@@ -4713,11 +4713,11 @@
       },
       "fullDescriptionHash": "ca5a93b3b40d9d05",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "web_alignerr:112540e6-2da4-423f-9cae-e8eabe058c11",
@@ -4734,7 +4734,7 @@
       "location": "Remote",
       "pay": "$55-75/hr",
       "date": "2026-11-25",
-      "timestamp": 1795617537000,
+      "timestamp": 1795617733000,
       "excerpt": "Customer Support & Success Expert: AI Workflow Review DC-area B2B SaaS professionals: apply your post-sales expertise to cutting-edge AI development — evaluate how AI handles real enterprise support, succ... $55-75/hr...",
       "applyUrl": "https://www.alignerr.com/jobs/112540e6-2da4-423f-9cae-e8eabe058c11",
       "source": "web_alignerr",
@@ -4753,11 +4753,11 @@
       },
       "fullDescriptionHash": "3fd9a3b6dbc04daf",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "web_alignerr:0538ab2a-cfba-4ac1-bc06-0070fa323424",
@@ -4774,7 +4774,7 @@
       "location": "Remote",
       "pay": "$55-75/hr",
       "date": "2026-11-25",
-      "timestamp": 1795617537000,
+      "timestamp": 1795617733000,
       "excerpt": "Customer Support & Success Expert: AI Workflow Review Houston-area B2B SaaS veterans: get paid to evaluate how AI handles real enterprise support, success, and billing workflows — fully remote hourly cont... $55-75/hr...",
       "applyUrl": "https://www.alignerr.com/jobs/0538ab2a-cfba-4ac1-bc06-0070fa323424",
       "source": "web_alignerr",
@@ -4793,11 +4793,11 @@
       },
       "fullDescriptionHash": "423b2f8567105a9e",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "web_alignerr:a7a93e5d-52dd-4c0b-a666-9b4d070f7473",
@@ -4814,7 +4814,7 @@
       "location": "Remote",
       "pay": "$55-75/hr",
       "date": "2026-11-25",
-      "timestamp": 1795617537000,
+      "timestamp": 1795617733000,
       "excerpt": "Customer Support & Success Expert: AI Workflow Review Portland-area B2B SaaS pros: use your customer success and support expertise to evaluate how AI handles real enterprise workflows — remote, flexible h... $55-75/hr...",
       "applyUrl": "https://www.alignerr.com/jobs/a7a93e5d-52dd-4c0b-a666-9b4d070f7473",
       "source": "web_alignerr",
@@ -4833,11 +4833,11 @@
       },
       "fullDescriptionHash": "da62d03ce999b230",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "web_alignerr:87bff8ee-6d7d-48a0-bcb9-54f2631c5a91",
@@ -4854,7 +4854,7 @@
       "location": "Remote",
       "pay": "$55-75/hr",
       "date": "2026-11-25",
-      "timestamp": 1795617537000,
+      "timestamp": 1795617733000,
       "excerpt": "Customer Support & Success Expert: AI Workflow Review Phoenix-area SaaS professionals: get paid to evaluate how AI handles real enterprise customer support, success, and billing workflows — fully remote, ... $55-75/hr...",
       "applyUrl": "https://www.alignerr.com/jobs/87bff8ee-6d7d-48a0-bcb9-54f2631c5a91",
       "source": "web_alignerr",
@@ -4873,11 +4873,11 @@
       },
       "fullDescriptionHash": "5d16fc305e2ed03d",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "web_alignerr:f2e5816c-28ab-41b2-8b9e-e02958de1443",
@@ -4894,7 +4894,7 @@
       "location": "Remote",
       "pay": "$55-75/hr",
       "date": "2026-11-25",
-      "timestamp": 1795617537000,
+      "timestamp": 1795617733000,
       "excerpt": "Customer Support & Success Expert: AI Workflow Review Pittsburgh SaaS professionals: use your B2B post-sales expertise to shape the next generation of AI — evaluate real enterprise CS, support, and billin... $55-75/hr...",
       "applyUrl": "https://www.alignerr.com/jobs/f2e5816c-28ab-41b2-8b9e-e02958de1443",
       "source": "web_alignerr",
@@ -4913,11 +4913,11 @@
       },
       "fullDescriptionHash": "f31f0d07fd153f6d",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "web_alignerr:52c1cc1d-5dc3-414d-8ffe-d54fd53ae247",
@@ -4934,7 +4934,7 @@
       "location": "Remote",
       "pay": "$55-75/hr",
       "date": "2026-11-25",
-      "timestamp": 1795617537000,
+      "timestamp": 1795617733000,
       "excerpt": "Customer Support & Success Expert: AI Workflow Review San Antonio SaaS veterans: your B2B post-sales expertise is needed to evaluate how AI handles real enterprise customer support, success, and billing w... $55-75/hr...",
       "applyUrl": "https://www.alignerr.com/jobs/52c1cc1d-5dc3-414d-8ffe-d54fd53ae247",
       "source": "web_alignerr",
@@ -4953,11 +4953,11 @@
       },
       "fullDescriptionHash": "733af6813a198907",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "web_alignerr:831af648-3592-482d-8305-1ba8e30010ac",
@@ -4974,7 +4974,7 @@
       "location": "Remote",
       "pay": "$55-75/hr",
       "date": "2026-11-25",
-      "timestamp": 1795617537000,
+      "timestamp": 1795617733000,
       "excerpt": "Customer Support & Success Expert: AI Workflow Review Columbus SaaS professionals: bring your B2B post-sales expertise to the AI frontier — evaluate enterprise CS, support, and billing workflows from anyw... $55-75/hr...",
       "applyUrl": "https://www.alignerr.com/jobs/831af648-3592-482d-8305-1ba8e30010ac",
       "source": "web_alignerr",
@@ -4993,11 +4993,11 @@
       },
       "fullDescriptionHash": "5a5fb82392bbc0db",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "web_alignerr:7e485e40-8ce0-4b8b-abe3-317003a146c3",
@@ -5014,7 +5014,7 @@
       "location": "Remote",
       "pay": "$55-75/hr",
       "date": "2026-11-25",
-      "timestamp": 1795617537000,
+      "timestamp": 1795617733000,
       "excerpt": "Customer Support & Success Expert: AI Workflow Review Detroit-area B2B SaaS professionals: apply your post-sales expertise to AI development — evaluate how AI handles enterprise support, success, and bill... $55-75/hr...",
       "applyUrl": "https://www.alignerr.com/jobs/7e485e40-8ce0-4b8b-abe3-317003a146c3",
       "source": "web_alignerr",
@@ -5033,11 +5033,11 @@
       },
       "fullDescriptionHash": "465f4c6d3f08c1f5",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "web_alignerr:d83efbb1-87d1-4890-a954-6e844cc8faed",
@@ -5054,7 +5054,7 @@
       "location": "Remote",
       "pay": "$55-75/hr",
       "date": "2026-11-25",
-      "timestamp": 1795617537000,
+      "timestamp": 1795617733000,
       "excerpt": "Customer Support & Success Expert: AI Workflow Review Salt Lake City's growing SaaS scene is in demand — use your B2B post-sales expertise to evaluate how AI handles real enterprise CS and billing workflo... $55-75/hr...",
       "applyUrl": "https://www.alignerr.com/jobs/d83efbb1-87d1-4890-a954-6e844cc8faed",
       "source": "web_alignerr",
@@ -5073,11 +5073,11 @@
       },
       "fullDescriptionHash": "7806048227c7047a",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "web_alignerr:6e4267a1-90f3-4bc7-90cf-c6e917e35a60",
@@ -5094,7 +5094,7 @@
       "location": "Remote",
       "pay": "$55-75/hr",
       "date": "2026-11-25",
-      "timestamp": 1795617537000,
+      "timestamp": 1795617733000,
       "excerpt": "Customer Support & Success Expert: AI Workflow Review Raleigh-Durham SaaS professionals: put your post-sales expertise to work shaping the future of AI — evaluate real enterprise support, CS, and billing ... $55-75/hr...",
       "applyUrl": "https://www.alignerr.com/jobs/6e4267a1-90f3-4bc7-90cf-c6e917e35a60",
       "source": "web_alignerr",
@@ -5113,11 +5113,11 @@
       },
       "fullDescriptionHash": "75b8053c52729646",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "web_alignerr:506084e4-4c14-4c68-9f0a-14d9411630ca",
@@ -5134,7 +5134,7 @@
       "location": "Remote",
       "pay": "$55-75/hr",
       "date": "2026-11-25",
-      "timestamp": 1795617537000,
+      "timestamp": 1795617733000,
       "excerpt": "Customer Support & Success Expert: AI Workflow Review Portland SaaS professionals: get paid to evaluate how AI handles complex B2B customer support, success, and billing workflows — fully remote hourly co... $55-75/hr...",
       "applyUrl": "https://www.alignerr.com/jobs/506084e4-4c14-4c68-9f0a-14d9411630ca",
       "source": "web_alignerr",
@@ -5153,11 +5153,11 @@
       },
       "fullDescriptionHash": "9efb879768d0b2ad",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "web_alignerr:9b426159-dbed-4399-a1f8-e00a3a4de967",
@@ -5174,7 +5174,7 @@
       "location": "Remote",
       "pay": "$55-75/hr",
       "date": "2026-11-25",
-      "timestamp": 1795617537000,
+      "timestamp": 1795617733000,
       "excerpt": "Customer Support & Success Expert: AI Workflow Review Phoenix-based SaaS professionals: apply your post-sales expertise to cutting-edge AI development — evaluate real enterprise CS and billing workflows f... $55-75/hr...",
       "applyUrl": "https://www.alignerr.com/jobs/9b426159-dbed-4399-a1f8-e00a3a4de967",
       "source": "web_alignerr",
@@ -5193,11 +5193,11 @@
       },
       "fullDescriptionHash": "3d897c6151ce21ae",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "web_alignerr:566f79e1-845e-410e-b630-0c0d9728f00a",
@@ -5214,7 +5214,7 @@
       "location": "Remote",
       "pay": "$55-75/hr",
       "date": "2026-11-25",
-      "timestamp": 1795617537000,
+      "timestamp": 1795617733000,
       "excerpt": "Customer Support & Success Expert: AI Workflow Review Philadelphia-area B2B SaaS veterans: get paid to evaluate how AI handles real post-sales workflows — support tickets, renewals, billing disputes, and ... $55-75/hr...",
       "applyUrl": "https://www.alignerr.com/jobs/566f79e1-845e-410e-b630-0c0d9728f00a",
       "source": "web_alignerr",
@@ -5233,11 +5233,11 @@
       },
       "fullDescriptionHash": "032b74c7cc1c15ae",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "web_alignerr:893da678-d1e9-4444-8636-ac115643002f",
@@ -5254,7 +5254,7 @@
       "location": "Remote",
       "pay": "$55-75/hr",
       "date": "2026-11-25",
-      "timestamp": 1795617537000,
+      "timestamp": 1795617733000,
       "excerpt": "Customer Support & Success Expert: AI Workflow Review Have 5+ years in B2B SaaS post-sales? Use your CS, support, or billing expertise to evaluate how AI handles real enterprise workflows — remote hourly ... $55-75/hr...",
       "applyUrl": "https://www.alignerr.com/jobs/893da678-d1e9-4444-8636-ac115643002f",
       "source": "web_alignerr",
@@ -5273,11 +5273,11 @@
       },
       "fullDescriptionHash": "21c895020381fcc4",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "web_alignerr:92f161da-0887-4c52-895f-b43d2bfa79ba",
@@ -5294,7 +5294,7 @@
       "location": "Remote",
       "pay": "$15-35/hr",
       "date": "2026-11-25",
-      "timestamp": 1795617537000,
+      "timestamp": 1795617733000,
       "excerpt": "Russian-Speaking Gmail & Google Workspace AI Evaluator Native Russian speaker in Latvia? Put your everyday Gmail habits to work — evaluate AI features in Russian, earn an hourly rate, just 2-4 hours a week... $15-35/hr...",
       "applyUrl": "https://www.alignerr.com/jobs/92f161da-0887-4c52-895f-b43d2bfa79ba",
       "source": "web_alignerr",
@@ -5313,11 +5313,11 @@
       },
       "fullDescriptionHash": "229351f4e7028501",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "web_alignerr:4234d923-f878-49fa-91c9-7890c4a2d531",
@@ -5334,7 +5334,7 @@
       "location": "Remote",
       "pay": "$15-35/hr",
       "date": "2026-11-25",
-      "timestamp": 1795617537000,
+      "timestamp": 1795617733000,
       "excerpt": "Russian-Speaking Workspace AI Evaluator – Gmail & Google Workspace Native Russian speaker in Israel? Get paid to evaluate AI features in Gmail and Google Workspace — flexible, remote, and just 2-4 hours a week.......",
       "applyUrl": "https://www.alignerr.com/jobs/4234d923-f878-49fa-91c9-7890c4a2d531",
       "source": "web_alignerr",
@@ -5353,11 +5353,11 @@
       },
       "fullDescriptionHash": "24069fa09bba239f",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "web_alignerr:07b72634-528f-43a6-8b46-f76c9a335232",
@@ -5374,7 +5374,7 @@
       "location": "Remote",
       "pay": "$15-35/hr",
       "date": "2026-11-25",
-      "timestamp": 1795617537000,
+      "timestamp": 1795617733000,
       "excerpt": "Spanish Workspace Evaluator – Gmail & Google AI Review Native Spanish speaker in Miami? Get paid to evaluate AI features in your own Gmail — remote, flexible, and only 2-4 hours a week.... $15-35/hr Remote Apply",
       "applyUrl": "https://www.alignerr.com/jobs/07b72634-528f-43a6-8b46-f76c9a335232",
       "source": "web_alignerr",
@@ -5393,11 +5393,11 @@
       },
       "fullDescriptionHash": "b17d90a345a0a55f",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "web_alignerr:4ac83863-0df9-4a22-83fb-a52c80876d91",
@@ -5414,7 +5414,7 @@
       "location": "Remote",
       "pay": "$15-35/hr",
       "date": "2026-11-25",
-      "timestamp": 1795617537000,
+      "timestamp": 1795617733000,
       "excerpt": "Spanish Workspace Evaluator – Gmail & Google AI Review Native Spanish speaker in Bogotá? Get paid to evaluate AI features in your own Gmail account — fully remote, just 2-4 hours a week, no experience need... $15-35/hr...",
       "applyUrl": "https://www.alignerr.com/jobs/4ac83863-0df9-4a22-83fb-a52c80876d91",
       "source": "web_alignerr",
@@ -5433,11 +5433,11 @@
       },
       "fullDescriptionHash": "0b46e2d1a4140180",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "web_alignerr:c50f81f1-3b48-45bc-816b-017948458da4",
@@ -5454,7 +5454,7 @@
       "location": "Remote",
       "pay": "$15-35/hr",
       "date": "2026-11-25",
-      "timestamp": 1795617537000,
+      "timestamp": 1795617733000,
       "excerpt": "Spanish Workspace Evaluator – Gmail & Google AI Review Native Spanish speaker in Mexico City? Get paid to evaluate AI features in your own Gmail account — just 2-4 hours a week, fully remote and flexible.... $15-35/hr...",
       "applyUrl": "https://www.alignerr.com/jobs/c50f81f1-3b48-45bc-816b-017948458da4",
       "source": "web_alignerr",
@@ -5473,11 +5473,11 @@
       },
       "fullDescriptionHash": "1657036c91037915",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "web_alignerr:562fa900-511e-4799-8945-d94ee02963d4",
@@ -5494,7 +5494,7 @@
       "location": "Remote",
       "pay": "$15-35/hr",
       "date": "2026-11-25",
-      "timestamp": 1795617537000,
+      "timestamp": 1795617733000,
       "excerpt": "French Workspace Evaluator – Gmail & Google AI Review Native French speaker in Casablanca? Get paid to evaluate AI features in your own Gmail and Google Workspace account — 2–4 hours a week, fully remote ... $15-35/hr...",
       "applyUrl": "https://www.alignerr.com/jobs/562fa900-511e-4799-8945-d94ee02963d4",
       "source": "web_alignerr",
@@ -5513,11 +5513,11 @@
       },
       "fullDescriptionHash": "f75af7b0573b2897",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "web_alignerr:bb262e58-1cda-48cc-b4bc-ae004628ab61",
@@ -5534,7 +5534,7 @@
       "location": "Remote",
       "pay": "$15-35/hr",
       "date": "2026-11-25",
-      "timestamp": 1795617537000,
+      "timestamp": 1795617733000,
       "excerpt": "French Workspace Evaluator – Gmail & Google AI Review Native French speaker in Geneva? Get paid to evaluate AI features in your own Gmail and Google Workspace account — 2–4 hours a week, fully remote.... $15-35/hr...",
       "applyUrl": "https://www.alignerr.com/jobs/bb262e58-1cda-48cc-b4bc-ae004628ab61",
       "source": "web_alignerr",
@@ -5553,11 +5553,11 @@
       },
       "fullDescriptionHash": "9b576f8eb76b8d65",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "web_alignerr:901adee5-f1ce-46d5-8075-6d89a48aa3ab",
@@ -5574,7 +5574,7 @@
       "location": "Remote",
       "pay": "$15-35/hr",
       "date": "2026-11-25",
-      "timestamp": 1795617537000,
+      "timestamp": 1795617733000,
       "excerpt": "French Workspace Evaluator – Gmail & Google AI Review Native French speaker in Paris? Get paid to evaluate AI features in your own Gmail and Google Workspace account — just 2–4 hours a week, fully remote.... $15-35/hr...",
       "applyUrl": "https://www.alignerr.com/jobs/901adee5-f1ce-46d5-8075-6d89a48aa3ab",
       "source": "web_alignerr",
@@ -5593,11 +5593,11 @@
       },
       "fullDescriptionHash": "e56cd588e06b1138",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     },
     {
       "id": "web_alignerr:d6db9586-9bfa-4533-83cc-7c5daa8b8903",
@@ -5614,7 +5614,7 @@
       "location": "Remote",
       "pay": "$15-35/hr",
       "date": "2026-11-25",
-      "timestamp": 1795617537000,
+      "timestamp": 1795617733000,
       "excerpt": "German Workspace AI Reviewer – Vienna Vienna-based native German speaker? Get paid to evaluate AI features inside your own Gmail and Google Workspace — just 2–4 flexible hours a week, full... $15-35/hr Remote Apply",
       "applyUrl": "https://www.alignerr.com/jobs/d6db9586-9bfa-4533-83cc-7c5daa8b8903",
       "source": "web_alignerr",
@@ -5633,11 +5633,11 @@
       },
       "fullDescriptionHash": "877c84723a334d28",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T14:38:57Z",
+      "firstDetectedAt": "2026-11-25T14:42:13Z",
+      "lastVerifiedAt": "2026-11-25T14:42:13Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T14:38:57Z"
+      "collectedAt": "2026-11-25T14:42:13Z"
     }
   ]
 }
