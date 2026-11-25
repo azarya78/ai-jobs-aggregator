@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T23:39:51Z",
+  "generatedAt": "2026-11-25T23:40:42Z",
   "summary": {
     "totalSourcesConfigured": 14,
     "sourcesSucceeded": 11,
@@ -37,8 +37,8 @@
       "restricted_count": 360,
       "rejected_irrelevant_count": 77,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-25T23:39:51Z",
-      "duration_ms": 5594,
+      "last_successful_check": "2026-11-25T23:40:42Z",
+      "duration_ms": 5713,
       "error_message": null
     },
     {
@@ -55,8 +55,8 @@
       "restricted_count": 130,
       "rejected_irrelevant_count": 17,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-25T23:39:51Z",
-      "duration_ms": 4429,
+      "last_successful_check": "2026-11-25T23:40:42Z",
+      "duration_ms": 1914,
       "error_message": null
     },
     {
@@ -74,7 +74,7 @@
       "rejected_irrelevant_count": 0,
       "closed_in_payload_count": 0,
       "last_successful_check": null,
-      "duration_ms": 363,
+      "duration_ms": 422,
       "error_message": "HTTP 404 access denied or not found for https://boards-api.greenhouse.io/v1/boards/outlier/jobs?content=true; fallback https://app.outlier.ai/opportunities requires client-side session/CSRF token (0 public SSR listings)"
     },
     {
@@ -91,8 +91,8 @@
       "restricted_count": 7,
       "rejected_irrelevant_count": 3,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-25T23:39:51Z",
-      "duration_ms": 5466,
+      "last_successful_check": "2026-11-25T23:40:42Z",
+      "duration_ms": 5465,
       "error_message": null
     },
     {
@@ -109,8 +109,8 @@
       "restricted_count": 72,
       "rejected_irrelevant_count": 19,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-25T23:39:51Z",
-      "duration_ms": 2010,
+      "last_successful_check": "2026-11-25T23:40:42Z",
+      "duration_ms": 2030,
       "error_message": null
     },
     {
@@ -127,8 +127,8 @@
       "restricted_count": 39,
       "rejected_irrelevant_count": 211,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-25T23:39:51Z",
-      "duration_ms": 2397,
+      "last_successful_check": "2026-11-25T23:40:42Z",
+      "duration_ms": 2718,
       "error_message": null
     },
     {
@@ -146,7 +146,7 @@
       "rejected_irrelevant_count": 0,
       "closed_in_payload_count": 0,
       "last_successful_check": "2026-11-25T14:38:57Z",
-      "duration_ms": 844,
+      "duration_ms": 878,
       "error_message": "Public HTML extractor returned zero listings for web_micro1; possible page-layout or rendering change"
     },
     {
@@ -163,8 +163,8 @@
       "restricted_count": 9,
       "rejected_irrelevant_count": 112,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-25T23:39:51Z",
-      "duration_ms": 2797,
+      "last_successful_check": "2026-11-25T23:40:42Z",
+      "duration_ms": 2803,
       "error_message": null
     },
     {
@@ -181,14 +181,14 @@
       "restricted_count": 12,
       "rejected_irrelevant_count": 8,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-25T23:39:51Z",
-      "duration_ms": 2989,
+      "last_successful_check": "2026-11-25T23:40:42Z",
+      "duration_ms": 3484,
       "error_message": null
     },
     {
       "source_id": "web_telus_ai",
       "platform": "TELUS Digital AI",
-      "official_url": "https://jobs.telusdigital.com/search/cfm5/ai-community/jobs",
+      "official_url": "https://jobs.telusdigital.com/search/cfm5/ai-community/jobs/in/country/indonesia",
       "method": "telus_ai_public_web",
       "status": "FAILED",
       "raw_count": 0,
@@ -200,8 +200,8 @@
       "rejected_irrelevant_count": 0,
       "closed_in_payload_count": 0,
       "last_successful_check": null,
-      "duration_ms": 125,
-      "error_message": "HTTP 403 access denied or not found for https://jobs.telusdigital.com/search/cfm5/ai-community/jobs"
+      "duration_ms": 158,
+      "error_message": "HTTP 403 access denied or not found for https://jobs.telusdigital.com/search/cfm5/ai-community/jobs/in/country/indonesia"
     },
     {
       "source_id": "web_mindrift",
@@ -217,8 +217,8 @@
       "restricted_count": 192,
       "rejected_irrelevant_count": 394,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-25T23:39:51Z",
-      "duration_ms": 5538,
+      "last_successful_check": "2026-11-25T23:40:42Z",
+      "duration_ms": 5795,
       "error_message": null
     },
     {
@@ -235,8 +235,8 @@
       "restricted_count": 33,
       "rejected_irrelevant_count": 4,
       "closed_in_payload_count": 2,
-      "last_successful_check": "2026-11-25T23:39:51Z",
-      "duration_ms": 236,
+      "last_successful_check": "2026-11-25T23:40:42Z",
+      "duration_ms": 428,
       "error_message": null
     },
     {
@@ -253,8 +253,8 @@
       "restricted_count": 3,
       "rejected_irrelevant_count": 37,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-25T23:39:51Z",
-      "duration_ms": 233,
+      "last_successful_check": "2026-11-25T23:40:42Z",
+      "duration_ms": 298,
       "error_message": null
     },
     {
@@ -271,8 +271,8 @@
       "restricted_count": 1,
       "rejected_irrelevant_count": 19,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-25T23:39:51Z",
-      "duration_ms": 341,
+      "last_successful_check": "2026-11-25T23:40:42Z",
+      "duration_ms": 323,
       "error_message": null
     }
   ]
