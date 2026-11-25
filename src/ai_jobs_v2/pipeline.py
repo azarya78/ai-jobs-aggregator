@@ -165,6 +165,7 @@ class JobDiscoveryPipeline:
             succeeded_connectors=succeeded_connectors,
             failed_connectors=failed_connectors,
             run_timestamp_iso=now_iso,
+            unverified_records=unverified_review_records,
         )
 
         def _sort_key(r: NormalizedJobRecord):
