@@ -59,6 +59,7 @@ class JobHistoryStore:
         succeeded_connectors: Set[str],
         failed_connectors: Set[str],
         run_timestamp_iso: str,
+        unverified_records: Optional[List[NormalizedJobRecord]] = None,
     ) -> Tuple[List[NormalizedJobRecord], DeduplicationSummary]:
         summary = DeduplicationSummary(total_input_records=len(incoming_records))
 
@@ -116,6 +117,29 @@ class JobHistoryStore:
 
             self.records[rec.canonical_id] = self._serialize_history_entry(rec)
             deduped_active.append(rec)
+
+        # Eligibility review is not job closure. Keep the previously published
+        # record in history, but do not include it in the Android eligible feed.
+        # This also repairs prior false CLOSED entries caused by reclassification.
+        for rec in unverified_records or []:
+            cid = rec.canonical_id
+            if cid not in self.records and rec.apply_url and rec.apply_url in url_to_existing_cid:
+                cid = url_to_existing_cid[rec.apply_url]
+            if cid in seen_canonical_ids or cid in explicitly_closed_ids:
+                continue
+            prev = self.records.get(cid)
+            if prev is None:
+                continue  # New review-only jobs belong in the review queue, not history.
+            rec.canonical_id = cid
+            rec.first_detected_at = prev.get("first_detected_at") or run_timestamp_iso
+            rec.last_verified_at = run_timestamp_iso
+            rec.job_status = STATUS_UNVERIFIED
+            entry = self._serialize_history_entry(rec)
+            entry["last_unverified_at"] = run_timestamp_iso
+            entry["eligibility_class"] = rec.eligibility_class
+            entry.pop("closed_at", None)
+            self.records[cid] = entry
+            seen_canonical_ids.add(cid)
 
         for closed_cid in explicitly_closed_ids:
             if closed_cid in self.records and self.records[closed_cid].get("job_status") != STATUS_CLOSED:
