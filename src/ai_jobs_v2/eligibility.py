@@ -274,6 +274,31 @@ def classify_eligibility(raw: RawJobListing) -> EligibilityResult:
                         is_indonesian_language=is_id_lang,
                     )
 
+    # A broad country list in employer boilerplate must not silently override
+    # structured location metadata that points to another country.  Such roles
+    # need human review unless a role-specific clause or worldwide permission
+    # explicitly establishes eligibility outside that location.
+    broad_country_list = bool(re.search(
+        r"\bcountries\s*:|\b(?:available|open)\s+in\s+\d+\s+countries\b",
+        desc, re.IGNORECASE,
+    ))
+    explicit_role_indonesia = any(re.search(p, desc, re.IGNORECASE) for p in
+        INDONESIA_BODY_ELIGIBLE_PATTERNS[:5])
+    if (loc and not loc_has_indonesia and broad_country_list
+            and not explicit_role_indonesia and not body_has_explicit_worldwide):
+        foreign_location = _find_non_id_location_mention(loc, check_structured_iso=True)
+        if foreign_location:
+            return EligibilityResult(
+                classification=ELIGIBILITY_UNVERIFIED,
+                confidence="medium",
+                evidence=(
+                    f"Conflicting geographic signals: location '{loc}' is outside "
+                    "Indonesia while a broad description country list mentions "
+                    "Indonesia; role-specific permission is not confirmed"
+                ),
+                is_indonesian_language=is_id_lang,
+            )
+
     for pat in INDONESIA_LOCATION_PATTERNS:
         m = re.search(pat, f"{loc}\n{title}", re.IGNORECASE | re.MULTILINE)
         if m:
