@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-25T14:43:50Z",
+  "generatedAt": "2026-11-25T14:47:13Z",
   "summary": {
     "totalSourcesConfigured": 14,
-    "sourcesSucceeded": 7,
+    "sourcesSucceeded": 8,
     "sourcesEmptyZeroResults": 0,
-    "sourcesFailed": 7,
-    "rawListingsRetrieved": 833,
-    "relevantAiEvalListings": 605,
+    "sourcesFailed": 6,
+    "rawListingsRetrieved": 848,
+    "relevantAiEvalListings": 606,
     "indonesiaEligibleListings": 17,
     "remoteGlobalListings": 0,
-    "unverifiedReviewListings": 137,
+    "unverifiedReviewListings": 138,
     "restrictedListingsFiltered": 451,
-    "irrelevantRejectedListings": 228,
+    "irrelevantRejectedListings": 242,
     "publishedAndroidFeedTotal": 17,
     "deduplication": {
       "duplicatesCollapsed": 0,
@@ -37,8 +37,8 @@
       "restricted_count": 296,
       "rejected_irrelevant_count": 88,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-25T14:43:50Z",
-      "duration_ms": 31827,
+      "last_successful_check": "2026-11-25T14:47:13Z",
+      "duration_ms": 6431,
       "error_message": null
     },
     {
@@ -55,8 +55,8 @@
       "restricted_count": 70,
       "rejected_irrelevant_count": 30,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-25T14:43:50Z",
-      "duration_ms": 2764,
+      "last_successful_check": "2026-11-25T14:47:13Z",
+      "duration_ms": 1493,
       "error_message": null
     },
     {
@@ -74,7 +74,7 @@
       "rejected_irrelevant_count": 0,
       "closed_in_payload_count": 0,
       "last_successful_check": null,
-      "duration_ms": 59,
+      "duration_ms": 122,
       "error_message": "HTTP 404 access denied or not found for https://boards-api.greenhouse.io/v1/boards/outlier/jobs?content=true"
     },
     {
@@ -91,8 +91,8 @@
       "restricted_count": 5,
       "rejected_irrelevant_count": 3,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-25T14:43:50Z",
-      "duration_ms": 5517,
+      "last_successful_check": "2026-11-25T14:47:13Z",
+      "duration_ms": 5522,
       "error_message": null
     },
     {
@@ -109,8 +109,8 @@
       "restricted_count": 71,
       "rejected_irrelevant_count": 20,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-25T14:43:50Z",
-      "duration_ms": 570,
+      "last_successful_check": "2026-11-25T14:47:13Z",
+      "duration_ms": 1037,
       "error_message": null
     },
     {
@@ -118,18 +118,18 @@
       "platform": "Mercor",
       "official_url": "https://work.mercor.com/explore",
       "method": "mercor_public_web",
-      "status": "FAILED",
-      "raw_count": 0,
-      "relevant_count": 0,
+      "status": "SUCCESS",
+      "raw_count": 15,
+      "relevant_count": 1,
       "indonesia_eligible_count": 0,
       "remote_global_count": 0,
-      "unverified_review_count": 0,
+      "unverified_review_count": 1,
       "restricted_count": 0,
-      "rejected_irrelevant_count": 0,
+      "rejected_irrelevant_count": 14,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-25T14:38:57Z",
-      "duration_ms": 257,
-      "error_message": "Public HTML extractor returned zero listings for web_mercor; possible page-layout or rendering change"
+      "last_successful_check": "2026-11-25T14:47:13Z",
+      "duration_ms": 494,
+      "error_message": null
     },
     {
       "source_id": "web_micro1",
@@ -146,7 +146,7 @@
       "rejected_irrelevant_count": 0,
       "closed_in_payload_count": 0,
       "last_successful_check": "2026-11-25T14:38:57Z",
-      "duration_ms": 66,
+      "duration_ms": 88,
       "error_message": "Public HTML extractor returned zero listings for web_micro1; possible page-layout or rendering change"
     },
     {
@@ -163,8 +163,8 @@
       "restricted_count": 5,
       "rejected_irrelevant_count": 31,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-25T14:43:50Z",
-      "duration_ms": 147,
+      "last_successful_check": "2026-11-25T14:47:13Z",
+      "duration_ms": 196,
       "error_message": null
     },
     {
@@ -182,7 +182,7 @@
       "rejected_irrelevant_count": 0,
       "closed_in_payload_count": 0,
       "last_successful_check": "2026-11-25T14:38:57Z",
-      "duration_ms": 1742,
+      "duration_ms": 2132,
       "error_message": "Public HTML extractor returned zero listings for web_oneforma; possible page-layout or rendering change"
     },
     {
@@ -200,7 +200,7 @@
       "rejected_irrelevant_count": 0,
       "closed_in_payload_count": 0,
       "last_successful_check": null,
-      "duration_ms": 125,
+      "duration_ms": 142,
       "error_message": "HTTP 403 access denied or not found for https://jobs.telusdigital.com/en/search/cfm5/ai-community/jobs"
     },
     {
@@ -218,7 +218,7 @@
       "rejected_irrelevant_count": 0,
       "closed_in_payload_count": 0,
       "last_successful_check": "2026-11-25T14:38:57Z",
-      "duration_ms": 797,
+      "duration_ms": 674,
       "error_message": "Public HTML extractor returned zero listings for web_mindrift; possible page-layout or rendering change"
     },
     {
@@ -236,7 +236,7 @@
       "rejected_irrelevant_count": 0,
       "closed_in_payload_count": 0,
       "last_successful_check": "2026-11-25T14:38:57Z",
-      "duration_ms": 158,
+      "duration_ms": 281,
       "error_message": "Public HTML extractor returned zero listings for web_imerit; possible page-layout or rendering change"
     },
     {
@@ -253,8 +253,8 @@
       "restricted_count": 3,
       "rejected_irrelevant_count": 37,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-25T14:43:50Z",
-      "duration_ms": 252,
+      "last_successful_check": "2026-11-25T14:47:13Z",
+      "duration_ms": 209,
       "error_message": null
     },
     {
@@ -271,8 +271,8 @@
       "restricted_count": 1,
       "rejected_irrelevant_count": 19,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-25T14:43:50Z",
-      "duration_ms": 214,
+      "last_successful_check": "2026-11-25T14:47:13Z",
+      "duration_ms": 249,
       "error_message": null
     }
   ]
