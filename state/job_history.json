@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
-  "lastUpdated": "2026-11-25T23:40:42Z",
-  "totalTrackedJobs": 36,
+  "lastUpdated": "2026-11-25T23:53:02Z",
+  "totalTrackedJobs": 40,
   "jobs": {
     "lever_rws:ef53a2d3-29bc-4c0e-8f46-d91a316428bf": {
       "canonical_id": "lever_rws:ef53a2d3-29bc-4c0e-8f46-d91a316428bf",
@@ -17,10 +17,10 @@
         "Audio / Speech",
         "Prompt Writing"
       ],
-      "location": "Jakarta · ID · remote",
+      "location": "Jakarta · Surabaya · Bandung · Medan · Tangerang · Bekasi · Depok · Semarang · Palembang · Pontianak · Pekanbaru · Malang · Bogor · Makassar · Yogyakarta · ID · remote",
       "eligibility_class": "Indonesia Eligible",
       "eligibility_confidence": "high",
-      "eligibility_evidence": "Explicit Indonesia location metadata/title: 'Jakarta' (Location: 'Jakarta · ID · remote')",
+      "eligibility_evidence": "Explicit Indonesia location metadata/title: 'Jakarta' (Location: 'Jakarta · Surabaya · Bandung · Medan · Tangerang · Bekasi · Depok · Semarang · Palembang · Pontianak · Pekanbaru · Malang · Bogor · Makassar · Yogyakarta · ID · remote')",
       "is_indonesian": true,
       "is_direct": true,
       "compensation": {
@@ -31,13 +31,16 @@
         "raw": "5 USD/hour"
       },
       "short_description": "We are looking for AIVoice Recording Contributors to join a Simplified Chinese voice evaluation project and help support the development of the next generation of AI technologies. Job Type: Freelance Location: Work from...",
-      "full_description_hash": "1f65526c6637ebaf",
+      "full_description_hash": "5e19403ca6f96b2c",
       "official_posted_date": "2026-11-05T12:42:57Z",
       "first_detected_at": "2026-11-25T14:38:57Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
-      "job_status": "EXISTING",
+      "last_verified_at": "2026-11-25T23:53:02Z",
+      "job_status": "UPDATED",
       "source_connector": "lever_rws",
-      "collected_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": [
+        "AI Voice Recording Contributor - Simplified Chinese"
+      ]
     },
     "lever_weloglobal:00ac6822-8a23-4cad-8bd9-f92f77db51a0": {
       "canonical_id": "lever_weloglobal:00ac6822-8a23-4cad-8bd9-f92f77db51a0",
@@ -52,10 +55,10 @@
       "skills": [
         "Translation / Linguistics"
       ],
-      "location": "Germany · DE · remote",
+      "location": "Germany · Poland · Czech Republic · Italy · Spain · Portugal · United Kingdom · Canada · Remote - Europe · Remote · Remote, Worldwide · DE · remote",
       "eligibility_class": "Unverified",
       "eligibility_confidence": "medium",
-      "eligibility_evidence": "Conflicting geographic signals: location 'Germany · DE · remote' is outside Indonesia while a broad description country list mentions Indonesia; role-specific permission is not confirmed",
+      "eligibility_evidence": "Conflicting geographic signals: location 'Germany · Poland · Czech Republic · Italy · Spain · Portugal · United Kingdom · Canada · Remote - Europe · Remote · Remote, Worldwide · DE · remote' is outside Indonesia while a broad description country list mentions Indonesia; role-specific permission is not confirmed",
       "is_indonesian": false,
       "is_direct": true,
       "compensation": {
@@ -66,14 +69,15 @@
         "raw": null
       },
       "short_description": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a...",
-      "full_description_hash": "38f58f0ef57978b5",
+      "full_description_hash": "10b992ea36f57e7f",
       "official_posted_date": "2026-10-07T14:15:17Z",
       "first_detected_at": "2026-11-25T23:19:17Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
+      "last_verified_at": "2026-11-25T23:53:02Z",
       "job_status": "UNVERIFIED",
       "source_connector": "lever_weloglobal",
-      "collected_at": "2026-11-25T23:40:42Z",
-      "last_unverified_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": [],
+      "last_unverified_at": "2026-11-25T23:53:02Z"
     },
     "lever_weloglobal:088ad3b5-4e2e-406d-b115-c4a6db6cbdf5": {
       "canonical_id": "lever_weloglobal:088ad3b5-4e2e-406d-b115-c4a6db6cbdf5",
@@ -88,10 +92,10 @@
       "skills": [
         "Translation / Linguistics"
       ],
-      "location": "Greece · GR · remote",
+      "location": "Greece · Turkey · South Korea · Germany · Dubai, UAE · Remote · Remote - Europe · Remote, Worldwide · GR · remote",
       "eligibility_class": "Unverified",
       "eligibility_confidence": "medium",
-      "eligibility_evidence": "Conflicting geographic signals: location 'Greece · GR · remote' is outside Indonesia while a broad description country list mentions Indonesia; role-specific permission is not confirmed",
+      "eligibility_evidence": "Conflicting geographic signals: location 'Greece · Turkey · South Korea · Germany · Dubai, UAE · Remote · Remote - Europe · Remote, Worldwide · GR · remote' is outside Indonesia while a broad description country list mentions Indonesia; role-specific permission is not confirmed",
       "is_indonesian": false,
       "is_direct": true,
       "compensation": {
@@ -102,14 +106,15 @@
         "raw": null
       },
       "short_description": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a...",
-      "full_description_hash": "82297d61ef31369e",
+      "full_description_hash": "1d02c298eecbfc98",
       "official_posted_date": "2026-10-08T13:36:09Z",
       "first_detected_at": "2026-11-25T23:19:17Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
+      "last_verified_at": "2026-11-25T23:53:02Z",
       "job_status": "UNVERIFIED",
       "source_connector": "lever_weloglobal",
-      "collected_at": "2026-11-25T23:40:42Z",
-      "last_unverified_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": [],
+      "last_unverified_at": "2026-11-25T23:53:02Z"
     },
     "lever_weloglobal:0d66f514-1fe7-42e1-8382-483781058aef": {
       "canonical_id": "lever_weloglobal:0d66f514-1fe7-42e1-8382-483781058aef",
@@ -124,10 +129,10 @@
       "skills": [
         "Translation / Linguistics"
       ],
-      "location": "Greece · GR · remote",
+      "location": "Greece · Turkey · Germany · Italy · Spain · Tel Aviv, Israel · Remote, Worldwide · Remote - Europe · Remote · GR · remote",
       "eligibility_class": "Unverified",
       "eligibility_confidence": "medium",
-      "eligibility_evidence": "Conflicting geographic signals: location 'Greece · GR · remote' is outside Indonesia while a broad description country list mentions Indonesia; role-specific permission is not confirmed",
+      "eligibility_evidence": "Conflicting geographic signals: location 'Greece · Turkey · Germany · Italy · Spain · Tel Aviv, Israel · Remote, Worldwide · Remote - Europe · Remote · GR · remote' is outside Indonesia while a broad description country list mentions Indonesia; role-specific permission is not confirmed",
       "is_indonesian": false,
       "is_direct": true,
       "compensation": {
@@ -138,14 +143,15 @@
         "raw": null
       },
       "short_description": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a...",
-      "full_description_hash": "81b3c010c8a85172",
+      "full_description_hash": "1a9f5320c2972636",
       "official_posted_date": "2026-10-08T13:28:36Z",
       "first_detected_at": "2026-11-25T23:19:17Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
+      "last_verified_at": "2026-11-25T23:53:02Z",
       "job_status": "UNVERIFIED",
       "source_connector": "lever_weloglobal",
-      "collected_at": "2026-11-25T23:40:42Z",
-      "last_unverified_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": [],
+      "last_unverified_at": "2026-11-25T23:53:02Z"
     },
     "lever_weloglobal:16eff280-4586-4767-aedc-235217abf2d8": {
       "canonical_id": "lever_weloglobal:16eff280-4586-4767-aedc-235217abf2d8",
@@ -160,10 +166,10 @@
       "skills": [
         "Translation / Linguistics"
       ],
-      "location": "Greece · GR · remote",
+      "location": "Greece · Poland · Bulgaria · Germany · Dubai, UAE · Remote - Europe · Remote · Remote, Worldwide · Athens, Greece · GR · remote",
       "eligibility_class": "Unverified",
       "eligibility_confidence": "medium",
-      "eligibility_evidence": "Conflicting geographic signals: location 'Greece · GR · remote' is outside Indonesia while a broad description country list mentions Indonesia; role-specific permission is not confirmed",
+      "eligibility_evidence": "Conflicting geographic signals: location 'Greece · Poland · Bulgaria · Germany · Dubai, UAE · Remote - Europe · Remote · Remote, Worldwide · Athens, Greece · GR · remote' is outside Indonesia while a broad description country list mentions Indonesia; role-specific permission is not confirmed",
       "is_indonesian": false,
       "is_direct": true,
       "compensation": {
@@ -174,14 +180,15 @@
         "raw": null
       },
       "short_description": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a...",
-      "full_description_hash": "1134056ec22bd95a",
+      "full_description_hash": "46d6010f53bf0c3f",
       "official_posted_date": "2026-10-08T11:51:46Z",
       "first_detected_at": "2026-11-25T23:19:17Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
+      "last_verified_at": "2026-11-25T23:53:02Z",
       "job_status": "UNVERIFIED",
       "source_connector": "lever_weloglobal",
-      "collected_at": "2026-11-25T23:40:42Z",
-      "last_unverified_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": [],
+      "last_unverified_at": "2026-11-25T23:53:02Z"
     },
     "lever_weloglobal:208a4835-993f-4d5e-9d33-a6ab08525de0": {
       "canonical_id": "lever_weloglobal:208a4835-993f-4d5e-9d33-a6ab08525de0",
@@ -217,10 +224,11 @@
       "full_description_hash": "b1928a0156d07784",
       "official_posted_date": "2026-11-17T05:50:08Z",
       "first_detected_at": "2026-11-25T14:38:57Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
+      "last_verified_at": "2026-11-25T23:53:02Z",
       "job_status": "EXISTING",
       "source_connector": "lever_weloglobal",
-      "collected_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": []
     },
     "lever_weloglobal:421589cc-06c4-49c9-81be-76ca0fc232a2": {
       "canonical_id": "lever_weloglobal:421589cc-06c4-49c9-81be-76ca0fc232a2",
@@ -235,10 +243,10 @@
       "skills": [
         "Translation / Linguistics"
       ],
-      "location": "Croatia · HR · remote",
+      "location": "Croatia · Serbia · Germany · Austria · Zurich, Switzerland · Remote - Europe · Remote · Remote, Worldwide · Zagreb, Croatia · HR · remote",
       "eligibility_class": "Unverified",
       "eligibility_confidence": "medium",
-      "eligibility_evidence": "Conflicting geographic signals: location 'Croatia · HR · remote' is outside Indonesia while a broad description country list mentions Indonesia; role-specific permission is not confirmed",
+      "eligibility_evidence": "Conflicting geographic signals: location 'Croatia · Serbia · Germany · Austria · Zurich, Switzerland · Remote - Europe · Remote · Remote, Worldwide · Zagreb, Croatia · HR · remote' is outside Indonesia while a broad description country list mentions Indonesia; role-specific permission is not confirmed",
       "is_indonesian": false,
       "is_direct": true,
       "compensation": {
@@ -249,14 +257,15 @@
         "raw": null
       },
       "short_description": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a...",
-      "full_description_hash": "42ad0b3bdf9ab9c8",
+      "full_description_hash": "0a86e7bc61b99791",
       "official_posted_date": "2026-10-21T14:09:30Z",
       "first_detected_at": "2026-11-25T23:19:17Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
+      "last_verified_at": "2026-11-25T23:53:02Z",
       "job_status": "UNVERIFIED",
       "source_connector": "lever_weloglobal",
-      "collected_at": "2026-11-25T23:40:42Z",
-      "last_unverified_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": [],
+      "last_unverified_at": "2026-11-25T23:53:02Z"
     },
     "lever_weloglobal:48654671-20e3-4dcf-ae24-1a339c5e8135": {
       "canonical_id": "lever_weloglobal:48654671-20e3-4dcf-ae24-1a339c5e8135",
@@ -292,10 +301,47 @@
       "full_description_hash": "cd26a4f630e4e19b",
       "official_posted_date": "2026-11-17T06:02:05Z",
       "first_detected_at": "2026-11-25T14:38:57Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
+      "last_verified_at": "2026-11-25T23:53:02Z",
       "job_status": "EXISTING",
       "source_connector": "lever_weloglobal",
-      "collected_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": []
+    },
+    "lever_weloglobal:4d045b6f-2bb1-4477-9458-620892240cac": {
+      "canonical_id": "lever_weloglobal:4d045b6f-2bb1-4477-9458-620892240cac",
+      "source_job_id": "4d045b6f-2bb1-4477-9458-620892240cac",
+      "title": "Alpheratz Project - Burmese Translation Rater",
+      "company": "Welo Data (Welocalize)",
+      "logo": "https://www.google.com/s2/favicons?domain=welodata.ai&sz=128",
+      "official_source_url": "https://jobs.lever.co/weloglobal/4d045b6f-2bb1-4477-9458-620892240cac",
+      "apply_url": "https://jobs.lever.co/weloglobal/4d045b6f-2bb1-4477-9458-620892240cac/apply",
+      "apply_url_available": true,
+      "category": "Linguistic Evaluation & Translation Quality",
+      "skills": [
+        "Translation / Linguistics"
+      ],
+      "location": "India · Thailand · Indonesia · Malaysia · IN · remote",
+      "eligibility_class": "Indonesia Eligible",
+      "eligibility_confidence": "high",
+      "eligibility_evidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'India · Thailand · Indonesia · Malaysia · IN · remote')",
+      "is_indonesian": true,
+      "is_direct": true,
+      "compensation": {
+        "min": 8.5,
+        "max": 8.5,
+        "currency": "USD",
+        "unit": "hourly",
+        "raw": "USD 8.5 / hour"
+      },
+      "short_description": "We are looking for experienced language professionals to support an ongoing project focused on reviewing and refining Burmese customer service content. This role involves improving machine-translated materials to ensure...",
+      "full_description_hash": "f2093445f54a3851",
+      "official_posted_date": "2026-10-27T04:06:40Z",
+      "first_detected_at": "2026-11-25T23:53:02Z",
+      "last_verified_at": "2026-11-25T23:53:02Z",
+      "job_status": "NEW",
+      "source_connector": "lever_weloglobal",
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": []
     },
     "lever_weloglobal:7ceb8dcb-2995-4ec1-add0-f34549ae0844": {
       "canonical_id": "lever_weloglobal:7ceb8dcb-2995-4ec1-add0-f34549ae0844",
@@ -330,10 +376,11 @@
       "full_description_hash": "152662fffc04dd09",
       "official_posted_date": "2025-06-05T07:16:00Z",
       "first_detected_at": "2026-11-25T14:38:57Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
-      "job_status": "EXISTING",
+      "last_verified_at": "2026-11-25T23:53:02Z",
+      "job_status": "UNVERIFIED",
       "source_connector": "lever_weloglobal",
-      "collected_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:40:42Z",
+      "withheld_reason": "talent_pool"
     },
     "lever_weloglobal:7d544174-8164-48d2-a5eb-c0b0746caff8": {
       "canonical_id": "lever_weloglobal:7d544174-8164-48d2-a5eb-c0b0746caff8",
@@ -368,10 +415,11 @@
       "full_description_hash": "722daac7b01699d4",
       "official_posted_date": "2026-07-20T07:39:01Z",
       "first_detected_at": "2026-11-25T14:38:57Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
-      "job_status": "EXISTING",
+      "last_verified_at": "2026-11-25T23:53:02Z",
+      "job_status": "UNVERIFIED",
       "source_connector": "lever_weloglobal",
-      "collected_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:40:42Z",
+      "withheld_reason": "talent_pool"
     },
     "lever_weloglobal:82e197c4-7341-4cb6-a81f-183d77f0427a": {
       "canonical_id": "lever_weloglobal:82e197c4-7341-4cb6-a81f-183d77f0427a",
@@ -386,10 +434,10 @@
       "skills": [
         "Translation / Linguistics"
       ],
-      "location": "Turkey · TR · remote",
+      "location": "Turkey · South Korea · Dubai, UAE · Berlin, Germany · Remote - Europe · Remote · Remote, Worldwide · TR · remote",
       "eligibility_class": "Unverified",
       "eligibility_confidence": "medium",
-      "eligibility_evidence": "Conflicting geographic signals: location 'Turkey · TR · remote' is outside Indonesia while a broad description country list mentions Indonesia; role-specific permission is not confirmed",
+      "eligibility_evidence": "Conflicting geographic signals: location 'Turkey · South Korea · Dubai, UAE · Berlin, Germany · Remote - Europe · Remote · Remote, Worldwide · TR · remote' is outside Indonesia while a broad description country list mentions Indonesia; role-specific permission is not confirmed",
       "is_indonesian": false,
       "is_direct": true,
       "compensation": {
@@ -400,14 +448,15 @@
         "raw": null
       },
       "short_description": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a...",
-      "full_description_hash": "5f8a406bdfb8b23d",
+      "full_description_hash": "e44df4615d476082",
       "official_posted_date": "2026-10-08T13:58:08Z",
       "first_detected_at": "2026-11-25T23:19:17Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
+      "last_verified_at": "2026-11-25T23:53:02Z",
       "job_status": "UNVERIFIED",
       "source_connector": "lever_weloglobal",
-      "collected_at": "2026-11-25T23:40:42Z",
-      "last_unverified_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": [],
+      "last_unverified_at": "2026-11-25T23:53:02Z"
     },
     "lever_weloglobal:865407eb-157b-43b2-82a6-9a55a750b776": {
       "canonical_id": "lever_weloglobal:865407eb-157b-43b2-82a6-9a55a750b776",
@@ -443,10 +492,11 @@
       "full_description_hash": "c38f64b889f1ff06",
       "official_posted_date": "2025-05-30T15:28:09Z",
       "first_detected_at": "2026-11-25T14:38:57Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
-      "job_status": "EXISTING",
+      "last_verified_at": "2026-11-25T23:53:02Z",
+      "job_status": "UNVERIFIED",
       "source_connector": "lever_weloglobal",
-      "collected_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:40:42Z",
+      "withheld_reason": "talent_pool"
     },
     "lever_weloglobal:8cb7d843-fecc-4614-b925-c5373651ddd0": {
       "canonical_id": "lever_weloglobal:8cb7d843-fecc-4614-b925-c5373651ddd0",
@@ -461,10 +511,10 @@
       "skills": [
         "Translation / Linguistics"
       ],
-      "location": "Greece · GR · remote",
+      "location": "Greece · Czech Republic · Austria · Germany · United Kingdom · Remote - Europe · Remote · Remote, Worldwide · GR · remote",
       "eligibility_class": "Unverified",
       "eligibility_confidence": "medium",
-      "eligibility_evidence": "Conflicting geographic signals: location 'Greece · GR · remote' is outside Indonesia while a broad description country list mentions Indonesia; role-specific permission is not confirmed",
+      "eligibility_evidence": "Conflicting geographic signals: location 'Greece · Czech Republic · Austria · Germany · United Kingdom · Remote - Europe · Remote · Remote, Worldwide · GR · remote' is outside Indonesia while a broad description country list mentions Indonesia; role-specific permission is not confirmed",
       "is_indonesian": false,
       "is_direct": true,
       "compensation": {
@@ -475,14 +525,15 @@
         "raw": null
       },
       "short_description": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a...",
-      "full_description_hash": "cfb04a067478c6a6",
+      "full_description_hash": "d36804946d88c1b6",
       "official_posted_date": "2026-10-08T13:44:55Z",
       "first_detected_at": "2026-11-25T23:19:17Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
+      "last_verified_at": "2026-11-25T23:53:02Z",
       "job_status": "UNVERIFIED",
       "source_connector": "lever_weloglobal",
-      "collected_at": "2026-11-25T23:40:42Z",
-      "last_unverified_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": [],
+      "last_unverified_at": "2026-11-25T23:53:02Z"
     },
     "lever_weloglobal:8cd5c6e3-d1de-4975-a8a4-e07d6c2d180d": {
       "canonical_id": "lever_weloglobal:8cd5c6e3-d1de-4975-a8a4-e07d6c2d180d",
@@ -497,10 +548,10 @@
       "skills": [
         "Translation / Linguistics"
       ],
-      "location": "Greece · GR · remote",
+      "location": "Greece · Finland · Sweden · United Kingdom · Ireland · Remote - Europe · Remote · Remote, Worldwide · GR · remote",
       "eligibility_class": "Unverified",
       "eligibility_confidence": "medium",
-      "eligibility_evidence": "Conflicting geographic signals: location 'Greece · GR · remote' is outside Indonesia while a broad description country list mentions Indonesia; role-specific permission is not confirmed",
+      "eligibility_evidence": "Conflicting geographic signals: location 'Greece · Finland · Sweden · United Kingdom · Ireland · Remote - Europe · Remote · Remote, Worldwide · GR · remote' is outside Indonesia while a broad description country list mentions Indonesia; role-specific permission is not confirmed",
       "is_indonesian": false,
       "is_direct": true,
       "compensation": {
@@ -511,14 +562,15 @@
         "raw": null
       },
       "short_description": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a...",
-      "full_description_hash": "d557491fe14330de",
+      "full_description_hash": "7c1c366b4e9e7b82",
       "official_posted_date": "2026-10-08T14:00:57Z",
       "first_detected_at": "2026-11-25T23:19:17Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
+      "last_verified_at": "2026-11-25T23:53:02Z",
       "job_status": "UNVERIFIED",
       "source_connector": "lever_weloglobal",
-      "collected_at": "2026-11-25T23:40:42Z",
-      "last_unverified_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": [],
+      "last_unverified_at": "2026-11-25T23:53:02Z"
     },
     "lever_weloglobal:90aca004-0ae4-421c-8e5b-d4c3d105a7de": {
       "canonical_id": "lever_weloglobal:90aca004-0ae4-421c-8e5b-d4c3d105a7de",
@@ -551,10 +603,11 @@
       "full_description_hash": "8ab85dec0681505a",
       "official_posted_date": "2022-04-11T02:57:50Z",
       "first_detected_at": "2026-11-25T14:38:57Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
-      "job_status": "EXISTING",
+      "last_verified_at": "2026-11-25T23:53:02Z",
+      "job_status": "UNVERIFIED",
       "source_connector": "lever_weloglobal",
-      "collected_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:40:42Z",
+      "withheld_reason": "translation_only"
     },
     "lever_weloglobal:98387b6b-72d5-4eb8-93f4-c78b3a321b2d": {
       "canonical_id": "lever_weloglobal:98387b6b-72d5-4eb8-93f4-c78b3a321b2d",
@@ -589,10 +642,11 @@
       "full_description_hash": "8e11be4511c8b946",
       "official_posted_date": "2026-07-20T08:05:27Z",
       "first_detected_at": "2026-11-25T14:38:57Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
-      "job_status": "EXISTING",
+      "last_verified_at": "2026-11-25T23:53:02Z",
+      "job_status": "UNVERIFIED",
       "source_connector": "lever_weloglobal",
-      "collected_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:40:42Z",
+      "withheld_reason": "talent_pool"
     },
     "lever_weloglobal:9c91ec15-acac-42fc-8ba0-c5f610556d0d": {
       "canonical_id": "lever_weloglobal:9c91ec15-acac-42fc-8ba0-c5f610556d0d",
@@ -607,10 +661,10 @@
       "skills": [
         "Translation / Linguistics"
       ],
-      "location": "Remote - Europe · GB · remote",
+      "location": "Remote - Europe · South Korea · Dubai, UAE · Berlin, Germany · Remote · Remote, Worldwide · GB · remote",
       "eligibility_class": "Unverified",
       "eligibility_confidence": "medium",
-      "eligibility_evidence": "Conflicting geographic signals: location 'Remote - Europe · GB · remote' is outside Indonesia while a broad description country list mentions Indonesia; role-specific permission is not confirmed",
+      "eligibility_evidence": "Conflicting geographic signals: location 'Remote - Europe · South Korea · Dubai, UAE · Berlin, Germany · Remote · Remote, Worldwide · GB · remote' is outside Indonesia while a broad description country list mentions Indonesia; role-specific permission is not confirmed",
       "is_indonesian": false,
       "is_direct": true,
       "compensation": {
@@ -621,14 +675,51 @@
         "raw": null
       },
       "short_description": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a...",
-      "full_description_hash": "a00f6787b5816a45",
+      "full_description_hash": "28af8bc60d40595a",
       "official_posted_date": "2026-11-18T16:10:01Z",
       "first_detected_at": "2026-11-25T23:19:17Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
+      "last_verified_at": "2026-11-25T23:53:02Z",
       "job_status": "UNVERIFIED",
       "source_connector": "lever_weloglobal",
-      "collected_at": "2026-11-25T23:40:42Z",
-      "last_unverified_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": [],
+      "last_unverified_at": "2026-11-25T23:53:02Z"
+    },
+    "lever_weloglobal:a5c63a9c-27b2-43ef-a548-9493465e5b6b": {
+      "canonical_id": "lever_weloglobal:a5c63a9c-27b2-43ef-a548-9493465e5b6b",
+      "source_job_id": "a5c63a9c-27b2-43ef-a548-9493465e5b6b",
+      "title": "Alpheratz Project - Burmese Translation Quality Reviewer",
+      "company": "Welo Data (Welocalize)",
+      "logo": "https://www.google.com/s2/favicons?domain=welodata.ai&sz=128",
+      "official_source_url": "https://jobs.lever.co/weloglobal/a5c63a9c-27b2-43ef-a548-9493465e5b6b",
+      "apply_url": "https://jobs.lever.co/weloglobal/a5c63a9c-27b2-43ef-a548-9493465e5b6b/apply",
+      "apply_url_available": true,
+      "category": "Linguistic Evaluation & Translation Quality",
+      "skills": [
+        "Translation / Linguistics"
+      ],
+      "location": "India · Thailand · Indonesia · Malaysia · IN · remote",
+      "eligibility_class": "Indonesia Eligible",
+      "eligibility_confidence": "high",
+      "eligibility_evidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'India · Thailand · Indonesia · Malaysia · IN · remote')",
+      "is_indonesian": true,
+      "is_direct": true,
+      "compensation": {
+        "min": 10.63,
+        "max": 10.63,
+        "currency": "USD",
+        "unit": "hourly",
+        "raw": "USD 10.63 / hour"
+      },
+      "short_description": "We are looking for experienced language professionals to support an ongoing project focused on reviewing and refining Burmese customer service content. This role involves improving machine-translated materials to ensure...",
+      "full_description_hash": "f6d1991ad6c3abc9",
+      "official_posted_date": "2026-10-26T10:31:15Z",
+      "first_detected_at": "2026-11-25T23:53:02Z",
+      "last_verified_at": "2026-11-25T23:53:02Z",
+      "job_status": "NEW",
+      "source_connector": "lever_weloglobal",
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": []
     },
     "lever_weloglobal:a6fa29ef-6062-4ade-9674-c061cc230104": {
       "canonical_id": "lever_weloglobal:a6fa29ef-6062-4ade-9674-c061cc230104",
@@ -643,10 +734,10 @@
       "skills": [
         "Translation / Linguistics"
       ],
-      "location": "United Kingdom · GB · remote",
+      "location": "United Kingdom · Australia · Canada · Remote - Europe · Remote · Remote, Worldwide · GB · remote",
       "eligibility_class": "Unverified",
       "eligibility_confidence": "medium",
-      "eligibility_evidence": "Conflicting geographic signals: location 'United Kingdom · GB · remote' is outside Indonesia while a broad description country list mentions Indonesia; role-specific permission is not confirmed",
+      "eligibility_evidence": "Conflicting geographic signals: location 'United Kingdom · Australia · Canada · Remote - Europe · Remote · Remote, Worldwide · GB · remote' is outside Indonesia while a broad description country list mentions Indonesia; role-specific permission is not confirmed",
       "is_indonesian": false,
       "is_direct": true,
       "compensation": {
@@ -657,14 +748,15 @@
         "raw": null
       },
       "short_description": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a...",
-      "full_description_hash": "dc73b797c74ade34",
+      "full_description_hash": "ac58be4ba3ce5546",
       "official_posted_date": "2026-10-08T13:42:56Z",
       "first_detected_at": "2026-11-25T23:19:17Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
+      "last_verified_at": "2026-11-25T23:53:02Z",
       "job_status": "UNVERIFIED",
       "source_connector": "lever_weloglobal",
-      "collected_at": "2026-11-25T23:40:42Z",
-      "last_unverified_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": [],
+      "last_unverified_at": "2026-11-25T23:53:02Z"
     },
     "lever_weloglobal:adbe2454-db65-48b3-8e25-82a7d735a39a": {
       "canonical_id": "lever_weloglobal:adbe2454-db65-48b3-8e25-82a7d735a39a",
@@ -679,10 +771,10 @@
       "skills": [
         "Translation / Linguistics"
       ],
-      "location": "Greece · GR · remote",
+      "location": "Greece · Thailand · United States · France · Australia · Canada · Remote - Europe · Remote · Remote, Worldwide · GR · remote",
       "eligibility_class": "Unverified",
       "eligibility_confidence": "medium",
-      "eligibility_evidence": "Conflicting geographic signals: location 'Greece · GR · remote' is outside Indonesia while a broad description country list mentions Indonesia; role-specific permission is not confirmed",
+      "eligibility_evidence": "Conflicting geographic signals: location 'Greece · Thailand · United States · France · Australia · Canada · Remote - Europe · Remote · Remote, Worldwide · GR · remote' is outside Indonesia while a broad description country list mentions Indonesia; role-specific permission is not confirmed",
       "is_indonesian": false,
       "is_direct": true,
       "compensation": {
@@ -693,14 +785,15 @@
         "raw": null
       },
       "short_description": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a...",
-      "full_description_hash": "2d44ee6ed547e654",
+      "full_description_hash": "eaffcb17585589be",
       "official_posted_date": "2026-10-08T13:38:38Z",
       "first_detected_at": "2026-11-25T23:19:17Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
+      "last_verified_at": "2026-11-25T23:53:02Z",
       "job_status": "UNVERIFIED",
       "source_connector": "lever_weloglobal",
-      "collected_at": "2026-11-25T23:40:42Z",
-      "last_unverified_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": [],
+      "last_unverified_at": "2026-11-25T23:53:02Z"
     },
     "lever_weloglobal:afe9e037-0c32-4a0e-88e6-befe5f51ee55": {
       "canonical_id": "lever_weloglobal:afe9e037-0c32-4a0e-88e6-befe5f51ee55",
@@ -715,10 +808,10 @@
       "skills": [
         "Translation / Linguistics"
       ],
-      "location": "Zurich, Switzerland · CH · remote",
+      "location": "Zurich, Switzerland · Remote - Europe · Remote, Worldwide · Germany · CH · remote",
       "eligibility_class": "Unverified",
       "eligibility_confidence": "medium",
-      "eligibility_evidence": "Conflicting geographic signals: location 'Zurich, Switzerland · CH · remote' is outside Indonesia while a broad description country list mentions Indonesia; role-specific permission is not confirmed",
+      "eligibility_evidence": "Conflicting geographic signals: location 'Zurich, Switzerland · Remote - Europe · Remote, Worldwide · Germany · CH · remote' is outside Indonesia while a broad description country list mentions Indonesia; role-specific permission is not confirmed",
       "is_indonesian": false,
       "is_direct": true,
       "compensation": {
@@ -729,14 +822,52 @@
         "raw": null
       },
       "short_description": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a...",
-      "full_description_hash": "3e40368b2c8cf091",
+      "full_description_hash": "0df84460a4f0e70d",
       "official_posted_date": "2026-10-08T11:43:56Z",
       "first_detected_at": "2026-11-25T23:19:17Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
+      "last_verified_at": "2026-11-25T23:53:02Z",
       "job_status": "UNVERIFIED",
       "source_connector": "lever_weloglobal",
-      "collected_at": "2026-11-25T23:40:42Z",
-      "last_unverified_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": [],
+      "last_unverified_at": "2026-11-25T23:53:02Z"
+    },
+    "lever_weloglobal:bfadf038-9d98-482e-b245-4def1c370253": {
+      "canonical_id": "lever_weloglobal:bfadf038-9d98-482e-b245-4def1c370253",
+      "source_job_id": "bfadf038-9d98-482e-b245-4def1c370253",
+      "title": "Andromeda Delta - Audio Transcription Adjudicator English (US)",
+      "company": "Welo Data (Welocalize)",
+      "logo": "https://www.google.com/s2/favicons?domain=welodata.ai&sz=128",
+      "official_source_url": "https://jobs.lever.co/weloglobal/bfadf038-9d98-482e-b245-4def1c370253",
+      "apply_url": "https://jobs.lever.co/weloglobal/bfadf038-9d98-482e-b245-4def1c370253/apply",
+      "apply_url_available": true,
+      "category": "Audio & Speech Evaluation",
+      "skills": [
+        "Audio / Speech",
+        "Data Annotation"
+      ],
+      "location": "Philippines · India · Indonesia · Cairo, Egypt · Mexico · PH · remote",
+      "eligibility_class": "Indonesia Eligible",
+      "eligibility_confidence": "high",
+      "eligibility_evidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'Philippines · India · Indonesia · Cairo, Egypt · Mexico · PH · remote')",
+      "is_indonesian": true,
+      "is_direct": true,
+      "compensation": {
+        "min": 7.0,
+        "max": 7.0,
+        "currency": "USD",
+        "unit": "hourly",
+        "raw": "USD 7.00/hour"
+      },
+      "short_description": "About the Role: We are looking for experienced Adjudicators to review and resolve discrepancies in word level transcription and timestamp annotations for an English (US) speech data project. This role requires strong...",
+      "full_description_hash": "bb82c41a97e0f8b4",
+      "official_posted_date": "2026-10-07T11:41:26Z",
+      "first_detected_at": "2026-11-25T23:53:02Z",
+      "last_verified_at": "2026-11-25T23:53:02Z",
+      "job_status": "NEW",
+      "source_connector": "lever_weloglobal",
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": []
     },
     "lever_weloglobal:d16a8aa6-84fd-40f8-bf52-c51c663cdaab": {
       "canonical_id": "lever_weloglobal:d16a8aa6-84fd-40f8-bf52-c51c663cdaab",
@@ -768,10 +899,48 @@
       "full_description_hash": "883b9f0a4791e1d2",
       "official_posted_date": "2022-12-08T10:36:44Z",
       "first_detected_at": "2026-11-25T14:38:57Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
+      "last_verified_at": "2026-11-25T23:53:02Z",
       "job_status": "EXISTING",
       "source_connector": "lever_weloglobal",
-      "collected_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": []
+    },
+    "lever_weloglobal:efcc8784-2d7a-4ad7-bc54-1d728c53be9f": {
+      "canonical_id": "lever_weloglobal:efcc8784-2d7a-4ad7-bc54-1d728c53be9f",
+      "source_job_id": "efcc8784-2d7a-4ad7-bc54-1d728c53be9f",
+      "title": "Andromeda Delta - Audio Transcription Reviewer English (US)",
+      "company": "Welo Data (Welocalize)",
+      "logo": "https://www.google.com/s2/favicons?domain=welodata.ai&sz=128",
+      "official_source_url": "https://jobs.lever.co/weloglobal/efcc8784-2d7a-4ad7-bc54-1d728c53be9f",
+      "apply_url": "https://jobs.lever.co/weloglobal/efcc8784-2d7a-4ad7-bc54-1d728c53be9f/apply",
+      "apply_url_available": true,
+      "category": "Audio & Speech Evaluation",
+      "skills": [
+        "Audio / Speech",
+        "Data Annotation"
+      ],
+      "location": "Philippines · India · Indonesia · Cairo, Egypt · PH · remote",
+      "eligibility_class": "Indonesia Eligible",
+      "eligibility_confidence": "high",
+      "eligibility_evidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'Philippines · India · Indonesia · Cairo, Egypt · PH · remote')",
+      "is_indonesian": true,
+      "is_direct": true,
+      "compensation": {
+        "min": 4.55,
+        "max": 4.55,
+        "currency": "USD",
+        "unit": "hourly",
+        "raw": "USD 4.55/hour"
+      },
+      "short_description": "About the Role: Review pre-segmented audio recordings, verify word-level segment accuracy, and correct timestamp or transcription errors to support training data for speech-to-speech AI models Project Details: Andromeda...",
+      "full_description_hash": "acc05a32ac812938",
+      "official_posted_date": "2026-10-07T11:44:56Z",
+      "first_detected_at": "2026-11-25T23:53:02Z",
+      "last_verified_at": "2026-11-25T23:53:02Z",
+      "job_status": "NEW",
+      "source_connector": "lever_weloglobal",
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": []
     },
     "teamtailor_dataforce:736454-sme-task-creator-supply-chain-and-procurement-indonesia": {
       "canonical_id": "teamtailor_dataforce:736454-sme-task-creator-supply-chain-and-procurement-indonesia",
@@ -803,10 +972,14 @@
       "full_description_hash": "de8c792a761c9811",
       "official_posted_date": "2026-11-11T18:15:38Z",
       "first_detected_at": "2026-11-25T14:38:57Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
+      "last_verified_at": "2026-11-25T23:53:02Z",
       "job_status": "EXISTING",
       "source_connector": "teamtailor_dataforce",
-      "collected_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": [
+        "SME Task Creator - Supply Chain and Procurement – Indonesia",
+        "Required Languages: English"
+      ]
     },
     "teamtailor_dataforce:736468-sme-task-creator-environment-policy-and-urban-research-indonesia": {
       "canonical_id": "teamtailor_dataforce:736468-sme-task-creator-environment-policy-and-urban-research-indonesia",
@@ -838,10 +1011,14 @@
       "full_description_hash": "fb066420b03f4666",
       "official_posted_date": "2026-11-11T18:24:55Z",
       "first_detected_at": "2026-11-25T14:38:57Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
+      "last_verified_at": "2026-11-25T23:53:02Z",
       "job_status": "EXISTING",
       "source_connector": "teamtailor_dataforce",
-      "collected_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": [
+        "SME Task Creator - Environment, Policy and Urban Research – Indonesia",
+        "Required Languages: English"
+      ]
     },
     "teamtailor_dataforce:736481-sme-task-creator-legal-compliance-and-governance-indonesia": {
       "canonical_id": "teamtailor_dataforce:736481-sme-task-creator-legal-compliance-and-governance-indonesia",
@@ -873,10 +1050,14 @@
       "full_description_hash": "230b6677097589f1",
       "official_posted_date": "2026-11-11T18:31:10Z",
       "first_detected_at": "2026-11-25T14:38:57Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
+      "last_verified_at": "2026-11-25T23:53:02Z",
       "job_status": "EXISTING",
       "source_connector": "teamtailor_dataforce",
-      "collected_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": [
+        "SME Task Creator – Legal, Compliance and Governance - Indonesia",
+        "Required Languages: English"
+      ]
     },
     "teamtailor_dataforce:736950-sme-task-creator-it-and-software-indonesia": {
       "canonical_id": "teamtailor_dataforce:736950-sme-task-creator-it-and-software-indonesia",
@@ -908,10 +1089,14 @@
       "full_description_hash": "8253cf68213a2c41",
       "official_posted_date": "2026-11-12T11:15:29Z",
       "first_detected_at": "2026-11-25T14:38:57Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
+      "last_verified_at": "2026-11-25T23:53:02Z",
       "job_status": "EXISTING",
       "source_connector": "teamtailor_dataforce",
-      "collected_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": [
+        "SME Task Creator – IT and Software - Indonesia",
+        "Required Languages: English"
+      ]
     },
     "teamtailor_dataforce:736953-sme-task-creator-healthcare-and-research-operations-indonesia": {
       "canonical_id": "teamtailor_dataforce:736953-sme-task-creator-healthcare-and-research-operations-indonesia",
@@ -943,10 +1128,14 @@
       "full_description_hash": "dfd463c3622801e5",
       "official_posted_date": "2026-11-12T11:17:04Z",
       "first_detected_at": "2026-11-25T14:38:57Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
+      "last_verified_at": "2026-11-25T23:53:02Z",
       "job_status": "EXISTING",
       "source_connector": "teamtailor_dataforce",
-      "collected_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": [
+        "SME Task Creator – Healthcare and Research Operations - Indonesia",
+        "Required Languages: English"
+      ]
     },
     "teamtailor_dataforce:736954-sme-task-creator-engineering-construction-and-facilities-indonesia": {
       "canonical_id": "teamtailor_dataforce:736954-sme-task-creator-engineering-construction-and-facilities-indonesia",
@@ -978,10 +1167,14 @@
       "full_description_hash": "661a56339224a893",
       "official_posted_date": "2026-11-12T11:18:40Z",
       "first_detected_at": "2026-11-25T14:38:57Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
+      "last_verified_at": "2026-11-25T23:53:02Z",
       "job_status": "EXISTING",
       "source_connector": "teamtailor_dataforce",
-      "collected_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": [
+        "SME Task Creator – Engineering, Construction and Facilities - Indonesia",
+        "Required Languages: English"
+      ]
     },
     "teamtailor_dataforce:736980-sme-task-creator-human-resources-and-organization-indonesia": {
       "canonical_id": "teamtailor_dataforce:736980-sme-task-creator-human-resources-and-organization-indonesia",
@@ -1013,10 +1206,14 @@
       "full_description_hash": "2a6bf27bf6336fde",
       "official_posted_date": "2026-11-12T12:07:02Z",
       "first_detected_at": "2026-11-25T14:38:57Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
+      "last_verified_at": "2026-11-25T23:53:02Z",
       "job_status": "EXISTING",
       "source_connector": "teamtailor_dataforce",
-      "collected_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": [
+        "SME Task Creator - Human Resources and Organization – Indonesia",
+        "Required Languages: English"
+      ]
     },
     "teamtailor_dataforce:736981-sme-task-creator-education-content-and-communications-indonesia": {
       "canonical_id": "teamtailor_dataforce:736981-sme-task-creator-education-content-and-communications-indonesia",
@@ -1048,10 +1245,14 @@
       "full_description_hash": "73304d9929b51a40",
       "official_posted_date": "2026-11-12T12:08:28Z",
       "first_detected_at": "2026-11-25T14:38:57Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
+      "last_verified_at": "2026-11-25T23:53:02Z",
       "job_status": "EXISTING",
       "source_connector": "teamtailor_dataforce",
-      "collected_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": [
+        "SME Task Creator - Education, Content and Communications – Indonesia",
+        "Required Languages: English"
+      ]
     },
     "web_imerit:IND-078": {
       "canonical_id": "web_imerit:IND-078",
@@ -1084,10 +1285,11 @@
       "full_description_hash": "588701bcba913c02",
       "official_posted_date": null,
       "first_detected_at": "2026-11-25T23:19:17Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
+      "last_verified_at": "2026-11-25T23:53:02Z",
       "job_status": "EXISTING",
       "source_connector": "web_imerit",
-      "collected_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": []
     },
     "web_mercor:list_AAABoGoju-Gn415PNTlD5qqF": {
       "canonical_id": "web_mercor:list_AAABoGoju-Gn415PNTlD5qqF",
@@ -1113,17 +1315,22 @@
         "min": 48.0,
         "max": 52.0,
         "currency": "USD",
-        "unit": "hourly",
-        "raw": "$48 - $52 / hr"
+        "unit": null,
+        "raw": "$48 - $52"
       },
       "short_description": "**About the role** We're hiring proficient bilingual speakers (English & Chinese) to help make advanced AI models safer. You'll apply your language fluency and cultural judgment to evaluate and strengthen how these...",
-      "full_description_hash": "652cc1cf3a91f6cd",
+      "full_description_hash": "406c6e159f6ad049",
       "official_posted_date": "2026-09-04T01:58:42Z",
       "first_detected_at": "2026-11-25T23:19:17Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
-      "job_status": "EXISTING",
+      "last_verified_at": "2026-11-25T23:53:02Z",
+      "job_status": "UPDATED",
       "source_connector": "web_mercor",
-      "collected_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": [
+        "Bilingual Chinese Generalist Expert — AI Safety",
+        "Native or near-native fluency in Chinese, plus business-level written English",
+        "A bachelor's degree, completed or in progress"
+      ]
     },
     "web_mercor:list_AAABoGol-kkiUPOQvn1CsZFO": {
       "canonical_id": "web_mercor:list_AAABoGol-kkiUPOQvn1CsZFO",
@@ -1149,17 +1356,22 @@
         "min": 18.0,
         "max": 22.0,
         "currency": "USD",
-        "unit": "hourly",
-        "raw": "$18 - $22 / hr"
+        "unit": null,
+        "raw": "$18 - $22"
       },
       "short_description": "**About the role** We're hiring proficient bilingual speakers (English & Hindi) to help make advanced AI models safer. You'll apply your language fluency and cultural judgment to evaluate and strengthen how these models...",
-      "full_description_hash": "aba92485c1240b00",
+      "full_description_hash": "5adfb9c746b23dad",
       "official_posted_date": "2026-09-04T02:01:09Z",
       "first_detected_at": "2026-11-25T23:19:17Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
-      "job_status": "EXISTING",
+      "last_verified_at": "2026-11-25T23:53:02Z",
+      "job_status": "UPDATED",
       "source_connector": "web_mercor",
-      "collected_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": [
+        "Bilingual Hindi Generalist Expert — AI Safety",
+        "Native or near-native fluency in Hindi, plus business-level written English",
+        "A bachelor's degree, completed or in progress"
+      ]
     },
     "web_mercor:list_AAABoGolujPeojikHWRLCaH-": {
       "canonical_id": "web_mercor:list_AAABoGolujPeojikHWRLCaH-",
@@ -1185,17 +1397,22 @@
         "min": 43.0,
         "max": 47.0,
         "currency": "USD",
-        "unit": "hourly",
-        "raw": "$43 - $47 / hr"
+        "unit": null,
+        "raw": "$43 - $47"
       },
       "short_description": "**About the role** We're hiring proficient bilingual speakers (English & Spanish) to help make advanced AI models safer. You'll apply your language fluency and cultural judgment to evaluate and strengthen how these...",
-      "full_description_hash": "b4d2d0fae43ffe22",
+      "full_description_hash": "fe5458ebda5513ee",
       "official_posted_date": "2026-09-04T02:00:53Z",
       "first_detected_at": "2026-11-25T23:19:17Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
-      "job_status": "EXISTING",
+      "last_verified_at": "2026-11-25T23:53:02Z",
+      "job_status": "UPDATED",
       "source_connector": "web_mercor",
-      "collected_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": [
+        "Bilingual Spanish Generalist Expert — AI Safety",
+        "Native or near-native fluency in Spanish, plus business-level written English",
+        "A bachelor's degree, completed or in progress"
+      ]
     },
     "web_oneforma:792": {
       "canonical_id": "web_oneforma:792",
@@ -1222,17 +1439,18 @@
         "min": null,
         "max": null,
         "currency": null,
-        "unit": null,
-        "raw": null
+        "unit": "per_task",
+        "raw": "Fixed Rate Per Approved Asset"
       },
       "short_description": "Annotation Judging Fixed Rate Per Approved Asset Worldwide Languages Earn Arabic Azeri Bengali Bulgarian Catalan Chinese Chinese (Simplified) Croatian Danish Dutch English Estonian Finnish French German Greek Hebrew...",
-      "full_description_hash": "0acf3438c11015de",
+      "full_description_hash": "92d78987d9e58313",
       "official_posted_date": "2025-12-04T18:40:23Z",
       "first_detected_at": "2026-11-25T23:19:17Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
-      "job_status": "EXISTING",
+      "last_verified_at": "2026-11-25T23:53:02Z",
+      "job_status": "UPDATED",
       "source_connector": "web_oneforma",
-      "collected_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": []
     },
     "web_oneforma:807": {
       "canonical_id": "web_oneforma:807",
@@ -1259,17 +1477,20 @@
         "min": null,
         "max": null,
         "currency": null,
-        "unit": null,
-        "raw": null
+        "unit": "per_task",
+        "raw": "Fixed Rate Per Approved Asset"
       },
       "short_description": "Translation Fixed Rate Per Approved Asset Worldwide Languages Earn Arabic Bengali Bulgarian Catalan Croatian Czech English Finnish French German Greek Gujarati Hebrew Hindi Hungarian Icelandic Indonesian Italian...",
-      "full_description_hash": "93821c8698fb48eb",
+      "full_description_hash": "aef2e9fdf0d21a1e",
       "official_posted_date": "2025-05-05T14:31:23Z",
       "first_detected_at": "2026-11-25T23:19:17Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
-      "job_status": "EXISTING",
+      "last_verified_at": "2026-11-25T23:53:02Z",
+      "job_status": "UPDATED",
       "source_connector": "web_oneforma",
-      "collected_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": [
+        "Bilingual Translation Quality Rater"
+      ]
     },
     "web_oneforma:824": {
       "canonical_id": "web_oneforma:824",
@@ -1295,17 +1516,18 @@
         "min": null,
         "max": null,
         "currency": null,
-        "unit": null,
-        "raw": null
+        "unit": "per_task",
+        "raw": "Fixed Rate Per Approved Asset"
       },
       "short_description": "Translation Fixed Rate Per Approved Asset Worldwide Languages Earn Arabic Azeri Belarusian Bengali Bulgarian Catalan Chinese (Simplified) Croatian Czech Dutch English Finnish French German Gujarati Hebrew Hindi...",
-      "full_description_hash": "412f275ef1d70104",
+      "full_description_hash": "e2fc9b0890ee4a7c",
       "official_posted_date": "2025-04-17T18:53:32Z",
       "first_detected_at": "2026-11-25T23:19:17Z",
-      "last_verified_at": "2026-11-25T23:40:42Z",
-      "job_status": "EXISTING",
+      "last_verified_at": "2026-11-25T23:53:02Z",
+      "job_status": "UPDATED",
       "source_connector": "web_oneforma",
-      "collected_at": "2026-11-25T23:40:42Z"
+      "collected_at": "2026-11-25T23:53:02Z",
+      "requirements_evidence": []
     }
   }
 }

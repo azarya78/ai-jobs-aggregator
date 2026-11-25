@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-25T23:40:42Z",
-  "totalJobs": 24,
+  "lastUpdated": "2026-11-25T23:53:02Z",
+  "totalJobs": 23,
   "schemaVersion": "2.0",
   "pipeline": "ai-jobs-hub-v2-direct",
   "jobs": [
@@ -30,6 +30,7 @@
       "eligibilityClass": "Indonesia Eligible",
       "eligibilityConfidence": "high",
       "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'Indonesia')",
+      "requirementsEvidence": [],
       "compensation": {
         "min": 8.0,
         "max": 8.0,
@@ -41,10 +42,10 @@
       "officialPostedDate": null,
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-25T23:40:42Z",
+      "lastVerifiedAt": "2026-11-25T23:53:02Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "web_imerit",
-      "collectedAt": "2026-11-25T23:40:42Z"
+      "collectedAt": "2026-11-25T23:53:02Z"
     },
     {
       "id": "lever_weloglobal:48654671-20e3-4dcf-ae24-1a339c5e8135",
@@ -75,6 +76,7 @@
       "eligibilityClass": "Indonesia Eligible",
       "eligibilityConfidence": "high",
       "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'Indonesia · ID · remote')",
+      "requirementsEvidence": [],
       "compensation": {
         "min": 5.0,
         "max": 5.0,
@@ -86,10 +88,10 @@
       "officialPostedDate": "2026-11-17T06:02:05Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:40:42Z",
+      "lastVerifiedAt": "2026-11-25T23:53:02Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T23:40:42Z"
+      "collectedAt": "2026-11-25T23:53:02Z"
     },
     {
       "id": "lever_weloglobal:208a4835-993f-4d5e-9d33-a6ab08525de0",
@@ -120,6 +122,7 @@
       "eligibilityClass": "Indonesia Eligible",
       "eligibilityConfidence": "high",
       "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'Indonesia · ID · remote')",
+      "requirementsEvidence": [],
       "compensation": {
         "min": 4.0,
         "max": 4.0,
@@ -131,10 +134,10 @@
       "officialPostedDate": "2026-11-17T05:50:08Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:40:42Z",
+      "lastVerifiedAt": "2026-11-25T23:53:02Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T23:40:42Z"
+      "collectedAt": "2026-11-25T23:53:02Z"
     },
     {
       "id": "teamtailor_dataforce:736981-sme-task-creator-education-content-and-communications-indonesia",
@@ -161,6 +164,10 @@
       "eligibilityClass": "Indonesia Eligible",
       "eligibilityConfidence": "high",
       "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'N/A')",
+      "requirementsEvidence": [
+        "SME Task Creator - Education, Content and Communications – Indonesia",
+        "Required Languages: English"
+      ],
       "compensation": {
         "min": null,
         "max": null,
@@ -172,10 +179,10 @@
       "officialPostedDate": "2026-11-12T12:08:28Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:40:42Z",
+      "lastVerifiedAt": "2026-11-25T23:53:02Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "teamtailor_dataforce",
-      "collectedAt": "2026-11-25T23:40:42Z"
+      "collectedAt": "2026-11-25T23:53:02Z"
     },
     {
       "id": "teamtailor_dataforce:736980-sme-task-creator-human-resources-and-organization-indonesia",
@@ -202,6 +209,10 @@
       "eligibilityClass": "Indonesia Eligible",
       "eligibilityConfidence": "high",
       "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'N/A')",
+      "requirementsEvidence": [
+        "SME Task Creator - Human Resources and Organization – Indonesia",
+        "Required Languages: English"
+      ],
       "compensation": {
         "min": null,
         "max": null,
@@ -213,10 +224,10 @@
       "officialPostedDate": "2026-11-12T12:07:02Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:40:42Z",
+      "lastVerifiedAt": "2026-11-25T23:53:02Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "teamtailor_dataforce",
-      "collectedAt": "2026-11-25T23:40:42Z"
+      "collectedAt": "2026-11-25T23:53:02Z"
     },
     {
       "id": "teamtailor_dataforce:736954-sme-task-creator-engineering-construction-and-facilities-indonesia",
@@ -243,6 +254,10 @@
       "eligibilityClass": "Indonesia Eligible",
       "eligibilityConfidence": "high",
       "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'N/A')",
+      "requirementsEvidence": [
+        "SME Task Creator – Engineering, Construction and Facilities - Indonesia",
+        "Required Languages: English"
+      ],
       "compensation": {
         "min": null,
         "max": null,
@@ -254,10 +269,10 @@
       "officialPostedDate": "2026-11-12T11:18:40Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:40:42Z",
+      "lastVerifiedAt": "2026-11-25T23:53:02Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "teamtailor_dataforce",
-      "collectedAt": "2026-11-25T23:40:42Z"
+      "collectedAt": "2026-11-25T23:53:02Z"
     },
     {
       "id": "teamtailor_dataforce:736953-sme-task-creator-healthcare-and-research-operations-indonesia",
@@ -284,6 +299,10 @@
       "eligibilityClass": "Indonesia Eligible",
       "eligibilityConfidence": "high",
       "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'N/A')",
+      "requirementsEvidence": [
+        "SME Task Creator – Healthcare and Research Operations - Indonesia",
+        "Required Languages: English"
+      ],
       "compensation": {
         "min": null,
         "max": null,
@@ -295,10 +314,10 @@
       "officialPostedDate": "2026-11-12T11:17:04Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:40:42Z",
+      "lastVerifiedAt": "2026-11-25T23:53:02Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "teamtailor_dataforce",
-      "collectedAt": "2026-11-25T23:40:42Z"
+      "collectedAt": "2026-11-25T23:53:02Z"
     },
     {
       "id": "teamtailor_dataforce:736950-sme-task-creator-it-and-software-indonesia",
@@ -325,6 +344,10 @@
       "eligibilityClass": "Indonesia Eligible",
       "eligibilityConfidence": "high",
       "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'N/A')",
+      "requirementsEvidence": [
+        "SME Task Creator – IT and Software - Indonesia",
+        "Required Languages: English"
+      ],
       "compensation": {
         "min": null,
         "max": null,
@@ -336,10 +359,10 @@
       "officialPostedDate": "2026-11-12T11:15:29Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:40:42Z",
+      "lastVerifiedAt": "2026-11-25T23:53:02Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "teamtailor_dataforce",
-      "collectedAt": "2026-11-25T23:40:42Z"
+      "collectedAt": "2026-11-25T23:53:02Z"
     },
     {
       "id": "teamtailor_dataforce:736481-sme-task-creator-legal-compliance-and-governance-indonesia",
@@ -366,6 +389,10 @@
       "eligibilityClass": "Indonesia Eligible",
       "eligibilityConfidence": "high",
       "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'N/A')",
+      "requirementsEvidence": [
+        "SME Task Creator – Legal, Compliance and Governance - Indonesia",
+        "Required Languages: English"
+      ],
       "compensation": {
         "min": null,
         "max": null,
@@ -377,10 +404,10 @@
       "officialPostedDate": "2026-11-11T18:31:10Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:40:42Z",
+      "lastVerifiedAt": "2026-11-25T23:53:02Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "teamtailor_dataforce",
-      "collectedAt": "2026-11-25T23:40:42Z"
+      "collectedAt": "2026-11-25T23:53:02Z"
     },
     {
       "id": "teamtailor_dataforce:736468-sme-task-creator-environment-policy-and-urban-research-indonesia",
@@ -407,6 +434,10 @@
       "eligibilityClass": "Indonesia Eligible",
       "eligibilityConfidence": "high",
       "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'N/A')",
+      "requirementsEvidence": [
+        "SME Task Creator - Environment, Policy and Urban Research – Indonesia",
+        "Required Languages: English"
+      ],
       "compensation": {
         "min": null,
         "max": null,
@@ -418,10 +449,10 @@
       "officialPostedDate": "2026-11-11T18:24:55Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:40:42Z",
+      "lastVerifiedAt": "2026-11-25T23:53:02Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "teamtailor_dataforce",
-      "collectedAt": "2026-11-25T23:40:42Z"
+      "collectedAt": "2026-11-25T23:53:02Z"
     },
     {
       "id": "teamtailor_dataforce:736454-sme-task-creator-supply-chain-and-procurement-indonesia",
@@ -448,6 +479,10 @@
       "eligibilityClass": "Indonesia Eligible",
       "eligibilityConfidence": "high",
       "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'N/A')",
+      "requirementsEvidence": [
+        "SME Task Creator - Supply Chain and Procurement – Indonesia",
+        "Required Languages: English"
+      ],
       "compensation": {
         "min": null,
         "max": null,
@@ -459,10 +494,10 @@
       "officialPostedDate": "2026-11-11T18:15:38Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:40:42Z",
+      "lastVerifiedAt": "2026-11-25T23:53:02Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "teamtailor_dataforce",
-      "collectedAt": "2026-11-25T23:40:42Z"
+      "collectedAt": "2026-11-25T23:53:02Z"
     },
     {
       "id": "lever_rws:ef53a2d3-29bc-4c0e-8f46-d91a316428bf",
@@ -477,7 +512,7 @@
         "Audio / Speech",
         "Prompt Writing"
       ],
-      "location": "Jakarta · ID · remote",
+      "location": "Jakarta · Surabaya · Bandung · Medan · Tangerang · Bekasi · Depok · Semarang · Palembang · Pontianak · Pekanbaru · Malang · Bogor · Makassar · Yogyakarta · ID · remote",
       "pay": "5 USD/hour",
       "date": "2026-11-05",
       "timestamp": 1793882577000,
@@ -489,7 +524,10 @@
       "applyUrlAvailable": true,
       "eligibilityClass": "Indonesia Eligible",
       "eligibilityConfidence": "high",
-      "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Jakarta' (Location: 'Jakarta · ID · remote')",
+      "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Jakarta' (Location: 'Jakarta · Surabaya · Bandung · Medan · Tangerang · Bekasi · Depok · Semarang · Palembang · Pontianak · Pekanbaru · Malang · Bogor · Makassar · Yogyakarta · ID · remote')",
+      "requirementsEvidence": [
+        "AI Voice Recording Contributor - Simplified Chinese"
+      ],
       "compensation": {
         "min": 5.0,
         "max": 5.0,
@@ -497,102 +535,184 @@
         "unit": "hourly",
         "raw": "5 USD/hour"
       },
-      "fullDescriptionHash": "1f65526c6637ebaf",
+      "fullDescriptionHash": "5e19403ca6f96b2c",
       "officialPostedDate": "2026-11-05T12:42:57Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:40:42Z",
-      "jobStatus": "EXISTING",
+      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "jobStatus": "UPDATED",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T23:40:42Z"
+      "collectedAt": "2026-11-25T23:53:02Z"
     },
     {
-      "id": "lever_weloglobal:98387b6b-72d5-4eb8-93f4-c78b3a321b2d",
-      "title": "AI Trainers Network - Tajik",
+      "id": "lever_weloglobal:4d045b6f-2bb1-4477-9458-620892240cac",
+      "title": "Alpheratz Project - Burmese Translation Rater",
       "company": "Welo Data (Welocalize)",
       "logo": "https://www.google.com/s2/favicons?domain=welodata.ai&sz=128",
-      "category": "AI Tutor / AI Trainer",
+      "category": "Linguistic Evaluation & Translation Quality",
       "eligible": "Indonesia Eligible",
       "isIndonesian": true,
       "isDirect": true,
       "skills": [
-        "LLM Evaluation",
-        "Audio / Speech",
-        "Data Annotation",
-        "Prompt Writing"
+        "Translation / Linguistics"
       ],
-      "location": "Indonesia · ID · remote",
-      "pay": "",
-      "date": "2026-07-20",
-      "timestamp": 1784534727000,
-      "excerpt": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a...",
-      "applyUrl": "https://jobs.lever.co/weloglobal/98387b6b-72d5-4eb8-93f4-c78b3a321b2d/apply",
+      "location": "India · Thailand · Indonesia · Malaysia · IN · remote",
+      "pay": "USD 8.5 / hour",
+      "date": "2026-10-27",
+      "timestamp": 1793074000000,
+      "excerpt": "We are looking for experienced language professionals to support an ongoing project focused on reviewing and refining Burmese customer service content. This role involves improving machine-translated materials to ensure...",
+      "applyUrl": "https://jobs.lever.co/weloglobal/4d045b6f-2bb1-4477-9458-620892240cac/apply",
       "source": "lever_weloglobal",
-      "sourceJobId": "98387b6b-72d5-4eb8-93f4-c78b3a321b2d",
-      "officialSourceUrl": "https://jobs.lever.co/weloglobal/98387b6b-72d5-4eb8-93f4-c78b3a321b2d",
+      "sourceJobId": "4d045b6f-2bb1-4477-9458-620892240cac",
+      "officialSourceUrl": "https://jobs.lever.co/weloglobal/4d045b6f-2bb1-4477-9458-620892240cac",
       "applyUrlAvailable": true,
       "eligibilityClass": "Indonesia Eligible",
       "eligibilityConfidence": "high",
-      "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'Indonesia · ID · remote')",
+      "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'India · Thailand · Indonesia · Malaysia · IN · remote')",
+      "requirementsEvidence": [],
       "compensation": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "unit": null,
-        "raw": null
+        "min": 8.5,
+        "max": 8.5,
+        "currency": "USD",
+        "unit": "hourly",
+        "raw": "USD 8.5 / hour"
       },
-      "fullDescriptionHash": "8e11be4511c8b946",
-      "officialPostedDate": "2026-07-20T08:05:27Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:40:42Z",
-      "jobStatus": "EXISTING",
+      "fullDescriptionHash": "f2093445f54a3851",
+      "officialPostedDate": "2026-10-27T04:06:40Z",
+      "firstDetectedAt": "2026-11-25T23:53:02Z",
+      "firstSeenAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T23:40:42Z"
+      "collectedAt": "2026-11-25T23:53:02Z"
     },
     {
-      "id": "lever_weloglobal:7d544174-8164-48d2-a5eb-c0b0746caff8",
-      "title": "AI Trainers Network - Sundanese",
+      "id": "lever_weloglobal:a5c63a9c-27b2-43ef-a548-9493465e5b6b",
+      "title": "Alpheratz Project - Burmese Translation Quality Reviewer",
       "company": "Welo Data (Welocalize)",
       "logo": "https://www.google.com/s2/favicons?domain=welodata.ai&sz=128",
-      "category": "AI Tutor / AI Trainer",
+      "category": "Linguistic Evaluation & Translation Quality",
       "eligible": "Indonesia Eligible",
       "isIndonesian": true,
       "isDirect": true,
       "skills": [
-        "LLM Evaluation",
-        "Audio / Speech",
-        "Data Annotation",
-        "Prompt Writing"
+        "Translation / Linguistics"
       ],
-      "location": "Indonesia · ID · remote",
-      "pay": "",
-      "date": "2026-07-20",
-      "timestamp": 1784533141000,
-      "excerpt": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a...",
-      "applyUrl": "https://jobs.lever.co/weloglobal/7d544174-8164-48d2-a5eb-c0b0746caff8/apply",
+      "location": "India · Thailand · Indonesia · Malaysia · IN · remote",
+      "pay": "USD 10.63 / hour",
+      "date": "2026-10-26",
+      "timestamp": 1793010675000,
+      "excerpt": "We are looking for experienced language professionals to support an ongoing project focused on reviewing and refining Burmese customer service content. This role involves improving machine-translated materials to ensure...",
+      "applyUrl": "https://jobs.lever.co/weloglobal/a5c63a9c-27b2-43ef-a548-9493465e5b6b/apply",
       "source": "lever_weloglobal",
-      "sourceJobId": "7d544174-8164-48d2-a5eb-c0b0746caff8",
-      "officialSourceUrl": "https://jobs.lever.co/weloglobal/7d544174-8164-48d2-a5eb-c0b0746caff8",
+      "sourceJobId": "a5c63a9c-27b2-43ef-a548-9493465e5b6b",
+      "officialSourceUrl": "https://jobs.lever.co/weloglobal/a5c63a9c-27b2-43ef-a548-9493465e5b6b",
       "applyUrlAvailable": true,
       "eligibilityClass": "Indonesia Eligible",
       "eligibilityConfidence": "high",
-      "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'Indonesia · ID · remote')",
+      "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'India · Thailand · Indonesia · Malaysia · IN · remote')",
+      "requirementsEvidence": [],
       "compensation": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "unit": null,
-        "raw": null
+        "min": 10.63,
+        "max": 10.63,
+        "currency": "USD",
+        "unit": "hourly",
+        "raw": "USD 10.63 / hour"
       },
-      "fullDescriptionHash": "722daac7b01699d4",
-      "officialPostedDate": "2026-07-20T07:39:01Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:40:42Z",
-      "jobStatus": "EXISTING",
+      "fullDescriptionHash": "f6d1991ad6c3abc9",
+      "officialPostedDate": "2026-10-26T10:31:15Z",
+      "firstDetectedAt": "2026-11-25T23:53:02Z",
+      "firstSeenAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T23:40:42Z"
+      "collectedAt": "2026-11-25T23:53:02Z"
+    },
+    {
+      "id": "lever_weloglobal:efcc8784-2d7a-4ad7-bc54-1d728c53be9f",
+      "title": "Andromeda Delta - Audio Transcription Reviewer English (US)",
+      "company": "Welo Data (Welocalize)",
+      "logo": "https://www.google.com/s2/favicons?domain=welodata.ai&sz=128",
+      "category": "Audio & Speech Evaluation",
+      "eligible": "Indonesia Eligible",
+      "isIndonesian": true,
+      "isDirect": true,
+      "skills": [
+        "Audio / Speech",
+        "Data Annotation"
+      ],
+      "location": "Philippines · India · Indonesia · Cairo, Egypt · PH · remote",
+      "pay": "USD 4.55/hour",
+      "date": "2026-10-07",
+      "timestamp": 1791373496000,
+      "excerpt": "About the Role: Review pre-segmented audio recordings, verify word-level segment accuracy, and correct timestamp or transcription errors to support training data for speech-to-speech AI models Project Details: Andromeda...",
+      "applyUrl": "https://jobs.lever.co/weloglobal/efcc8784-2d7a-4ad7-bc54-1d728c53be9f/apply",
+      "source": "lever_weloglobal",
+      "sourceJobId": "efcc8784-2d7a-4ad7-bc54-1d728c53be9f",
+      "officialSourceUrl": "https://jobs.lever.co/weloglobal/efcc8784-2d7a-4ad7-bc54-1d728c53be9f",
+      "applyUrlAvailable": true,
+      "eligibilityClass": "Indonesia Eligible",
+      "eligibilityConfidence": "high",
+      "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'Philippines · India · Indonesia · Cairo, Egypt · PH · remote')",
+      "requirementsEvidence": [],
+      "compensation": {
+        "min": 4.55,
+        "max": 4.55,
+        "currency": "USD",
+        "unit": "hourly",
+        "raw": "USD 4.55/hour"
+      },
+      "fullDescriptionHash": "acc05a32ac812938",
+      "officialPostedDate": "2026-10-07T11:44:56Z",
+      "firstDetectedAt": "2026-11-25T23:53:02Z",
+      "firstSeenAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "jobStatus": "NEW",
+      "sourceConnector": "lever_weloglobal",
+      "collectedAt": "2026-11-25T23:53:02Z"
+    },
+    {
+      "id": "lever_weloglobal:bfadf038-9d98-482e-b245-4def1c370253",
+      "title": "Andromeda Delta - Audio Transcription Adjudicator English (US)",
+      "company": "Welo Data (Welocalize)",
+      "logo": "https://www.google.com/s2/favicons?domain=welodata.ai&sz=128",
+      "category": "Audio & Speech Evaluation",
+      "eligible": "Indonesia Eligible",
+      "isIndonesian": true,
+      "isDirect": true,
+      "skills": [
+        "Audio / Speech",
+        "Data Annotation"
+      ],
+      "location": "Philippines · India · Indonesia · Cairo, Egypt · Mexico · PH · remote",
+      "pay": "USD 7.00/hour",
+      "date": "2026-10-07",
+      "timestamp": 1791373286000,
+      "excerpt": "About the Role: We are looking for experienced Adjudicators to review and resolve discrepancies in word level transcription and timestamp annotations for an English (US) speech data project. This role requires strong...",
+      "applyUrl": "https://jobs.lever.co/weloglobal/bfadf038-9d98-482e-b245-4def1c370253/apply",
+      "source": "lever_weloglobal",
+      "sourceJobId": "bfadf038-9d98-482e-b245-4def1c370253",
+      "officialSourceUrl": "https://jobs.lever.co/weloglobal/bfadf038-9d98-482e-b245-4def1c370253",
+      "applyUrlAvailable": true,
+      "eligibilityClass": "Indonesia Eligible",
+      "eligibilityConfidence": "high",
+      "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'Philippines · India · Indonesia · Cairo, Egypt · Mexico · PH · remote')",
+      "requirementsEvidence": [],
+      "compensation": {
+        "min": 7.0,
+        "max": 7.0,
+        "currency": "USD",
+        "unit": "hourly",
+        "raw": "USD 7.00/hour"
+      },
+      "fullDescriptionHash": "bb82c41a97e0f8b4",
+      "officialPostedDate": "2026-10-07T11:41:26Z",
+      "firstDetectedAt": "2026-11-25T23:53:02Z",
+      "firstSeenAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "jobStatus": "NEW",
+      "sourceConnector": "lever_weloglobal",
+      "collectedAt": "2026-11-25T23:53:02Z"
     },
     {
       "id": "web_oneforma:792",
@@ -609,7 +729,7 @@
         "Translation / Linguistics"
       ],
       "location": "Available in 32 countries Azerbaijan Brazil Bulgaria Croatia Denmark Finland France Germany Greece Iceland India Indonesia Israel Italy Japan Netherlands Norway Poland Remote Romania Russia Serbia Singapore Slovakia Slovenia South Korea Spain Sweden Turkey United Arab Emirates United States Uzbekistan",
-      "pay": "",
+      "pay": "Fixed Rate Per Approved Asset",
       "date": "2025-12-04",
       "timestamp": 1764873623000,
       "excerpt": "Annotation Judging Fixed Rate Per Approved Asset Worldwide Languages Earn Arabic Azeri Bengali Bulgarian Catalan Chinese Chinese (Simplified) Croatian Danish Dutch English Estonian Finnish French German Greek Hebrew...",
@@ -621,110 +741,22 @@
       "eligibilityClass": "Indonesia Eligible",
       "eligibilityConfidence": "high",
       "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'Available in 32 countries Azerbaijan Brazil Bulgaria Croatia Denmark Finland France Germany Greece Iceland India Indonesia Israel Italy Japan Netherlands Norway Poland Remote Romania Russia Serbia Singapore Slovakia Slovenia South Korea Spain Sweden Turkey United Arab Emirates United States Uzbekistan')",
+      "requirementsEvidence": [],
       "compensation": {
         "min": null,
         "max": null,
         "currency": null,
-        "unit": null,
-        "raw": null
+        "unit": "per_task",
+        "raw": "Fixed Rate Per Approved Asset"
       },
-      "fullDescriptionHash": "0acf3438c11015de",
+      "fullDescriptionHash": "92d78987d9e58313",
       "officialPostedDate": "2025-12-04T18:40:23Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-25T23:40:42Z",
-      "jobStatus": "EXISTING",
+      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "jobStatus": "UPDATED",
       "sourceConnector": "web_oneforma",
-      "collectedAt": "2026-11-25T23:40:42Z"
-    },
-    {
-      "id": "lever_weloglobal:7ceb8dcb-2995-4ec1-add0-f34549ae0844",
-      "title": "AI Trainers Network - Javanese",
-      "company": "Welo Data (Welocalize)",
-      "logo": "https://www.google.com/s2/favicons?domain=welodata.ai&sz=128",
-      "category": "AI Tutor / AI Trainer",
-      "eligible": "Indonesia Eligible",
-      "isIndonesian": true,
-      "isDirect": true,
-      "skills": [
-        "LLM Evaluation",
-        "Audio / Speech",
-        "Data Annotation",
-        "Prompt Writing"
-      ],
-      "location": "Indonesia · ID · remote",
-      "pay": "",
-      "date": "2025-06-05",
-      "timestamp": 1749107760000,
-      "excerpt": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a...",
-      "applyUrl": "https://jobs.lever.co/weloglobal/7ceb8dcb-2995-4ec1-add0-f34549ae0844/apply",
-      "source": "lever_weloglobal",
-      "sourceJobId": "7ceb8dcb-2995-4ec1-add0-f34549ae0844",
-      "officialSourceUrl": "https://jobs.lever.co/weloglobal/7ceb8dcb-2995-4ec1-add0-f34549ae0844",
-      "applyUrlAvailable": true,
-      "eligibilityClass": "Indonesia Eligible",
-      "eligibilityConfidence": "high",
-      "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'Indonesia · ID · remote')",
-      "compensation": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "unit": null,
-        "raw": null
-      },
-      "fullDescriptionHash": "152662fffc04dd09",
-      "officialPostedDate": "2025-06-05T07:16:00Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:40:42Z",
-      "jobStatus": "EXISTING",
-      "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T23:40:42Z"
-    },
-    {
-      "id": "lever_weloglobal:865407eb-157b-43b2-82a6-9a55a750b776",
-      "title": "AI Trainers Network - Indonesian",
-      "company": "Welo Data (Welocalize)",
-      "logo": "https://www.google.com/s2/favicons?domain=welodata.ai&sz=128",
-      "category": "Indonesian Language AI Evaluation",
-      "eligible": "Indonesia Eligible",
-      "isIndonesian": true,
-      "isDirect": true,
-      "skills": [
-        "Indonesian",
-        "LLM Evaluation",
-        "Audio / Speech",
-        "Data Annotation",
-        "Prompt Writing"
-      ],
-      "location": "Indonesia · ID · remote",
-      "pay": "",
-      "date": "2025-05-30",
-      "timestamp": 1748618889000,
-      "excerpt": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a...",
-      "applyUrl": "https://jobs.lever.co/weloglobal/865407eb-157b-43b2-82a6-9a55a750b776/apply",
-      "source": "lever_weloglobal",
-      "sourceJobId": "865407eb-157b-43b2-82a6-9a55a750b776",
-      "officialSourceUrl": "https://jobs.lever.co/weloglobal/865407eb-157b-43b2-82a6-9a55a750b776",
-      "applyUrlAvailable": true,
-      "eligibilityClass": "Indonesia Eligible",
-      "eligibilityConfidence": "high",
-      "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'Indonesia · ID · remote')",
-      "compensation": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "unit": null,
-        "raw": null
-      },
-      "fullDescriptionHash": "c38f64b889f1ff06",
-      "officialPostedDate": "2025-05-30T15:28:09Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:40:42Z",
-      "jobStatus": "EXISTING",
-      "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T23:40:42Z"
+      "collectedAt": "2026-11-25T23:53:02Z"
     },
     {
       "id": "web_oneforma:807",
@@ -741,7 +773,7 @@
         "Translation / Linguistics"
       ],
       "location": "Available in 13 countries Czech Republic Germany Iceland India Indonesia Remote Russia Spain Thailand Turkey Ukraine United States Vietnam",
-      "pay": "",
+      "pay": "Fixed Rate Per Approved Asset",
       "date": "2025-05-05",
       "timestamp": 1746455483000,
       "excerpt": "Translation Fixed Rate Per Approved Asset Worldwide Languages Earn Arabic Bengali Bulgarian Catalan Croatian Czech English Finnish French German Greek Gujarati Hebrew Hindi Hungarian Icelandic Indonesian Italian...",
@@ -753,21 +785,24 @@
       "eligibilityClass": "Indonesia Eligible",
       "eligibilityConfidence": "high",
       "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'Available in 13 countries Czech Republic Germany Iceland India Indonesia Remote Russia Spain Thailand Turkey Ukraine United States Vietnam')",
+      "requirementsEvidence": [
+        "Bilingual Translation Quality Rater"
+      ],
       "compensation": {
         "min": null,
         "max": null,
         "currency": null,
-        "unit": null,
-        "raw": null
+        "unit": "per_task",
+        "raw": "Fixed Rate Per Approved Asset"
       },
-      "fullDescriptionHash": "93821c8698fb48eb",
+      "fullDescriptionHash": "aef2e9fdf0d21a1e",
       "officialPostedDate": "2025-05-05T14:31:23Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-25T23:40:42Z",
-      "jobStatus": "EXISTING",
+      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "jobStatus": "UPDATED",
       "sourceConnector": "web_oneforma",
-      "collectedAt": "2026-11-25T23:40:42Z"
+      "collectedAt": "2026-11-25T23:53:02Z"
     },
     {
       "id": "web_oneforma:824",
@@ -783,7 +818,7 @@
         "Translation / Linguistics"
       ],
       "location": "Available in 28 countries Brazil Chile China Czech Republic Egypt France Germany Iceland India Indonesia Italy Japan Jordan Lebanon Malaysia Netherlands Palestine Remote Romania Russia Saudi Arabia Serbia Slovenia Spain Switzerland Turkey United Arab Emirates United States",
-      "pay": "",
+      "pay": "Fixed Rate Per Approved Asset",
       "date": "2025-04-17",
       "timestamp": 1744916012000,
       "excerpt": "Translation Fixed Rate Per Approved Asset Worldwide Languages Earn Arabic Azeri Belarusian Bengali Bulgarian Catalan Chinese (Simplified) Croatian Czech Dutch English Finnish French German Gujarati Hebrew Hindi...",
@@ -795,21 +830,22 @@
       "eligibilityClass": "Indonesia Eligible",
       "eligibilityConfidence": "high",
       "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'Available in 28 countries Brazil Chile China Czech Republic Egypt France Germany Iceland India Indonesia Italy Japan Jordan Lebanon Malaysia Netherlands Palestine Remote Romania Russia Saudi Arabia Serbia Slovenia Spain Switzerland Turkey United Arab Emirates United States')",
+      "requirementsEvidence": [],
       "compensation": {
         "min": null,
         "max": null,
         "currency": null,
-        "unit": null,
-        "raw": null
+        "unit": "per_task",
+        "raw": "Fixed Rate Per Approved Asset"
       },
-      "fullDescriptionHash": "412f275ef1d70104",
+      "fullDescriptionHash": "e2fc9b0890ee4a7c",
       "officialPostedDate": "2025-04-17T18:53:32Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-25T23:40:42Z",
-      "jobStatus": "EXISTING",
+      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "jobStatus": "UPDATED",
       "sourceConnector": "web_oneforma",
-      "collectedAt": "2026-11-25T23:40:42Z"
+      "collectedAt": "2026-11-25T23:53:02Z"
     },
     {
       "id": "lever_weloglobal:d16a8aa6-84fd-40f8-bf52-c51c663cdaab",
@@ -836,6 +872,7 @@
       "eligibilityClass": "Indonesia Eligible",
       "eligibilityConfidence": "high",
       "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'Indonesia · ID · remote')",
+      "requirementsEvidence": [],
       "compensation": {
         "min": null,
         "max": null,
@@ -847,52 +884,10 @@
       "officialPostedDate": "2022-12-08T10:36:44Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:40:42Z",
+      "lastVerifiedAt": "2026-11-25T23:53:02Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T23:40:42Z"
-    },
-    {
-      "id": "lever_weloglobal:90aca004-0ae4-421c-8e5b-d4c3d105a7de",
-      "title": "English to Indonesian linguist for Patent",
-      "company": "Welo Data (Welocalize)",
-      "logo": "https://www.google.com/s2/favicons?domain=welodata.ai&sz=128",
-      "category": "Indonesian Language AI Evaluation",
-      "eligible": "Indonesia Eligible",
-      "isIndonesian": true,
-      "isDirect": true,
-      "skills": [
-        "Indonesian",
-        "Translation / Linguistics"
-      ],
-      "location": "Indonesia · ID · remote",
-      "pay": "",
-      "date": "2022-04-11",
-      "timestamp": 1649645870000,
-      "excerpt": "As a trusted global transformation partner, Welocalize accelerates the global business journey by enabling brands and companies to reach, engage, and grow international audiences. Welocalize delivers multilingual...",
-      "applyUrl": "https://jobs.lever.co/weloglobal/90aca004-0ae4-421c-8e5b-d4c3d105a7de/apply",
-      "source": "lever_weloglobal",
-      "sourceJobId": "90aca004-0ae4-421c-8e5b-d4c3d105a7de",
-      "officialSourceUrl": "https://jobs.lever.co/weloglobal/90aca004-0ae4-421c-8e5b-d4c3d105a7de",
-      "applyUrlAvailable": true,
-      "eligibilityClass": "Indonesia Eligible",
-      "eligibilityConfidence": "high",
-      "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'Indonesia · ID · remote')",
-      "compensation": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "unit": null,
-        "raw": null
-      },
-      "fullDescriptionHash": "8ab85dec0681505a",
-      "officialPostedDate": "2022-04-11T02:57:50Z",
-      "firstDetectedAt": "2026-11-25T14:38:57Z",
-      "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:40:42Z",
-      "jobStatus": "EXISTING",
-      "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T23:40:42Z"
+      "collectedAt": "2026-11-25T23:53:02Z"
     },
     {
       "id": "web_mercor:list_AAABoGol-kkiUPOQvn1CsZFO",
@@ -908,7 +903,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote — South Asia preferred",
-      "pay": "$18 - $22 / hr",
+      "pay": "$18 - $22",
       "date": "2026-09-04",
       "timestamp": 1788487269000,
       "excerpt": "**About the role** We're hiring proficient bilingual speakers (English & Hindi) to help make advanced AI models safer. You'll apply your language fluency and cultural judgment to evaluate and strengthen how these models...",
@@ -920,21 +915,26 @@
       "eligibilityClass": "Remote Global",
       "eligibilityConfidence": "high",
       "eligibilityEvidence": "Verified global remote clause: 'applicants based elsewhere are welcome'",
+      "requirementsEvidence": [
+        "Bilingual Hindi Generalist Expert — AI Safety",
+        "Native or near-native fluency in Hindi, plus business-level written English",
+        "A bachelor's degree, completed or in progress"
+      ],
       "compensation": {
         "min": 18.0,
         "max": 22.0,
         "currency": "USD",
-        "unit": "hourly",
-        "raw": "$18 - $22 / hr"
+        "unit": null,
+        "raw": "$18 - $22"
       },
-      "fullDescriptionHash": "aba92485c1240b00",
+      "fullDescriptionHash": "5adfb9c746b23dad",
       "officialPostedDate": "2026-09-04T02:01:09Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-25T23:40:42Z",
-      "jobStatus": "EXISTING",
+      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "jobStatus": "UPDATED",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:40:42Z"
+      "collectedAt": "2026-11-25T23:53:02Z"
     },
     {
       "id": "web_mercor:list_AAABoGolujPeojikHWRLCaH-",
@@ -950,7 +950,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote — Western Europe preferred",
-      "pay": "$43 - $47 / hr",
+      "pay": "$43 - $47",
       "date": "2026-09-04",
       "timestamp": 1788487253000,
       "excerpt": "**About the role** We're hiring proficient bilingual speakers (English & Spanish) to help make advanced AI models safer. You'll apply your language fluency and cultural judgment to evaluate and strengthen how these...",
@@ -962,21 +962,26 @@
       "eligibilityClass": "Remote Global",
       "eligibilityConfidence": "high",
       "eligibilityEvidence": "Verified global remote clause: 'applicants based elsewhere are welcome'",
+      "requirementsEvidence": [
+        "Bilingual Spanish Generalist Expert — AI Safety",
+        "Native or near-native fluency in Spanish, plus business-level written English",
+        "A bachelor's degree, completed or in progress"
+      ],
       "compensation": {
         "min": 43.0,
         "max": 47.0,
         "currency": "USD",
-        "unit": "hourly",
-        "raw": "$43 - $47 / hr"
+        "unit": null,
+        "raw": "$43 - $47"
       },
-      "fullDescriptionHash": "b4d2d0fae43ffe22",
+      "fullDescriptionHash": "fe5458ebda5513ee",
       "officialPostedDate": "2026-09-04T02:00:53Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-25T23:40:42Z",
-      "jobStatus": "EXISTING",
+      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "jobStatus": "UPDATED",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:40:42Z"
+      "collectedAt": "2026-11-25T23:53:02Z"
     },
     {
       "id": "web_mercor:list_AAABoGoju-Gn415PNTlD5qqF",
@@ -992,7 +997,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote — East Asia preferred",
-      "pay": "$48 - $52 / hr",
+      "pay": "$48 - $52",
       "date": "2026-09-04",
       "timestamp": 1788487122000,
       "excerpt": "**About the role** We're hiring proficient bilingual speakers (English & Chinese) to help make advanced AI models safer. You'll apply your language fluency and cultural judgment to evaluate and strengthen how these...",
@@ -1004,21 +1009,26 @@
       "eligibilityClass": "Remote Global",
       "eligibilityConfidence": "high",
       "eligibilityEvidence": "Verified global remote clause: 'applicants based elsewhere are welcome'",
+      "requirementsEvidence": [
+        "Bilingual Chinese Generalist Expert — AI Safety",
+        "Native or near-native fluency in Chinese, plus business-level written English",
+        "A bachelor's degree, completed or in progress"
+      ],
       "compensation": {
         "min": 48.0,
         "max": 52.0,
         "currency": "USD",
-        "unit": "hourly",
-        "raw": "$48 - $52 / hr"
+        "unit": null,
+        "raw": "$48 - $52"
       },
-      "fullDescriptionHash": "652cc1cf3a91f6cd",
+      "fullDescriptionHash": "406c6e159f6ad049",
       "officialPostedDate": "2026-09-04T01:58:42Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-25T23:40:42Z",
-      "jobStatus": "EXISTING",
+      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "jobStatus": "UPDATED",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:40:42Z"
+      "collectedAt": "2026-11-25T23:53:02Z"
     }
   ]
 }
