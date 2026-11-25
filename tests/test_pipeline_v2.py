@@ -42,6 +42,53 @@ from ai_jobs_v2.connectors.teamtailor import TeamtailorConnector
 HAS_BS4 = importlib.util.find_spec("bs4") is not None
 
 
+class TestConflictingGeographicEvidence(unittest.TestCase):
+    def test_broad_employer_country_list_does_not_override_foreign_location(self):
+        description = (
+            "About our company: available in countries: Argentina, Australia, "
+            "Brazil, Germany, Indonesia, Japan. Join our global network."
+        )
+        for title, location in [
+            ("English to Belarusian Review Lead", "Remote - Europe · GB · remote"),
+            ("English to Bosnian Review Lead", "Croatia · HR · remote"),
+            ("English to Estonian Review Lead", "Greece · GR · remote"),
+            ("English to German Review Lead", "Zurich, Switzerland · CH · remote"),
+        ]:
+            with self.subTest(location=location):
+                job = RawJobListing(
+                    "lever_weloglobal", "Welo Data", "sample-id", title,
+                    "https://jobs.lever.co/weloglobal/example",
+                    "https://jobs.lever.co/weloglobal/example",
+                    location_raw=location, description_text=description,
+                )
+                result = classify_eligibility(job)
+                self.assertEqual(result.classification, ELIGIBILITY_UNVERIFIED)
+                self.assertIn("Conflicting geographic signals", result.evidence)
+
+    def test_country_list_with_indonesia_location_remains_eligible(self):
+        job = RawJobListing(
+            "web_oneforma", "OneForma", "sample-id", "Translation Quality Rater",
+            "https://www.oneforma.com/projects/example",
+            "https://www.oneforma.com/projects/example",
+            location_raw="Available in 32 countries Germany India Indonesia Remote Spain",
+            description_text="Evaluate translation quality with structured rubrics.",
+        )
+        self.assertEqual(classify_eligibility(job).classification, ELIGIBILITY_INDONESIA)
+
+    def test_role_specific_indonesia_permission_overrides_foreign_location(self):
+        job = RawJobListing(
+            "lever_weloglobal", "Welo Data", "sample-id", "AI Response Evaluator",
+            "https://jobs.lever.co/weloglobal/example",
+            "https://jobs.lever.co/weloglobal/example",
+            location_raw="United Kingdom · GB · remote",
+            description_text=(
+                "We are hiring candidates based in Indonesia for remote AI QA. "
+                "Company operations span countries: Australia, Indonesia, UK."
+            ),
+        )
+        self.assertEqual(classify_eligibility(job).classification, ELIGIBILITY_INDONESIA)
+
+
 class TestAPIConnectorsAndPagination(unittest.TestCase):
     def test_lever_pagination_empty_page_and_malformed_record_skip(self):
         calls = []
