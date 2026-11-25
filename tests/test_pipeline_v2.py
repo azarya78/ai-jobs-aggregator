@@ -472,5 +472,49 @@ class TestEndToEndJobDiscoveryPipeline(unittest.TestCase):
             self.assertTrue((tmp_p / "state/daily_new_candidates.json").exists())
 
 
+class TestEmptyPublicHTMLFaultHold(unittest.TestCase):
+    def test_empty_html_extraction_does_not_close_existing_job(self):
+        from unittest.mock import patch
+        from ai_jobs_v2.pipeline import JobDiscoveryPipeline
+
+        with tempfile.TemporaryDirectory() as tmp:
+            root = pathlib.Path(tmp)
+            config = root / "sources.json"
+            config.write_text(json.dumps({"sources": [{
+                "id": "web_mercor",
+                "platform": "Mercor",
+                "official_url": "https://work.mercor.com/explore",
+                "method": "mercor_public_web",
+                "enabled": True
+            }]}), encoding="utf-8")
+            output = root / "staging/jobs_feed.json"
+            job = RawJobListing(
+                "web_mercor", "Mercor", "list_123",
+                "Indonesian AI Response Evaluator",
+                "https://work.mercor.com/jobs/list_123",
+                "https://work.mercor.com/jobs/list_123",
+                location_raw="Indonesia",
+                description_text="Evaluate and grade AI model responses.",
+            )
+
+            class FakeConnector:
+                def __init__(self, listings):
+                    self.listings = listings
+
+                def fetch_listings(self):
+                    return self.listings
+
+            with patch("ai_jobs_v2.pipeline.create_connector", return_value=FakeConnector([job])):
+                first = JobDiscoveryPipeline(config, root / "state", output).run("2026-11-25T00:00:00Z")
+            self.assertEqual(first["summary"]["publishedAndroidFeedTotal"], 1)
+
+            with patch("ai_jobs_v2.pipeline.create_connector", return_value=FakeConnector([])):
+                second = JobDiscoveryPipeline(config, root / "state", output).run("2026-11-25T04:00:00Z")
+            self.assertEqual(second["sources"][0]["status"], "FAILED")
+            self.assertEqual(second["summary"]["deduplication"]["closedJobs"], 0)
+            self.assertEqual(second["summary"]["publishedAndroidFeedTotal"], 1)
+            self.assertEqual(second["summary"]["deduplication"]["unverifiedHeldDueToConnectorFailure"], 1)
+
+
 if __name__ == "__main__":
     unittest.main()
