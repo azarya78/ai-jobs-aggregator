@@ -83,6 +83,15 @@ class JobDiscoveryPipeline:
                 connector = create_connector(src_cfg, self.http_client)
                 raw_listings = connector.fetch_listings()
                 report.raw_count = len(raw_listings)
+                # A successful HTTP response does not prove that an HTML scraper
+                # extracted the public job board. Treat zero parsed cards as a
+                # connector failure so existing jobs are held, not marked CLOSED.
+                # Structured APIs may legitimately return an empty dataset.
+                if not raw_listings and src_cfg.get("method", "").endswith("_public_web"):
+                    raise RuntimeError(
+                        f"Public HTML extractor returned zero listings for {sid}; "
+                        "possible page-layout or rendering change"
+                    )
                 report.last_successful_check = now_iso
                 succeeded_connectors.add(sid)
 
