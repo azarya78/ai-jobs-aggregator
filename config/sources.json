@@ -128,15 +128,15 @@
     {
       "id": "web_telus_ai",
       "platform": "TELUS Digital AI",
-      "official_url": "https://jobs.telusdigital.com/search/cfm5/ai-community/jobs",
-      "api_endpoint": "https://jobs.telusdigital.com/search/cfm5/ai-community/jobs",
+      "official_url": "https://jobs.telusdigital.com/search/cfm5/ai-community/jobs/in/country/indonesia",
+      "api_endpoint": "https://jobs.telusdigital.com/search/cfm5/ai-community/jobs/in/country/indonesia",
       "method": "telus_ai_public_web",
       "logo": "https://www.google.com/s2/favicons?domain=telusdigital.com&sz=128",
       "pure_ai_eval_board": true,
       "enabled": true,
       "rate_limit_rps": 0.75,
       "timeout_sec": 25,
-      "notes": "Official TELUS Digital AI Community server-rendered public careers listing; parse /jobs/{id}-{slug} cards; no authentication or bot bypass."
+      "notes": "Official TELUS AI Community Indonesia-filtered SSR careers listing; parse /jobs/{numeric_id}-{slug} anchors; retain source-wide failure safeguards."
     },
     {
       "id": "web_mindrift",
