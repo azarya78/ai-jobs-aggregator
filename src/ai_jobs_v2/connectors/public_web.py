@@ -986,7 +986,7 @@ class TelusAIConnector(BaseConnector):
                     )
                 )
 
-            for a in soup.select("a[href*='/jobs/available/'], a[href*='/job/']"):
+            for a in soup.select("a[href*='/jobs/available/'], a[href*='/job/'], a[href^='/jobs/'], a[href*='jobs.telusdigital.com/jobs/']"):
                 href = (a.get("href") or "").strip()
                 base_host = "https://www.telusinternational.ai" if "telusinternational.ai" in self.api_endpoint else "https://jobs.telusdigital.com"
                 full_url = urljoin(base_host, href)
@@ -1004,6 +1004,24 @@ class TelusAIConnector(BaseConnector):
                     continue
                 loc_el = container.find(class_=re.compile(r"location|city|country", re.I))
                 loc_str = loc_el.get_text(" ", strip=True) if loc_el else ""
+                # TELUS SSR cards may pack title, location, language and req ID
+                # into a single anchor. Keep only title in the title field.
+                if "/jobs/" in full_url and re.search(r"\bReq[A-Z_-]*\d+", text):
+                    req_match = re.search(r"\bReq[A-Z_-]*\d+", text)
+                    before_req = text[:req_match.start()].strip() if req_match else text
+                    before_meta = re.split(r"\s*[•·]\s*", before_req, maxsplit=1)[0].strip()
+                    where = re.search(
+                        r"\s+(Jakarta(?:\s+Selatan)?|Denpasar(?:\s+Barat)?|Surabaya|Bandung|Bali)"
+                        r"\s*[,·•]\s*(?:[A-Z]{2}\s*[,·•]\s*)?Indonesia\b",
+                        before_meta, re.IGNORECASE,
+                    )
+                    if where:
+                        title = before_meta[:where.start()].strip()
+                        loc_str = before_meta[where.start():].strip()
+                    elif not title_el:
+                        title = before_meta
+                    if not loc_str and re.search(r"\bIndonesia\b", text, re.IGNORECASE):
+                        loc_str = "Indonesia"
                 listings.append(
                     RawJobListing(
                         source_connector=self.source_id,
