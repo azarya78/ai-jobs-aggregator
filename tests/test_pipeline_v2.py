@@ -1019,6 +1019,42 @@ class TestRecoveredConnectorsSuite(unittest.TestCase):
         self.assertEqual(jobs[0].compensation_raw, "$12/hr")
         self.assertTrue(jobs[1].is_explicitly_closed)
 
+    def test_telus_official_ssr_indonesia_job_cards(self):
+        from ai_jobs_v2.connectors.public_web import TelusAIConnector
+
+        listing_url = "https://jobs.telusdigital.com/jobs/17841045-quality-assurance-rater-indonesian-indonesia"
+        html = """
+        <html><body><section>
+          <article><a href="/jobs/17841045-quality-assurance-rater-indonesian-indonesia">
+            Quality Assurance Rater - Indonesian (Indonesia) Jakarta, Indonesia
+            &bull; Indonesian &bull; Part time &bull; ReqEG-513 Remote
+          </a></article>
+          <article><a href="/jobs/1000-it-technician-indonesia">
+            IT Technician Denpasar Barat, BA, Indonesia &bull; English &bull; Full time &bull; ReqEG-201 Onsite
+          </a></article>
+        </section></body></html>"""
+        client = PoliteHTTPClient(
+            transport_override=lambda url, headers, params, timeout: HTTPResponseData(
+                200, html, {}, url
+            ),
+            sleep_fn=lambda _: None,
+        )
+        conn = TelusAIConnector({
+            "id": "web_telus_ai",
+            "platform": "TELUS Digital AI",
+            "official_url": "https://jobs.telusdigital.com/search/cfm5/ai-community/jobs/in/country/indonesia",
+            "api_endpoint": "https://jobs.telusdigital.com/search/cfm5/ai-community/jobs/in/country/indonesia",
+            "method": "telus_ai_public_web",
+            "pure_ai_eval_board": True,
+        }, client)
+        jobs = conn.fetch_listings()
+        self.assertEqual(len(jobs), 2)
+        self.assertEqual(jobs[0].raw_apply_url, listing_url)
+        self.assertEqual(jobs[0].title, "Quality Assurance Rater - Indonesian (Indonesia)")
+        self.assertEqual(jobs[0].location_raw, "Jakarta, Indonesia")
+        self.assertEqual(jobs[0].source_job_id, "ReqEG-513")
+        self.assertEqual(classify_eligibility(jobs[0]).classification, ELIGIBILITY_INDONESIA)
+
     def test_outlier_and_telus_report_access_restrictions_without_bypass(self):
         from ai_jobs_v2.connectors.public_web import TelusAIConnector
 
