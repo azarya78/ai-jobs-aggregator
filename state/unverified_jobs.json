@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-25T23:53:02Z",
-  "totalUnverified": 141,
+  "lastUpdated": "2026-11-25T23:56:05Z",
+  "totalUnverified": 131,
   "jobs": [
     {
       "id": "lever_weloglobal:8df70d93-4324-4e36-8321-74e9c3f340f2",
@@ -37,12 +37,12 @@
       },
       "fullDescriptionHash": "e0af57bf7b1271a8",
       "officialPostedDate": "2024-10-01T11:58:16Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "lever_weloglobal:16eff280-4586-4767-aedc-235217abf2d8",
@@ -81,10 +81,10 @@
       "officialPostedDate": "2026-10-08T11:51:46Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "lever_weloglobal:9c91ec15-acac-42fc-8ba0-c5f610556d0d",
@@ -123,10 +123,10 @@
       "officialPostedDate": "2026-11-18T16:10:01Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "lever_weloglobal:421589cc-06c4-49c9-81be-76ca0fc232a2",
@@ -165,10 +165,10 @@
       "officialPostedDate": "2026-10-21T14:09:30Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "lever_weloglobal:8cd5c6e3-d1de-4975-a8a4-e07d6c2d180d",
@@ -207,10 +207,10 @@
       "officialPostedDate": "2026-10-08T14:00:57Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "lever_weloglobal:0d66f514-1fe7-42e1-8382-483781058aef",
@@ -249,10 +249,10 @@
       "officialPostedDate": "2026-10-08T13:28:36Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "lever_weloglobal:afe9e037-0c32-4a0e-88e6-befe5f51ee55",
@@ -291,10 +291,10 @@
       "officialPostedDate": "2026-10-08T11:43:56Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "lever_weloglobal:088ad3b5-4e2e-406d-b115-c4a6db6cbdf5",
@@ -333,10 +333,10 @@
       "officialPostedDate": "2026-10-08T13:36:09Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "lever_weloglobal:adbe2454-db65-48b3-8e25-82a7d735a39a",
@@ -375,10 +375,10 @@
       "officialPostedDate": "2026-10-08T13:38:38Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "lever_weloglobal:a6fa29ef-6062-4ade-9674-c061cc230104",
@@ -417,10 +417,10 @@
       "officialPostedDate": "2026-10-08T13:42:56Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "lever_weloglobal:8cb7d843-fecc-4614-b925-c5373651ddd0",
@@ -459,10 +459,10 @@
       "officialPostedDate": "2026-10-08T13:44:55Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "lever_weloglobal:00ac6822-8a23-4cad-8bd9-f92f77db51a0",
@@ -501,10 +501,10 @@
       "officialPostedDate": "2026-10-07T14:15:17Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "lever_weloglobal:82e197c4-7341-4cb6-a81f-183d77f0427a",
@@ -543,10 +543,10 @@
       "officialPostedDate": "2026-10-08T13:58:08Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "teamtailor_dataforce:745096-qa-hebrew",
@@ -583,12 +583,12 @@
       },
       "fullDescriptionHash": "e6c4f1ba0a104cbf",
       "officialPostedDate": "2026-11-24T08:48:07Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "teamtailor_dataforce",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoe5-EDcz8NJf_69EcIgl",
@@ -603,7 +603,7 @@
         "Audio / Speech"
       ],
       "location": "Remote",
-      "pay": "$50",
+      "pay": "$50 / hr",
       "date": "2026-11-18",
       "timestamp": 1795002601000,
       "excerpt": "Mercor is partnering with a leading AI research lab to build next-generation text-to-speech (TTS) systems capable of producing natural, expressive, and human-like voices. We are seeking **native or native-level Dutch...",
@@ -620,60 +620,17 @@
         "min": 50.0,
         "max": 50.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$50"
+        "unit": "hourly",
+        "raw": "$50 / hr"
       },
-      "fullDescriptionHash": "dce42f5054afc5fe",
+      "fullDescriptionHash": "a02e1e659f77392e",
       "officialPostedDate": "2026-11-18T11:50:01Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
-    },
-    {
-      "id": "web_mercor:list_AAABoeaZZ5aPp9cXNF9DVrUb",
-      "title": "AI Evaluation Rubric Auditor",
-      "company": "Mercor",
-      "logo": "https://www.google.com/s2/favicons?domain=mercor.com&sz=128",
-      "category": "Factuality & Instruction Following Assessment",
-      "eligible": "Unverified",
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "LLM Evaluation",
-        "Factuality"
-      ],
-      "location": "Remote",
-      "pay": "$60 - $85",
-      "date": "2026-11-16",
-      "timestamp": 1794870175000,
-      "excerpt": "**The work** We are testing AI agents on realistic shopping and delivery tasks. Your role as a Project Auditor is to audit the work done by our Project Reviewers. You will audit complete tasks (prompt and grading...",
-      "applyUrl": "https://work.mercor.com/jobs/list_AAABoeaZZ5aPp9cXNF9DVrUb",
-      "source": "web_mercor",
-      "sourceJobId": "list_AAABoeaZZ5aPp9cXNF9DVrUb",
-      "officialSourceUrl": "https://work.mercor.com/jobs/list_AAABoeaZZ5aPp9cXNF9DVrUb",
-      "applyUrlAvailable": true,
-      "eligibilityClass": "Unverified",
-      "eligibilityConfidence": "low",
-      "eligibilityEvidence": "Insufficient geographic eligibility evidence (Location: 'Remote'; generic remote cannot be assumed global)",
-      "requirementsEvidence": [],
-      "compensation": {
-        "min": 60.0,
-        "max": 85.0,
-        "currency": "USD",
-        "unit": null,
-        "raw": "$60 - $85"
-      },
-      "fullDescriptionHash": "549d17632e9213c0",
-      "officialPostedDate": "2026-11-16T23:02:55Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
-      "jobStatus": "NEW",
-      "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodVEHAaAjmbH4iJCT7ME",
@@ -690,7 +647,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794579373000,
       "excerpt": "Mercor is seeking experienced Swahili Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model...",
@@ -709,17 +666,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "ff177e598e7b0991",
+      "fullDescriptionHash": "e23406b20007a892",
       "officialPostedDate": "2026-11-13T14:16:13Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodVEEpvBK3U18ZJKUJnY",
@@ -736,7 +693,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794579370000,
       "excerpt": "Mercor is seeking experienced Greek Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM)...",
@@ -755,17 +712,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "4df2c91e81339d38",
+      "fullDescriptionHash": "3cd404e3da7edd97",
       "officialPostedDate": "2026-11-13T14:16:10Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodVECUWPNE5aVVdB9IT1",
@@ -782,7 +739,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794579368000,
       "excerpt": "Mercor is seeking experienced Hebrew Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM)...",
@@ -801,17 +758,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "0ac9fe0f37707ffc",
+      "fullDescriptionHash": "81a24af7f57d258d",
       "officialPostedDate": "2026-11-13T14:16:08Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodVD_1Rtf7wdQGZF0524",
@@ -828,7 +785,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794579365000,
       "excerpt": "Mercor is seeking experienced Thai Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM)...",
@@ -847,17 +804,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "448d5d2ce1c84e57",
+      "fullDescriptionHash": "3b786e8b3c16d7c2",
       "officialPostedDate": "2026-11-13T14:16:05Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodVD7VTLrW6oW65Cdby6",
@@ -875,7 +832,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794579361000,
       "excerpt": "Mercor is seeking experienced Indonesian Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model...",
@@ -894,17 +851,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "7a4ba659ea5fe8ab",
+      "fullDescriptionHash": "c7f4ab4c8aa24e73",
       "officialPostedDate": "2026-11-13T14:16:01Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodVD4ylYia6TeD5NjKGR",
@@ -921,7 +878,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794579358000,
       "excerpt": "Mercor is seeking experienced Bangla Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM)...",
@@ -940,17 +897,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "9dd8397e3ca14e7a",
+      "fullDescriptionHash": "3f110d9721c8844a",
       "officialPostedDate": "2026-11-13T14:15:58Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodVD2hPOOQf0SUFLxLbm",
@@ -967,7 +924,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794579356000,
       "excerpt": "Mercor is seeking experienced Hindi Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM)...",
@@ -986,17 +943,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "e2a3ea563852c605",
+      "fullDescriptionHash": "da07be895bee21cf",
       "officialPostedDate": "2026-11-13T14:15:56Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodVD0LKRYKowg_9PYaoR",
@@ -1013,7 +970,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794579353000,
       "excerpt": "Mercor is seeking experienced Arabic Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM)...",
@@ -1032,17 +989,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "19452183e0ad5a70",
+      "fullDescriptionHash": "460655707f60ce85",
       "officialPostedDate": "2026-11-13T14:15:53Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodVDxV3haXmB00BKN57Y",
@@ -1059,7 +1016,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794579350000,
       "excerpt": "Mercor is seeking experienced Traditional Chinese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large...",
@@ -1078,17 +1035,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "f25eae2127d466e8",
+      "fullDescriptionHash": "d4e92083dc7a3e79",
       "officialPostedDate": "2026-11-13T14:15:50Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodVCsxPi5PkD6epA9KrD",
@@ -1105,7 +1062,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794579280000,
       "excerpt": "Mercor is seeking experienced Simplified Chinese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language...",
@@ -1124,17 +1081,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "77b6f966a46f8d8e",
+      "fullDescriptionHash": "16ec164815b1e333",
       "officialPostedDate": "2026-11-13T14:14:40Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodVCqTI3CAevx5dBo4bW",
@@ -1151,7 +1108,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794579278000,
       "excerpt": "Mercor is seeking experienced Korean Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM)...",
@@ -1170,17 +1127,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "1300488de672e021",
+      "fullDescriptionHash": "fefe2f57ea8f887e",
       "officialPostedDate": "2026-11-13T14:14:38Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodVCn2A5i2_yVKRLW7FI",
@@ -1197,7 +1154,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794579275000,
       "excerpt": "Mercor is seeking experienced Latin American Spanish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large...",
@@ -1216,17 +1173,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "12a800c14b4b8f6d",
+      "fullDescriptionHash": "d098db7727034e60",
       "officialPostedDate": "2026-11-13T14:14:35Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodVCln0c9qn2KKVDmoAr",
@@ -1243,7 +1200,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794579273000,
       "excerpt": "Mercor is seeking experienced Spanish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model...",
@@ -1262,17 +1219,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "38b05dbed80410c9",
+      "fullDescriptionHash": "de411afadec246ef",
       "officialPostedDate": "2026-11-13T14:14:33Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodVCjW1hRgHyHERIxZxS",
@@ -1289,7 +1246,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794579271000,
       "excerpt": "Mercor is seeking experienced Polish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM)...",
@@ -1308,17 +1265,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "42f729a888308486",
+      "fullDescriptionHash": "b2fab769729cedc7",
       "officialPostedDate": "2026-11-13T14:14:31Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodVCg8d6cjN1PjFA6o09",
@@ -1335,7 +1292,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794579268000,
       "excerpt": "Mercor is seeking experienced Brazilian Portuguese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large...",
@@ -1354,17 +1311,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "6426a3c56086ab50",
+      "fullDescriptionHash": "d1a2f3f40b8081b2",
       "officialPostedDate": "2026-11-13T14:14:28Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodVCeXSx1dxnKUJOpZXt",
@@ -1381,7 +1338,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794579265000,
       "excerpt": "Mercor is seeking experienced European Portuguese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large...",
@@ -1400,17 +1357,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "0321a3202f041a56",
+      "fullDescriptionHash": "a6a78abe197c450f",
       "officialPostedDate": "2026-11-13T14:14:25Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodVBTumB5opNDqxN8JHI",
@@ -1427,7 +1384,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794579189000,
       "excerpt": "Mercor is seeking experienced Mexican Spanish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language...",
@@ -1446,17 +1403,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "dbcdcea165a1fd5b",
+      "fullDescriptionHash": "e30e25ed6e9accbe",
       "officialPostedDate": "2026-11-13T14:13:09Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodU_dU4UcjK3q85GOoYT",
@@ -1473,7 +1430,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794579068000,
       "excerpt": "Mercor is seeking experienced German Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM)...",
@@ -1492,17 +1449,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "c2aec03a0f734bbb",
+      "fullDescriptionHash": "fe5df08688834183",
       "officialPostedDate": "2026-11-13T14:11:08Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodU_StwmvCOcOiBPvrtV",
@@ -1519,7 +1476,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794579057000,
       "excerpt": "Mercor is seeking experienced Canadian English Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language...",
@@ -1538,17 +1495,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "c58df65af76866c6",
+      "fullDescriptionHash": "1bdc91c540713c50",
       "officialPostedDate": "2026-11-13T14:10:57Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodU_MnCKJjLcP6BGGIxU",
@@ -1565,7 +1522,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794579051000,
       "excerpt": "Mercor is seeking experienced Australian English Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language...",
@@ -1584,17 +1541,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "1ad1dd0a5e9fa532",
+      "fullDescriptionHash": "f0340b2dd0d6f0e9",
       "officialPostedDate": "2026-11-13T14:10:51Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodU_GsvB95piXJZKNrs0",
@@ -1611,7 +1568,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794579045000,
       "excerpt": "Mercor is seeking experienced British English Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language...",
@@ -1630,17 +1587,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "11a1721e3cb7aa31",
+      "fullDescriptionHash": "bbeedc2fa0aaca17",
       "officialPostedDate": "2026-11-13T14:10:45Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodU_Be96xZEg1PVFm7KS",
@@ -1657,7 +1614,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794579039000,
       "excerpt": "Mercor is seeking experienced Ukrainian Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model...",
@@ -1676,17 +1633,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "d34279ef945767be",
+      "fullDescriptionHash": "d7bc9e97461aef1d",
       "officialPostedDate": "2026-11-13T14:10:39Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodU-8Ke1nyWj4KxMz5K3",
@@ -1703,7 +1660,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794579034000,
       "excerpt": "Mercor is seeking experienced Turkish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model...",
@@ -1722,17 +1679,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "7f7a3f62bc3c1b6e",
+      "fullDescriptionHash": "e470e07bc34c7e65",
       "officialPostedDate": "2026-11-13T14:10:34Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodU-1biYNoQyWeFElIoT",
@@ -1749,7 +1706,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794579027000,
       "excerpt": "Mercor is seeking experienced Vietnamese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model...",
@@ -1768,17 +1725,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "85829990c6e00ee5",
+      "fullDescriptionHash": "dbf8402c2c496396",
       "officialPostedDate": "2026-11-13T14:10:27Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodU-t4hVp4a2yJtED511",
@@ -1795,7 +1752,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794579019000,
       "excerpt": "Mercor is seeking experienced Russian Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model...",
@@ -1814,17 +1771,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "5d5a9981807a2fe4",
+      "fullDescriptionHash": "714e90460d2e0081",
       "officialPostedDate": "2026-11-13T14:10:19Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodU8ZHuloRr86KlFd5ib",
@@ -1841,7 +1798,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794578867000,
       "excerpt": "Mercor is seeking experienced Romanian Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model...",
@@ -1860,17 +1817,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "6bc02574d6a45fb4",
+      "fullDescriptionHash": "1a3f1bf2fdeda5ba",
       "officialPostedDate": "2026-11-13T14:07:47Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodU8SN2oa8G_OfpEuosC",
@@ -1887,7 +1844,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794578860000,
       "excerpt": "Mercor is seeking experienced Finnish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model...",
@@ -1906,17 +1863,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "da82c1eeb840618c",
+      "fullDescriptionHash": "0a2bbc7e04998284",
       "officialPostedDate": "2026-11-13T14:07:40Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodU8NQFNS31S3tlDo75x",
@@ -1933,7 +1890,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794578855000,
       "excerpt": "Mercor is seeking experienced Dutch Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM)...",
@@ -1952,17 +1909,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "14e047d498765b2b",
+      "fullDescriptionHash": "5fad8a777a8cdcb0",
       "officialPostedDate": "2026-11-13T14:07:35Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodU8IymE5oUMp2xHPIyW",
@@ -1979,7 +1936,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794578850000,
       "excerpt": "Mercor is seeking experienced Danish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM)...",
@@ -1998,17 +1955,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "1456d2d7f9750206",
+      "fullDescriptionHash": "e2df5a0b9027ca2b",
       "officialPostedDate": "2026-11-13T14:07:30Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodU7_yqvwSmNHe5NL53S",
@@ -2025,7 +1982,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794578841000,
       "excerpt": "Mercor is seeking experienced Czech Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM)...",
@@ -2044,17 +2001,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "b4ec347466190ce1",
+      "fullDescriptionHash": "7157ffd9a3c5fe24",
       "officialPostedDate": "2026-11-13T14:07:21Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodU725g6W3m1meZGZajk",
@@ -2071,7 +2028,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794578832000,
       "excerpt": "Mercor is seeking experienced Armenian Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model...",
@@ -2090,17 +2047,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "60fe111f1251a312",
+      "fullDescriptionHash": "fbdc1e2dc03d4f3e",
       "officialPostedDate": "2026-11-13T14:07:12Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodU7yrShFAvmm3ZIg6rN",
@@ -2117,7 +2074,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794578827000,
       "excerpt": "Mercor is seeking experienced Japanese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model...",
@@ -2136,17 +2093,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "78ef1231f027eec7",
+      "fullDescriptionHash": "3ae4a6e1da43f36e",
       "officialPostedDate": "2026-11-13T14:07:07Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodU7tQE6GRaVyuVOg43o",
@@ -2163,7 +2120,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794578822000,
       "excerpt": "Mercor is seeking experienced Italian Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model...",
@@ -2182,17 +2139,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "d0948b620ec48c46",
+      "fullDescriptionHash": "f7c2668f92e53a7d",
       "officialPostedDate": "2026-11-13T14:07:02Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABodU7lw8bP6UCpLRNx5DM",
@@ -2209,7 +2166,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$40",
+      "pay": "$40 / hr",
       "date": "2026-11-13",
       "timestamp": 1794578814000,
       "excerpt": "Mercor is seeking experienced French Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM)...",
@@ -2228,59 +2185,17 @@
         "min": 40.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40"
+        "unit": "hourly",
+        "raw": "$40 / hr"
       },
-      "fullDescriptionHash": "5f2d573d45b4f72f",
+      "fullDescriptionHash": "56d087c94a1f423d",
       "officialPostedDate": "2026-11-13T14:06:54Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
-    },
-    {
-      "id": "web_mercor:list_AAABoZQFI1_FwyFlEzJGgZW-",
-      "title": "US Patent Attorney — Prosecution & Litigation",
-      "company": "Mercor",
-      "logo": "https://www.google.com/s2/favicons?domain=mercor.com&sz=128",
-      "category": "AI Tutor / AI Trainer",
-      "eligible": "Unverified",
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Data Annotation"
-      ],
-      "location": "Remote",
-      "pay": "$180",
-      "date": "2026-10-31",
-      "timestamp": 1793484727000,
-      "excerpt": "**About the Role** Mercor is partnering with a leading AI lab to train frontier models on high-quality legal reasoning data. We're hiring US patent attorneys with prosecution and/or litigation experience for a focused...",
-      "applyUrl": "https://work.mercor.com/jobs/list_AAABoZQFI1_FwyFlEzJGgZW-",
-      "source": "web_mercor",
-      "sourceJobId": "list_AAABoZQFI1_FwyFlEzJGgZW-",
-      "officialSourceUrl": "https://work.mercor.com/jobs/list_AAABoZQFI1_FwyFlEzJGgZW-",
-      "applyUrlAvailable": true,
-      "eligibilityClass": "Unverified",
-      "eligibilityConfidence": "low",
-      "eligibilityEvidence": "Insufficient geographic eligibility evidence (Location: 'Remote'; generic remote cannot be assumed global)",
-      "requirementsEvidence": [],
-      "compensation": {
-        "min": 180.0,
-        "max": 180.0,
-        "currency": "USD",
-        "unit": null,
-        "raw": "$180"
-      },
-      "fullDescriptionHash": "e8dfcc46f4e1e318",
-      "officialPostedDate": "2026-10-31T22:12:07Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
-      "jobStatus": "NEW",
-      "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoXlzElsOghL6D6NMkrR1",
@@ -2297,7 +2212,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$30",
+      "pay": "$30 / hr",
       "date": "2026-10-26",
       "timestamp": 1793038947000,
       "excerpt": "Mercor is seeking experienced Vietnamese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model...",
@@ -2316,17 +2231,17 @@
         "min": 30.0,
         "max": 30.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$30"
+        "unit": "hourly",
+        "raw": "$30 / hr"
       },
-      "fullDescriptionHash": "b40a95dce1e9f0ee",
+      "fullDescriptionHash": "387fa4738631f069",
       "officialPostedDate": "2026-10-26T18:22:27Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoXlzADizwRyyDutBMpdx",
@@ -2344,7 +2259,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$30",
+      "pay": "$30 / hr",
       "date": "2026-10-26",
       "timestamp": 1793038942000,
       "excerpt": "Mercor is seeking experienced Indonesian Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model...",
@@ -2363,17 +2278,17 @@
         "min": 30.0,
         "max": 30.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$30"
+        "unit": "hourly",
+        "raw": "$30 / hr"
       },
-      "fullDescriptionHash": "4e7d99803af34269",
+      "fullDescriptionHash": "74e60d957ad4ea76",
       "officialPostedDate": "2026-10-26T18:22:22Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoXly0nwFAwR_xQRKWZqJ",
@@ -2390,7 +2305,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$30",
+      "pay": "$30 / hr",
       "date": "2026-10-26",
       "timestamp": 1793038931000,
       "excerpt": "Mercor is seeking experienced Malay Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM)...",
@@ -2409,17 +2324,17 @@
         "min": 30.0,
         "max": 30.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$30"
+        "unit": "hourly",
+        "raw": "$30 / hr"
       },
-      "fullDescriptionHash": "0d4c233cfdf39541",
+      "fullDescriptionHash": "bd4c3a04d94aea03",
       "officialPostedDate": "2026-10-26T18:22:11Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoXlytUOfloSDF6JPw4yP",
@@ -2436,7 +2351,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$50",
+      "pay": "$50 / hr",
       "date": "2026-10-26",
       "timestamp": 1793038923000,
       "excerpt": "Mercor is seeking experienced Japanese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model...",
@@ -2455,17 +2370,17 @@
         "min": 50.0,
         "max": 50.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$50"
+        "unit": "hourly",
+        "raw": "$50 / hr"
       },
-      "fullDescriptionHash": "2ae06eb4d8b20caa",
+      "fullDescriptionHash": "71dc3f194c09f050",
       "officialPostedDate": "2026-10-26T18:22:03Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoXlygrOU-ta0mvZC0qz9",
@@ -2482,7 +2397,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$50",
+      "pay": "$50 / hr",
       "date": "2026-10-26",
       "timestamp": 1793038910000,
       "excerpt": "Mercor is seeking experienced Chinese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model...",
@@ -2501,17 +2416,17 @@
         "min": 50.0,
         "max": 50.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$50"
+        "unit": "hourly",
+        "raw": "$50 / hr"
       },
-      "fullDescriptionHash": "20c92f7c74c1bac6",
+      "fullDescriptionHash": "dbffaa40e679be50",
       "officialPostedDate": "2026-10-26T18:21:50Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoXlycrggl4K-OZNMvars",
@@ -2528,7 +2443,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$30",
+      "pay": "$30 / hr",
       "date": "2026-10-26",
       "timestamp": 1793038906000,
       "excerpt": "Mercor is seeking experienced Telugu Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM)...",
@@ -2547,17 +2462,17 @@
         "min": 30.0,
         "max": 30.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$30"
+        "unit": "hourly",
+        "raw": "$30 / hr"
       },
-      "fullDescriptionHash": "7e5214592f8d6828",
+      "fullDescriptionHash": "0640b913a17c0d20",
       "officialPostedDate": "2026-10-26T18:21:46Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoXlyYOQK6mM0D4FG05Qu",
@@ -2574,7 +2489,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$30",
+      "pay": "$30 / hr",
       "date": "2026-10-26",
       "timestamp": 1793038901000,
       "excerpt": "Mercor is seeking experienced Hindi Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM)...",
@@ -2593,17 +2508,17 @@
         "min": 30.0,
         "max": 30.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$30"
+        "unit": "hourly",
+        "raw": "$30 / hr"
       },
-      "fullDescriptionHash": "230ab394f8969812",
+      "fullDescriptionHash": "2b47ef424ea71e39",
       "officialPostedDate": "2026-10-26T18:21:41Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoXlyRHc9GXoJIl5D2ZLc",
@@ -2620,7 +2535,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$50",
+      "pay": "$50 / hr",
       "date": "2026-10-26",
       "timestamp": 1793038894000,
       "excerpt": "Mercor is seeking experienced Arabic Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM)...",
@@ -2639,17 +2554,17 @@
         "min": 50.0,
         "max": 50.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$50"
+        "unit": "hourly",
+        "raw": "$50 / hr"
       },
-      "fullDescriptionHash": "d2e1ab7c5cf8ecc3",
+      "fullDescriptionHash": "3490ac810b73065f",
       "officialPostedDate": "2026-10-26T18:21:34Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoXlyK9PwfCExhuBHMY1G",
@@ -2666,7 +2581,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$50",
+      "pay": "$50 / hr",
       "date": "2026-10-26",
       "timestamp": 1793038888000,
       "excerpt": "Mercor is seeking experienced Turkish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model...",
@@ -2685,17 +2600,17 @@
         "min": 50.0,
         "max": 50.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$50"
+        "unit": "hourly",
+        "raw": "$50 / hr"
       },
-      "fullDescriptionHash": "65464391ddad8da2",
+      "fullDescriptionHash": "7a077cd0f9d9c76b",
       "officialPostedDate": "2026-10-26T18:21:28Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoXlxmGVod2040vVGaYCZ",
@@ -2712,7 +2627,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$50",
+      "pay": "$50 / hr",
       "date": "2026-10-26",
       "timestamp": 1793038850000,
       "excerpt": "Mercor is seeking experienced Russian Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model...",
@@ -2731,17 +2646,17 @@
         "min": 50.0,
         "max": 50.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$50"
+        "unit": "hourly",
+        "raw": "$50 / hr"
       },
-      "fullDescriptionHash": "0e9971cf7278f620",
+      "fullDescriptionHash": "b55f4974c754c3a3",
       "officialPostedDate": "2026-10-26T18:20:50Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoXlxes1TY58ozMJMQpjn",
@@ -2758,7 +2673,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$50",
+      "pay": "$50 / hr",
       "date": "2026-10-26",
       "timestamp": 1793038843000,
       "excerpt": "Mercor is seeking experienced German Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM)...",
@@ -2777,17 +2692,17 @@
         "min": 50.0,
         "max": 50.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$50"
+        "unit": "hourly",
+        "raw": "$50 / hr"
       },
-      "fullDescriptionHash": "1e33185f0625ef84",
+      "fullDescriptionHash": "dc6885d58fa9eb62",
       "officialPostedDate": "2026-10-26T18:20:43Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoXlxYDftYp_n8FROgpw8",
@@ -2804,7 +2719,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$50",
+      "pay": "$50 / hr",
       "date": "2026-10-26",
       "timestamp": 1793038836000,
       "excerpt": "Mercor is seeking experienced Portuguese Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model...",
@@ -2823,17 +2738,17 @@
         "min": 50.0,
         "max": 50.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$50"
+        "unit": "hourly",
+        "raw": "$50 / hr"
       },
-      "fullDescriptionHash": "8090fc2c68109d30",
+      "fullDescriptionHash": "38c964844e9055e5",
       "officialPostedDate": "2026-10-26T18:20:36Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoXlxQ1_U0AdHynRKwpJ2",
@@ -2850,7 +2765,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$50",
+      "pay": "$50 / hr",
       "date": "2026-10-26",
       "timestamp": 1793038828000,
       "excerpt": "Mercor is seeking experienced Spanish Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model...",
@@ -2869,17 +2784,17 @@
         "min": 50.0,
         "max": 50.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$50"
+        "unit": "hourly",
+        "raw": "$50 / hr"
       },
-      "fullDescriptionHash": "c52ede7bd35f6c8a",
+      "fullDescriptionHash": "3a645b5a4b4ea3b8",
       "officialPostedDate": "2026-10-26T18:20:28Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoXlxJUZCaSZmMttJ6IMb",
@@ -2896,7 +2811,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$50",
+      "pay": "$50 / hr",
       "date": "2026-10-26",
       "timestamp": 1793038821000,
       "excerpt": "Mercor is seeking experienced English Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model...",
@@ -2915,17 +2830,17 @@
         "min": 50.0,
         "max": 50.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$50"
+        "unit": "hourly",
+        "raw": "$50 / hr"
       },
-      "fullDescriptionHash": "20ddd1a288330cf8",
+      "fullDescriptionHash": "35eb3c26b7aa8bf0",
       "officialPostedDate": "2026-10-26T18:20:21Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoXlvyUH1tzlT-IpJg6wm",
@@ -2942,7 +2857,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$50",
+      "pay": "$50 / hr",
       "date": "2026-10-26",
       "timestamp": 1793038732000,
       "excerpt": "Mercor is seeking experienced French Linguistic Experts to join a cutting-edge AI research project in partnership with a leading research lab. This role centers on evaluating how effectively a large language model (LLM)...",
@@ -2961,191 +2876,17 @@
         "min": 50.0,
         "max": 50.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$50"
+        "unit": "hourly",
+        "raw": "$50 / hr"
       },
-      "fullDescriptionHash": "ea78bd44b226ab8d",
+      "fullDescriptionHash": "ce1380564e0224f3",
       "officialPostedDate": "2026-10-26T18:18:52Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
-    },
-    {
-      "id": "web_mercor:list_AAABoWoZmUZ_SLUqJNtCkJsp",
-      "title": "US Contract Attorney — Litigation",
-      "company": "Mercor",
-      "logo": "https://www.google.com/s2/favicons?domain=mercor.com&sz=128",
-      "category": "Preference Ranking / Side-by-Side Evaluation",
-      "eligible": "Unverified",
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "RLHF",
-        "Data Annotation",
-        "Prompt Writing"
-      ],
-      "location": "Remote",
-      "pay": "$100 - $120",
-      "date": "2026-10-23",
-      "timestamp": 1792781425000,
-      "excerpt": "**About the Role** Mercor is partnering with a leading AI lab to train frontier models on high-quality legal reasoning data. This is an **evergreen talent pool** for experienced **US Litigation attorneys** — by...",
-      "applyUrl": "https://work.mercor.com/jobs/list_AAABoWoZmUZ_SLUqJNtCkJsp",
-      "source": "web_mercor",
-      "sourceJobId": "list_AAABoWoZmUZ_SLUqJNtCkJsp",
-      "officialSourceUrl": "https://work.mercor.com/jobs/list_AAABoWoZmUZ_SLUqJNtCkJsp",
-      "applyUrlAvailable": true,
-      "eligibilityClass": "Unverified",
-      "eligibilityConfidence": "low",
-      "eligibilityEvidence": "Insufficient geographic eligibility evidence (Location: 'Remote'; generic remote cannot be assumed global)",
-      "requirementsEvidence": [],
-      "compensation": {
-        "min": 100.0,
-        "max": 120.0,
-        "currency": "USD",
-        "unit": null,
-        "raw": "$100 - $120"
-      },
-      "fullDescriptionHash": "93ffa1063d46d187",
-      "officialPostedDate": "2026-10-23T18:50:25Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
-      "jobStatus": "NEW",
-      "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
-    },
-    {
-      "id": "web_mercor:list_AAABoWoHuWaDFZD8pR9DzbZ7",
-      "title": "US Contract Attorney — In-House Counsel",
-      "company": "Mercor",
-      "logo": "https://www.google.com/s2/favicons?domain=mercor.com&sz=128",
-      "category": "Preference Ranking / Side-by-Side Evaluation",
-      "eligible": "Unverified",
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "RLHF",
-        "Data Annotation",
-        "Prompt Writing"
-      ],
-      "location": "Remote",
-      "pay": "$100 - $120",
-      "date": "2026-10-23",
-      "timestamp": 1792780254000,
-      "excerpt": "**About the Role** Mercor is partnering with a leading AI lab to train frontier models on high-quality legal reasoning data. This is an **evergreen talent pool** for experienced **US In-House Counsel** — by applying,...",
-      "applyUrl": "https://work.mercor.com/jobs/list_AAABoWoHuWaDFZD8pR9DzbZ7",
-      "source": "web_mercor",
-      "sourceJobId": "list_AAABoWoHuWaDFZD8pR9DzbZ7",
-      "officialSourceUrl": "https://work.mercor.com/jobs/list_AAABoWoHuWaDFZD8pR9DzbZ7",
-      "applyUrlAvailable": true,
-      "eligibilityClass": "Unverified",
-      "eligibilityConfidence": "low",
-      "eligibilityEvidence": "Insufficient geographic eligibility evidence (Location: 'Remote'; generic remote cannot be assumed global)",
-      "requirementsEvidence": [],
-      "compensation": {
-        "min": 100.0,
-        "max": 120.0,
-        "currency": "USD",
-        "unit": null,
-        "raw": "$100 - $120"
-      },
-      "fullDescriptionHash": "760dcd77db7eefb4",
-      "officialPostedDate": "2026-10-23T18:30:54Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
-      "jobStatus": "NEW",
-      "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
-    },
-    {
-      "id": "web_mercor:list_AAABoWoHm--lhpCWq05MdZXj",
-      "title": "US Contract Attorney — Transactional",
-      "company": "Mercor",
-      "logo": "https://www.google.com/s2/favicons?domain=mercor.com&sz=128",
-      "category": "Preference Ranking / Side-by-Side Evaluation",
-      "eligible": "Unverified",
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "RLHF",
-        "Data Annotation",
-        "Prompt Writing"
-      ],
-      "location": "Remote",
-      "pay": "$100 - $120",
-      "date": "2026-10-23",
-      "timestamp": 1792780246000,
-      "excerpt": "**About the Role** Mercor is partnering with a leading AI lab to train frontier models on high-quality legal reasoning data. This is an **evergreen talent pool** for experienced **US Transactional attorneys** — by...",
-      "applyUrl": "https://work.mercor.com/jobs/list_AAABoWoHm--lhpCWq05MdZXj",
-      "source": "web_mercor",
-      "sourceJobId": "list_AAABoWoHm--lhpCWq05MdZXj",
-      "officialSourceUrl": "https://work.mercor.com/jobs/list_AAABoWoHm--lhpCWq05MdZXj",
-      "applyUrlAvailable": true,
-      "eligibilityClass": "Unverified",
-      "eligibilityConfidence": "low",
-      "eligibilityEvidence": "Insufficient geographic eligibility evidence (Location: 'Remote'; generic remote cannot be assumed global)",
-      "requirementsEvidence": [],
-      "compensation": {
-        "min": 100.0,
-        "max": 120.0,
-        "currency": "USD",
-        "unit": null,
-        "raw": "$100 - $120"
-      },
-      "fullDescriptionHash": "632cef0733f1a6b5",
-      "officialPostedDate": "2026-10-23T18:30:46Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
-      "jobStatus": "NEW",
-      "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
-    },
-    {
-      "id": "web_mercor:list_AAABoWoHfr1BOfMq7LtFPbpS",
-      "title": "US Contract Attorney — Federal Litigation",
-      "company": "Mercor",
-      "logo": "https://www.google.com/s2/favicons?domain=mercor.com&sz=128",
-      "category": "AI Tutor / AI Trainer",
-      "eligible": "Unverified",
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Data Annotation"
-      ],
-      "location": "Remote",
-      "pay": "$110 - $125",
-      "date": "2026-10-23",
-      "timestamp": 1792780239000,
-      "excerpt": "**About the Role** Mercor is partnering with a leading AI lab to train frontier models on high-quality legal reasoning data. We're hiring US litigators with federal court experience for a focused motion-brief evaluation...",
-      "applyUrl": "https://work.mercor.com/jobs/list_AAABoWoHfr1BOfMq7LtFPbpS",
-      "source": "web_mercor",
-      "sourceJobId": "list_AAABoWoHfr1BOfMq7LtFPbpS",
-      "officialSourceUrl": "https://work.mercor.com/jobs/list_AAABoWoHfr1BOfMq7LtFPbpS",
-      "applyUrlAvailable": true,
-      "eligibilityClass": "Unverified",
-      "eligibilityConfidence": "low",
-      "eligibilityEvidence": "Insufficient geographic eligibility evidence (Location: 'Remote'; generic remote cannot be assumed global)",
-      "requirementsEvidence": [],
-      "compensation": {
-        "min": 110.0,
-        "max": 125.0,
-        "currency": "USD",
-        "unit": null,
-        "raw": "$110 - $125"
-      },
-      "fullDescriptionHash": "6cde129638f5293f",
-      "officialPostedDate": "2026-10-23T18:30:39Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
-      "jobStatus": "NEW",
-      "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoUYJgC6FFGQLBmRFJZvf",
@@ -3162,7 +2903,7 @@
         "Prompt Writing"
       ],
       "location": "Remote",
-      "pay": "$70 - $100",
+      "pay": "$70 - $100 / hr",
       "date": "2026-10-16",
       "timestamp": 1792176390000,
       "excerpt": "**Join a leading AI lab's cutting-edge research team to be at the core of the AI revolution, where your expertise fuels the development of the most advanced AI models.** # 1\\. Overview Join a leading AI lab's...",
@@ -3179,17 +2920,17 @@
         "min": 70.0,
         "max": 100.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$70 - $100"
+        "unit": "hourly",
+        "raw": "$70 - $100 / hr"
       },
-      "fullDescriptionHash": "411ed81483418460",
+      "fullDescriptionHash": "c3dafea8a8393270",
       "officialPostedDate": "2026-10-16T18:46:30Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoTSnXon2NKOaCWVFA6I-",
@@ -3205,7 +2946,7 @@
         "Data Annotation"
       ],
       "location": "Remote",
-      "pay": "$20 - $30",
+      "pay": "$20 - $30 / hr",
       "date": "2026-10-13",
       "timestamp": 1791884746000,
       "excerpt": "**Overview** We're looking for audio engineers with strong experience editing and quality-checking **voice recordings for speech and text-to-speech (TTS) applications**, specifically for **Brazilian Portuguese-language...",
@@ -3222,17 +2963,17 @@
         "min": 20.0,
         "max": 30.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$20 - $30"
+        "unit": "hourly",
+        "raw": "$20 - $30 / hr"
       },
-      "fullDescriptionHash": "afbf4c7ba60a3de7",
+      "fullDescriptionHash": "c1ea85e86a773c0d",
       "officialPostedDate": "2026-10-13T09:45:46Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoKORCF2dakrez4FCAo_G",
@@ -3248,7 +2989,7 @@
         "Prompt Writing"
       ],
       "location": "Remote",
-      "pay": "$40 - $70",
+      "pay": "$40 - $70 / hr",
       "date": "2026-09-15",
       "timestamp": 1789450586000,
       "excerpt": "The research teams behind the best-known AI models come to Mercor for careful human judgment they can't generate on their own. Your standards and attention become the rubric that frontier AI is graded against. This is a...",
@@ -3265,17 +3006,17 @@
         "min": 40.0,
         "max": 70.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$40 - $70"
+        "unit": "hourly",
+        "raw": "$40 - $70 / hr"
       },
-      "fullDescriptionHash": "3c7dbff117534bf6",
+      "fullDescriptionHash": "3efb7fc1327336ee",
       "officialPostedDate": "2026-09-15T05:36:26Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoKOPjbVqcleYq1NNjKxo",
@@ -3290,7 +3031,7 @@
         "Factuality"
       ],
       "location": "Remote",
-      "pay": "$60 - $180",
+      "pay": "$60 - $180 / hr",
       "date": "2026-09-15",
       "timestamp": 1789450489000,
       "excerpt": "The research teams behind the best-known AI models come to Mercor for medical judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a...",
@@ -3307,17 +3048,17 @@
         "min": 60.0,
         "max": 180.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$60 - $180"
+        "unit": "hourly",
+        "raw": "$60 - $180 / hr"
       },
-      "fullDescriptionHash": "e839f3574bad2ffe",
+      "fullDescriptionHash": "d479a493ca06b807",
       "officialPostedDate": "2026-09-15T05:34:49Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoKOPMUFnRCU8QMZBH634",
@@ -3335,7 +3076,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote",
-      "pay": "$35 - $50",
+      "pay": "$35 - $50 / hr",
       "date": "2026-09-15",
       "timestamp": 1789450465000,
       "excerpt": "The research teams behind the best-known AI models come to Mercor for language and audio judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This...",
@@ -3352,17 +3093,17 @@
         "min": 35.0,
         "max": 50.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$35 - $50"
+        "unit": "hourly",
+        "raw": "$35 - $50 / hr"
       },
-      "fullDescriptionHash": "3d6f6ce6a9019d4a",
+      "fullDescriptionHash": "b7fb9a6154623ec4",
       "officialPostedDate": "2026-09-15T05:34:25Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoKMig9vns0-qeYBLhoVI",
@@ -3377,7 +3118,7 @@
         "Factuality"
       ],
       "location": "Remote",
-      "pay": "$115 - $150",
+      "pay": "$115 - $150 / hr",
       "date": "2026-09-15",
       "timestamp": 1789443343000,
       "excerpt": "The research teams behind the best-known AI models come to Mercor for clinical judgment they can't generate on their own. Your standards and expertise become the rubric that frontier AI is graded against. This is a...",
@@ -3394,17 +3135,17 @@
         "min": 115.0,
         "max": 150.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$115 - $150"
+        "unit": "hourly",
+        "raw": "$115 - $150 / hr"
       },
-      "fullDescriptionHash": "f66a9e8e46ed67ad",
+      "fullDescriptionHash": "03c446943531a8b0",
       "officialPostedDate": "2026-09-15T03:35:43Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoJgvqc1gDoK02dZJpq-m",
@@ -3420,7 +3161,7 @@
         "Multimodal / Video"
       ],
       "location": "Remote",
-      "pay": "$60 - $70",
+      "pay": "$60 - $70 / hr",
       "date": "2026-09-13",
       "timestamp": 1789259655000,
       "excerpt": "# **Overview** We're looking for professionals with hands-on, real-world experience in specialized applications. ## Application Expertise and Access You must already be running **Linux Ubuntu 24.04** as your own...",
@@ -3437,17 +3178,17 @@
         "min": 60.0,
         "max": 70.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$60 - $70"
+        "unit": "hourly",
+        "raw": "$60 - $70 / hr"
       },
-      "fullDescriptionHash": "9e7c24dd50e4defd",
+      "fullDescriptionHash": "5e4d07c54824c229",
       "officialPostedDate": "2026-09-13T00:34:15Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoJgvmGStTJPb_JFMXJv8",
@@ -3463,7 +3204,7 @@
         "Multimodal / Video"
       ],
       "location": "Remote",
-      "pay": "$60 - $70",
+      "pay": "$60 - $70 / hr",
       "date": "2026-09-13",
       "timestamp": 1789259651000,
       "excerpt": "# **Overview** We're looking for professionals with hands-on, real-world experience in specialized applications. ## Application Expertise and Access You must already be running **macOS Sonoma 14.5** as your own...",
@@ -3480,17 +3221,17 @@
         "min": 60.0,
         "max": 70.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$60 - $70"
+        "unit": "hourly",
+        "raw": "$60 - $70 / hr"
       },
-      "fullDescriptionHash": "a7b73b0b43549f39",
+      "fullDescriptionHash": "79eb77bc5611bb17",
       "officialPostedDate": "2026-09-13T00:34:11Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoJgviY0u8KpFgcdNPJ9_",
@@ -3506,7 +3247,7 @@
         "Multimodal / Video"
       ],
       "location": "Remote",
-      "pay": "$60 - $70",
+      "pay": "$60 - $70 / hr",
       "date": "2026-09-13",
       "timestamp": 1789259647000,
       "excerpt": "# **Overview** We're looking for professionals with hands-on, real-world experience in specialized applications. ## Application Expertise and Access You must already be running **Windows 11 Professional** as your own...",
@@ -3523,17 +3264,17 @@
         "min": 60.0,
         "max": 70.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$60 - $70"
+        "unit": "hourly",
+        "raw": "$60 - $70 / hr"
       },
-      "fullDescriptionHash": "dd644814f334d579",
+      "fullDescriptionHash": "07f873b7eb552170",
       "officialPostedDate": "2026-09-13T00:34:07Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoJgvejt9L0cNECdNWbCo",
@@ -3549,7 +3290,7 @@
         "Multimodal / Video"
       ],
       "location": "Remote",
-      "pay": "$60 - $70",
+      "pay": "$60 - $70 / hr",
       "date": "2026-09-13",
       "timestamp": 1789259643000,
       "excerpt": "# **Overview** We're looking for professionals with hands-on, real-world experience in specialized applications. ## Application Expertise and Access You must already have **Excel** installed/available on your own **Mac...",
@@ -3566,17 +3307,17 @@
         "min": 60.0,
         "max": 70.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$60 - $70"
+        "unit": "hourly",
+        "raw": "$60 - $70 / hr"
       },
-      "fullDescriptionHash": "8354de4212266886",
+      "fullDescriptionHash": "d9b5c4217da54741",
       "officialPostedDate": "2026-09-13T00:34:03Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoJgvaf2xJcx9tANJF5O8",
@@ -3592,7 +3333,7 @@
         "Multimodal / Video"
       ],
       "location": "Remote",
-      "pay": "$60 - $70",
+      "pay": "$60 - $70 / hr",
       "date": "2026-09-13",
       "timestamp": 1789259639000,
       "excerpt": "# **Overview** We're looking for professionals with hands-on, real-world experience in specialized applications. ## Application Expertise and Access You must already have **PowerPoint** installed/available on your own...",
@@ -3609,17 +3350,17 @@
         "min": 60.0,
         "max": 70.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$60 - $70"
+        "unit": "hourly",
+        "raw": "$60 - $70 / hr"
       },
-      "fullDescriptionHash": "d3bd60ba87b52058",
+      "fullDescriptionHash": "58db0482776e136e",
       "officialPostedDate": "2026-09-13T00:33:59Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoJgvVburs2LBFu1KAbxf",
@@ -3635,7 +3376,7 @@
         "Multimodal / Video"
       ],
       "location": "Remote",
-      "pay": "$60 - $70",
+      "pay": "$60 - $70 / hr",
       "date": "2026-09-13",
       "timestamp": 1789259634000,
       "excerpt": "# **Overview** We're looking for professionals with hands-on, real-world experience in specialized applications. ## Application Expertise and Access You must already have **Word** installed/available on your own **Mac...",
@@ -3652,17 +3393,17 @@
         "min": 60.0,
         "max": 70.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$60 - $70"
+        "unit": "hourly",
+        "raw": "$60 - $70 / hr"
       },
-      "fullDescriptionHash": "a3958b109c3a6759",
+      "fullDescriptionHash": "a49f4c9009f08f4c",
       "officialPostedDate": "2026-09-13T00:33:54Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoJgqg0I8vqrLJG1MS64I",
@@ -3678,7 +3419,7 @@
         "Multimodal / Video"
       ],
       "location": "Remote",
-      "pay": "$45 - $55",
+      "pay": "$45 - $55 / hr",
       "date": "2026-09-13",
       "timestamp": 1789259318000,
       "excerpt": "# **Overview** We're looking for professionals with hands-on, real-world experience in specialized applications. ## Application Expertise and Access You must already have **EViews** installed/available on your own **PC...",
@@ -3695,17 +3436,17 @@
         "min": 45.0,
         "max": 55.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$45 - $55"
+        "unit": "hourly",
+        "raw": "$45 - $55 / hr"
       },
-      "fullDescriptionHash": "b2a31051fd0ad7da",
+      "fullDescriptionHash": "9d5bd8f6e9a5c93a",
       "officialPostedDate": "2026-09-13T00:28:38Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoJgqdG410r7FsbBPeriH",
@@ -3721,7 +3462,7 @@
         "Multimodal / Video"
       ],
       "location": "Remote",
-      "pay": "$45 - $55",
+      "pay": "$45 - $55 / hr",
       "date": "2026-09-13",
       "timestamp": 1789259314000,
       "excerpt": "# **Overview** We're looking for professionals with hands-on, real-world experience in specialized applications. ## Application Expertise and Access You must already have **Stata SE** installed/available on your own...",
@@ -3738,17 +3479,17 @@
         "min": 45.0,
         "max": 55.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$45 - $55"
+        "unit": "hourly",
+        "raw": "$45 - $55 / hr"
       },
-      "fullDescriptionHash": "598f3273b8dcb0a6",
+      "fullDescriptionHash": "5c0fd358ec297004",
       "officialPostedDate": "2026-09-13T00:28:34Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoJgqZViwfNhv2ORD14vu",
@@ -3764,7 +3505,7 @@
         "Multimodal / Video"
       ],
       "location": "Remote",
-      "pay": "$45 - $55",
+      "pay": "$45 - $55 / hr",
       "date": "2026-09-13",
       "timestamp": 1789259310000,
       "excerpt": "# **Overview** We're looking for professionals with hands-on, real-world experience in specialized applications. ## Application Expertise and Access You must already have **Origin** installed/available on your own **PC...",
@@ -3781,17 +3522,17 @@
         "min": 45.0,
         "max": 55.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$45 - $55"
+        "unit": "hourly",
+        "raw": "$45 - $55 / hr"
       },
-      "fullDescriptionHash": "f982c4af02f9ac83",
+      "fullDescriptionHash": "39f96417dcae525d",
       "officialPostedDate": "2026-09-13T00:28:30Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoJgqVi3F6XhyxPFM47qw",
@@ -3807,7 +3548,7 @@
         "Multimodal / Video"
       ],
       "location": "Remote",
-      "pay": "$45 - $55",
+      "pay": "$45 - $55 / hr",
       "date": "2026-09-13",
       "timestamp": 1789259306000,
       "excerpt": "# **Overview** We're looking for professionals with hands-on, real-world experience in specialized applications. ## Application Expertise and Access You must already have **MATLAB** installed/available on your own **PC...",
@@ -3824,17 +3565,17 @@
         "min": 45.0,
         "max": 55.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$45 - $55"
+        "unit": "hourly",
+        "raw": "$45 - $55 / hr"
       },
-      "fullDescriptionHash": "ea665a2b5239bcdf",
+      "fullDescriptionHash": "bf35221e3970daee",
       "officialPostedDate": "2026-09-13T00:28:26Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoJgqRhQMEa_UPABNQLNa",
@@ -3850,7 +3591,7 @@
         "Multimodal / Video"
       ],
       "location": "Remote",
-      "pay": "$45 - $55",
+      "pay": "$45 - $55 / hr",
       "date": "2026-09-13",
       "timestamp": 1789259302000,
       "excerpt": "# **Overview** We're looking for professionals with hands-on, real-world experience in specialized applications. ## Application Expertise and Access You must already have **Vivado** installed/available on your own **PC...",
@@ -3867,17 +3608,17 @@
         "min": 45.0,
         "max": 55.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$45 - $55"
+        "unit": "hourly",
+        "raw": "$45 - $55 / hr"
       },
-      "fullDescriptionHash": "b8e81ce19f7f0cb2",
+      "fullDescriptionHash": "7915c3d45c0c7522",
       "officialPostedDate": "2026-09-13T00:28:22Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoJgqNtzoVh5hqmtEQLnu",
@@ -3893,7 +3634,7 @@
         "Multimodal / Video"
       ],
       "location": "Remote",
-      "pay": "$45 - $55",
+      "pay": "$45 - $55 / hr",
       "date": "2026-09-13",
       "timestamp": 1789259298000,
       "excerpt": "# **Overview** We're looking for professionals with hands-on, real-world experience in specialized applications. ## Application Expertise and Access You must already have **SolidWorks Premium** installed/available on...",
@@ -3910,17 +3651,17 @@
         "min": 45.0,
         "max": 55.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$45 - $55"
+        "unit": "hourly",
+        "raw": "$45 - $55 / hr"
       },
-      "fullDescriptionHash": "a60c087a2a03ad0e",
+      "fullDescriptionHash": "01670836d215bc3e",
       "officialPostedDate": "2026-09-13T00:28:18Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoJgqKEnGDYqhKlxERLZR",
@@ -3936,7 +3677,7 @@
         "Multimodal / Video"
       ],
       "location": "Remote",
-      "pay": "$45 - $55",
+      "pay": "$45 - $55 / hr",
       "date": "2026-09-13",
       "timestamp": 1789259294000,
       "excerpt": "# **Overview** We're looking for professionals with hands-on, real-world experience in specialized applications. ## Application Expertise and Access You must already have **AutoCAD Mechanical** installed/available on...",
@@ -3953,17 +3694,17 @@
         "min": 45.0,
         "max": 55.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$45 - $55"
+        "unit": "hourly",
+        "raw": "$45 - $55 / hr"
       },
-      "fullDescriptionHash": "0c4ab6edf507ccf0",
+      "fullDescriptionHash": "a8366e9f666fe747",
       "officialPostedDate": "2026-09-13T00:28:14Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoJgnF8j710kq7tNP9JUX",
@@ -3979,7 +3720,7 @@
         "Multimodal / Video"
       ],
       "location": "Remote",
-      "pay": "$30 - $40",
+      "pay": "$30 - $40 / hr",
       "date": "2026-09-13",
       "timestamp": 1789259093000,
       "excerpt": "# **Overview** We're looking for professionals with hands-on, real-world experience in specialized applications. ## Application Expertise and Access You must already have **DaVinci Resolve** installed/available on your...",
@@ -3996,17 +3737,17 @@
         "min": 30.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$30 - $40"
+        "unit": "hourly",
+        "raw": "$30 - $40 / hr"
       },
-      "fullDescriptionHash": "9fda7a4a77184187",
+      "fullDescriptionHash": "fdaf95f83d94f82d",
       "officialPostedDate": "2026-09-13T00:24:53Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoJgnCdIMK4tluUhKjZfq",
@@ -4022,7 +3763,7 @@
         "Multimodal / Video"
       ],
       "location": "Remote",
-      "pay": "$30 - $40",
+      "pay": "$30 - $40 / hr",
       "date": "2026-09-13",
       "timestamp": 1789259090000,
       "excerpt": "# **Overview** We're looking for professionals with hands-on, real-world experience in specialized applications. ## Application Expertise and Access You must already have **Unreal Engine** installed/available on your...",
@@ -4039,17 +3780,17 @@
         "min": 30.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$30 - $40"
+        "unit": "hourly",
+        "raw": "$30 - $40 / hr"
       },
-      "fullDescriptionHash": "1e134879774f5c78",
+      "fullDescriptionHash": "21b2c4edc91d2901",
       "officialPostedDate": "2026-09-13T00:24:50Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoJgm-80LGK_vet9Hy7mI",
@@ -4066,7 +3807,7 @@
         "Multimodal / Video"
       ],
       "location": "Remote",
-      "pay": "$30 - $40",
+      "pay": "$30 - $40 / hr",
       "date": "2026-09-13",
       "timestamp": 1789259086000,
       "excerpt": "# **Overview** We're looking for professionals with hands-on, real-world experience in specialized applications. ## Application Expertise and Access You must already have **FruitLoops Studio** installed/available on...",
@@ -4083,17 +3824,17 @@
         "min": 30.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$30 - $40"
+        "unit": "hourly",
+        "raw": "$30 - $40 / hr"
       },
-      "fullDescriptionHash": "8062680a59816481",
+      "fullDescriptionHash": "0b8b97e5b649e479",
       "officialPostedDate": "2026-09-13T00:24:46Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoJgm6x9CphybYGBCw71A",
@@ -4109,7 +3850,7 @@
         "Multimodal / Video"
       ],
       "location": "Remote",
-      "pay": "$30 - $40",
+      "pay": "$30 - $40 / hr",
       "date": "2026-09-13",
       "timestamp": 1789259082000,
       "excerpt": "# **Overview** We're looking for professionals with hands-on, real-world experience in specialized applications. ## Application Expertise and Access You must already have **Blender** installed/available on your own **PC...",
@@ -4126,17 +3867,17 @@
         "min": 30.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$30 - $40"
+        "unit": "hourly",
+        "raw": "$30 - $40 / hr"
       },
-      "fullDescriptionHash": "07092dbec3cb4d52",
+      "fullDescriptionHash": "443862a6b8f6e73f",
       "officialPostedDate": "2026-09-13T00:24:42Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoJgm29LSpSu7mYtHu76n",
@@ -4152,7 +3893,7 @@
         "Multimodal / Video"
       ],
       "location": "Remote",
-      "pay": "$30 - $40",
+      "pay": "$30 - $40 / hr",
       "date": "2026-09-13",
       "timestamp": 1789259078000,
       "excerpt": "# **Overview** We're looking for professionals with hands-on, real-world experience in specialized applications. ## Application Expertise and Access You must already have **Adobe Illustrator** installed/available on...",
@@ -4169,17 +3910,17 @@
         "min": 30.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$30 - $40"
+        "unit": "hourly",
+        "raw": "$30 - $40 / hr"
       },
-      "fullDescriptionHash": "2068093797e47e7b",
+      "fullDescriptionHash": "4f7b3bf171c3f4df",
       "officialPostedDate": "2026-09-13T00:24:38Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoJgmzdVdKtb1bdNEj7ws",
@@ -4195,7 +3936,7 @@
         "Multimodal / Video"
       ],
       "location": "Remote",
-      "pay": "$30 - $40",
+      "pay": "$30 - $40 / hr",
       "date": "2026-09-13",
       "timestamp": 1789259075000,
       "excerpt": "# **Overview** We're looking for professionals with hands-on, real-world experience in specialized applications. ## Application Expertise and Access You must already have **Premiere** installed/available on your own...",
@@ -4212,17 +3953,17 @@
         "min": 30.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$30 - $40"
+        "unit": "hourly",
+        "raw": "$30 - $40 / hr"
       },
-      "fullDescriptionHash": "14b60bcdd18c444e",
+      "fullDescriptionHash": "53ae5f2559988b60",
       "officialPostedDate": "2026-09-13T00:24:35Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoJgmvv154mBck81Ez4MZ",
@@ -4238,7 +3979,7 @@
         "Multimodal / Video"
       ],
       "location": "Remote",
-      "pay": "$30 - $40",
+      "pay": "$30 - $40 / hr",
       "date": "2026-09-13",
       "timestamp": 1789259071000,
       "excerpt": "# **Overview** We're looking for professionals with hands-on, real-world experience in specialized applications. ## Application Expertise and Access You must already have **Photoshop** installed/available on your own...",
@@ -4255,17 +3996,17 @@
         "min": 30.0,
         "max": 40.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$30 - $40"
+        "unit": "hourly",
+        "raw": "$30 - $40 / hr"
       },
-      "fullDescriptionHash": "99605c82321772b1",
+      "fullDescriptionHash": "d837bbdfdf6a2e37",
       "officialPostedDate": "2026-09-13T00:24:31Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoJglE3JYEeYxjXNIVqx5",
@@ -4281,7 +4022,7 @@
         "Multimodal / Video"
       ],
       "location": "Remote",
-      "pay": "$55 - $65",
+      "pay": "$55 - $65 / hr",
       "date": "2026-09-13",
       "timestamp": 1789258961000,
       "excerpt": "# **Overview** We're looking for professionals with hands-on, real-world experience in specialized applications. ## Application Expertise and Access You must already have **VMware Fusion** installed/available on your...",
@@ -4298,17 +4039,17 @@
         "min": 55.0,
         "max": 65.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$55 - $65"
+        "unit": "hourly",
+        "raw": "$55 - $65 / hr"
       },
-      "fullDescriptionHash": "d0b1b05c4b681a69",
+      "fullDescriptionHash": "6c883c5644f683b6",
       "officialPostedDate": "2026-09-13T00:22:41Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoJglBEavX4Se3gNNkaI6",
@@ -4324,7 +4065,7 @@
         "Multimodal / Video"
       ],
       "location": "Remote",
-      "pay": "$55 - $65",
+      "pay": "$55 - $65 / hr",
       "date": "2026-09-13",
       "timestamp": 1789258957000,
       "excerpt": "# **Overview** We're looking for professionals with hands-on, real-world experience in specialized applications. ## Application Expertise and Access You must already have **Quartus II** installed/available on your own...",
@@ -4341,17 +4082,17 @@
         "min": 55.0,
         "max": 65.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$55 - $65"
+        "unit": "hourly",
+        "raw": "$55 - $65 / hr"
       },
-      "fullDescriptionHash": "b686162fa1f24188",
+      "fullDescriptionHash": "d336f604de8d62ac",
       "officialPostedDate": "2026-09-13T00:22:37Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoJgk9ki2WVxQqaREbK2c",
@@ -4367,7 +4108,7 @@
         "Multimodal / Video"
       ],
       "location": "Remote",
-      "pay": "$55 - $65",
+      "pay": "$55 - $65 / hr",
       "date": "2026-09-13",
       "timestamp": 1789258954000,
       "excerpt": "# **Overview** We're looking for professionals with hands-on, real-world experience in specialized applications. ## Application Expertise and Access You must already have **Android Studio** installed/available on your...",
@@ -4384,17 +4125,17 @@
         "min": 55.0,
         "max": 65.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$55 - $65"
+        "unit": "hourly",
+        "raw": "$55 - $65 / hr"
       },
-      "fullDescriptionHash": "d0a1fc3993ec5f90",
+      "fullDescriptionHash": "1fff99f7c457e5fa",
       "officialPostedDate": "2026-09-13T00:22:34Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoJgk59Ut_nllXvdLfqET",
@@ -4410,7 +4151,7 @@
         "Multimodal / Video"
       ],
       "location": "Remote",
-      "pay": "$55 - $65",
+      "pay": "$55 - $65 / hr",
       "date": "2026-09-13",
       "timestamp": 1789258950000,
       "excerpt": "# **Overview** We're looking for professionals with hands-on, real-world experience in specialized applications. ## Application Expertise and Access You must already have **PyCharm** installed/available on your own...",
@@ -4427,17 +4168,17 @@
         "min": 55.0,
         "max": 65.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$55 - $65"
+        "unit": "hourly",
+        "raw": "$55 - $65 / hr"
       },
-      "fullDescriptionHash": "7b243e69ade4adc3",
+      "fullDescriptionHash": "3759ff6d3314ca1e",
       "officialPostedDate": "2026-09-13T00:22:30Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoJgjQYnM_TpzFYBFarRo",
@@ -4453,7 +4194,7 @@
         "Multimodal / Video"
       ],
       "location": "Remote",
-      "pay": "$55 - $65",
+      "pay": "$55 - $65 / hr",
       "date": "2026-09-13",
       "timestamp": 1789258842000,
       "excerpt": "# **Overview** We're looking for professionals with hands-on, real-world experience in specialized applications. ## Application Expertise and Access You must already have **Visual Studio Code** installed/available on...",
@@ -4470,17 +4211,17 @@
         "min": 55.0,
         "max": 65.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$55 - $65"
+        "unit": "hourly",
+        "raw": "$55 - $65 / hr"
       },
-      "fullDescriptionHash": "138b3712195d819f",
+      "fullDescriptionHash": "11411b3cd6b4b9a5",
       "officialPostedDate": "2026-09-13T00:20:42Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoJgYdke25i__9elOAaFG",
@@ -4496,7 +4237,7 @@
         "Multimodal / Video"
       ],
       "location": "Remote",
-      "pay": "$45 - $55",
+      "pay": "$45 - $55 / hr",
       "date": "2026-09-13",
       "timestamp": 1789258135000,
       "excerpt": "# **Overview** We're looking for professionals with hands-on, real-world experience in specialized applications. ## Application Expertise and Access You must already have **Inventor Professional** installed/available on...",
@@ -4513,17 +4254,17 @@
         "min": 45.0,
         "max": 55.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$45 - $55"
+        "unit": "hourly",
+        "raw": "$45 - $55 / hr"
       },
-      "fullDescriptionHash": "b4bebd0c4e0b12f6",
+      "fullDescriptionHash": "7dd987ed19a24130",
       "officialPostedDate": "2026-09-13T00:08:55Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABn9G5kyvGTlH1jQZGvpVY",
@@ -4540,7 +4281,7 @@
         "Multimodal / Video"
       ],
       "location": "Remote",
-      "pay": "$100 - $120",
+      "pay": "$100 - $120 / hr",
       "date": "2026-08-05",
       "timestamp": 1785930028000,
       "excerpt": "We're looking for experienced machine learning researchers with hands-on experience training and improving deep learning models end-to-end, across vision and language. You'll work on well-scoped empirical open-ended ML...",
@@ -4557,139 +4298,17 @@
         "min": 100.0,
         "max": 120.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$100 - $120"
+        "unit": "hourly",
+        "raw": "$100 - $120 / hr"
       },
-      "fullDescriptionHash": "71ef3b734e5336e1",
+      "fullDescriptionHash": "f626738f5b933ee6",
       "officialPostedDate": "2026-08-05T11:40:28Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
-    },
-    {
-      "id": "web_mercor:list_AAABn7y1hc_w_rS_H_hIF6Zt",
-      "title": "Inorganic Materials, Semiconductor & Superconductor Experts",
-      "company": "Mercor",
-      "logo": "https://www.google.com/s2/favicons?domain=mercor.com&sz=128",
-      "category": "Preference Ranking / Side-by-Side Evaluation",
-      "eligible": "Unverified",
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [],
-      "location": "Remote",
-      "pay": "$84",
-      "date": "2026-08-01",
-      "timestamp": 1785577441000,
-      "excerpt": "Mercor is seeking experimental scientists and engineers across inorganic synthesis, characterization, superconductors, and semiconductors (including advanced packaging) to support a frontier AI research lab building...",
-      "applyUrl": "https://work.mercor.com/jobs/list_AAABn7y1hc_w_rS_H_hIF6Zt",
-      "source": "web_mercor",
-      "sourceJobId": "list_AAABn7y1hc_w_rS_H_hIF6Zt",
-      "officialSourceUrl": "https://work.mercor.com/jobs/list_AAABn7y1hc_w_rS_H_hIF6Zt",
-      "applyUrlAvailable": true,
-      "eligibilityClass": "Unverified",
-      "eligibilityConfidence": "low",
-      "eligibilityEvidence": "Insufficient geographic eligibility evidence (Location: 'Remote'; generic remote cannot be assumed global)",
-      "requirementsEvidence": [],
-      "compensation": {
-        "min": 84.0,
-        "max": 84.0,
-        "currency": "USD",
-        "unit": null,
-        "raw": "$84"
-      },
-      "fullDescriptionHash": "1a217a446cabaac6",
-      "officialPostedDate": "2026-08-01T09:44:01Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
-      "jobStatus": "NEW",
-      "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
-    },
-    {
-      "id": "web_mercor:list_AAABn7y1ZuugFnqTDzVOOb7u",
-      "title": "Atomic Layer Deposition (ALD) Experts",
-      "company": "Mercor",
-      "logo": "https://www.google.com/s2/favicons?domain=mercor.com&sz=128",
-      "category": "Preference Ranking / Side-by-Side Evaluation",
-      "eligible": "Unverified",
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [],
-      "location": "Remote",
-      "pay": "$84",
-      "date": "2026-08-01",
-      "timestamp": 1785577433000,
-      "excerpt": "Mercor is seeking experts in Atomic Layer Deposition (ALD) and thin-film processes to support a frontier AI research lab building models for semiconductors and the physical sciences. This is hands-on, expert-level work:...",
-      "applyUrl": "https://work.mercor.com/jobs/list_AAABn7y1ZuugFnqTDzVOOb7u",
-      "source": "web_mercor",
-      "sourceJobId": "list_AAABn7y1ZuugFnqTDzVOOb7u",
-      "officialSourceUrl": "https://work.mercor.com/jobs/list_AAABn7y1ZuugFnqTDzVOOb7u",
-      "applyUrlAvailable": true,
-      "eligibilityClass": "Unverified",
-      "eligibilityConfidence": "low",
-      "eligibilityEvidence": "Insufficient geographic eligibility evidence (Location: 'Remote'; generic remote cannot be assumed global)",
-      "requirementsEvidence": [],
-      "compensation": {
-        "min": 84.0,
-        "max": 84.0,
-        "currency": "USD",
-        "unit": null,
-        "raw": "$84"
-      },
-      "fullDescriptionHash": "74b09940a8e4ac16",
-      "officialPostedDate": "2026-08-01T09:43:53Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
-      "jobStatus": "NEW",
-      "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
-    },
-    {
-      "id": "web_mercor:list_AAABn2445JJgOdUpk4dC65kk",
-      "title": "Voice Actor: CX Agent Voice Cloning (African American)",
-      "company": "Mercor",
-      "logo": "https://www.google.com/s2/favicons?domain=mercor.com&sz=128",
-      "category": "TTS Evaluation",
-      "eligible": "Unverified",
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Audio / Speech"
-      ],
-      "location": "Remote",
-      "pay": "$50 - $100",
-      "date": "2026-07-17",
-      "timestamp": 1784260650000,
-      "excerpt": "Mercor is partnering with a leading AI research lab to build next-generation text-to-speech (TTS) systems capable of producing natural, expressive, and human-like voices. We are seeking **USA-based African American...",
-      "applyUrl": "https://work.mercor.com/jobs/list_AAABn2445JJgOdUpk4dC65kk",
-      "source": "web_mercor",
-      "sourceJobId": "list_AAABn2445JJgOdUpk4dC65kk",
-      "officialSourceUrl": "https://work.mercor.com/jobs/list_AAABn2445JJgOdUpk4dC65kk",
-      "applyUrlAvailable": true,
-      "eligibilityClass": "Unverified",
-      "eligibilityConfidence": "low",
-      "eligibilityEvidence": "Insufficient geographic eligibility evidence (Location: 'Remote'; generic remote cannot be assumed global)",
-      "requirementsEvidence": [],
-      "compensation": {
-        "min": 50.0,
-        "max": 100.0,
-        "currency": "USD",
-        "unit": null,
-        "raw": "$50 - $100"
-      },
-      "fullDescriptionHash": "e2e8cc8f0ac7bc70",
-      "officialPostedDate": "2026-07-17T03:57:30Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
-      "jobStatus": "NEW",
-      "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABnt-8MlDeId9gbqBF77Ec",
@@ -4704,7 +4323,7 @@
         "Audio / Speech"
       ],
       "location": "Remote",
-      "pay": "$50 - $100",
+      "pay": "$50 - $100 / hr",
       "date": "2026-06-19",
       "timestamp": 1781870113000,
       "excerpt": "Mercor is partnering with a leading AI research lab to build next-generation text-to-speech (TTS) systems capable of producing natural, expressive, and human-like voices. We are seeking **native or native-level French...",
@@ -4721,17 +4340,17 @@
         "min": 50.0,
         "max": 100.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$50 - $100"
+        "unit": "hourly",
+        "raw": "$50 - $100 / hr"
       },
-      "fullDescriptionHash": "68ac647ff1658d2f",
+      "fullDescriptionHash": "37a656c01a566d8e",
       "officialPostedDate": "2026-06-19T11:55:13Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABnoTi00jc2tVdQ0xG17qd",
@@ -4747,7 +4366,7 @@
         "Data Annotation"
       ],
       "location": "Remote",
-      "pay": "$50",
+      "pay": "$50 / hr",
       "date": "2026-06-01",
       "timestamp": 1780345918000,
       "excerpt": "**Overview** We're looking for audio engineers with strong experience editing and quality-checking **voice recordings for speech and text-to-speech (TTS) applications**, specifically for **French-language audio**. This...",
@@ -4764,59 +4383,17 @@
         "min": 50.0,
         "max": 50.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$50"
+        "unit": "hourly",
+        "raw": "$50 / hr"
       },
-      "fullDescriptionHash": "ff6dfe7434805081",
+      "fullDescriptionHash": "67097c8977b322e2",
       "officialPostedDate": "2026-06-01T20:31:58Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
-    },
-    {
-      "id": "web_mercor:list_AAABnoRPKUEJGDN6gxtK-Z3q",
-      "title": "Voice Actor: CX Agent Voice Cloning - Northern UK",
-      "company": "Mercor",
-      "logo": "https://www.google.com/s2/favicons?domain=mercor.com&sz=128",
-      "category": "TTS Evaluation",
-      "eligible": "Unverified",
-      "isIndonesian": false,
-      "isDirect": true,
-      "skills": [
-        "Audio / Speech"
-      ],
-      "location": "Remote",
-      "pay": "$50 - $100",
-      "date": "2026-06-01",
-      "timestamp": 1780336241000,
-      "excerpt": "Mercor is partnering with a leading AI research lab to build next-generation text-to-speech (TTS) systems capable of producing natural, expressive, and human-like voices. We are seeking **Northern** **UK-based female...",
-      "applyUrl": "https://work.mercor.com/jobs/list_AAABnoRPKUEJGDN6gxtK-Z3q",
-      "source": "web_mercor",
-      "sourceJobId": "list_AAABnoRPKUEJGDN6gxtK-Z3q",
-      "officialSourceUrl": "https://work.mercor.com/jobs/list_AAABnoRPKUEJGDN6gxtK-Z3q",
-      "applyUrlAvailable": true,
-      "eligibilityClass": "Unverified",
-      "eligibilityConfidence": "low",
-      "eligibilityEvidence": "Insufficient geographic eligibility evidence (Location: 'Remote'; generic remote cannot be assumed global)",
-      "requirementsEvidence": [],
-      "compensation": {
-        "min": 50.0,
-        "max": 100.0,
-        "currency": "USD",
-        "unit": null,
-        "raw": "$50 - $100"
-      },
-      "fullDescriptionHash": "6ee840c9d2522fb4",
-      "officialPostedDate": "2026-06-01T17:50:41Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
-      "jobStatus": "NEW",
-      "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0Tj07Vgzf7imVMBZB6",
@@ -4829,7 +4406,7 @@
       "isDirect": true,
       "skills": [],
       "location": "Remote",
-      "pay": "$60 - $80",
+      "pay": "$60 - $80 / hr",
       "date": "2026-02-27",
       "timestamp": 1772161831000,
       "excerpt": "**About Mercor’s talent network** Join our Compliance & Risk Specialist Expert Network to connect with leading AI labs and companies seeking your expertise. **This is an open application for future contract...",
@@ -4846,17 +4423,17 @@
         "min": 60.0,
         "max": 80.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$60 - $80"
+        "unit": "hourly",
+        "raw": "$60 - $80 / hr"
       },
-      "fullDescriptionHash": "5f6731c34a4e8335",
+      "fullDescriptionHash": "175aa461c01817f2",
       "officialPostedDate": "2026-02-27T03:10:31Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0O3XD6A34Rv91Ad60d",
@@ -4869,7 +4446,7 @@
       "isDirect": true,
       "skills": [],
       "location": "Remote",
-      "pay": "$60 - $100",
+      "pay": "$60 - $100 / hr",
       "date": "2026-02-27",
       "timestamp": 1772161523000,
       "excerpt": "**About Mercor’s talent network** Join our Management Consultant Expert Network to connect with leading AI labs and companies seeking your expertise. **This is an open application for future contract opportunities that...",
@@ -4886,17 +4463,17 @@
         "min": 60.0,
         "max": 100.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$60 - $100"
+        "unit": "hourly",
+        "raw": "$60 - $100 / hr"
       },
-      "fullDescriptionHash": "01ecb7c43b1e0ef4",
+      "fullDescriptionHash": "0a41da4968de331a",
       "officialPostedDate": "2026-02-27T03:05:23Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0M26ceiz86vu1MT759",
@@ -4909,7 +4486,7 @@
       "isDirect": true,
       "skills": [],
       "location": "Remote",
-      "pay": "$60 - $80",
+      "pay": "$60 - $80 / hr",
       "date": "2026-02-27",
       "timestamp": 1772161392000,
       "excerpt": "**About Mercor’s talent network** Join our Physical Scientist Expert Network to connect with leading AI labs and companies seeking your expertise. **This is an open application for future contract opportunities that...",
@@ -4926,17 +4503,17 @@
         "min": 60.0,
         "max": 80.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$60 - $80"
+        "unit": "hourly",
+        "raw": "$60 - $80 / hr"
       },
-      "fullDescriptionHash": "c3b6260325397cbc",
+      "fullDescriptionHash": "52476bdbe84f7338",
       "officialPostedDate": "2026-02-27T03:03:12Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0LvLdNuRT_1I9Iib8_",
@@ -4949,7 +4526,7 @@
       "isDirect": true,
       "skills": [],
       "location": "Remote",
-      "pay": "$60 - $80",
+      "pay": "$60 - $80 / hr",
       "date": "2026-02-27",
       "timestamp": 1772161318000,
       "excerpt": "**About Mercor’s talent network** Join our Graphic & UX/UI Designer Expert Network to connect with leading AI labs and companies seeking your expertise. **This is an open application for future contract opportunities...",
@@ -4966,17 +4543,17 @@
         "min": 60.0,
         "max": 80.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$60 - $80"
+        "unit": "hourly",
+        "raw": "$60 - $80 / hr"
       },
-      "fullDescriptionHash": "f0b47592911ffd6d",
+      "fullDescriptionHash": "26b5e721243bd5f6",
       "officialPostedDate": "2026-02-27T03:01:58Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0Inam2YWpSD1xI1ZX9",
@@ -4989,7 +4566,7 @@
       "isDirect": true,
       "skills": [],
       "location": "Remote",
-      "pay": "$60 - $80",
+      "pay": "$60 - $80 / hr",
       "date": "2026-02-27",
       "timestamp": 1772161114000,
       "excerpt": "**About Mercor’s talent network** Join our Marketing Specialist Expert Network to connect with leading AI labs and companies seeking your expertise. **This is an open application for future contract opportunities that...",
@@ -5006,17 +4583,17 @@
         "min": 60.0,
         "max": 80.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$60 - $80"
+        "unit": "hourly",
+        "raw": "$60 - $80 / hr"
       },
-      "fullDescriptionHash": "c08a0131059fc55f",
+      "fullDescriptionHash": "777ae0dc35b94a62",
       "officialPostedDate": "2026-02-27T02:58:34Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0HTJ8DWBVFUwtKbrNa",
@@ -5029,7 +4606,7 @@
       "isDirect": true,
       "skills": [],
       "location": "Remote",
-      "pay": "$60 - $80",
+      "pay": "$60 - $80 / hr",
       "date": "2026-02-27",
       "timestamp": 1772161027000,
       "excerpt": "**About Mercor’s talent network** Join our HR & Administration Specialist Expert Network to connect with leading AI labs and companies seeking your expertise. **This is an open application for future contract...",
@@ -5046,17 +4623,17 @@
         "min": 60.0,
         "max": 80.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$60 - $80"
+        "unit": "hourly",
+        "raw": "$60 - $80 / hr"
       },
-      "fullDescriptionHash": "189396f154d3ef43",
+      "fullDescriptionHash": "0e2c3ebeb6a6ebfe",
       "officialPostedDate": "2026-02-27T02:57:07Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0GDeo6y-KRhahHKrzF",
@@ -5069,7 +4646,7 @@
       "isDirect": true,
       "skills": [],
       "location": "Remote",
-      "pay": "$60 - $180",
+      "pay": "$60 - $180 / hr",
       "date": "2026-02-27",
       "timestamp": 1772160946000,
       "excerpt": "**About Mercor’s talent network** Join our Financial Analyst Expert Network to connect with leading AI labs and companies seeking your expertise. **This is an open application for future contract opportunities that...",
@@ -5086,17 +4663,17 @@
         "min": 60.0,
         "max": 180.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$60 - $180"
+        "unit": "hourly",
+        "raw": "$60 - $180 / hr"
       },
-      "fullDescriptionHash": "07df37db01346245",
+      "fullDescriptionHash": "59d9fef7f1d55de1",
       "officialPostedDate": "2026-02-27T02:55:46Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0EyzP13xP26dJJXKpS",
@@ -5109,7 +4686,7 @@
       "isDirect": true,
       "skills": [],
       "location": "Remote",
-      "pay": "$60 - $80",
+      "pay": "$60 - $80 / hr",
       "date": "2026-02-27",
       "timestamp": 1772160863000,
       "excerpt": "**About Mercor’s talent network** Join our Chemist Expert Network to connect with leading AI labs and companies seeking your expertise. **This is an open application for future contract opportunities that match your...",
@@ -5126,17 +4703,17 @@
         "min": 60.0,
         "max": 80.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$60 - $80"
+        "unit": "hourly",
+        "raw": "$60 - $80 / hr"
       },
-      "fullDescriptionHash": "98ab9f3e022a849d",
+      "fullDescriptionHash": "369289e3d5ff3afc",
       "officialPostedDate": "2026-02-27T02:54:23Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0CrCN6LLqupi9Bf6jc",
@@ -5149,7 +4726,7 @@
       "isDirect": true,
       "skills": [],
       "location": "Remote",
-      "pay": "$60 - $80",
+      "pay": "$60 - $80 / hr",
       "date": "2026-02-27",
       "timestamp": 1772160724000,
       "excerpt": "**About Mercor’s talent network** Join our Biologist Expert Network to connect with leading AI labs and companies seeking your expertise. **This is an open application for future contract opportunities that match your...",
@@ -5166,17 +4743,17 @@
         "min": 60.0,
         "max": 80.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$60 - $80"
+        "unit": "hourly",
+        "raw": "$60 - $80 / hr"
       },
-      "fullDescriptionHash": "74685ea76599e748",
+      "fullDescriptionHash": "5dc6d659c59d38ae",
       "officialPostedDate": "2026-02-27T02:52:04Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0BfkepVYhBI7hH_5wP",
@@ -5189,7 +4766,7 @@
       "isDirect": true,
       "skills": [],
       "location": "Remote",
-      "pay": "$60 - $80",
+      "pay": "$60 - $80 / hr",
       "date": "2026-02-27",
       "timestamp": 1772160647000,
       "excerpt": "**About Mercor’s talent network** Join our Mathematician Expert Network to connect with leading AI labs and companies seeking your expertise. **This is an open application for future contract opportunities that match...",
@@ -5206,17 +4783,17 @@
         "min": 60.0,
         "max": 80.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$60 - $80"
+        "unit": "hourly",
+        "raw": "$60 - $80 / hr"
       },
-      "fullDescriptionHash": "3f47e4a97135174d",
+      "fullDescriptionHash": "e425df1a0dc6cccf",
       "officialPostedDate": "2026-02-27T02:50:47Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABnJz6-RP8K0Qe1IxHK6LT",
@@ -5229,7 +4806,7 @@
       "isDirect": true,
       "skills": [],
       "location": "Remote",
-      "pay": "$60 - $150",
+      "pay": "$60 - $150 / hr",
       "date": "2026-02-27",
       "timestamp": 1772160219000,
       "excerpt": "**About Mercor’s talent network** Join our Law Expert Network to connect with leading AI labs and companies seeking your expertise. **This is an open application for future contract opportunities that match your...",
@@ -5246,17 +4823,17 @@
         "min": 60.0,
         "max": 150.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$60 - $150"
+        "unit": "hourly",
+        "raw": "$60 - $150 / hr"
       },
-      "fullDescriptionHash": "c3137e7edd0e0e84",
+      "fullDescriptionHash": "531f2ba76d018228",
       "officialPostedDate": "2026-02-27T02:43:39Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABnJzhSEoldeI_qvBLq6pS",
@@ -5269,7 +4846,7 @@
       "isDirect": true,
       "skills": [],
       "location": "Remote",
-      "pay": "$60 - $80",
+      "pay": "$60 - $80 / hr",
       "date": "2026-02-27",
       "timestamp": 1772158536000,
       "excerpt": "**About Mercor’s talent network** Join our Physicist Expert Network to connect with leading AI labs and companies seeking your expertise. **This is an open application for future contract opportunities that match your...",
@@ -5286,17 +4863,17 @@
         "min": 60.0,
         "max": 80.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$60 - $80"
+        "unit": "hourly",
+        "raw": "$60 - $80 / hr"
       },
-      "fullDescriptionHash": "210c148600e2e301",
+      "fullDescriptionHash": "cf50bebf468c7b85",
       "officialPostedDate": "2026-02-27T02:15:36Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABnJzRBPRcrO1IUeVFkqqc",
@@ -5309,7 +4886,7 @@
       "isDirect": true,
       "skills": [],
       "location": "Remote",
-      "pay": "$60 - $120",
+      "pay": "$60 - $120 / hr",
       "date": "2026-02-27",
       "timestamp": 1772157470000,
       "excerpt": "**About Mercor’s talent network** Join our Nursing Expert Network to connect with leading AI labs and companies seeking your expertise. **This is an open application for future contract opportunities that match your...",
@@ -5326,17 +4903,17 @@
         "min": 60.0,
         "max": 120.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$60 - $120"
+        "unit": "hourly",
+        "raw": "$60 - $120 / hr"
       },
-      "fullDescriptionHash": "e5d595fe4bdc76d8",
+      "fullDescriptionHash": "a526835ff3bfb8bd",
       "officialPostedDate": "2026-02-27T01:57:50Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABnJzK0z1CNefOyERAAb9m",
@@ -5349,7 +4926,7 @@
       "isDirect": true,
       "skills": [],
       "location": "Remote",
-      "pay": "$110 - $250",
+      "pay": "$110 - $250 / hr",
       "date": "2026-02-27",
       "timestamp": 1772157064000,
       "excerpt": "**About Mercor’s talent network** Join our Physician Expert Network to connect with leading AI labs and companies seeking your expertise. **This is an open application for future contract opportunities that match your...",
@@ -5366,17 +4943,17 @@
         "min": 110.0,
         "max": 250.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$110 - $250"
+        "unit": "hourly",
+        "raw": "$110 - $250 / hr"
       },
-      "fullDescriptionHash": "9b205370a29fb3f3",
+      "fullDescriptionHash": "696d63cf162d044d",
       "officialPostedDate": "2026-02-27T01:51:04Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABnJzIt-SOsdwOeF5Ebarf",
@@ -5389,7 +4966,7 @@
       "isDirect": true,
       "skills": [],
       "location": "Remote",
-      "pay": "$70 - $250",
+      "pay": "$70 - $250 / hr",
       "date": "2026-02-27",
       "timestamp": 1772156926000,
       "excerpt": "**About Mercor’s talent network** Join our Machine Learning Engineer Expert Network to connect with leading AI labs and companies seeking your expertise. **This is an open application for future contract opportunities...",
@@ -5406,17 +4983,17 @@
         "min": 70.0,
         "max": 250.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$70 - $250"
+        "unit": "hourly",
+        "raw": "$70 - $250 / hr"
       },
-      "fullDescriptionHash": "ab94da8a1175f778",
+      "fullDescriptionHash": "c017c9a6e20bae90",
       "officialPostedDate": "2026-02-27T01:48:46Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABnJyE_If_2vn0hvhMxLnv",
@@ -5429,7 +5006,7 @@
       "isDirect": true,
       "skills": [],
       "location": "Remote",
-      "pay": "$70 - $120",
+      "pay": "$70 - $120 / hr",
       "date": "2026-02-27",
       "timestamp": 1772152487000,
       "excerpt": "**About Mercor’s talent network** Join our Business Intelligence Analyst Expert Network to connect with leading AI labs and companies seeking your expertise. **This is an open application for future contract...",
@@ -5446,17 +5023,17 @@
         "min": 70.0,
         "max": 120.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$70 - $120"
+        "unit": "hourly",
+        "raw": "$70 - $120 / hr"
       },
-      "fullDescriptionHash": "d30a950a5cd5c59a",
+      "fullDescriptionHash": "d69ed657bdd3dc4b",
       "officialPostedDate": "2026-02-27T00:34:47Z",
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_alignerr:92f161da-0887-4c52-895f-b43d2bfa79ba",
@@ -5473,7 +5050,7 @@
       "location": "Remote",
       "pay": "$15-35/hr",
       "date": "2026-11-25",
-      "timestamp": 1795650782000,
+      "timestamp": 1795650965000,
       "excerpt": "Native Russian speaker in Latvia? Put your everyday Gmail habits to work — evaluate AI features in Russian, earn an hourly rate, just 2-4 hours a week...",
       "applyUrl": "https://www.alignerr.com/jobs/92f161da-0887-4c52-895f-b43d2bfa79ba",
       "source": "web_alignerr",
@@ -5493,12 +5070,12 @@
       },
       "fullDescriptionHash": "0d9ab4e6a3462276",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_alignerr:4234d923-f878-49fa-91c9-7890c4a2d531",
@@ -5515,7 +5092,7 @@
       "location": "Remote",
       "pay": "$15-35/hr",
       "date": "2026-11-25",
-      "timestamp": 1795650782000,
+      "timestamp": 1795650965000,
       "excerpt": "Native Russian speaker in Israel? Get paid to evaluate AI features in Gmail and Google Workspace — flexible, remote, and just 2-4 hours a week....",
       "applyUrl": "https://www.alignerr.com/jobs/4234d923-f878-49fa-91c9-7890c4a2d531",
       "source": "web_alignerr",
@@ -5535,12 +5112,12 @@
       },
       "fullDescriptionHash": "b73f6dedc965b3aa",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_alignerr:07b72634-528f-43a6-8b46-f76c9a335232",
@@ -5557,7 +5134,7 @@
       "location": "Remote",
       "pay": "$15-35/hr",
       "date": "2026-11-25",
-      "timestamp": 1795650782000,
+      "timestamp": 1795650965000,
       "excerpt": "Native Spanish speaker in Miami? Get paid to evaluate AI features in your own Gmail — remote, flexible, and only 2-4 hours a week....",
       "applyUrl": "https://www.alignerr.com/jobs/07b72634-528f-43a6-8b46-f76c9a335232",
       "source": "web_alignerr",
@@ -5577,12 +5154,12 @@
       },
       "fullDescriptionHash": "27ff1c7c92c83c3b",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_alignerr:562fa900-511e-4799-8945-d94ee02963d4",
@@ -5599,7 +5176,7 @@
       "location": "Remote",
       "pay": "$15-35/hr",
       "date": "2026-11-25",
-      "timestamp": 1795650782000,
+      "timestamp": 1795650965000,
       "excerpt": "Native French speaker in Casablanca? Get paid to evaluate AI features in your own Gmail and Google Workspace account — 2–4 hours a week, fully remote ...",
       "applyUrl": "https://www.alignerr.com/jobs/562fa900-511e-4799-8945-d94ee02963d4",
       "source": "web_alignerr",
@@ -5619,12 +5196,12 @@
       },
       "fullDescriptionHash": "fcd5bad2f7b2bf2a",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_alignerr:b3c71b0a-5054-432a-9b91-f706e067eaf2",
@@ -5639,7 +5216,7 @@
       "location": "Remote",
       "pay": "$15-35/hr",
       "date": "2026-11-25",
-      "timestamp": 1795650782000,
+      "timestamp": 1795650965000,
       "excerpt": "Native Italian speaker? Get paid to evaluate AI features in your own Gmail and Google Workspace account — just 2-4 hours a week, fully remote....",
       "applyUrl": "https://www.alignerr.com/jobs/b3c71b0a-5054-432a-9b91-f706e067eaf2",
       "source": "web_alignerr",
@@ -5659,12 +5236,12 @@
       },
       "fullDescriptionHash": "fe7ff671dda5741b",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_alignerr:65c949ae-474b-40f2-96f7-289792d2cec6",
@@ -5681,7 +5258,7 @@
       "location": "Remote",
       "pay": "$12-40/hr",
       "date": "2026-11-25",
-      "timestamp": 1795650782000,
+      "timestamp": 1795650965000,
       "excerpt": "Put your native Mandarin fluency to work shaping the future of voice AI — role-play real clinic calls, evaluate AI responses, and work fully remotely ...",
       "applyUrl": "https://www.alignerr.com/jobs/65c949ae-474b-40f2-96f7-289792d2cec6",
       "source": "web_alignerr",
@@ -5701,12 +5278,12 @@
       },
       "fullDescriptionHash": "88d8ee1ab8eb6fa7",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_alignerr:9d288eae-1d01-49e0-b85a-b501326e874e",
@@ -5723,7 +5300,7 @@
       "location": "Remote",
       "pay": "$12-40/hr",
       "date": "2026-11-25",
-      "timestamp": 1795650782000,
+      "timestamp": 1795650965000,
       "excerpt": "Native Dutch speaker in South Africa? Use your fluency to shape cutting-edge voice AI — evaluate AI-powered clinic calls on your own schedule, fully r...",
       "applyUrl": "https://www.alignerr.com/jobs/9d288eae-1d01-49e0-b85a-b501326e874e",
       "source": "web_alignerr",
@@ -5743,12 +5320,12 @@
       },
       "fullDescriptionHash": "9ca3f8f45d0b200e",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_alignerr:72e2bbb1-5ab9-42af-84b8-1fefc3bba86f",
@@ -5765,7 +5342,7 @@
       "location": "Remote",
       "pay": "$10-35/hr",
       "date": "2026-11-25",
-      "timestamp": 1795650782000,
+      "timestamp": 1795650965000,
       "excerpt": "Sydney's Mandarin speakers wanted — use your language skills to help train cutting-edge AI and earn on your own schedule. Fully remote, no experience ...",
       "applyUrl": "https://www.alignerr.com/jobs/72e2bbb1-5ab9-42af-84b8-1fefc3bba86f",
       "source": "web_alignerr",
@@ -5785,12 +5362,12 @@
       },
       "fullDescriptionHash": "8bb2ed42232f4236",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_alignerr:838adc10-f029-4379-8c1f-1cf97e12777b",
@@ -5807,7 +5384,7 @@
       "location": "Remote",
       "pay": "$10-35/hr",
       "date": "2026-11-25",
-      "timestamp": 1795650782000,
+      "timestamp": 1795650965000,
       "excerpt": "London-based Japanese speakers wanted — use your language skills to help train AI on real spoken Japanese. Fully remote, flexible, and rewarding....",
       "applyUrl": "https://www.alignerr.com/jobs/838adc10-f029-4379-8c1f-1cf97e12777b",
       "source": "web_alignerr",
@@ -5827,12 +5404,12 @@
       },
       "fullDescriptionHash": "a8509dada77fb9e8",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_alignerr:e608fe5d-2471-4d34-a34f-0990cf5d41c7",
@@ -5849,7 +5426,7 @@
       "location": "Remote",
       "pay": "$10-35/hr",
       "date": "2026-11-25",
-      "timestamp": 1795650782000,
+      "timestamp": 1795650965000,
       "excerpt": "Native Japanese speaker in the New York area? Get paid to help train AI on real Japanese speech — fully remote, flexible hours, no experience required...",
       "applyUrl": "https://www.alignerr.com/jobs/e608fe5d-2471-4d34-a34f-0990cf5d41c7",
       "source": "web_alignerr",
@@ -5869,12 +5446,12 @@
       },
       "fullDescriptionHash": "cdb23f7d41a7275a",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_alignerr:8416bbab-71b1-41a6-95ec-25facc5e684a",
@@ -5889,7 +5466,7 @@
       "location": "Remote",
       "pay": "$20-50/hr",
       "date": "2026-11-25",
-      "timestamp": 1795650782000,
+      "timestamp": 1795650965000,
       "excerpt": "Bring your marketing skills to the cutting edge of AI — design expert training tasks on brand announcements, competitive research, and campaign attrib...",
       "applyUrl": "https://www.alignerr.com/jobs/8416bbab-71b1-41a6-95ec-25facc5e684a",
       "source": "web_alignerr",
@@ -5909,12 +5486,12 @@
       },
       "fullDescriptionHash": "45f5167921447f09",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_alignerr:1b30c760-12cc-4ebe-8b9a-f3591398ceff",
@@ -5929,7 +5506,7 @@
       "location": "Remote",
       "pay": "$20-50/hr",
       "date": "2026-11-25",
-      "timestamp": 1795650782000,
+      "timestamp": 1795650965000,
       "excerpt": "Singapore's world-class enterprise tech ecosystem is the perfect launchpad — bring your support engineering expertise to AI training and shape how age...",
       "applyUrl": "https://www.alignerr.com/jobs/1b30c760-12cc-4ebe-8b9a-f3591398ceff",
       "source": "web_alignerr",
@@ -5949,12 +5526,12 @@
       },
       "fullDescriptionHash": "ee1c49747978710a",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_alignerr:7bde821a-d006-40bf-9535-381ecde2f2dd",
@@ -5969,7 +5546,7 @@
       "location": "Remote",
       "pay": "$70-120/hr",
       "date": "2026-11-25",
-      "timestamp": 1795650782000,
+      "timestamp": 1795650965000,
       "excerpt": "German engineers: apply your hands-on debugging and systems expertise to design real AI agent training tasks. Remote contract, flexible commitment....",
       "applyUrl": "https://www.alignerr.com/jobs/7bde821a-d006-40bf-9535-381ecde2f2dd",
       "source": "web_alignerr",
@@ -5989,12 +5566,12 @@
       },
       "fullDescriptionHash": "65b04b09dc8450f8",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_alignerr:3673a42d-d3db-4561-a33f-8fa733e1fc0d",
@@ -6009,7 +5586,7 @@
       "location": "Remote",
       "pay": "$60-120/hr",
       "date": "2026-11-25",
-      "timestamp": 1795650782000,
+      "timestamp": 1795650965000,
       "excerpt": "Put your accounting expertise to work on the cutting edge of AI — design expert reconciliation tasks that train and benchmark advanced AI agents. Full...",
       "applyUrl": "https://www.alignerr.com/jobs/3673a42d-d3db-4561-a33f-8fa733e1fc0d",
       "source": "web_alignerr",
@@ -6029,12 +5606,12 @@
       },
       "fullDescriptionHash": "40fb4fb741884950",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_alignerr:ca7a7809-a3a9-4275-90c9-f4ed39bff639",
@@ -6049,7 +5626,7 @@
       "location": "Remote",
       "pay": "$20-50/hr",
       "date": "2026-11-25",
-      "timestamp": 1795650782000,
+      "timestamp": 1795650965000,
       "excerpt": "São Paulo's enterprise RevOps professionals — shape how AI handles complex revenue reconciliation by designing expert training tasks. Fully remote, fl...",
       "applyUrl": "https://www.alignerr.com/jobs/ca7a7809-a3a9-4275-90c9-f4ed39bff639",
       "source": "web_alignerr",
@@ -6069,12 +5646,12 @@
       },
       "fullDescriptionHash": "57bacaeaf918dbc6",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_alignerr:c1622eaf-6e63-4f02-9a9b-2d18e41f46ed",
@@ -6089,7 +5666,7 @@
       "location": "Remote",
       "pay": "$20-50/hr",
       "date": "2026-11-25",
-      "timestamp": 1795650782000,
+      "timestamp": 1795650965000,
       "excerpt": "Dublin's enterprise tech professionals — turn your RevOps expertise into AI impact. Design expert training tasks for cutting-edge AI agents, fully rem...",
       "applyUrl": "https://www.alignerr.com/jobs/c1622eaf-6e63-4f02-9a9b-2d18e41f46ed",
       "source": "web_alignerr",
@@ -6109,12 +5686,12 @@
       },
       "fullDescriptionHash": "1f51b5f82d4af3c6",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-25T23:53:02Z",
-      "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "firstDetectedAt": "2026-11-25T23:56:05Z",
+      "firstSeenAt": "2026-11-25T23:56:05Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     }
   ]
 }

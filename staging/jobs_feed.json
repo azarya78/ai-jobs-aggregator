@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T23:53:02Z",
+  "lastUpdated": "2026-11-25T23:56:05Z",
   "totalJobs": 23,
   "schemaVersion": "2.0",
   "pipeline": "ai-jobs-hub-v2-direct",
@@ -18,7 +18,7 @@
         "Data Annotation"
       ],
       "location": "Indonesia",
-      "pay": "$8/hr",
+      "pay": "",
       "date": "2026-11-25",
       "timestamp": 1795648757000,
       "excerpt": "Position Overview:We are looking for detail-oriented individuals to participate in video annotation and evaluation projects. As an AI Trainer – Video Annotation, you will review short video clips, assess their quality...",
@@ -30,22 +30,24 @@
       "eligibilityClass": "Indonesia Eligible",
       "eligibilityConfidence": "high",
       "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'Indonesia')",
-      "requirementsEvidence": [],
+      "requirementsEvidence": [
+        "complete a certification process to determine their suitability for the available projects"
+      ],
       "compensation": {
         "min": 8.0,
         "max": 8.0,
-        "currency": "USD",
-        "unit": "hourly",
-        "raw": "$8/hr"
+        "currency": null,
+        "unit": null,
+        "raw": "8"
       },
-      "fullDescriptionHash": "588701bcba913c02",
+      "fullDescriptionHash": "3687e1abe8d0284e",
       "officialPostedDate": null,
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
-      "jobStatus": "EXISTING",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
+      "jobStatus": "UPDATED",
       "sourceConnector": "web_imerit",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "lever_weloglobal:48654671-20e3-4dcf-ae24-1a339c5e8135",
@@ -76,7 +78,9 @@
       "eligibilityClass": "Indonesia Eligible",
       "eligibilityConfidence": "high",
       "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'Indonesia · ID · remote')",
-      "requirementsEvidence": [],
+      "requirementsEvidence": [
+        "Crux - Video and Audio QA - Indonesian (Indonesia)"
+      ],
       "compensation": {
         "min": 5.0,
         "max": 5.0,
@@ -88,10 +92,10 @@
       "officialPostedDate": "2026-11-17T06:02:05Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "lever_weloglobal:208a4835-993f-4d5e-9d33-a6ab08525de0",
@@ -122,7 +126,9 @@
       "eligibilityClass": "Indonesia Eligible",
       "eligibilityConfidence": "high",
       "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'Indonesia · ID · remote')",
-      "requirementsEvidence": [],
+      "requirementsEvidence": [
+        "Crux - Video and Audio Raters - Indonesian (Indonesia)"
+      ],
       "compensation": {
         "min": 4.0,
         "max": 4.0,
@@ -134,10 +140,10 @@
       "officialPostedDate": "2026-11-17T05:50:08Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "teamtailor_dataforce:736981-sme-task-creator-education-content-and-communications-indonesia",
@@ -179,10 +185,10 @@
       "officialPostedDate": "2026-11-12T12:08:28Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "teamtailor_dataforce",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "teamtailor_dataforce:736980-sme-task-creator-human-resources-and-organization-indonesia",
@@ -224,10 +230,10 @@
       "officialPostedDate": "2026-11-12T12:07:02Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "teamtailor_dataforce",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "teamtailor_dataforce:736954-sme-task-creator-engineering-construction-and-facilities-indonesia",
@@ -269,10 +275,10 @@
       "officialPostedDate": "2026-11-12T11:18:40Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "teamtailor_dataforce",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "teamtailor_dataforce:736953-sme-task-creator-healthcare-and-research-operations-indonesia",
@@ -314,10 +320,10 @@
       "officialPostedDate": "2026-11-12T11:17:04Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "teamtailor_dataforce",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "teamtailor_dataforce:736950-sme-task-creator-it-and-software-indonesia",
@@ -359,10 +365,10 @@
       "officialPostedDate": "2026-11-12T11:15:29Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "teamtailor_dataforce",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "teamtailor_dataforce:736481-sme-task-creator-legal-compliance-and-governance-indonesia",
@@ -404,10 +410,10 @@
       "officialPostedDate": "2026-11-11T18:31:10Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "teamtailor_dataforce",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "teamtailor_dataforce:736468-sme-task-creator-environment-policy-and-urban-research-indonesia",
@@ -449,10 +455,10 @@
       "officialPostedDate": "2026-11-11T18:24:55Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "teamtailor_dataforce",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "teamtailor_dataforce:736454-sme-task-creator-supply-chain-and-procurement-indonesia",
@@ -494,10 +500,10 @@
       "officialPostedDate": "2026-11-11T18:15:38Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "teamtailor_dataforce",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "lever_rws:ef53a2d3-29bc-4c0e-8f46-d91a316428bf",
@@ -539,10 +545,10 @@
       "officialPostedDate": "2026-11-05T12:42:57Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
-      "jobStatus": "UPDATED",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
+      "jobStatus": "EXISTING",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "lever_weloglobal:4d045b6f-2bb1-4477-9458-620892240cac",
@@ -569,7 +575,9 @@
       "eligibilityClass": "Indonesia Eligible",
       "eligibilityConfidence": "high",
       "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'India · Thailand · Indonesia · Malaysia · IN · remote')",
-      "requirementsEvidence": [],
+      "requirementsEvidence": [
+        "Alpheratz Project - Burmese Translation Rater"
+      ],
       "compensation": {
         "min": 8.5,
         "max": 8.5,
@@ -581,10 +589,10 @@
       "officialPostedDate": "2026-10-27T04:06:40Z",
       "firstDetectedAt": "2026-11-25T23:53:02Z",
       "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
-      "jobStatus": "NEW",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
+      "jobStatus": "EXISTING",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "lever_weloglobal:a5c63a9c-27b2-43ef-a548-9493465e5b6b",
@@ -611,7 +619,9 @@
       "eligibilityClass": "Indonesia Eligible",
       "eligibilityConfidence": "high",
       "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'India · Thailand · Indonesia · Malaysia · IN · remote')",
-      "requirementsEvidence": [],
+      "requirementsEvidence": [
+        "Alpheratz Project - Burmese Translation Quality Reviewer"
+      ],
       "compensation": {
         "min": 10.63,
         "max": 10.63,
@@ -623,10 +633,10 @@
       "officialPostedDate": "2026-10-26T10:31:15Z",
       "firstDetectedAt": "2026-11-25T23:53:02Z",
       "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
-      "jobStatus": "NEW",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
+      "jobStatus": "EXISTING",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "lever_weloglobal:efcc8784-2d7a-4ad7-bc54-1d728c53be9f",
@@ -654,7 +664,9 @@
       "eligibilityClass": "Indonesia Eligible",
       "eligibilityConfidence": "high",
       "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'Philippines · India · Indonesia · Cairo, Egypt · PH · remote')",
-      "requirementsEvidence": [],
+      "requirementsEvidence": [
+        "Andromeda Delta - Audio Transcription Reviewer English (US)"
+      ],
       "compensation": {
         "min": 4.55,
         "max": 4.55,
@@ -666,10 +678,10 @@
       "officialPostedDate": "2026-10-07T11:44:56Z",
       "firstDetectedAt": "2026-11-25T23:53:02Z",
       "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
-      "jobStatus": "NEW",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
+      "jobStatus": "EXISTING",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "lever_weloglobal:bfadf038-9d98-482e-b245-4def1c370253",
@@ -697,7 +709,9 @@
       "eligibilityClass": "Indonesia Eligible",
       "eligibilityConfidence": "high",
       "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'Philippines · India · Indonesia · Cairo, Egypt · Mexico · PH · remote')",
-      "requirementsEvidence": [],
+      "requirementsEvidence": [
+        "Andromeda Delta - Audio Transcription Adjudicator English (US)"
+      ],
       "compensation": {
         "min": 7.0,
         "max": 7.0,
@@ -709,10 +723,10 @@
       "officialPostedDate": "2026-10-07T11:41:26Z",
       "firstDetectedAt": "2026-11-25T23:53:02Z",
       "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
-      "jobStatus": "NEW",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
+      "jobStatus": "EXISTING",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_oneforma:792",
@@ -753,10 +767,10 @@
       "officialPostedDate": "2025-12-04T18:40:23Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
-      "jobStatus": "UPDATED",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
+      "jobStatus": "EXISTING",
       "sourceConnector": "web_oneforma",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_oneforma:807",
@@ -799,10 +813,10 @@
       "officialPostedDate": "2025-05-05T14:31:23Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
-      "jobStatus": "UPDATED",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
+      "jobStatus": "EXISTING",
       "sourceConnector": "web_oneforma",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_oneforma:824",
@@ -842,10 +856,10 @@
       "officialPostedDate": "2025-04-17T18:53:32Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
-      "jobStatus": "UPDATED",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
+      "jobStatus": "EXISTING",
       "sourceConnector": "web_oneforma",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "lever_weloglobal:d16a8aa6-84fd-40f8-bf52-c51c663cdaab",
@@ -872,7 +886,9 @@
       "eligibilityClass": "Indonesia Eligible",
       "eligibilityConfidence": "high",
       "eligibilityEvidence": "Explicit Indonesia location metadata/title: 'Indonesia' (Location: 'Indonesia · ID · remote')",
-      "requirementsEvidence": [],
+      "requirementsEvidence": [
+        "Ads Quality Rater - Indonesian (Indonesia)"
+      ],
       "compensation": {
         "min": null,
         "max": null,
@@ -884,10 +900,10 @@
       "officialPostedDate": "2022-12-08T10:36:44Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoGol-kkiUPOQvn1CsZFO",
@@ -903,7 +919,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote — South Asia preferred",
-      "pay": "$18 - $22",
+      "pay": "$18 - $22 / hr",
       "date": "2026-09-04",
       "timestamp": 1788487269000,
       "excerpt": "**About the role** We're hiring proficient bilingual speakers (English & Hindi) to help make advanced AI models safer. You'll apply your language fluency and cultural judgment to evaluate and strengthen how these models...",
@@ -924,17 +940,17 @@
         "min": 18.0,
         "max": 22.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$18 - $22"
+        "unit": "hourly",
+        "raw": "$18 - $22 / hr"
       },
-      "fullDescriptionHash": "5adfb9c746b23dad",
+      "fullDescriptionHash": "aba92485c1240b00",
       "officialPostedDate": "2026-09-04T02:01:09Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "UPDATED",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoGolujPeojikHWRLCaH-",
@@ -950,7 +966,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote — Western Europe preferred",
-      "pay": "$43 - $47",
+      "pay": "$43 - $47 / hr",
       "date": "2026-09-04",
       "timestamp": 1788487253000,
       "excerpt": "**About the role** We're hiring proficient bilingual speakers (English & Spanish) to help make advanced AI models safer. You'll apply your language fluency and cultural judgment to evaluate and strengthen how these...",
@@ -971,17 +987,17 @@
         "min": 43.0,
         "max": 47.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$43 - $47"
+        "unit": "hourly",
+        "raw": "$43 - $47 / hr"
       },
-      "fullDescriptionHash": "fe5458ebda5513ee",
+      "fullDescriptionHash": "b4d2d0fae43ffe22",
       "officialPostedDate": "2026-09-04T02:00:53Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "UPDATED",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     },
     {
       "id": "web_mercor:list_AAABoGoju-Gn415PNTlD5qqF",
@@ -997,7 +1013,7 @@
         "Translation / Linguistics"
       ],
       "location": "Remote — East Asia preferred",
-      "pay": "$48 - $52",
+      "pay": "$48 - $52 / hr",
       "date": "2026-09-04",
       "timestamp": 1788487122000,
       "excerpt": "**About the role** We're hiring proficient bilingual speakers (English & Chinese) to help make advanced AI models safer. You'll apply your language fluency and cultural judgment to evaluate and strengthen how these...",
@@ -1018,17 +1034,17 @@
         "min": 48.0,
         "max": 52.0,
         "currency": "USD",
-        "unit": null,
-        "raw": "$48 - $52"
+        "unit": "hourly",
+        "raw": "$48 - $52 / hr"
       },
-      "fullDescriptionHash": "406c6e159f6ad049",
+      "fullDescriptionHash": "652cc1cf3a91f6cd",
       "officialPostedDate": "2026-09-04T01:58:42Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-25T23:53:02Z",
+      "lastVerifiedAt": "2026-11-25T23:56:05Z",
       "jobStatus": "UPDATED",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-25T23:53:02Z"
+      "collectedAt": "2026-11-25T23:56:05Z"
     }
   ]
 }
