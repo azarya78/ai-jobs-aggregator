@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
+  "version": "2.1.0",
   "sources": [
     {
       "id": "lever_weloglobal",
@@ -12,7 +12,7 @@
       "enabled": true,
       "rate_limit_rps": 2,
       "timeout_sec": 20,
-      "notes": "Official Welo Data / Welocalize AI training & rating board (slug: weloglobal, ~197 roles Nov 2026). Corporate Welocalize uses Workday and is separate."
+      "notes": "Official Welo Data / Welocalize AI training & rating board (slug: weloglobal). Paginates via skip/limit."
     },
     {
       "id": "lever_rws",
@@ -25,13 +25,14 @@
       "enabled": true,
       "rate_limit_rps": 2,
       "timeout_sec": 20,
-      "notes": "Official RWS TrainAI Community job board on Lever (~135 AI Data Specialist / Search Evaluator postings Nov 2026)."
+      "notes": "Official RWS TrainAI Community job board on Lever."
     },
     {
       "id": "greenhouse_outlier",
       "platform": "Outlier",
-      "official_url": "https://job-boards.greenhouse.io/outlier",
+      "official_url": "https://app.outlier.ai/opportunities",
       "api_endpoint": "https://boards-api.greenhouse.io/v1/boards/outlier/jobs?content=true",
+      "public_fallback_url": "https://app.outlier.ai/opportunities",
       "canonical_apply_template": "https://app.outlier.ai/opportunities/{job_id}",
       "method": "greenhouse_api",
       "logo": "https://www.google.com/s2/favicons?domain=outlier.ai&sz=128",
@@ -39,7 +40,7 @@
       "enabled": true,
       "rate_limit_rps": 2,
       "timeout_sec": 25,
-      "notes": "Official Outlier (Scale AI) Greenhouse Job Board API; IDs map 1:1 to app.outlier.ai/opportunities/{id}."
+      "notes": "Outlier Greenhouse API + polite SSR check on app.outlier.ai/opportunities (reports unavailable if session/CSRF-gated)."
     },
     {
       "id": "smartrecruiters_appen",
@@ -52,7 +53,7 @@
       "enabled": true,
       "rate_limit_rps": 2,
       "timeout_sec": 20,
-      "notes": "Official Appen SmartRecruiters public REST API for crowd/linguistic roles. Private app.crowdgen.com contributor dashboard is never scraped."
+      "notes": "Official Appen SmartRecruiters public REST API for crowd/linguistic roles."
     },
     {
       "id": "teamtailor_dataforce",
@@ -64,9 +65,9 @@
       "logo": "https://www.google.com/s2/favicons?domain=transperfect.com&sz=128",
       "pure_ai_eval_board": false,
       "enabled": true,
-      "rate_limit_rps": 1,
+      "rate_limit_rps": 1.5,
       "timeout_sec": 20,
-      "notes": "Official DataForce / TransPerfect Community Teamtailor board (~206 roles including Indonesia SME/annotation projects; filters out local recruiter roles)."
+      "notes": "Official DataForce Teamtailor RSS + paginated /jobs?page=N supplement beyond the 100-item RSS cap."
     },
     {
       "id": "web_mercor",
@@ -78,88 +79,92 @@
       "logo": "https://www.google.com/s2/favicons?domain=mercor.com&sz=128",
       "pure_ai_eval_board": false,
       "enabled": true,
-      "rate_limit_rps": 1,
+      "rate_limit_rps": 1.5,
       "timeout_sec": 20,
-      "notes": "Public Mercor opportunities & talent networks on work.mercor.com; skips closed listings marked 'no longer accepting applications'."
+      "notes": "Public Mercor explore dehydrated React Query index + sitemap.xml supplement for active AI evaluation roles."
     },
     {
       "id": "web_micro1",
       "platform": "Micro1",
       "official_url": "https://www.micro1.ai/experts/opportunities",
       "api_endpoint": "https://www.micro1.ai/experts/opportunities",
+      "portal_api_endpoint": "https://prod-api.micro1.ai/api/v1/job/portal",
       "method": "micro1_public_web",
       "logo": "https://www.google.com/s2/favicons?domain=micro1.ai&sz=128",
       "pure_ai_eval_board": false,
       "enabled": true,
-      "rate_limit_rps": 1,
+      "rate_limit_rps": 1.5,
       "timeout_sec": 20,
-      "notes": "Public Micro1 AI Trainer & Domain Expert opportunities listing linking to jobs.micro1.ai/post/{uuid}."
+      "notes": "Public Micro1 expert opportunities JSON endpoint (prod-api.micro1.ai/api/v1/job/portal) mapping to jobs.micro1.ai/post/{uuid}."
     },
     {
       "id": "web_alignerr",
       "platform": "Alignerr",
       "official_url": "https://www.alignerr.com/jobs",
       "api_endpoint": "https://www.alignerr.com/jobs",
+      "json_api_endpoint": "https://www.alignerr.com/api/jobs",
       "method": "alignerr_public_web",
       "logo": "https://www.google.com/s2/favicons?domain=alignerr.com&sz=128",
       "pure_ai_eval_board": true,
       "enabled": true,
-      "rate_limit_rps": 1,
+      "rate_limit_rps": 1.5,
       "timeout_sec": 20,
-      "notes": "Official Alignerr (Labelbox) public contract roles page (www.alignerr.com/jobs/{uuid})."
+      "notes": "Official Alignerr public jobs API + HTML fallback (www.alignerr.com/jobs/{slug})."
     },
     {
       "id": "web_oneforma",
       "platform": "OneForma (Centific)",
-      "official_url": "https://www.oneforma.com/jobs/",
-      "api_endpoint": "https://www.oneforma.com/wp-json/wp/v2/jobs",
-      "html_endpoint": "https://www.oneforma.com/jobs/",
+      "official_url": "https://www.oneforma.com/projects/",
+      "api_endpoint": "https://www.oneforma.com/wp-json/wp/v2/job?per_page=100&_embed=1",
+      "html_endpoint": "https://www.oneforma.com/projects/",
       "method": "oneforma_public_web",
       "logo": "https://www.google.com/s2/favicons?domain=oneforma.com&sz=128",
       "pure_ai_eval_board": true,
       "enabled": true,
-      "rate_limit_rps": 1,
+      "rate_limit_rps": 1.5,
       "timeout_sec": 20,
-      "notes": "Public OneForma job board (migrated from legacy jobs.oneforma.com to www.oneforma.com/jobs/). Probes WP REST API first, falls back to public HTML cards."
+      "notes": "OneForma WP REST singular post type (/wp-json/wp/v2/job) merged with paginated /projects/ country eligibility cards."
     },
     {
       "id": "web_telus_ai",
       "platform": "TELUS Digital AI",
-      "official_url": "https://jobs.telusdigital.com/en/search/cfm5/ai-community/jobs",
-      "api_endpoint": "https://jobs.telusdigital.com/en/search/cfm5/ai-community/jobs",
+      "official_url": "https://www.telusinternational.ai/opportunities",
+      "api_endpoint": "https://www.telusinternational.ai/opportunities",
       "method": "telus_ai_public_web",
       "logo": "https://www.google.com/s2/favicons?domain=telusdigital.com&sz=128",
       "pure_ai_eval_board": true,
       "enabled": true,
       "rate_limit_rps": 0.75,
       "timeout_sec": 25,
-      "notes": "Public TELUS Digital AI Community category search (scoped strictly to cfm5/ai-community to exclude BPO/call-center roles)."
+      "notes": "Official TELUS Digital AI Community portal (telusinternational.ai/opportunities); respects access controls without bot evasion."
     },
     {
       "id": "web_mindrift",
       "platform": "Mindrift (Toloka)",
       "official_url": "https://mindrift.ai/apply",
-      "api_endpoint": "https://mindrift.ai/apply",
+      "api_endpoint": "https://apply.workable.com/api/v1/widget/accounts/toloka-ai?details=true",
+      "html_endpoint": "https://mindrift.ai/apply",
       "method": "mindrift_public_web",
       "logo": "https://www.google.com/s2/favicons?domain=mindrift.ai&sz=128",
       "pure_ai_eval_board": true,
       "enabled": true,
       "rate_limit_rps": 1,
       "timeout_sec": 20,
-      "notes": "Consolidated Toloka contributor platform on mindrift.ai/apply (public active projects list)."
+      "notes": "Official Mindrift Workable v1 public widget API (toloka-ai, deduplicated by shortcode) + mindrift.ai/apply pay enrichment."
     },
     {
       "id": "web_imerit",
       "platform": "iMerit Scholars",
       "official_url": "https://imerit.ai/careers-listing/",
-      "api_endpoint": "https://imerit.ai/careers-listing/",
+      "api_endpoint": "https://imerit.ai/jobs.json",
+      "html_endpoint": "https://imerit.ai/careers-listing/",
       "method": "imerit_public_web",
       "logo": "https://www.google.com/s2/favicons?domain=imerit.ai&sz=128",
       "pure_ai_eval_board": false,
       "enabled": true,
       "rate_limit_rps": 1,
       "timeout_sec": 20,
-      "notes": "Public iMerit careers listing (filters for Independent Contractor / Scholar GenAI annotation & domain expert roles)."
+      "notes": "Public iMerit contractor feed (imerit.ai/jobs.json) with closing-date validation and ?hash= deep links."
     },
     {
       "id": "ashby_afterquery",
@@ -172,7 +177,7 @@
       "enabled": true,
       "rate_limit_rps": 2,
       "timeout_sec": 20,
-      "notes": "Official AfterQuery Ashby API; corporate SF SWE roles are rejected by relevance/eligibility filter, retaining remote expert evaluation roles."
+      "notes": "Official AfterQuery Ashby API."
     },
     {
       "id": "greenhouse_invisible",
@@ -185,7 +190,7 @@
       "enabled": true,
       "rate_limit_rps": 2,
       "timeout_sec": 20,
-      "notes": "Official Invisible Technologies Greenhouse API; retains only AI Trainer / RLHF / Evaluation Specialist roles."
+      "notes": "Official Invisible Technologies Greenhouse API."
     }
   ]
 }
