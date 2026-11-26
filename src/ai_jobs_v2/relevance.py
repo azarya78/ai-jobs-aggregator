@@ -62,6 +62,10 @@ CATEGORY_RULES: List[Tuple[str, List[str]]] = [
     (
         "Audio & Speech Evaluation",
         [
+            # Title-anchored language transcription and voice-data work.
+            # Do not match generic mentions buried inside an unrelated description.
+            r"^[^\n]*\btranscrib(?:er|ers|ing|tion)\b",
+            r"^[^\n]*\b(?:voice|speech|audio)\s+(?:recording|collection|annotation)\b",
             r"\b(audio|speech|voice)\s+(quality\s+|conversation\s+)?(evaluat|rater|qa|annotat|transcri|collect|recording\s+contributor|recording\s+specialist)\b",
             r"\bpronunciation\s+assessment\s+annotat",
             r"\b(?:audio|speech)\s+transcription\s+(?:reviewer|rater|adjudicator|annotator)\b",
