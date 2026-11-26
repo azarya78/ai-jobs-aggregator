@@ -147,7 +147,7 @@ CATEGORY_RULES: List[Tuple[str, List[str]]] = [
     (
         "Data Annotation",
         [
-            r"\b(gen\s*ai\s+|ai\s+)?data\s+(annotat|label(ing|er)|specialist)\b",
+            r"\b(gen\s*ai\s+|ai\s+)?data\s+(annotat(?:e|ed|es|ing|ion|ions|or|ors)?|label(?:ing|er|ers)?|specialist)\b",
             r"\bannotat(e|ing)\s+data\s*sets\b",
             r"\bdata\s+annotation\b",
         ],
