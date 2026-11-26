@@ -1,0 +1,66 @@
+name: "AI Jobs Hub v2.2 — Official Sitemap Pilot (Staging)"
+on:
+  workflow_dispatch:
+  push:
+    branches: [feat/v2-direct-discovery]
+    paths:
+      - probe_official_sitemaps.py
+      - config/official_sitemap_probe.json
+      - tests/test_official_sitemap_probe.py
+      - .github/workflows/official_sitemap_probe.yml
+permissions:
+  contents: write
+concurrency:
+  group: official-sitemap-probe-${{ github.ref_name }}
+  cancel-in-progress: false
+jobs:
+  sitemap-audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - name: Gate 1 — Regression suite
+        env:
+          PYTHONPATH: src:.
+        run: pytest tests/ -q --tb=short
+      - name: Guard production and published staging
+        run: sha256sum jobs_feed.json staging/jobs_feed.json state/job_history.json > "$RUNNER_TEMP/protected.sha256"
+      - name: Gate 2 — Probe official sitemaps only
+        run: python probe_official_sitemaps.py
+      - name: Gate 3 — Validate isolation
+        run: |
+          sha256sum -c "$RUNNER_TEMP/protected.sha256"
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          d=json.loads(Path('staging/official_sitemap_probe.json').read_text())
+          assert d['experimentalOnly'] and d['doNotPublishToAndroid']
+          assert len(d['sources'])==2
+          assert all(not x['reusePermissionVerified'] for x in d['sources'])
+          for item in d['sources']:
+              print(item['platform'], item['state'], item['officialJobUrlCount'])
+          PY
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: official-sitemap-probe-${{ github.run_number }}
+          path: staging/official_sitemap_probe.json
+          retention-days: 14
+      - name: Commit report to development branch only
+        run: |
+          test "$GITHUB_REF_NAME" = "feat/v2-direct-discovery"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add staging/official_sitemap_probe.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(discovery): sync official sitemap pilot report [skip ci]"
+            git pull --rebase -X theirs origin "$GITHUB_REF_NAME"
+            git push origin "HEAD:$GITHUB_REF_NAME"
+          fi
