@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-26T09:18:53Z",
+  "generatedAt": "2026-11-26T09:21:27Z",
   "summary": {
-    "totalSourcesConfigured": 14,
-    "sourcesSucceeded": 11,
+    "totalSourcesConfigured": 16,
+    "sourcesSucceeded": 13,
     "sourcesEmptyZeroResults": 0,
     "sourcesFailed": 3,
-    "rawListingsRetrieved": 1943,
-    "relevantAiEvalListings": 918,
-    "indonesiaEligibleListings": 20,
+    "rawListingsRetrieved": 6579,
+    "relevantAiEvalListings": 1304,
+    "indonesiaEligibleListings": 28,
     "remoteGlobalListings": 3,
     "unverifiedReviewListings": 131,
-    "restrictedListingsFiltered": 764,
-    "irrelevantRejectedListings": 1023,
-    "publishedAndroidFeedTotal": 23,
+    "restrictedListingsFiltered": 1142,
+    "irrelevantRejectedListings": 5273,
+    "publishedAndroidFeedTotal": 31,
     "deduplication": {
       "duplicatesCollapsed": 0,
-      "newJobs": 0,
+      "newJobs": 8,
       "existingUnchanged": 23,
       "updatedJobs": 0,
       "closedJobs": 0,
@@ -37,8 +37,8 @@
       "restricted_count": 256,
       "rejected_irrelevant_count": 198,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T09:18:53Z",
-      "duration_ms": 4526,
+      "last_successful_check": "2026-11-26T09:21:27Z",
+      "duration_ms": 4961,
       "error_message": null
     },
     {
@@ -55,8 +55,8 @@
       "restricted_count": 130,
       "rejected_irrelevant_count": 17,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T09:18:53Z",
-      "duration_ms": 1791,
+      "last_successful_check": "2026-11-26T09:21:27Z",
+      "duration_ms": 1994,
       "error_message": null
     },
     {
@@ -74,7 +74,7 @@
       "rejected_irrelevant_count": 0,
       "closed_in_payload_count": 0,
       "last_successful_check": null,
-      "duration_ms": 424,
+      "duration_ms": 476,
       "error_message": "HTTP 404 access denied or not found for https://boards-api.greenhouse.io/v1/boards/outlier/jobs?content=true; fallback https://app.outlier.ai/opportunities requires client-side session/CSRF token (0 public SSR listings)"
     },
     {
@@ -91,8 +91,8 @@
       "restricted_count": 7,
       "rejected_irrelevant_count": 3,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T09:18:53Z",
-      "duration_ms": 5663,
+      "last_successful_check": "2026-11-26T09:21:27Z",
+      "duration_ms": 5484,
       "error_message": null
     },
     {
@@ -109,8 +109,8 @@
       "restricted_count": 72,
       "rejected_irrelevant_count": 19,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T09:18:53Z",
-      "duration_ms": 1733,
+      "last_successful_check": "2026-11-26T09:21:27Z",
+      "duration_ms": 2019,
       "error_message": null
     },
     {
@@ -127,8 +127,8 @@
       "restricted_count": 49,
       "rejected_irrelevant_count": 211,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T09:18:53Z",
-      "duration_ms": 2428,
+      "last_successful_check": "2026-11-26T09:21:27Z",
+      "duration_ms": 2359,
       "error_message": null
     },
     {
@@ -146,7 +146,7 @@
       "rejected_irrelevant_count": 0,
       "closed_in_payload_count": 0,
       "last_successful_check": "2026-11-25T14:38:57Z",
-      "duration_ms": 804,
+      "duration_ms": 868,
       "error_message": "Public HTML extractor returned zero listings for web_micro1; possible page-layout or rendering change"
     },
     {
@@ -163,8 +163,8 @@
       "restricted_count": 9,
       "rejected_irrelevant_count": 112,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T09:18:53Z",
-      "duration_ms": 2811,
+      "last_successful_check": "2026-11-26T09:21:27Z",
+      "duration_ms": 2807,
       "error_message": null
     },
     {
@@ -181,8 +181,8 @@
       "restricted_count": 12,
       "rejected_irrelevant_count": 8,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T09:18:53Z",
-      "duration_ms": 3807,
+      "last_successful_check": "2026-11-26T09:21:27Z",
+      "duration_ms": 3524,
       "error_message": null
     },
     {
@@ -200,7 +200,7 @@
       "rejected_irrelevant_count": 0,
       "closed_in_payload_count": 0,
       "last_successful_check": null,
-      "duration_ms": 139,
+      "duration_ms": 332,
       "error_message": "HTTP 403 access denied or not found for https://jobs.telusdigital.com/search/cfm5/ai-community/jobs/in/country/indonesia"
     },
     {
@@ -217,8 +217,8 @@
       "restricted_count": 192,
       "rejected_irrelevant_count": 396,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T09:18:53Z",
-      "duration_ms": 5821,
+      "last_successful_check": "2026-11-26T09:21:27Z",
+      "duration_ms": 5901,
       "error_message": null
     },
     {
@@ -235,8 +235,8 @@
       "restricted_count": 33,
       "rejected_irrelevant_count": 4,
       "closed_in_payload_count": 2,
-      "last_successful_check": "2026-11-26T09:18:53Z",
-      "duration_ms": 346,
+      "last_successful_check": "2026-11-26T09:21:27Z",
+      "duration_ms": 247,
       "error_message": null
     },
     {
@@ -253,8 +253,8 @@
       "restricted_count": 3,
       "rejected_irrelevant_count": 37,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T09:18:53Z",
-      "duration_ms": 361,
+      "last_successful_check": "2026-11-26T09:21:27Z",
+      "duration_ms": 238,
       "error_message": null
     },
     {
@@ -271,8 +271,44 @@
       "restricted_count": 1,
       "rejected_irrelevant_count": 18,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T09:18:53Z",
-      "duration_ms": 274,
+      "last_successful_check": "2026-11-26T09:21:27Z",
+      "duration_ms": 287,
+      "error_message": null
+    },
+    {
+      "source_id": "ashby_10xteam",
+      "platform": "10x Team",
+      "official_url": "https://jobs.ashbyhq.com/10xteam",
+      "method": "ashby_api",
+      "status": "SUCCESS",
+      "raw_count": 134,
+      "relevant_count": 126,
+      "indonesia_eligible_count": 0,
+      "remote_global_count": 0,
+      "unverified_review_count": 0,
+      "restricted_count": 126,
+      "rejected_irrelevant_count": 8,
+      "closed_in_payload_count": 0,
+      "last_successful_check": "2026-11-26T09:21:27Z",
+      "duration_ms": 1959,
+      "error_message": null
+    },
+    {
+      "source_id": "lever_tsmg",
+      "platform": "TSMG",
+      "official_url": "https://jobs.lever.co/tsmg",
+      "method": "lever_api",
+      "status": "SUCCESS",
+      "raw_count": 4502,
+      "relevant_count": 260,
+      "indonesia_eligible_count": 8,
+      "remote_global_count": 0,
+      "unverified_review_count": 0,
+      "restricted_count": 252,
+      "rejected_irrelevant_count": 4242,
+      "closed_in_payload_count": 0,
+      "last_successful_check": "2026-11-26T09:21:27Z",
+      "duration_ms": 110269,
       "error_message": null
     }
   ]
