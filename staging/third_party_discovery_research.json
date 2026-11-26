@@ -1,0 +1,83 @@
+{
+  "schemaVersion": "2.2-research-v1",
+  "experimentalOnly": true,
+  "doNotPublishToAndroid": true,
+  "generatedAt": "2026-11-26T09:33:22.098137+00:00",
+  "sources": [
+    {
+      "id": "research_remowork",
+      "name": "RemoWork",
+      "url": "https://remowork.life/jobs",
+      "mode": "manual_only",
+      "state": "MANUAL_REVIEW_REQUIRED",
+      "internalCandidateLinks": 0,
+      "outboundHostCount": 0,
+      "candidateSourceDomains": [],
+      "postedDatesVerified": false,
+      "reusePermissionVerified": false,
+      "reason": "RemoWork terms restrict automated scraping without authorization; do not fetch via runner."
+    },
+    {
+      "id": "research_aitrainingjobs",
+      "name": "AI Training Jobs",
+      "url": "https://www.aitrainingjobs.it/open-ai-training-data-annotation-jobs/",
+      "mode": "robots_gated_index",
+      "state": "INDEX_OBSERVED",
+      "internalCandidateLinks": 25,
+      "outboundHostCount": 5,
+      "candidateSourceDomains": [
+        {
+          "domain": "t.me",
+          "links": 2
+        },
+        {
+          "domain": "whatsapp.com",
+          "links": 2
+        },
+        {
+          "domain": "discord.gg",
+          "links": 2
+        },
+        {
+          "domain": "www.reddit.com",
+          "links": 2
+        },
+        {
+          "domain": "cookiedatabase.org",
+          "links": 1
+        }
+      ],
+      "postedDatesVerified": false,
+      "reusePermissionVerified": false,
+      "robots": "robots_checked",
+      "httpStatus": 200
+    },
+    {
+      "id": "research_annotationacademy",
+      "name": "Annotation Academy",
+      "url": "https://annotation.academy/jobs",
+      "mode": "robots_gated_index",
+      "state": "INDEX_OBSERVED",
+      "internalCandidateLinks": 1264,
+      "outboundHostCount": 3,
+      "candidateSourceDomains": [
+        {
+          "domain": "jobs.micro1.ai",
+          "links": 99
+        },
+        {
+          "domain": "ai-opportunities.lionbridge.com",
+          "links": 13
+        },
+        {
+          "domain": "spuud.com",
+          "links": 1
+        }
+      ],
+      "postedDatesVerified": false,
+      "reusePermissionVerified": false,
+      "robots": "robots_checked",
+      "httpStatus": 200
+    }
+  ]
+}
