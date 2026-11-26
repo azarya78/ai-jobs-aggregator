@@ -85,6 +85,13 @@ jobs:
           assert catalog.get("doNotPromoteToAndroidFeed") is True
           jobs = catalog["jobs"]
           assert catalog["totalJobs"] == len(jobs)
+          grouping = catalog["projectGrouping"]
+          grouped = [i for g in grouping["groups"] for i in g["listingIds"]]
+          assert len(grouped) == len(set(grouped)) == len(jobs)
+          assert set(grouped) == {j["id"] for j in jobs}
+          assert all(j.get("applyUrl") for j in jobs)
+          assert grouping["totalContentGroups"] == len(grouping["groups"])
+          print("CONTENT_GROUPS:", grouping["totalContentGroups"], "REPORTED_7D:", grouping["contentGroupsReported7d"], "MULTI:", grouping["multiListingGroups"])
           ids = [j["id"] for j in jobs]
           assert len(ids) == len(set(ids)), "Duplicate catalog IDs"
           assert all(j.get("eligibilityClass") in (

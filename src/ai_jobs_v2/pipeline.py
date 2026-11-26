@@ -25,6 +25,7 @@ from .history import JobHistoryStore
 from .validator import write_json_atomically
 from .freshness_metrics import build_source_freshness
 from .discovery_history import DiscoveryHistory
+from .project_groups import build_project_groups
 from .reporter import (
     build_coverage_report_dict,
     render_coverage_markdown,
@@ -288,6 +289,7 @@ class JobDiscoveryPipeline:
                 item["duplicateListingsCollapsed"] = duplicate_counts[rec.canonical_id]
             discovery_history.observe(item, now_iso, previous, stored)
             catalog_items.append(item)
+        project_groups = build_project_groups(catalog_items, now_iso)
         write_json_atomically(
             self.output_feed_path.parent / "freshness_catalog.json",
             {
@@ -300,6 +302,7 @@ class JobDiscoveryPipeline:
                 "sourceRecordsBeforeSemanticDedup": len(discovery_catalog_records),
                 "semanticDuplicatesCollapsed": collapsed_duplicates,
                 "jobs": catalog_items,
+                "projectGrouping": project_groups,
             },
             validate_android_schema=False,
         )
