@@ -24,6 +24,7 @@ from .url_sanitizer import sanitize_official_apply_url
 from .history import JobHistoryStore
 from .validator import write_json_atomically
 from .freshness_metrics import build_source_freshness
+from .discovery_history import DiscoveryHistory
 from .reporter import (
     build_coverage_report_dict,
     render_coverage_markdown,
@@ -259,6 +260,7 @@ class JobDiscoveryPipeline:
         collapsed_duplicates = len(catalog) - len(kept_by_semantics)
         catalog = list(kept_by_semantics.values())
 
+        discovery_history = DiscoveryHistory(self.output_feed_path.parent / "discovery_history.json")
         catalog_items = []
         for rec in catalog:
             item = rec.to_android_feed_item(boolean_eligible=False)
@@ -284,6 +286,7 @@ class JobDiscoveryPipeline:
             item["dateSource"] = "official_posted" if rec.official_posted_date else "first_detected"
             if duplicate_counts.get(rec.canonical_id):
                 item["duplicateListingsCollapsed"] = duplicate_counts[rec.canonical_id]
+            discovery_history.observe(item, now_iso, previous, stored)
             catalog_items.append(item)
         write_json_atomically(
             self.output_feed_path.parent / "freshness_catalog.json",
@@ -301,6 +304,7 @@ class JobDiscoveryPipeline:
             validate_android_schema=False,
         )
 
+        discovery_history.save(now_iso)
         write_json_atomically(self.output_feed_path, feed_payload, validate_android_schema=True)
         self.history_store.save_atomic(updated_at_iso=now_iso)
         self.http_client.save_cache()
