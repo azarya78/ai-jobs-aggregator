@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import logging
 import pathlib
+import re
 import time
 from datetime import datetime, timezone
 from typing import Dict, Any, List, Optional, Set
@@ -230,6 +231,31 @@ class JobDiscoveryPipeline:
             except (OSError, ValueError, TypeError):
                 logger.warning("Cannot reuse previous freshness catalog discovery dates")
 
+        # Source IDs identify distinct upstream records, not necessarily distinct
+        # opportunities. Workable and other boards can publish a single task many
+        # times with different shortcodes. Collapse only identical visible jobs
+        # (platform + normalized title + location + pay + description excerpt).
+        # Keep different regions, rates, or substantial descriptions separate.
+        def _semantic_key(rec: NormalizedJobRecord):
+            def norm(value: str) -> str:
+                return re.sub(r"\\s+", " ", re.sub(r"[^\\w\\s]", " ", value.casefold())).strip()
+            return (
+                norm(rec.company), norm(rec.title), norm(rec.location),
+                norm(rec.compensation.raw_text), norm(rec.short_description),
+            )
+
+        kept_by_semantics: Dict[tuple, NormalizedJobRecord] = {}
+        duplicate_counts: Dict[str, int] = {}
+        for rec in catalog:
+            key = _semantic_key(rec)
+            if key in kept_by_semantics:
+                representative = kept_by_semantics[key]
+                duplicate_counts[representative.canonical_id] = duplicate_counts.get(representative.canonical_id, 0) + 1
+                continue
+            kept_by_semantics[key] = rec
+        collapsed_duplicates = len(catalog) - len(kept_by_semantics)
+        catalog = list(kept_by_semantics.values())
+
         catalog_items = []
         for rec in catalog:
             item = rec.to_android_feed_item(boolean_eligible=False)
@@ -253,6 +279,8 @@ class JobDiscoveryPipeline:
                 "Location eligibility is informational; check the official application requirements."
             )
             item["dateSource"] = "official_posted" if rec.official_posted_date else "first_detected"
+            if duplicate_counts.get(rec.canonical_id):
+                item["duplicateListingsCollapsed"] = duplicate_counts[rec.canonical_id]
             catalog_items.append(item)
         write_json_atomically(
             self.output_feed_path.parent / "freshness_catalog.json",
@@ -263,6 +291,8 @@ class JobDiscoveryPipeline:
                 "doNotPromoteToAndroidFeed": True,
                 "lastUpdated": now_iso,
                 "totalJobs": len(catalog_items),
+                "sourceRecordsBeforeSemanticDedup": len(discovery_catalog_records),
+                "semanticDuplicatesCollapsed": collapsed_duplicates,
                 "jobs": catalog_items,
             },
             validate_android_schema=False,
