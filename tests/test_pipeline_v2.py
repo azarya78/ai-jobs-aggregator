@@ -126,7 +126,7 @@ class TestFreshnessFirstCatalog(unittest.TestCase):
             catalog = json.loads(catalog_path.read_text(encoding="utf-8"))
             self.assertTrue(catalog["experimentalOnly"])
             self.assertTrue(catalog["doNotPromoteToAndroidFeed"])
-            self.assertEqual([r["id"] for r in published["jobs"]], ["lever_test:id-role"])
+            self.assertEqual([r["id"] for r in published["jobs"]], ["lever_test:duplicate-role", "lever_test:id-role"])
             self.assertEqual(catalog["totalJobs"], 3)
             self.assertEqual(catalog["semanticDuplicatesCollapsed"], 1)
             self.assertEqual(catalog["sourceRecordsBeforeSemanticDedup"], 4)
