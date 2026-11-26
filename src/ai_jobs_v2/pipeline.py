@@ -215,9 +215,40 @@ class JobDiscoveryPipeline:
               if rec.official_posted_date else 0),
             rec.canonical_id,
         ))
+        # Preserve first discovery across successive runs. A repeated scan must
+        # never make an old posting appear newly discovered in Android.
+        previous_catalog_by_id: Dict[str, Dict[str, Any]] = {}
+        catalog_path = self.output_feed_path.parent / "freshness_catalog.json"
+        if catalog_path.exists():
+            try:
+                old_catalog = json.loads(catalog_path.read_text(encoding="utf-8"))
+                if isinstance(old_catalog.get("jobs"), list):
+                    previous_catalog_by_id = {
+                        j["id"]: j for j in old_catalog["jobs"]
+                        if isinstance(j, dict) and isinstance(j.get("id"), str)
+                    }
+            except (OSError, ValueError, TypeError):
+                logger.warning("Cannot reuse previous freshness catalog discovery dates")
+
         catalog_items = []
         for rec in catalog:
             item = rec.to_android_feed_item(boolean_eligible=False)
+            previous = previous_catalog_by_id.get(rec.canonical_id)
+            stored = self.history_store.records.get(rec.canonical_id) or {}
+            old_first_seen = (
+                (previous or {}).get("firstDetectedAt")
+                or stored.get("first_detected_at")
+            )
+            if isinstance(old_first_seen, str) and old_first_seen:
+                item["firstDetectedAt"] = old_first_seen
+                item["firstSeenAt"] = old_first_seen
+            if previous:
+                item["jobStatus"] = (
+                    "EXISTING" if previous.get("fullDescriptionHash") == item["fullDescriptionHash"]
+                    else "UPDATED"
+                )
+            elif stored:
+                item["jobStatus"] = stored.get("job_status", item["jobStatus"])
             item["eligibilityDisclaimer"] = (
                 "Location eligibility is informational; check the official application requirements."
             )
