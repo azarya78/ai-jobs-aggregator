@@ -1,0 +1,70 @@
+{
+  "version": "2.1.0-pilot",
+  "experimentalOnly": true,
+  "doNotPromoteToAndroidFeed": true,
+  "upstreamInspiration": {
+    "project": "santifer/career-ops (career-ops-hq/career-ops)",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2026 Santiago Fernández de Valderrama"
+  },
+  "providers": [
+    {
+      "id": "pilot_himalayas",
+      "providerKey": "himalayas",
+      "platform": "Himalayas",
+      "connector": "himalayas_public_api",
+      "enabled": true,
+      "hostParts": ["himalayas", "app"],
+      "browsePath": "/jobs/api",
+      "searchPath": "/jobs/api/search",
+      "pageSize": 20,
+      "maxPages": 12,
+      "rateLimitRps": 2.0,
+      "includeTargetedSearch": true,
+      "targetedSearches": [
+        {"country": "Indonesia", "sort": "recent"},
+        {"q": "AI trainer", "sort": "recent"},
+        {"q": "AI evaluation", "sort": "recent"},
+        {"q": "data annotation", "sort": "recent"},
+        {"q": "RLHF", "sort": "recent"},
+        {"q": "LLM", "sort": "recent"}
+      ],
+      "authRequired": false,
+      "paginationType": "opaque_cursor_plus_filtered_search",
+      "attributionRequired": true,
+      "termsSummary": "Free public JSON API (no key required; cached up to 1-2h). Must use applicationLink unchanged for Apply actions, display visible Himalayas credit/link-back, remove expired jobs, and never syndicate to third-party aggregators, Google Jobs, or LinkedIn Jobs."
+    },
+    {
+      "id": "pilot_remotive",
+      "providerKey": "remotive",
+      "platform": "Remotive",
+      "connector": "remotive_public_api",
+      "enabled": true,
+      "hostParts": ["remotive", "com"],
+      "browsePath": "/api/remote-jobs",
+      "rateLimitRps": 0.4,
+      "authRequired": false,
+      "paginationType": "single_full_feed",
+      "feedDelayHours": 24,
+      "attributionRequired": true,
+      "termsSummary": "Free public JSON API (no key required; 24-hour listing delay). Rate-limited above 2 req/min (max 4 requests/day recommended). Must link back to the Remotive listing URL and credit Remotive; prohibited from republishing to third-party job boards or gating behind email signup."
+    },
+    {
+      "id": "pilot_jobicy",
+      "providerKey": "jobicy",
+      "platform": "Jobicy",
+      "connector": "jobicy_public_api",
+      "enabled": true,
+      "hostParts": ["jobicy", "com"],
+      "browsePath": "/api/v2/remote-jobs",
+      "pageSize": 100,
+      "maxPages": 20,
+      "rateLimitRps": 0.8,
+      "authRequired": false,
+      "paginationType": "opaque_cursor_7d_window",
+      "rollingWindowDays": 7,
+      "attributionRequired": true,
+      "termsSummary": "Free public JSON API returning remote listings published in the last 7 days (~3h delay; 1 req/s IP limit, fair-use <= 1 automated pass/hour). Public url points to Jobicy listing page (direct ATS URLs require paid Commercial API key); attribution and link-back to Jobicy required."
+    }
+  ]
+}
