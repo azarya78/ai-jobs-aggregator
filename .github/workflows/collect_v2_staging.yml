@@ -94,7 +94,14 @@ jobs:
           dates = [datetime.fromisoformat(j["officialPostedDate"].replace("Z", "+00:00")) for j in dated]
           assert dates == sorted(dates, reverse=True), "Dated jobs not newest first"
           assert all(j.get("officialPostedDate") for j in jobs[:len(dated)]), "Undated jobs above dated jobs"
-          print(f"Freshness catalog validated: {len(jobs)} jobs, {len(dated)} dated")
+          from collections import Counter
+          now = datetime.now(timezone.utc)
+          recent = [j for j in jobs if j.get("officialPostedDate") and 0 <= (now - datetime.fromisoformat(j["officialPostedDate"].replace("Z", "+00:00"))).total_seconds() <= 7 * 86400]
+          geography = Counter(j.get("eligibilityClass", "Unspecified") for j in jobs)
+          print(f"Freshness catalog validated: {len(jobs)} jobs, {len(dated)} dated; {len(recent)} posted in <=7d")
+          print("Geographic classification:", dict(geography))
+          for item in jobs[:8]:
+              print("TOP_POSTED:", item.get("officialPostedDate") or "undated", "|", item.get("company"), "|", item.get("title"), "|", item.get("eligibilityClass"))
           PY
 
       - name: Publish Source Coverage Report to Step Summary
