@@ -16,7 +16,11 @@
       "platform": "Handshake AI",
       "url": "https://joinhandshake.com/ai/opportunities/",
       "host": "joinhandshake.com",
-      "pathPrefix": "/ai/opportunities/"
+      "pathPrefix": "/ai/opportunities/",
+      "excludeSlugs": [
+        "fellow-stories",
+        "opportunities"
+      ]
     },
     {
       "id": "radar_dataannotation",
