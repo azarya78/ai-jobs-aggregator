@@ -187,7 +187,12 @@ def _with_base_connector_defaults(
     cfg.setdefault("platform", default_platform)
     host_parts = cfg.get("hostParts") or default_host_parts
     browse_path = str(cfg.get("browsePath") or default_path)
-    cfg.setdefault("official_url", str(cfg.get("endpointUrl") or build_https_endpoint(list(host_parts), browse_path)))
+    endpoint = str(cfg.get("endpointUrl") or build_https_endpoint(list(host_parts), browse_path))
+    cfg.setdefault("official_url", endpoint)
+    cfg.setdefault("api_endpoint", endpoint)
+    cfg.setdefault("method", str(cfg.get("method") or "public_api"))
+    cfg.setdefault("rate_limit_rps", float(cfg.get("rateLimitRps") or 1.0))
+    cfg.setdefault("pure_ai_eval_board", False)
     return cfg
 
 
