@@ -301,6 +301,18 @@ class JobDiscoveryPipeline:
                     item["jobStatus"] = "EXISTING" if previous.get("fullDescriptionHash") == item["fullDescriptionHash"] else "UPDATED"
                 catalog_items.append(item)
             logger.info("LICENSED_AITRAINER: %s", json.dumps(syndicated_report, ensure_ascii=False))
+        opentrain_report = None
+        if self.output_feed_path.parent.name == "staging" and cfg.get("enable_licensed_opentrain_catalog") is True:
+            from .licensed_opentrain import refresh_snapshot as refresh_opentrain, merge_snapshot as merge_opentrain
+            snapshot = refresh_opentrain(self.http_client, self.state_dir / "opentrain_snapshot.json", now_iso)
+            added, opentrain_report = merge_opentrain(catalog_items, snapshot, now_iso)
+            for item in added:
+                previous = previous_catalog_by_id.get(item["id"])
+                discovery_history.observe(item, now_iso, previous)
+                if previous:
+                    item["jobStatus"] = "EXISTING" if previous.get("fullDescriptionHash") == item["fullDescriptionHash"] else "UPDATED"
+                catalog_items.append(item)
+            logger.info("LICENSED_OPENTRAIN: %s", json.dumps(opentrain_report, ensure_ascii=False))
         project_groups = build_project_groups(catalog_items, now_iso)
         write_json_atomically(
             self.output_feed_path.parent / "freshness_catalog.json",
@@ -316,6 +328,7 @@ class JobDiscoveryPipeline:
                 "jobs": catalog_items,
                 "projectGrouping": project_groups,
                 "licensedDiscovery": syndicated_report,
+                "openTrainDiscovery": opentrain_report,
             },
             validate_android_schema=False,
         )
@@ -353,6 +366,8 @@ class JobDiscoveryPipeline:
         )
         if syndicated_report is not None:
             cov_dict["licensedDiscovery"] = syndicated_report
+        if opentrain_report is not None:
+            cov_dict["openTrainDiscovery"] = opentrain_report
         cov_dict["sourceFreshness"] = build_source_freshness(
             catalog_items, connector_reports, previous_catalog_by_id, now_iso, has_previous_catalog
         )

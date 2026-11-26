@@ -232,5 +232,6 @@
       "notes": "Official Lionbridge European Lever postings board. Discovered via cross-check of Annotation Academy outbound job sources; source is first-party Lever. Staging-only freshness-first catalog."
     }
   ],
-  "enable_licensed_aitrainer_catalog": true
+  "enable_licensed_aitrainer_catalog": true,
+  "enable_licensed_opentrain_catalog": true
 }
