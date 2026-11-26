@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "reviewedAt": "2026-11-26",
+  "experimentalOnly": true,
+  "doNotPublishToAndroid": true,
+  "policy": "Record technical readiness separately from collection and reuse permission. Do not enable sources with unverified permission.",
+  "sources": [
+    {
+      "platform": "Meridial",
+      "ats": "greenhouse",
+      "board": "agency",
+      "officialPage": "https://www.meridial.ai/projects",
+      "technicalStatus": "API_REACHABLE_PREVIOUS_PILOT",
+      "permissionStatus": "UNVERIFIED",
+      "decision": "HOLD",
+      "evidence": [
+        "https://docs.greenhouse.io/job-board.html",
+        "https://support.greenhouse.io/hc/en-us/articles/10568627186203-Greenhouse-API-overview"
+      ],
+      "next": "Request authorization for metadata and direct links in a personal discovery application."
+    },
+    {
+      "platform": "Innodata",
+      "ats": "greenhouse",
+      "board": "innodatainc",
+      "officialPage": "https://careers.innodata.com/",
+      "technicalStatus": "API_REACHABLE_PREVIOUS_PILOT",
+      "permissionStatus": "UNVERIFIED",
+      "decision": "HOLD",
+      "next": "Verify board ownership and request authorization for metadata reuse."
+    },
+    {
+      "platform": "LILT",
+      "ats": "ashby",
+      "board": "lilt-production",
+      "officialPage": "https://lilt.com/careers",
+      "technicalStatus": "API_REACHABLE_PREVIOUS_PILOT",
+      "permissionStatus": "RESTRICTIVE_WEBSITE_TERMS_API_SCOPE_UNVERIFIED",
+      "decision": "HOLD",
+      "evidence": [
+        "https://lilt.com/website-terms-of-use"
+      ],
+      "next": "Obtain explicit clarification for Ashby posting API use."
+    },
+    {
+      "platform": "Anyone AI",
+      "ats": "ashby",
+      "board": "anyone-ai",
+      "technicalStatus": "API_REACHABLE_PREVIOUS_PILOT",
+      "permissionStatus": "UNVERIFIED",
+      "decision": "HOLD"
+    },
+    {
+      "platform": "Terac",
+      "ats": "ashby",
+      "board": "terac",
+      "technicalStatus": "API_REACHABLE_PREVIOUS_PILOT",
+      "permissionStatus": "UNVERIFIED",
+      "decision": "HOLD"
+    },
+    {
+      "platform": "Handshake",
+      "ats": "ashby",
+      "board": "handshake",
+      "technicalStatus": "API_REACHABLE_PREVIOUS_PILOT",
+      "permissionStatus": "UNVERIFIED",
+      "decision": "HOLD"
+    }
+  ]
+}
