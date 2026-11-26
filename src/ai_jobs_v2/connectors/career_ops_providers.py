@@ -175,6 +175,22 @@ def format_structured_salary(
     return raw_display, meta
 
 
+def _with_base_connector_defaults(
+    config: Dict[str, Any],
+    default_id: str,
+    default_platform: str,
+    default_host_parts: List[str],
+    default_path: str,
+) -> Dict[str, Any]:
+    cfg = dict(config)
+    cfg.setdefault("id", default_id)
+    cfg.setdefault("platform", default_platform)
+    host_parts = cfg.get("hostParts") or default_host_parts
+    browse_path = str(cfg.get("browsePath") or default_path)
+    cfg.setdefault("official_url", str(cfg.get("endpointUrl") or build_https_endpoint(list(host_parts), browse_path)))
+    return cfg
+
+
 class HimalayasDiscoveryConnector(BaseConnector):
     """Python adaptation of Career-Ops `providers/himalayas.mjs` + documented `/jobs/api/search`."""
 
@@ -183,7 +199,10 @@ class HimalayasDiscoveryConnector(BaseConnector):
     MAX_PAGE_SIZE = 20
 
     def __init__(self, config: Dict[str, Any], http_client: PoliteHTTPClient):
-        super().__init__(config, http_client)
+        super().__init__(
+            _with_base_connector_defaults(config, "pilot_himalayas", "Himalayas", ["himalayas", "app"], "/jobs/api"),
+            http_client,
+        )
         self.last_fetch_metadata: Dict[str, Any] = {}
 
     def _root_domain(self) -> str:
@@ -451,7 +470,10 @@ class RemotiveDiscoveryConnector(BaseConnector):
     """Python adaptation of Career-Ops `providers/remotive.mjs`."""
 
     def __init__(self, config: Dict[str, Any], http_client: PoliteHTTPClient):
-        super().__init__(config, http_client)
+        super().__init__(
+            _with_base_connector_defaults(config, "pilot_remotive", "Remotive", ["remotive", "com"], "/api/remote-jobs"),
+            http_client,
+        )
         self.last_fetch_metadata: Dict[str, Any] = {}
 
     def _root_domain(self) -> str:
@@ -575,7 +597,10 @@ class JobicyDiscoveryConnector(BaseConnector):
     DEFAULT_PAGE_SIZE = 100
 
     def __init__(self, config: Dict[str, Any], http_client: PoliteHTTPClient):
-        super().__init__(config, http_client)
+        super().__init__(
+            _with_base_connector_defaults(config, "pilot_jobicy", "Jobicy", ["jobicy", "com"], "/api/v2/remote-jobs"),
+            http_client,
+        )
         self.last_fetch_metadata: Dict[str, Any] = {}
 
     def _root_domain(self) -> str:
