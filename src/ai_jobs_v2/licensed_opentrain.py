@@ -8,6 +8,7 @@ from .models import RawJobListing
 from .normalizer import normalize_raw_listing, normalize_iso_date
 from .freshness_metrics import parse_date, hours_since
 from .validator import write_json_atomically
+from .http_client import redact_secrets
 
 def fetch_opentrain(http,max_pages=100):
     rows=[]
@@ -28,12 +29,12 @@ def fetch_opentrain(http,max_pages=100):
 
 
 SOURCE="syndicated_opentrain"
-def valid_link(link):
+def valid_link(link, landing=False):
     if not isinstance(link,str) or any(c.isspace() or ord(c)<32 for c in link):
         return False
     try:
         p=urlsplit(link)
-        return p.scheme=="https" and p.hostname=="app.opentrain.ai" and not p.username and not p.password and p.port in (None,443) and p.path not in ("","/")
+        return p.scheme=="https" and p.hostname in (("app.opentrain.ai","www.opentrain.ai","opentrain.ai") if landing else ("app.opentrain.ai",)) and not p.username and not p.password and p.port in (None,443) and p.path not in ("","/")
     except ValueError:
         return False
 
@@ -42,7 +43,7 @@ def make_item(row,now):
         return None
     title,company,link,landing=(string(row.get(k)) for k in ("title","companyName","applyUrl","url"))
     sid=str(row.get("id") or "")
-    if not title or not company or not sid or not valid_link(link) or not valid_link(landing):
+    if not title or not company or not sid or not valid_link(link) or not valid_link(landing, landing=True):
         return None
     expiry=normalize_iso_date(row.get("validThrough"))
     if expiry and parse_date(expiry)<parse_date(now):
@@ -80,6 +81,9 @@ def refresh_snapshot(http,path,now):
         prior=json.loads(path.read_text())
         age=hours_since(prior.get("checkedAt"),parse_date(now))
         if age is not None and age<4: return prior
+    diagnostics=Counter()
+    rows=[]
+    pages=0
     try:
         rows,pages=fetch_opentrain(http)
         buckets=defaultdict(list)
@@ -90,12 +94,23 @@ def refresh_snapshot(http,path,now):
         for group in buckets.values():
             if len({json.dumps(row,sort_keys=True) for row in group})!=1:
                 conflicts+=len(group);continue
-            item=make_item(group[0],now)
+            row=group[0]
+            if row.get("status")!="OPEN":
+                diagnostics["not_open"]+=1
+                continue
+            if not valid_link(row.get("applyUrl")):
+                diagnostics["invalid_apply_url"]+=1
+                continue
+            if not valid_link(row.get("url"),landing=True):
+                diagnostics["invalid_landing_url"]+=1
+                continue
+            item=make_item(row,now)
             if item: items.append(item)
+            else: diagnostics["expired_irrelevant_or_missing"]+=1
         if not items: raise ValueError("No open relevant records")
-        result=dict(status="SUCCESS",checkedAt=now,raw=len(rows),pages=pages,conflicts=conflicts,items=items)
+        result=dict(status="SUCCESS",checkedAt=now,raw=len(rows),pages=pages,conflicts=conflicts,items=items,diagnostics=dict(diagnostics))
     except Exception as exc:
-        result=dict(status="FAILED",checkedAt=now,items=[],error=type(exc).__name__)
+        result=dict(status="FAILED",checkedAt=now,items=[],raw=len(rows),pages=pages,diagnostics=dict(diagnostics),error=redact_secrets(str(exc))[:200])
     write_json_atomically(path,result)
     return result
 
@@ -111,4 +126,4 @@ def merge_snapshot(existing,snapshot,now):
     return added,dict(status=snapshot["status"],checkedAt=snapshot["checkedAt"],raw=snapshot.get("raw",0),pages=snapshot.get("pages",0),
         candidates=len(snapshot["items"]),added=len(added),duplicates=len(snapshot["items"])-len(added),
         marketplaceReported24h=sum(a is not None and a<=24 for a in ages),marketplaceReported7d=sum(a is not None and a<=168 for a in ages),
-        officialDates=0,applyModes=dict(Counter(j["applyMode"] for j in added)))
+        error=snapshot.get("error"),diagnostics=snapshot.get("diagnostics",{}),officialDates=0,applyModes=dict(Counter(j["applyMode"] for j in added)))

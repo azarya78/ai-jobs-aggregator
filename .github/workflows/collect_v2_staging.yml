@@ -108,6 +108,7 @@ jobs:
           ot = [j for j in jobs if j.get("sourceConnector") == "syndicated_opentrain"]
           assert all(j["isDirect"] is False and not j["officialPostedDate"] and not j["date"] and j["eligibilityClass"] == "Unverified" and j["applyUrl"].startswith("https://app.opentrain.ai/") and "Via OpenTrain" in j["excerpt"] for j in ot)
           print("OPENTRAIN:", len(ot))
+          assert catalog.get("openTrainDiscovery", {}).get("status") == "SUCCESS" and ot, "OpenTrain enabled but no listings published"
           from collections import Counter
           now = datetime.now(timezone.utc)
           recent = [j for j in jobs if j.get("officialPostedDate") and 0 <= (now - datetime.fromisoformat(j["officialPostedDate"].replace("Z", "+00:00"))).total_seconds() <= 7 * 86400]

@@ -1,6 +1,6 @@
 {
   "status": "FAILED",
-  "checkedAt": "2026-11-26T14:36:31Z",
+  "checkedAt": "1970-01-01T00:00:00Z",
   "items": [],
-  "error": "ValueError"
+  "error": "Invalidated failed snapshot for corrected collector"
 }

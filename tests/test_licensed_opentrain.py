@@ -16,3 +16,10 @@ def test_merge_overlap():
     item=make_item(ROW,NOW)
     added,report=merge_snapshot([{"id":"x","applyUrl":ROW["applyUrl"]}],{"status":"SUCCESS","checkedAt":NOW,"items":[item]},NOW)
     assert not added and report["duplicates"]==1
+
+def test_public_landing_and_original_apply():
+    item=make_item(dict(ROW,url="https://www.opentrain.ai/jobs/a"),NOW)
+    assert item and item["officialSourceUrl"]=="https://www.opentrain.ai/jobs/a"
+    assert item["applyUrl"]==ROW["applyUrl"]
+    assert not valid_link("https://www.opentrain.ai/jobs/a")
+    assert not valid_link("https://www.opentrain.ai.evil.example/jobs/a",landing=True)
