@@ -217,6 +217,19 @@
       "rate_limit_rps": 1,
       "timeout_sec": 20,
       "notes": "Official Lever board with AI data collection and annotation jobs. Staging-only."
+    },
+    {
+      "id": "lever_lionbridge",
+      "platform": "Lionbridge AI Data Training",
+      "official_url": "https://jobs.eu.lever.co/lionbridge",
+      "api_endpoint": "https://api.eu.lever.co/v0/postings/lionbridge",
+      "method": "lever_api",
+      "logo": "https://www.google.com/s2/favicons?domain=lionbridge.com&sz=128",
+      "pure_ai_eval_board": false,
+      "enabled": true,
+      "rate_limit_rps": 1,
+      "timeout_sec": 20,
+      "notes": "Official Lionbridge European Lever postings board. Discovered via cross-check of Annotation Academy outbound job sources; source is first-party Lever. Staging-only freshness-first catalog."
     }
   ]
 }
