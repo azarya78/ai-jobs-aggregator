@@ -1,0 +1,27 @@
+name: Connector Recovery Pilot (Isolated)
+on:
+  push:
+    branches: [feat/v2-direct-discovery]
+    paths: ['pilot_recovery/**', '.github/workflows/connector_recovery_pilot.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  audit:
+    if: github.ref == 'refs/heads/feat/v2-direct-discovery'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - run: PYTHONPATH=src:.:pilot_recovery python -m pytest tests/ pilot_recovery/ -q
+      - run: PYTHONPATH=src:. python pilot_recovery/recovery_pilot.py
+      - run: git diff --exit-code
+      - uses: actions/upload-artifact@v4
+        with:
+          name: connector-recovery-report
+          path: recovery-report.json
+          if-no-files-found: error
