@@ -2,9 +2,9 @@
   "schemaVersion": "source-radar-v1",
   "experimentalOnly": true,
   "doNotPublishToAndroid": true,
-  "checkedAt": "2026-11-26T09:21:26Z",
+  "checkedAt": "2026-11-26T09:21:52Z",
   "sourcesChecked": 6,
-  "sourcesWithPublicIndexLinks": 2,
+  "sourcesWithPublicIndexLinks": 1,
   "sources": [
     {
       "id": "radar_begun",
@@ -23,12 +23,9 @@
       "id": "radar_handshake",
       "platform": "Handshake AI",
       "url": "https://joinhandshake.com/ai/opportunities/",
-      "status": "PUBLIC_LIST_LINKS",
-      "matchingLinkCount": 2,
-      "sampleOfficialLinks": [
-        "https://joinhandshake.com/ai/opportunities/fellow-stories",
-        "https://joinhandshake.com/ai/opportunities/opportunities"
-      ],
+      "status": "NO_STATIC_JOB_LINKS",
+      "matchingLinkCount": 0,
+      "sampleOfficialLinks": [],
       "sourceType": "official_public_page",
       "postingDatesVerified": false,
       "syndicationApproved": false,
