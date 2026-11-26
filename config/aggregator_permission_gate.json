@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "aggregator-permission-gate-v1",
+  "experimentalOnly": true,
+  "doNotPublishToAndroid": true,
+  "policy": "DENY_BY_DEFAULT: never auto-collect or republish third-party aggregator listings without separately documented permission. A public page/RSS endpoint or permissive robots.txt alone does not authorize reuse.",
+  "sources": [
+    {
+      "id": "remowork",
+      "name": "RemoWork",
+      "domain": "remowork.life",
+      "publicIndex": "https://remowork.life/jobs",
+      "publicFeed": "https://remowork.life/feeds/jobs",
+      "termsUrl": "https://remowork.life/terms",
+      "technicalDiscovery": "FEED_ADVERTISED_UNTESTED",
+      "automatedCollectionPermission": "NOT_GRANTED",
+      "republishingPermission": "NOT_GRANTED",
+      "decision": "RESEARCH_ONLY",
+      "reason": "The site advertises a public feed but its site terms restrict copying/public display and list unauthorized automated scraping as grounds for suspension. Obtain explicit reuse permission for the intended application before integration."
+    },
+    {
+      "id": "aitrainingjobs_it",
+      "name": "AI Training Jobs Italy",
+      "domain": "aitrainingjobs.it",
+      "publicIndex": "https://www.aitrainingjobs.it/open-ai-training-data-annotation-jobs/",
+      "technicalDiscovery": "PUBLIC_HTML_INDEX_OBSERVED",
+      "automatedCollectionPermission": "UNVERIFIED",
+      "republishingPermission": "UNVERIFIED",
+      "decision": "RESEARCH_ONLY",
+      "reason": "Index available, but neither an applicable publication license nor permission for AI Jobs Hub redistribution has been verified. This domain is distinct from aitraining.jobs."
+    },
+    {
+      "id": "annotation_academy",
+      "name": "Annotation Academy",
+      "domain": "annotation.academy",
+      "publicIndex": "https://annotation.academy/jobs",
+      "technicalDiscovery": "PUBLIC_HTML_INDEX_OBSERVED",
+      "automatedCollectionPermission": "UNVERIFIED",
+      "republishingPermission": "UNVERIFIED",
+      "decision": "RESEARCH_ONLY",
+      "reason": "Public page references multiple first-party job boards; redistribution/automatic collection permission not verified. Use to identify upstream sources through compliant research."
+    }
+  ]
+}
