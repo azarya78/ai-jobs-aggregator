@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T09:36:03Z",
+  "lastUpdated": "2026-11-26T09:39:18Z",
   "totalUnverified": 131,
   "jobs": [
     {
@@ -37,12 +37,12 @@
       },
       "fullDescriptionHash": "e0af57bf7b1271a8",
       "officialPostedDate": "2024-10-01T11:58:16Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "lever_weloglobal:16eff280-4586-4767-aedc-235217abf2d8",
@@ -81,10 +81,10 @@
       "officialPostedDate": "2026-10-08T11:51:46Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "lever_weloglobal:9c91ec15-acac-42fc-8ba0-c5f610556d0d",
@@ -123,10 +123,10 @@
       "officialPostedDate": "2026-11-18T16:10:01Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "lever_weloglobal:421589cc-06c4-49c9-81be-76ca0fc232a2",
@@ -165,10 +165,10 @@
       "officialPostedDate": "2026-10-21T14:09:30Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "lever_weloglobal:8cd5c6e3-d1de-4975-a8a4-e07d6c2d180d",
@@ -207,10 +207,10 @@
       "officialPostedDate": "2026-10-08T14:00:57Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "lever_weloglobal:0d66f514-1fe7-42e1-8382-483781058aef",
@@ -249,10 +249,10 @@
       "officialPostedDate": "2026-10-08T13:28:36Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "lever_weloglobal:afe9e037-0c32-4a0e-88e6-befe5f51ee55",
@@ -291,10 +291,10 @@
       "officialPostedDate": "2026-10-08T11:43:56Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "lever_weloglobal:088ad3b5-4e2e-406d-b115-c4a6db6cbdf5",
@@ -333,10 +333,10 @@
       "officialPostedDate": "2026-10-08T13:36:09Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "lever_weloglobal:adbe2454-db65-48b3-8e25-82a7d735a39a",
@@ -375,10 +375,10 @@
       "officialPostedDate": "2026-10-08T13:38:38Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "lever_weloglobal:a6fa29ef-6062-4ade-9674-c061cc230104",
@@ -417,10 +417,10 @@
       "officialPostedDate": "2026-10-08T13:42:56Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "lever_weloglobal:8cb7d843-fecc-4614-b925-c5373651ddd0",
@@ -459,10 +459,10 @@
       "officialPostedDate": "2026-10-08T13:44:55Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "lever_weloglobal:00ac6822-8a23-4cad-8bd9-f92f77db51a0",
@@ -501,10 +501,10 @@
       "officialPostedDate": "2026-10-07T14:15:17Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "lever_weloglobal:82e197c4-7341-4cb6-a81f-183d77f0427a",
@@ -543,10 +543,10 @@
       "officialPostedDate": "2026-10-08T13:58:08Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "teamtailor_dataforce:745096-qa-hebrew",
@@ -583,12 +583,12 @@
       },
       "fullDescriptionHash": "e6c4f1ba0a104cbf",
       "officialPostedDate": "2026-11-24T08:48:07Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "teamtailor_dataforce",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoe5-EDcz8NJf_69EcIgl",
@@ -625,12 +625,12 @@
       },
       "fullDescriptionHash": "a02e1e659f77392e",
       "officialPostedDate": "2026-11-18T11:50:01Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodVEHAaAjmbH4iJCT7ME",
@@ -671,12 +671,12 @@
       },
       "fullDescriptionHash": "e23406b20007a892",
       "officialPostedDate": "2026-11-13T14:16:13Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodVEEpvBK3U18ZJKUJnY",
@@ -717,12 +717,12 @@
       },
       "fullDescriptionHash": "3cd404e3da7edd97",
       "officialPostedDate": "2026-11-13T14:16:10Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodVECUWPNE5aVVdB9IT1",
@@ -763,12 +763,12 @@
       },
       "fullDescriptionHash": "81a24af7f57d258d",
       "officialPostedDate": "2026-11-13T14:16:08Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodVD_1Rtf7wdQGZF0524",
@@ -809,12 +809,12 @@
       },
       "fullDescriptionHash": "3b786e8b3c16d7c2",
       "officialPostedDate": "2026-11-13T14:16:05Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodVD7VTLrW6oW65Cdby6",
@@ -856,12 +856,12 @@
       },
       "fullDescriptionHash": "c7f4ab4c8aa24e73",
       "officialPostedDate": "2026-11-13T14:16:01Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodVD4ylYia6TeD5NjKGR",
@@ -902,12 +902,12 @@
       },
       "fullDescriptionHash": "3f110d9721c8844a",
       "officialPostedDate": "2026-11-13T14:15:58Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodVD2hPOOQf0SUFLxLbm",
@@ -948,12 +948,12 @@
       },
       "fullDescriptionHash": "da07be895bee21cf",
       "officialPostedDate": "2026-11-13T14:15:56Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodVD0LKRYKowg_9PYaoR",
@@ -994,12 +994,12 @@
       },
       "fullDescriptionHash": "460655707f60ce85",
       "officialPostedDate": "2026-11-13T14:15:53Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodVDxV3haXmB00BKN57Y",
@@ -1040,12 +1040,12 @@
       },
       "fullDescriptionHash": "d4e92083dc7a3e79",
       "officialPostedDate": "2026-11-13T14:15:50Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodVCsxPi5PkD6epA9KrD",
@@ -1086,12 +1086,12 @@
       },
       "fullDescriptionHash": "16ec164815b1e333",
       "officialPostedDate": "2026-11-13T14:14:40Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodVCqTI3CAevx5dBo4bW",
@@ -1132,12 +1132,12 @@
       },
       "fullDescriptionHash": "fefe2f57ea8f887e",
       "officialPostedDate": "2026-11-13T14:14:38Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodVCn2A5i2_yVKRLW7FI",
@@ -1178,12 +1178,12 @@
       },
       "fullDescriptionHash": "d098db7727034e60",
       "officialPostedDate": "2026-11-13T14:14:35Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodVCln0c9qn2KKVDmoAr",
@@ -1224,12 +1224,12 @@
       },
       "fullDescriptionHash": "de411afadec246ef",
       "officialPostedDate": "2026-11-13T14:14:33Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodVCjW1hRgHyHERIxZxS",
@@ -1270,12 +1270,12 @@
       },
       "fullDescriptionHash": "b2fab769729cedc7",
       "officialPostedDate": "2026-11-13T14:14:31Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodVCg8d6cjN1PjFA6o09",
@@ -1316,12 +1316,12 @@
       },
       "fullDescriptionHash": "d1a2f3f40b8081b2",
       "officialPostedDate": "2026-11-13T14:14:28Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodVCeXSx1dxnKUJOpZXt",
@@ -1362,12 +1362,12 @@
       },
       "fullDescriptionHash": "a6a78abe197c450f",
       "officialPostedDate": "2026-11-13T14:14:25Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodVBTumB5opNDqxN8JHI",
@@ -1408,12 +1408,12 @@
       },
       "fullDescriptionHash": "e30e25ed6e9accbe",
       "officialPostedDate": "2026-11-13T14:13:09Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodU_dU4UcjK3q85GOoYT",
@@ -1454,12 +1454,12 @@
       },
       "fullDescriptionHash": "fe5df08688834183",
       "officialPostedDate": "2026-11-13T14:11:08Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodU_StwmvCOcOiBPvrtV",
@@ -1500,12 +1500,12 @@
       },
       "fullDescriptionHash": "1bdc91c540713c50",
       "officialPostedDate": "2026-11-13T14:10:57Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodU_MnCKJjLcP6BGGIxU",
@@ -1546,12 +1546,12 @@
       },
       "fullDescriptionHash": "f0340b2dd0d6f0e9",
       "officialPostedDate": "2026-11-13T14:10:51Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodU_GsvB95piXJZKNrs0",
@@ -1592,12 +1592,12 @@
       },
       "fullDescriptionHash": "bbeedc2fa0aaca17",
       "officialPostedDate": "2026-11-13T14:10:45Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodU_Be96xZEg1PVFm7KS",
@@ -1638,12 +1638,12 @@
       },
       "fullDescriptionHash": "d7bc9e97461aef1d",
       "officialPostedDate": "2026-11-13T14:10:39Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodU-8Ke1nyWj4KxMz5K3",
@@ -1684,12 +1684,12 @@
       },
       "fullDescriptionHash": "e470e07bc34c7e65",
       "officialPostedDate": "2026-11-13T14:10:34Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodU-1biYNoQyWeFElIoT",
@@ -1730,12 +1730,12 @@
       },
       "fullDescriptionHash": "dbf8402c2c496396",
       "officialPostedDate": "2026-11-13T14:10:27Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodU-t4hVp4a2yJtED511",
@@ -1776,12 +1776,12 @@
       },
       "fullDescriptionHash": "714e90460d2e0081",
       "officialPostedDate": "2026-11-13T14:10:19Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodU8ZHuloRr86KlFd5ib",
@@ -1822,12 +1822,12 @@
       },
       "fullDescriptionHash": "1a3f1bf2fdeda5ba",
       "officialPostedDate": "2026-11-13T14:07:47Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodU8SN2oa8G_OfpEuosC",
@@ -1868,12 +1868,12 @@
       },
       "fullDescriptionHash": "0a2bbc7e04998284",
       "officialPostedDate": "2026-11-13T14:07:40Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodU8NQFNS31S3tlDo75x",
@@ -1914,12 +1914,12 @@
       },
       "fullDescriptionHash": "5fad8a777a8cdcb0",
       "officialPostedDate": "2026-11-13T14:07:35Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodU8IymE5oUMp2xHPIyW",
@@ -1960,12 +1960,12 @@
       },
       "fullDescriptionHash": "e2df5a0b9027ca2b",
       "officialPostedDate": "2026-11-13T14:07:30Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodU7_yqvwSmNHe5NL53S",
@@ -2006,12 +2006,12 @@
       },
       "fullDescriptionHash": "7157ffd9a3c5fe24",
       "officialPostedDate": "2026-11-13T14:07:21Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodU725g6W3m1meZGZajk",
@@ -2052,12 +2052,12 @@
       },
       "fullDescriptionHash": "fbdc1e2dc03d4f3e",
       "officialPostedDate": "2026-11-13T14:07:12Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodU7yrShFAvmm3ZIg6rN",
@@ -2098,12 +2098,12 @@
       },
       "fullDescriptionHash": "3ae4a6e1da43f36e",
       "officialPostedDate": "2026-11-13T14:07:07Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodU7tQE6GRaVyuVOg43o",
@@ -2144,12 +2144,12 @@
       },
       "fullDescriptionHash": "f7c2668f92e53a7d",
       "officialPostedDate": "2026-11-13T14:07:02Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABodU7lw8bP6UCpLRNx5DM",
@@ -2190,12 +2190,12 @@
       },
       "fullDescriptionHash": "56d087c94a1f423d",
       "officialPostedDate": "2026-11-13T14:06:54Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoXlzElsOghL6D6NMkrR1",
@@ -2236,12 +2236,12 @@
       },
       "fullDescriptionHash": "387fa4738631f069",
       "officialPostedDate": "2026-10-26T18:22:27Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoXlzADizwRyyDutBMpdx",
@@ -2283,12 +2283,12 @@
       },
       "fullDescriptionHash": "74e60d957ad4ea76",
       "officialPostedDate": "2026-10-26T18:22:22Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoXly0nwFAwR_xQRKWZqJ",
@@ -2329,12 +2329,12 @@
       },
       "fullDescriptionHash": "bd4c3a04d94aea03",
       "officialPostedDate": "2026-10-26T18:22:11Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoXlytUOfloSDF6JPw4yP",
@@ -2375,12 +2375,12 @@
       },
       "fullDescriptionHash": "71dc3f194c09f050",
       "officialPostedDate": "2026-10-26T18:22:03Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoXlygrOU-ta0mvZC0qz9",
@@ -2421,12 +2421,12 @@
       },
       "fullDescriptionHash": "dbffaa40e679be50",
       "officialPostedDate": "2026-10-26T18:21:50Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoXlycrggl4K-OZNMvars",
@@ -2467,12 +2467,12 @@
       },
       "fullDescriptionHash": "0640b913a17c0d20",
       "officialPostedDate": "2026-10-26T18:21:46Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoXlyYOQK6mM0D4FG05Qu",
@@ -2513,12 +2513,12 @@
       },
       "fullDescriptionHash": "2b47ef424ea71e39",
       "officialPostedDate": "2026-10-26T18:21:41Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoXlyRHc9GXoJIl5D2ZLc",
@@ -2559,12 +2559,12 @@
       },
       "fullDescriptionHash": "3490ac810b73065f",
       "officialPostedDate": "2026-10-26T18:21:34Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoXlyK9PwfCExhuBHMY1G",
@@ -2605,12 +2605,12 @@
       },
       "fullDescriptionHash": "7a077cd0f9d9c76b",
       "officialPostedDate": "2026-10-26T18:21:28Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoXlxmGVod2040vVGaYCZ",
@@ -2651,12 +2651,12 @@
       },
       "fullDescriptionHash": "b55f4974c754c3a3",
       "officialPostedDate": "2026-10-26T18:20:50Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoXlxes1TY58ozMJMQpjn",
@@ -2697,12 +2697,12 @@
       },
       "fullDescriptionHash": "dc6885d58fa9eb62",
       "officialPostedDate": "2026-10-26T18:20:43Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoXlxYDftYp_n8FROgpw8",
@@ -2743,12 +2743,12 @@
       },
       "fullDescriptionHash": "38c964844e9055e5",
       "officialPostedDate": "2026-10-26T18:20:36Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoXlxQ1_U0AdHynRKwpJ2",
@@ -2789,12 +2789,12 @@
       },
       "fullDescriptionHash": "3a645b5a4b4ea3b8",
       "officialPostedDate": "2026-10-26T18:20:28Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoXlxJUZCaSZmMttJ6IMb",
@@ -2835,12 +2835,12 @@
       },
       "fullDescriptionHash": "35eb3c26b7aa8bf0",
       "officialPostedDate": "2026-10-26T18:20:21Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoXlvyUH1tzlT-IpJg6wm",
@@ -2881,12 +2881,12 @@
       },
       "fullDescriptionHash": "ce1380564e0224f3",
       "officialPostedDate": "2026-10-26T18:18:52Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoUYJgC6FFGQLBmRFJZvf",
@@ -2925,12 +2925,12 @@
       },
       "fullDescriptionHash": "c3dafea8a8393270",
       "officialPostedDate": "2026-10-16T18:46:30Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoTSnXon2NKOaCWVFA6I-",
@@ -2968,12 +2968,12 @@
       },
       "fullDescriptionHash": "c1ea85e86a773c0d",
       "officialPostedDate": "2026-10-13T09:45:46Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoKORCF2dakrez4FCAo_G",
@@ -3011,12 +3011,12 @@
       },
       "fullDescriptionHash": "3efb7fc1327336ee",
       "officialPostedDate": "2026-09-15T05:36:26Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoKOPjbVqcleYq1NNjKxo",
@@ -3053,12 +3053,12 @@
       },
       "fullDescriptionHash": "d479a493ca06b807",
       "officialPostedDate": "2026-09-15T05:34:49Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoKOPMUFnRCU8QMZBH634",
@@ -3098,12 +3098,12 @@
       },
       "fullDescriptionHash": "b7fb9a6154623ec4",
       "officialPostedDate": "2026-09-15T05:34:25Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoKMig9vns0-qeYBLhoVI",
@@ -3140,12 +3140,12 @@
       },
       "fullDescriptionHash": "03c446943531a8b0",
       "officialPostedDate": "2026-09-15T03:35:43Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoJgvqc1gDoK02dZJpq-m",
@@ -3183,12 +3183,12 @@
       },
       "fullDescriptionHash": "5e4d07c54824c229",
       "officialPostedDate": "2026-09-13T00:34:15Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoJgvmGStTJPb_JFMXJv8",
@@ -3226,12 +3226,12 @@
       },
       "fullDescriptionHash": "79eb77bc5611bb17",
       "officialPostedDate": "2026-09-13T00:34:11Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoJgviY0u8KpFgcdNPJ9_",
@@ -3269,12 +3269,12 @@
       },
       "fullDescriptionHash": "07f873b7eb552170",
       "officialPostedDate": "2026-09-13T00:34:07Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoJgvejt9L0cNECdNWbCo",
@@ -3312,12 +3312,12 @@
       },
       "fullDescriptionHash": "d9b5c4217da54741",
       "officialPostedDate": "2026-09-13T00:34:03Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoJgvaf2xJcx9tANJF5O8",
@@ -3355,12 +3355,12 @@
       },
       "fullDescriptionHash": "58db0482776e136e",
       "officialPostedDate": "2026-09-13T00:33:59Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoJgvVburs2LBFu1KAbxf",
@@ -3398,12 +3398,12 @@
       },
       "fullDescriptionHash": "a49f4c9009f08f4c",
       "officialPostedDate": "2026-09-13T00:33:54Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoJgqg0I8vqrLJG1MS64I",
@@ -3441,12 +3441,12 @@
       },
       "fullDescriptionHash": "9d5bd8f6e9a5c93a",
       "officialPostedDate": "2026-09-13T00:28:38Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoJgqdG410r7FsbBPeriH",
@@ -3484,12 +3484,12 @@
       },
       "fullDescriptionHash": "5c0fd358ec297004",
       "officialPostedDate": "2026-09-13T00:28:34Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoJgqZViwfNhv2ORD14vu",
@@ -3527,12 +3527,12 @@
       },
       "fullDescriptionHash": "39f96417dcae525d",
       "officialPostedDate": "2026-09-13T00:28:30Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoJgqVi3F6XhyxPFM47qw",
@@ -3570,12 +3570,12 @@
       },
       "fullDescriptionHash": "bf35221e3970daee",
       "officialPostedDate": "2026-09-13T00:28:26Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoJgqRhQMEa_UPABNQLNa",
@@ -3613,12 +3613,12 @@
       },
       "fullDescriptionHash": "7915c3d45c0c7522",
       "officialPostedDate": "2026-09-13T00:28:22Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoJgqNtzoVh5hqmtEQLnu",
@@ -3656,12 +3656,12 @@
       },
       "fullDescriptionHash": "01670836d215bc3e",
       "officialPostedDate": "2026-09-13T00:28:18Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoJgqKEnGDYqhKlxERLZR",
@@ -3699,12 +3699,12 @@
       },
       "fullDescriptionHash": "a8366e9f666fe747",
       "officialPostedDate": "2026-09-13T00:28:14Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoJgnF8j710kq7tNP9JUX",
@@ -3742,12 +3742,12 @@
       },
       "fullDescriptionHash": "fdaf95f83d94f82d",
       "officialPostedDate": "2026-09-13T00:24:53Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoJgnCdIMK4tluUhKjZfq",
@@ -3785,12 +3785,12 @@
       },
       "fullDescriptionHash": "21b2c4edc91d2901",
       "officialPostedDate": "2026-09-13T00:24:50Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoJgm-80LGK_vet9Hy7mI",
@@ -3829,12 +3829,12 @@
       },
       "fullDescriptionHash": "0b8b97e5b649e479",
       "officialPostedDate": "2026-09-13T00:24:46Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoJgm6x9CphybYGBCw71A",
@@ -3872,12 +3872,12 @@
       },
       "fullDescriptionHash": "443862a6b8f6e73f",
       "officialPostedDate": "2026-09-13T00:24:42Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoJgm29LSpSu7mYtHu76n",
@@ -3915,12 +3915,12 @@
       },
       "fullDescriptionHash": "4f7b3bf171c3f4df",
       "officialPostedDate": "2026-09-13T00:24:38Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoJgmzdVdKtb1bdNEj7ws",
@@ -3958,12 +3958,12 @@
       },
       "fullDescriptionHash": "53ae5f2559988b60",
       "officialPostedDate": "2026-09-13T00:24:35Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoJgmvv154mBck81Ez4MZ",
@@ -4001,12 +4001,12 @@
       },
       "fullDescriptionHash": "d837bbdfdf6a2e37",
       "officialPostedDate": "2026-09-13T00:24:31Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoJglE3JYEeYxjXNIVqx5",
@@ -4044,12 +4044,12 @@
       },
       "fullDescriptionHash": "6c883c5644f683b6",
       "officialPostedDate": "2026-09-13T00:22:41Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoJglBEavX4Se3gNNkaI6",
@@ -4087,12 +4087,12 @@
       },
       "fullDescriptionHash": "d336f604de8d62ac",
       "officialPostedDate": "2026-09-13T00:22:37Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoJgk9ki2WVxQqaREbK2c",
@@ -4130,12 +4130,12 @@
       },
       "fullDescriptionHash": "1fff99f7c457e5fa",
       "officialPostedDate": "2026-09-13T00:22:34Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoJgk59Ut_nllXvdLfqET",
@@ -4173,12 +4173,12 @@
       },
       "fullDescriptionHash": "3759ff6d3314ca1e",
       "officialPostedDate": "2026-09-13T00:22:30Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoJgjQYnM_TpzFYBFarRo",
@@ -4216,12 +4216,12 @@
       },
       "fullDescriptionHash": "11411b3cd6b4b9a5",
       "officialPostedDate": "2026-09-13T00:20:42Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABoJgYdke25i__9elOAaFG",
@@ -4259,12 +4259,12 @@
       },
       "fullDescriptionHash": "7dd987ed19a24130",
       "officialPostedDate": "2026-09-13T00:08:55Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABn9G5kyvGTlH1jQZGvpVY",
@@ -4303,12 +4303,12 @@
       },
       "fullDescriptionHash": "f626738f5b933ee6",
       "officialPostedDate": "2026-08-05T11:40:28Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABnt-8MlDeId9gbqBF77Ec",
@@ -4345,12 +4345,12 @@
       },
       "fullDescriptionHash": "37a656c01a566d8e",
       "officialPostedDate": "2026-06-19T11:55:13Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABnoTi00jc2tVdQ0xG17qd",
@@ -4388,12 +4388,12 @@
       },
       "fullDescriptionHash": "67097c8977b322e2",
       "officialPostedDate": "2026-06-01T20:31:58Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0Tj07Vgzf7imVMBZB6",
@@ -4428,12 +4428,12 @@
       },
       "fullDescriptionHash": "175aa461c01817f2",
       "officialPostedDate": "2026-02-27T03:10:31Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0O3XD6A34Rv91Ad60d",
@@ -4468,12 +4468,12 @@
       },
       "fullDescriptionHash": "0a41da4968de331a",
       "officialPostedDate": "2026-02-27T03:05:23Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0M26ceiz86vu1MT759",
@@ -4508,12 +4508,12 @@
       },
       "fullDescriptionHash": "52476bdbe84f7338",
       "officialPostedDate": "2026-02-27T03:03:12Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0LvLdNuRT_1I9Iib8_",
@@ -4548,12 +4548,12 @@
       },
       "fullDescriptionHash": "26b5e721243bd5f6",
       "officialPostedDate": "2026-02-27T03:01:58Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0Inam2YWpSD1xI1ZX9",
@@ -4588,12 +4588,12 @@
       },
       "fullDescriptionHash": "777ae0dc35b94a62",
       "officialPostedDate": "2026-02-27T02:58:34Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0HTJ8DWBVFUwtKbrNa",
@@ -4628,12 +4628,12 @@
       },
       "fullDescriptionHash": "0e2c3ebeb6a6ebfe",
       "officialPostedDate": "2026-02-27T02:57:07Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0GDeo6y-KRhahHKrzF",
@@ -4668,12 +4668,12 @@
       },
       "fullDescriptionHash": "59d9fef7f1d55de1",
       "officialPostedDate": "2026-02-27T02:55:46Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0EyzP13xP26dJJXKpS",
@@ -4708,12 +4708,12 @@
       },
       "fullDescriptionHash": "369289e3d5ff3afc",
       "officialPostedDate": "2026-02-27T02:54:23Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0CrCN6LLqupi9Bf6jc",
@@ -4748,12 +4748,12 @@
       },
       "fullDescriptionHash": "5dc6d659c59d38ae",
       "officialPostedDate": "2026-02-27T02:52:04Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0BfkepVYhBI7hH_5wP",
@@ -4788,12 +4788,12 @@
       },
       "fullDescriptionHash": "e425df1a0dc6cccf",
       "officialPostedDate": "2026-02-27T02:50:47Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABnJz6-RP8K0Qe1IxHK6LT",
@@ -4828,12 +4828,12 @@
       },
       "fullDescriptionHash": "531f2ba76d018228",
       "officialPostedDate": "2026-02-27T02:43:39Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABnJzhSEoldeI_qvBLq6pS",
@@ -4868,12 +4868,12 @@
       },
       "fullDescriptionHash": "cf50bebf468c7b85",
       "officialPostedDate": "2026-02-27T02:15:36Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABnJzRBPRcrO1IUeVFkqqc",
@@ -4908,12 +4908,12 @@
       },
       "fullDescriptionHash": "a526835ff3bfb8bd",
       "officialPostedDate": "2026-02-27T01:57:50Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABnJzK0z1CNefOyERAAb9m",
@@ -4948,12 +4948,12 @@
       },
       "fullDescriptionHash": "696d63cf162d044d",
       "officialPostedDate": "2026-02-27T01:51:04Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABnJzIt-SOsdwOeF5Ebarf",
@@ -4988,12 +4988,12 @@
       },
       "fullDescriptionHash": "c017c9a6e20bae90",
       "officialPostedDate": "2026-02-27T01:48:46Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_mercor:list_AAABnJyE_If_2vn0hvhMxLnv",
@@ -5028,12 +5028,12 @@
       },
       "fullDescriptionHash": "d69ed657bdd3dc4b",
       "officialPostedDate": "2026-02-27T00:34:47Z",
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_alignerr:92f161da-0887-4c52-895f-b43d2bfa79ba",
@@ -5050,7 +5050,7 @@
       "location": "Remote",
       "pay": "$15-35/hr",
       "date": "2026-11-26",
-      "timestamp": 1795685763000,
+      "timestamp": 1795685958000,
       "excerpt": "Native Russian speaker in Latvia? Put your everyday Gmail habits to work — evaluate AI features in Russian, earn an hourly rate, just 2-4 hours a week...",
       "applyUrl": "https://www.alignerr.com/jobs/92f161da-0887-4c52-895f-b43d2bfa79ba",
       "source": "web_alignerr",
@@ -5070,12 +5070,12 @@
       },
       "fullDescriptionHash": "0d9ab4e6a3462276",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_alignerr:4234d923-f878-49fa-91c9-7890c4a2d531",
@@ -5092,7 +5092,7 @@
       "location": "Remote",
       "pay": "$15-35/hr",
       "date": "2026-11-26",
-      "timestamp": 1795685763000,
+      "timestamp": 1795685958000,
       "excerpt": "Native Russian speaker in Israel? Get paid to evaluate AI features in Gmail and Google Workspace — flexible, remote, and just 2-4 hours a week....",
       "applyUrl": "https://www.alignerr.com/jobs/4234d923-f878-49fa-91c9-7890c4a2d531",
       "source": "web_alignerr",
@@ -5112,12 +5112,12 @@
       },
       "fullDescriptionHash": "b73f6dedc965b3aa",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_alignerr:07b72634-528f-43a6-8b46-f76c9a335232",
@@ -5134,7 +5134,7 @@
       "location": "Remote",
       "pay": "$15-35/hr",
       "date": "2026-11-26",
-      "timestamp": 1795685763000,
+      "timestamp": 1795685958000,
       "excerpt": "Native Spanish speaker in Miami? Get paid to evaluate AI features in your own Gmail — remote, flexible, and only 2-4 hours a week....",
       "applyUrl": "https://www.alignerr.com/jobs/07b72634-528f-43a6-8b46-f76c9a335232",
       "source": "web_alignerr",
@@ -5154,12 +5154,12 @@
       },
       "fullDescriptionHash": "27ff1c7c92c83c3b",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_alignerr:562fa900-511e-4799-8945-d94ee02963d4",
@@ -5176,7 +5176,7 @@
       "location": "Remote",
       "pay": "$15-35/hr",
       "date": "2026-11-26",
-      "timestamp": 1795685763000,
+      "timestamp": 1795685958000,
       "excerpt": "Native French speaker in Casablanca? Get paid to evaluate AI features in your own Gmail and Google Workspace account — 2–4 hours a week, fully remote ...",
       "applyUrl": "https://www.alignerr.com/jobs/562fa900-511e-4799-8945-d94ee02963d4",
       "source": "web_alignerr",
@@ -5196,12 +5196,12 @@
       },
       "fullDescriptionHash": "fcd5bad2f7b2bf2a",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_alignerr:b3c71b0a-5054-432a-9b91-f706e067eaf2",
@@ -5216,7 +5216,7 @@
       "location": "Remote",
       "pay": "$15-35/hr",
       "date": "2026-11-26",
-      "timestamp": 1795685763000,
+      "timestamp": 1795685958000,
       "excerpt": "Native Italian speaker? Get paid to evaluate AI features in your own Gmail and Google Workspace account — just 2-4 hours a week, fully remote....",
       "applyUrl": "https://www.alignerr.com/jobs/b3c71b0a-5054-432a-9b91-f706e067eaf2",
       "source": "web_alignerr",
@@ -5236,12 +5236,12 @@
       },
       "fullDescriptionHash": "fe7ff671dda5741b",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_alignerr:65c949ae-474b-40f2-96f7-289792d2cec6",
@@ -5258,7 +5258,7 @@
       "location": "Remote",
       "pay": "$12-40/hr",
       "date": "2026-11-26",
-      "timestamp": 1795685763000,
+      "timestamp": 1795685958000,
       "excerpt": "Put your native Mandarin fluency to work shaping the future of voice AI — role-play real clinic calls, evaluate AI responses, and work fully remotely ...",
       "applyUrl": "https://www.alignerr.com/jobs/65c949ae-474b-40f2-96f7-289792d2cec6",
       "source": "web_alignerr",
@@ -5278,12 +5278,12 @@
       },
       "fullDescriptionHash": "88d8ee1ab8eb6fa7",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_alignerr:9d288eae-1d01-49e0-b85a-b501326e874e",
@@ -5300,7 +5300,7 @@
       "location": "Remote",
       "pay": "$12-40/hr",
       "date": "2026-11-26",
-      "timestamp": 1795685763000,
+      "timestamp": 1795685958000,
       "excerpt": "Native Dutch speaker in South Africa? Use your fluency to shape cutting-edge voice AI — evaluate AI-powered clinic calls on your own schedule, fully r...",
       "applyUrl": "https://www.alignerr.com/jobs/9d288eae-1d01-49e0-b85a-b501326e874e",
       "source": "web_alignerr",
@@ -5320,12 +5320,12 @@
       },
       "fullDescriptionHash": "9ca3f8f45d0b200e",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_alignerr:72e2bbb1-5ab9-42af-84b8-1fefc3bba86f",
@@ -5342,7 +5342,7 @@
       "location": "Remote",
       "pay": "$10-35/hr",
       "date": "2026-11-26",
-      "timestamp": 1795685763000,
+      "timestamp": 1795685958000,
       "excerpt": "Sydney's Mandarin speakers wanted — use your language skills to help train cutting-edge AI and earn on your own schedule. Fully remote, no experience ...",
       "applyUrl": "https://www.alignerr.com/jobs/72e2bbb1-5ab9-42af-84b8-1fefc3bba86f",
       "source": "web_alignerr",
@@ -5362,12 +5362,12 @@
       },
       "fullDescriptionHash": "8bb2ed42232f4236",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_alignerr:838adc10-f029-4379-8c1f-1cf97e12777b",
@@ -5384,7 +5384,7 @@
       "location": "Remote",
       "pay": "$10-35/hr",
       "date": "2026-11-26",
-      "timestamp": 1795685763000,
+      "timestamp": 1795685958000,
       "excerpt": "London-based Japanese speakers wanted — use your language skills to help train AI on real spoken Japanese. Fully remote, flexible, and rewarding....",
       "applyUrl": "https://www.alignerr.com/jobs/838adc10-f029-4379-8c1f-1cf97e12777b",
       "source": "web_alignerr",
@@ -5404,12 +5404,12 @@
       },
       "fullDescriptionHash": "a8509dada77fb9e8",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_alignerr:e608fe5d-2471-4d34-a34f-0990cf5d41c7",
@@ -5426,7 +5426,7 @@
       "location": "Remote",
       "pay": "$10-35/hr",
       "date": "2026-11-26",
-      "timestamp": 1795685763000,
+      "timestamp": 1795685958000,
       "excerpt": "Native Japanese speaker in the New York area? Get paid to help train AI on real Japanese speech — fully remote, flexible hours, no experience required...",
       "applyUrl": "https://www.alignerr.com/jobs/e608fe5d-2471-4d34-a34f-0990cf5d41c7",
       "source": "web_alignerr",
@@ -5446,12 +5446,12 @@
       },
       "fullDescriptionHash": "cdb23f7d41a7275a",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_alignerr:8416bbab-71b1-41a6-95ec-25facc5e684a",
@@ -5466,7 +5466,7 @@
       "location": "Remote",
       "pay": "$20-50/hr",
       "date": "2026-11-26",
-      "timestamp": 1795685763000,
+      "timestamp": 1795685958000,
       "excerpt": "Bring your marketing skills to the cutting edge of AI — design expert training tasks on brand announcements, competitive research, and campaign attrib...",
       "applyUrl": "https://www.alignerr.com/jobs/8416bbab-71b1-41a6-95ec-25facc5e684a",
       "source": "web_alignerr",
@@ -5486,12 +5486,12 @@
       },
       "fullDescriptionHash": "45f5167921447f09",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_alignerr:1b30c760-12cc-4ebe-8b9a-f3591398ceff",
@@ -5506,7 +5506,7 @@
       "location": "Remote",
       "pay": "$20-50/hr",
       "date": "2026-11-26",
-      "timestamp": 1795685763000,
+      "timestamp": 1795685958000,
       "excerpt": "Singapore's world-class enterprise tech ecosystem is the perfect launchpad — bring your support engineering expertise to AI training and shape how age...",
       "applyUrl": "https://www.alignerr.com/jobs/1b30c760-12cc-4ebe-8b9a-f3591398ceff",
       "source": "web_alignerr",
@@ -5526,12 +5526,12 @@
       },
       "fullDescriptionHash": "ee1c49747978710a",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_alignerr:7bde821a-d006-40bf-9535-381ecde2f2dd",
@@ -5546,7 +5546,7 @@
       "location": "Remote",
       "pay": "$70-120/hr",
       "date": "2026-11-26",
-      "timestamp": 1795685763000,
+      "timestamp": 1795685958000,
       "excerpt": "German engineers: apply your hands-on debugging and systems expertise to design real AI agent training tasks. Remote contract, flexible commitment....",
       "applyUrl": "https://www.alignerr.com/jobs/7bde821a-d006-40bf-9535-381ecde2f2dd",
       "source": "web_alignerr",
@@ -5566,12 +5566,12 @@
       },
       "fullDescriptionHash": "65b04b09dc8450f8",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_alignerr:3673a42d-d3db-4561-a33f-8fa733e1fc0d",
@@ -5586,7 +5586,7 @@
       "location": "Remote",
       "pay": "$60-120/hr",
       "date": "2026-11-26",
-      "timestamp": 1795685763000,
+      "timestamp": 1795685958000,
       "excerpt": "Put your accounting expertise to work on the cutting edge of AI — design expert reconciliation tasks that train and benchmark advanced AI agents. Full...",
       "applyUrl": "https://www.alignerr.com/jobs/3673a42d-d3db-4561-a33f-8fa733e1fc0d",
       "source": "web_alignerr",
@@ -5606,12 +5606,12 @@
       },
       "fullDescriptionHash": "40fb4fb741884950",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_alignerr:ca7a7809-a3a9-4275-90c9-f4ed39bff639",
@@ -5626,7 +5626,7 @@
       "location": "Remote",
       "pay": "$20-50/hr",
       "date": "2026-11-26",
-      "timestamp": 1795685763000,
+      "timestamp": 1795685958000,
       "excerpt": "São Paulo's enterprise RevOps professionals — shape how AI handles complex revenue reconciliation by designing expert training tasks. Fully remote, fl...",
       "applyUrl": "https://www.alignerr.com/jobs/ca7a7809-a3a9-4275-90c9-f4ed39bff639",
       "source": "web_alignerr",
@@ -5646,12 +5646,12 @@
       },
       "fullDescriptionHash": "57bacaeaf918dbc6",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     },
     {
       "id": "web_alignerr:c1622eaf-6e63-4f02-9a9b-2d18e41f46ed",
@@ -5666,7 +5666,7 @@
       "location": "Remote",
       "pay": "$20-50/hr",
       "date": "2026-11-26",
-      "timestamp": 1795685763000,
+      "timestamp": 1795685958000,
       "excerpt": "Dublin's enterprise tech professionals — turn your RevOps expertise into AI impact. Design expert training tasks for cutting-edge AI agents, fully rem...",
       "applyUrl": "https://www.alignerr.com/jobs/c1622eaf-6e63-4f02-9a9b-2d18e41f46ed",
       "source": "web_alignerr",
@@ -5686,12 +5686,12 @@
       },
       "fullDescriptionHash": "1f51b5f82d4af3c6",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T09:36:03Z",
-      "firstSeenAt": "2026-11-26T09:36:03Z",
-      "lastVerifiedAt": "2026-11-26T09:36:03Z",
+      "firstDetectedAt": "2026-11-26T09:39:18Z",
+      "firstSeenAt": "2026-11-26T09:39:18Z",
+      "lastVerifiedAt": "2026-11-26T09:39:18Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T09:36:03Z"
+      "collectedAt": "2026-11-26T09:39:18Z"
     }
   ]
 }
