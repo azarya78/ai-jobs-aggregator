@@ -76,6 +76,8 @@ class JobDiscoveryPipeline:
         connector_reports: List[ConnectorReport] = []
         primary_eligible_candidates: List[NormalizedJobRecord] = []
         unverified_review_records: List[NormalizedJobRecord] = []
+        # Independent catalog for broad search. Never used as history input.
+        discovery_catalog_records: List[NormalizedJobRecord] = []
         withheld: Dict[str, str] = {}
         explicitly_closed_ids: Set[str] = set()
         succeeded_connectors: Set[str] = set()
@@ -104,6 +106,7 @@ class JobDiscoveryPipeline:
 
                 source_eligible: List[NormalizedJobRecord] = []
                 source_unverified: List[NormalizedJobRecord] = []
+                source_catalog: List[NormalizedJobRecord] = []
                 source_closed_ids: Set[str] = set()
                 source_withheld: Dict[str, str] = {}
 
@@ -124,6 +127,10 @@ class JobDiscoveryPipeline:
                         continue
 
                     report.relevant_count += 1
+                    # Preserve location-restricted and uncertain roles for transparent
+                    # exploration; no claims of application eligibility are implied.
+                    if norm_rec.apply_url_available:
+                        source_catalog.append(norm_rec)
                     if elig_res.classification == ELIGIBILITY_INDONESIA:
                         report.indonesia_eligible_count += 1
                         source_eligible.append(norm_rec)
@@ -154,6 +161,7 @@ class JobDiscoveryPipeline:
                 report.status = "EMPTY" if len(raw_listings) == 0 else "SUCCESS"
                 primary_eligible_candidates.extend(source_eligible)
                 unverified_review_records.extend(source_unverified)
+                discovery_catalog_records.extend(source_catalog)
                 explicitly_closed_ids.update(source_closed_ids)
                 withheld.update(source_withheld)
 
@@ -192,6 +200,42 @@ class JobDiscoveryPipeline:
             "pipeline": "ai-jobs-hub-v2-direct",
             "jobs": feed_items,
         }
+
+        # Experimental all-location catalog, independent of published eligible feed.
+        # Official posting dates take precedence; unknown dates sort LAST rather
+        # than being presented as newly posted based on first detection.
+        by_id: Dict[str, NormalizedJobRecord] = {}
+        for rec in discovery_catalog_records:
+            if rec.canonical_id not in by_id:
+                by_id[rec.canonical_id] = rec
+        catalog = list(by_id.values())
+        catalog.sort(key=lambda rec: (
+            rec.official_posted_date is None,
+            -(int(datetime.fromisoformat(rec.official_posted_date.replace("Z", "+00:00")).timestamp())
+              if rec.official_posted_date else 0),
+            rec.canonical_id,
+        ))
+        catalog_items = []
+        for rec in catalog:
+            item = rec.to_android_feed_item(boolean_eligible=False)
+            item["eligibilityDisclaimer"] = (
+                "Location eligibility is informational; check the official application requirements."
+            )
+            item["dateSource"] = "official_posted" if rec.official_posted_date else "first_detected"
+            catalog_items.append(item)
+        write_json_atomically(
+            self.output_feed_path.parent / "freshness_catalog.json",
+            {
+                "schemaVersion": "2.1-experimental",
+                "pipeline": "ai-jobs-hub-v2.1-direct-freshness-catalog",
+                "experimentalOnly": True,
+                "doNotPromoteToAndroidFeed": True,
+                "lastUpdated": now_iso,
+                "totalJobs": len(catalog_items),
+                "jobs": catalog_items,
+            },
+            validate_android_schema=False,
+        )
 
         write_json_atomically(self.output_feed_path, feed_payload, validate_android_schema=True)
         self.history_store.save_atomic(updated_at_iso=now_iso)
