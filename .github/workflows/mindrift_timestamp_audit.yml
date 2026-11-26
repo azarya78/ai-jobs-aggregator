@@ -1,0 +1,27 @@
+name: Mindrift Timestamp Audit (Isolated)
+on:
+  push:
+    branches: ["feat/v2-direct-discovery"]
+    paths: ["pilot_mindrift/**", ".github/workflows/mindrift_timestamp_audit.yml"]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  audit:
+    if: github.ref == 'refs/heads/feat/v2-direct-discovery'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - run: PYTHONPATH=src:pilot_mindrift python -m pytest tests/ pilot_mindrift/ -q
+      - run: PYTHONPATH=src python pilot_mindrift/mindrift_audit.py
+      - run: git diff --exit-code
+      - uses: actions/upload-artifact@v4
+        with:
+          name: mindrift-timestamp-audit
+          path: mindrift-audit-report.json
+          if-no-files-found: error
