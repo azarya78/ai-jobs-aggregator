@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "official-sitemap-probe-v1",
+  "experimentalOnly": true,
+  "doNotPublishToAndroid": true,
+  "limits": {
+    "maxSitemapDocuments": 3,
+    "maxUrlsPerDocument": 5000,
+    "timeoutSeconds": 12
+  },
+  "sources": [
+    {
+      "id": "begun_official_sitemap",
+      "platform": "Begun",
+      "root": "https://app.begun.com",
+      "sitemap": "https://app.begun.com/sitemap.xml",
+      "jobPathPrefix": "/opportunities/"
+    },
+    {
+      "id": "micro1_official_sitemap",
+      "platform": "Micro1",
+      "root": "https://jobs.micro1.ai",
+      "sitemap": "https://jobs.micro1.ai/sitemap.xml",
+      "jobPathPrefix": "/post/"
+    }
+  ]
+}
