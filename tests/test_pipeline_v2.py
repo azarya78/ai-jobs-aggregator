@@ -110,6 +110,7 @@ class TestFreshnessFirstCatalog(unittest.TestCase):
                 job("id-role", "AI Response Evaluator - Indonesian", "Indonesia", "2026-11-20T00:00:00Z"),
                 job("eu-role", "AI Response Evaluator", "Germany · DE · remote", "2026-11-25T00:00:00Z"),
                 job("unknown-role", "AI Data Annotator", "Remote", None),
+                job("duplicate-role", "AI Response Evaluator - Indonesian", "Indonesia", "2026-11-21T00:00:00Z"),
             ]
 
             class FakeConnector:
@@ -126,10 +127,12 @@ class TestFreshnessFirstCatalog(unittest.TestCase):
             self.assertTrue(catalog["experimentalOnly"])
             self.assertTrue(catalog["doNotPromoteToAndroidFeed"])
             self.assertEqual([r["id"] for r in published["jobs"]], ["lever_test:id-role"])
-            self.assertEqual(catalog["totalJobs"], 3, [(r["id"], r["eligibilityClass"]) for r in catalog["jobs"]])
+            self.assertEqual(catalog["totalJobs"], 3)
+            self.assertEqual(catalog["semanticDuplicatesCollapsed"], 1)
+            self.assertEqual(catalog["sourceRecordsBeforeSemanticDedup"], 4)
             self.assertEqual(
                 [r["id"] for r in catalog["jobs"]],
-                ["lever_test:eu-role", "lever_test:id-role", "lever_test:unknown-role"],
+                ["lever_test:eu-role", "lever_test:duplicate-role", "lever_test:unknown-role"],
             )
             self.assertEqual(
                 [r["eligibilityClass"] for r in catalog["jobs"]],
@@ -140,6 +143,7 @@ class TestFreshnessFirstCatalog(unittest.TestCase):
                 ["official_posted", "official_posted", "first_detected"],
             )
             self.assertEqual(len({r["applyUrl"] for r in catalog["jobs"]}), 3)
+            self.assertEqual(catalog["jobs"][1]["duplicateListingsCollapsed"], 1)
 
 
 class TestConflictingGeographicEvidence(unittest.TestCase):
