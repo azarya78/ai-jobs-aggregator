@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T14:36:31Z",
+  "lastUpdated": "2026-11-26T14:42:09Z",
   "totalUnverified": 129,
   "jobs": [
     {
@@ -38,12 +38,12 @@
       "fullDescriptionHash": "e0af57bf7b1271a8",
       "projectContentHash": "a6fffd42e69c3f8535579c145fb4685fa3d6121b66ae84b086248903bc4aa0e0",
       "officialPostedDate": "2024-10-01T11:58:16Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "lever_weloglobal:16eff280-4586-4767-aedc-235217abf2d8",
@@ -83,10 +83,10 @@
       "officialPostedDate": "2026-10-08T11:51:46Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "lever_weloglobal:9c91ec15-acac-42fc-8ba0-c5f610556d0d",
@@ -126,10 +126,10 @@
       "officialPostedDate": "2026-11-18T16:10:01Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "lever_weloglobal:421589cc-06c4-49c9-81be-76ca0fc232a2",
@@ -169,10 +169,10 @@
       "officialPostedDate": "2026-10-21T14:09:30Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "lever_weloglobal:8cd5c6e3-d1de-4975-a8a4-e07d6c2d180d",
@@ -212,10 +212,10 @@
       "officialPostedDate": "2026-10-08T14:00:57Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "lever_weloglobal:0d66f514-1fe7-42e1-8382-483781058aef",
@@ -255,10 +255,10 @@
       "officialPostedDate": "2026-10-08T13:28:36Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "lever_weloglobal:afe9e037-0c32-4a0e-88e6-befe5f51ee55",
@@ -298,10 +298,10 @@
       "officialPostedDate": "2026-10-08T11:43:56Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "lever_weloglobal:088ad3b5-4e2e-406d-b115-c4a6db6cbdf5",
@@ -341,10 +341,10 @@
       "officialPostedDate": "2026-10-08T13:36:09Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "lever_weloglobal:adbe2454-db65-48b3-8e25-82a7d735a39a",
@@ -384,10 +384,10 @@
       "officialPostedDate": "2026-10-08T13:38:38Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "lever_weloglobal:a6fa29ef-6062-4ade-9674-c061cc230104",
@@ -427,10 +427,10 @@
       "officialPostedDate": "2026-10-08T13:42:56Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "lever_weloglobal:8cb7d843-fecc-4614-b925-c5373651ddd0",
@@ -470,10 +470,10 @@
       "officialPostedDate": "2026-10-08T13:44:55Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "lever_weloglobal:00ac6822-8a23-4cad-8bd9-f92f77db51a0",
@@ -513,10 +513,10 @@
       "officialPostedDate": "2026-10-07T14:15:17Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "lever_weloglobal:82e197c4-7341-4cb6-a81f-183d77f0427a",
@@ -556,10 +556,10 @@
       "officialPostedDate": "2026-10-08T13:58:08Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "UNVERIFIED",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "teamtailor_dataforce:745096-qa-hebrew",
@@ -597,12 +597,12 @@
       "fullDescriptionHash": "e6c4f1ba0a104cbf",
       "projectContentHash": "e27bbb9bbae5625e212b1c7d30854dc3adead7cb76c83ceeb096c1fb32ca269c",
       "officialPostedDate": "2026-11-24T08:48:07Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "teamtailor_dataforce",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoe5-EDcz8NJf_69EcIgl",
@@ -640,12 +640,12 @@
       "fullDescriptionHash": "a02e1e659f77392e",
       "projectContentHash": "e4a26277932502efb44fd67cf04cfe8a229b4c6342d91b0be141dc80cdcc424d",
       "officialPostedDate": "2026-11-18T11:50:01Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodVEHAaAjmbH4iJCT7ME",
@@ -687,12 +687,12 @@
       "fullDescriptionHash": "e23406b20007a892",
       "projectContentHash": "a43c5b7ea3111e74bb8ee5359cbc577d191e11950974023e388576e3a7b48972",
       "officialPostedDate": "2026-11-13T14:16:13Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodVEEpvBK3U18ZJKUJnY",
@@ -734,12 +734,12 @@
       "fullDescriptionHash": "3cd404e3da7edd97",
       "projectContentHash": "2c3813ba99c8038ddf5923e78133c143ce680620a914cfa8891df4a43b3e651a",
       "officialPostedDate": "2026-11-13T14:16:10Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodVECUWPNE5aVVdB9IT1",
@@ -781,12 +781,12 @@
       "fullDescriptionHash": "81a24af7f57d258d",
       "projectContentHash": "4f30ab941995870adf4a579543d959c0a0c96de7173daadddf7a0ee5abb311f5",
       "officialPostedDate": "2026-11-13T14:16:08Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodVD_1Rtf7wdQGZF0524",
@@ -828,12 +828,12 @@
       "fullDescriptionHash": "3b786e8b3c16d7c2",
       "projectContentHash": "1104ae22781334016208213f8031359876a97170a2a28138b7362f2b746b19b7",
       "officialPostedDate": "2026-11-13T14:16:05Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodVD7VTLrW6oW65Cdby6",
@@ -876,12 +876,12 @@
       "fullDescriptionHash": "c7f4ab4c8aa24e73",
       "projectContentHash": "7f3d8989173fb359b6b41ce17ae8b1e05eaa9c52dfc3cde0e5bf4413c8f0c76e",
       "officialPostedDate": "2026-11-13T14:16:01Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodVD4ylYia6TeD5NjKGR",
@@ -923,12 +923,12 @@
       "fullDescriptionHash": "3f110d9721c8844a",
       "projectContentHash": "15fc89d74d16aec040cb7410add5e1ff7a47df6ae6c0f64ae4e576a350c9a66a",
       "officialPostedDate": "2026-11-13T14:15:58Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodVD2hPOOQf0SUFLxLbm",
@@ -970,12 +970,12 @@
       "fullDescriptionHash": "da07be895bee21cf",
       "projectContentHash": "0a06bc1e4ee8a921a6d5175b11ed20144269b69878ad64f4dc6014b4cf380db9",
       "officialPostedDate": "2026-11-13T14:15:56Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodVD0LKRYKowg_9PYaoR",
@@ -1017,12 +1017,12 @@
       "fullDescriptionHash": "460655707f60ce85",
       "projectContentHash": "68156bf621f6db79876ae158da89cc3be755d144b58c3fe2416070028db69756",
       "officialPostedDate": "2026-11-13T14:15:53Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodVDxV3haXmB00BKN57Y",
@@ -1064,12 +1064,12 @@
       "fullDescriptionHash": "d4e92083dc7a3e79",
       "projectContentHash": "270b0ad2e268255fe53efeb65f5b86c8a7bcebdf9269e57f0839a07543e3bb8e",
       "officialPostedDate": "2026-11-13T14:15:50Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodVCsxPi5PkD6epA9KrD",
@@ -1111,12 +1111,12 @@
       "fullDescriptionHash": "16ec164815b1e333",
       "projectContentHash": "92114ffc0008ee559f9ff8cafa85311d3d3dd2a9833b20eff57102c764d200cd",
       "officialPostedDate": "2026-11-13T14:14:40Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodVCqTI3CAevx5dBo4bW",
@@ -1158,12 +1158,12 @@
       "fullDescriptionHash": "fefe2f57ea8f887e",
       "projectContentHash": "ed8a1f08a24cf6d08e0f4abd7f70b1c71f4d0bb686cedb0479f37e9f42c7ece2",
       "officialPostedDate": "2026-11-13T14:14:38Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodVCn2A5i2_yVKRLW7FI",
@@ -1205,12 +1205,12 @@
       "fullDescriptionHash": "d098db7727034e60",
       "projectContentHash": "cdb7f406a0d435bbd0d844bbfcca98f77e08b645b843bb262f6816f3f7d466c9",
       "officialPostedDate": "2026-11-13T14:14:35Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodVCln0c9qn2KKVDmoAr",
@@ -1252,12 +1252,12 @@
       "fullDescriptionHash": "de411afadec246ef",
       "projectContentHash": "c7b2651eb025c8c9b2fed75f4f146d8e5e97ab4b11c347e67b611e6edbaf19a4",
       "officialPostedDate": "2026-11-13T14:14:33Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodVCjW1hRgHyHERIxZxS",
@@ -1299,12 +1299,12 @@
       "fullDescriptionHash": "b2fab769729cedc7",
       "projectContentHash": "05e1b16c2cfe0a25e5e05dc89ab04ff9968210eed0e025000a0c226869ce3e99",
       "officialPostedDate": "2026-11-13T14:14:31Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodVCg8d6cjN1PjFA6o09",
@@ -1346,12 +1346,12 @@
       "fullDescriptionHash": "d1a2f3f40b8081b2",
       "projectContentHash": "00ef9140ae6cab3e7dd34566d79b58d1cb803af327a2ca4062640cc9991efe95",
       "officialPostedDate": "2026-11-13T14:14:28Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodVCeXSx1dxnKUJOpZXt",
@@ -1393,12 +1393,12 @@
       "fullDescriptionHash": "a6a78abe197c450f",
       "projectContentHash": "cc97cfeb49fd4d8655213b9bb3acfc6ca09a342b25860e94939a0c451d8a5608",
       "officialPostedDate": "2026-11-13T14:14:25Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodVBTumB5opNDqxN8JHI",
@@ -1440,12 +1440,12 @@
       "fullDescriptionHash": "e30e25ed6e9accbe",
       "projectContentHash": "50c2a146ea517b9fd4474f84856b762a3722e532d32e77b5fbf1235aa7554795",
       "officialPostedDate": "2026-11-13T14:13:09Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodU_dU4UcjK3q85GOoYT",
@@ -1487,12 +1487,12 @@
       "fullDescriptionHash": "fe5df08688834183",
       "projectContentHash": "4eb1b976cbbba93031db4178105127089d21a6494eaa5321ce3f75f3557a5530",
       "officialPostedDate": "2026-11-13T14:11:08Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodU_StwmvCOcOiBPvrtV",
@@ -1534,12 +1534,12 @@
       "fullDescriptionHash": "1bdc91c540713c50",
       "projectContentHash": "369866fb63dafc3edf00366f5b9ea9cd6baf9b3ce63cd4a7ffbab75685fd81ca",
       "officialPostedDate": "2026-11-13T14:10:57Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodU_MnCKJjLcP6BGGIxU",
@@ -1581,12 +1581,12 @@
       "fullDescriptionHash": "f0340b2dd0d6f0e9",
       "projectContentHash": "c66504003f960fde74c57f763c2118369fb7ba68f6a15beded023309d43642c7",
       "officialPostedDate": "2026-11-13T14:10:51Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodU_GsvB95piXJZKNrs0",
@@ -1628,12 +1628,12 @@
       "fullDescriptionHash": "bbeedc2fa0aaca17",
       "projectContentHash": "a004c345d7681921ab491e3f13281e7970d227897f8f672d0f28acb4f310ca72",
       "officialPostedDate": "2026-11-13T14:10:45Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodU_Be96xZEg1PVFm7KS",
@@ -1675,12 +1675,12 @@
       "fullDescriptionHash": "d7bc9e97461aef1d",
       "projectContentHash": "e7beb5643ecb2c658a6465e7fd18b61a3356963649485ce8346c38267af3a0c6",
       "officialPostedDate": "2026-11-13T14:10:39Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodU-8Ke1nyWj4KxMz5K3",
@@ -1722,12 +1722,12 @@
       "fullDescriptionHash": "e470e07bc34c7e65",
       "projectContentHash": "2a4c71e21993dda2e00d62df75860c32b2d6e70f38bbe5667717bbe86f079c33",
       "officialPostedDate": "2026-11-13T14:10:34Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodU-1biYNoQyWeFElIoT",
@@ -1769,12 +1769,12 @@
       "fullDescriptionHash": "dbf8402c2c496396",
       "projectContentHash": "9c3e755462259765e057b321cf6811fb093d252efa67e078628d1f0ae9d765fd",
       "officialPostedDate": "2026-11-13T14:10:27Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodU-t4hVp4a2yJtED511",
@@ -1816,12 +1816,12 @@
       "fullDescriptionHash": "714e90460d2e0081",
       "projectContentHash": "5680d8f192618cd6a250dce29782ddd31b888e6b74f94b65546d65be15922f0b",
       "officialPostedDate": "2026-11-13T14:10:19Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodU8ZHuloRr86KlFd5ib",
@@ -1863,12 +1863,12 @@
       "fullDescriptionHash": "1a3f1bf2fdeda5ba",
       "projectContentHash": "21c815eb25b0f763c6fa6e31e917731ce5a03bf67b0385647db2af6edf024562",
       "officialPostedDate": "2026-11-13T14:07:47Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodU8SN2oa8G_OfpEuosC",
@@ -1910,12 +1910,12 @@
       "fullDescriptionHash": "0a2bbc7e04998284",
       "projectContentHash": "8e147a3228fc197226cbd42da265d3674c412eed1fd7918e9a516b4867166a74",
       "officialPostedDate": "2026-11-13T14:07:40Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodU8NQFNS31S3tlDo75x",
@@ -1957,12 +1957,12 @@
       "fullDescriptionHash": "5fad8a777a8cdcb0",
       "projectContentHash": "33806671f933184cdc7589a2444229742ecf590a864766cf29e3b78f93e92bd1",
       "officialPostedDate": "2026-11-13T14:07:35Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodU8IymE5oUMp2xHPIyW",
@@ -2004,12 +2004,12 @@
       "fullDescriptionHash": "e2df5a0b9027ca2b",
       "projectContentHash": "53e136a10a05af74a1188f207fb15dbb4441a37843a92145cadf6d97749a82d1",
       "officialPostedDate": "2026-11-13T14:07:30Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodU7_yqvwSmNHe5NL53S",
@@ -2051,12 +2051,12 @@
       "fullDescriptionHash": "7157ffd9a3c5fe24",
       "projectContentHash": "a29009c1a9ea3940d7e0dd667b4a584f0296f2b931386253bfc7900c6e130781",
       "officialPostedDate": "2026-11-13T14:07:21Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodU725g6W3m1meZGZajk",
@@ -2098,12 +2098,12 @@
       "fullDescriptionHash": "fbdc1e2dc03d4f3e",
       "projectContentHash": "3050c33522d4def97aee48de2db61237198a42fa95b8faec3e3a62838b754dc2",
       "officialPostedDate": "2026-11-13T14:07:12Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodU7yrShFAvmm3ZIg6rN",
@@ -2145,12 +2145,12 @@
       "fullDescriptionHash": "3ae4a6e1da43f36e",
       "projectContentHash": "b5e543bc8a58238fc4e894cb71d9adde16c118dd5fe630379801c4a708e78866",
       "officialPostedDate": "2026-11-13T14:07:07Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodU7tQE6GRaVyuVOg43o",
@@ -2192,12 +2192,12 @@
       "fullDescriptionHash": "f7c2668f92e53a7d",
       "projectContentHash": "5fa046a839ff2c7357a2c83c3c994611f94c6ddcfce305446e5fa7f473c08dcb",
       "officialPostedDate": "2026-11-13T14:07:02Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABodU7lw8bP6UCpLRNx5DM",
@@ -2239,12 +2239,12 @@
       "fullDescriptionHash": "56d087c94a1f423d",
       "projectContentHash": "fde50f0f867ba56afc1ce949fed8690921f53c3ec55dcc987a5e523a28ef02bb",
       "officialPostedDate": "2026-11-13T14:06:54Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoXlzElsOghL6D6NMkrR1",
@@ -2286,12 +2286,12 @@
       "fullDescriptionHash": "387fa4738631f069",
       "projectContentHash": "358eee8981be5961fbbe16bfb15f5a3a4039a6141cbeac37bc43556d21060cba",
       "officialPostedDate": "2026-10-26T18:22:27Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoXlzADizwRyyDutBMpdx",
@@ -2334,12 +2334,12 @@
       "fullDescriptionHash": "74e60d957ad4ea76",
       "projectContentHash": "01fb4d88f1bf1d439ae04586e396322252896ca3947477b77cfbdc10388790f5",
       "officialPostedDate": "2026-10-26T18:22:22Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoXly0nwFAwR_xQRKWZqJ",
@@ -2381,12 +2381,12 @@
       "fullDescriptionHash": "bd4c3a04d94aea03",
       "projectContentHash": "441169e21e0d21c22cd40b0c3413d85690b9a66a6ebc72e819ae66325557af17",
       "officialPostedDate": "2026-10-26T18:22:11Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoXlytUOfloSDF6JPw4yP",
@@ -2428,12 +2428,12 @@
       "fullDescriptionHash": "71dc3f194c09f050",
       "projectContentHash": "b323e00cb77f99f997cf656807200ead44563828063c3c7375680af6fbfd9b96",
       "officialPostedDate": "2026-10-26T18:22:03Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoXlygrOU-ta0mvZC0qz9",
@@ -2475,12 +2475,12 @@
       "fullDescriptionHash": "dbffaa40e679be50",
       "projectContentHash": "a935882780f17cce84d6fc0ff667e6c6f0f862f5845eb95c0f522be4aeeb4281",
       "officialPostedDate": "2026-10-26T18:21:50Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoXlycrggl4K-OZNMvars",
@@ -2522,12 +2522,12 @@
       "fullDescriptionHash": "0640b913a17c0d20",
       "projectContentHash": "2642e5017bed90bfe885a2777263c36ac6406f16142ae9c8a2f8f0e9a3941b20",
       "officialPostedDate": "2026-10-26T18:21:46Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoXlyYOQK6mM0D4FG05Qu",
@@ -2569,12 +2569,12 @@
       "fullDescriptionHash": "2b47ef424ea71e39",
       "projectContentHash": "3138013422a060e31eac296833b74503ae40f31440c89e8f97014065dd45ea5d",
       "officialPostedDate": "2026-10-26T18:21:41Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoXlyRHc9GXoJIl5D2ZLc",
@@ -2616,12 +2616,12 @@
       "fullDescriptionHash": "3490ac810b73065f",
       "projectContentHash": "dc7dbda2fe8cf98d87d922e040267edbfab968e4a96f7abe1c297f2b7cd503b9",
       "officialPostedDate": "2026-10-26T18:21:34Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoXlyK9PwfCExhuBHMY1G",
@@ -2663,12 +2663,12 @@
       "fullDescriptionHash": "7a077cd0f9d9c76b",
       "projectContentHash": "2951512c44323fe74397c920e13811a18719e6516f7c16600723e6e3bc69f55e",
       "officialPostedDate": "2026-10-26T18:21:28Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoXlxmGVod2040vVGaYCZ",
@@ -2710,12 +2710,12 @@
       "fullDescriptionHash": "b55f4974c754c3a3",
       "projectContentHash": "94d53659bf60902586626db732a33d469eb1d042692471b71bfbdc9ce2535a0c",
       "officialPostedDate": "2026-10-26T18:20:50Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoXlxes1TY58ozMJMQpjn",
@@ -2757,12 +2757,12 @@
       "fullDescriptionHash": "dc6885d58fa9eb62",
       "projectContentHash": "e0a7bf927d2f2b3948c1ab89b978524e69c26780e9819afcf6fb76cc175766c1",
       "officialPostedDate": "2026-10-26T18:20:43Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoXlxYDftYp_n8FROgpw8",
@@ -2804,12 +2804,12 @@
       "fullDescriptionHash": "38c964844e9055e5",
       "projectContentHash": "2b1e24a3c69307b3331d08c0bff5a1991df8620841dd518477d37b43257fb8d6",
       "officialPostedDate": "2026-10-26T18:20:36Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoXlxQ1_U0AdHynRKwpJ2",
@@ -2851,12 +2851,12 @@
       "fullDescriptionHash": "3a645b5a4b4ea3b8",
       "projectContentHash": "e2c08ecb97172cb71044cd1a5d2655bc1c56b7e649c693dd179f214b0110a308",
       "officialPostedDate": "2026-10-26T18:20:28Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoXlxJUZCaSZmMttJ6IMb",
@@ -2898,12 +2898,12 @@
       "fullDescriptionHash": "35eb3c26b7aa8bf0",
       "projectContentHash": "7c6f187094fd63cc77e63dfbd523e48b54aed2f16b517e2f583bae5ba532f5d3",
       "officialPostedDate": "2026-10-26T18:20:21Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoXlvyUH1tzlT-IpJg6wm",
@@ -2945,12 +2945,12 @@
       "fullDescriptionHash": "ce1380564e0224f3",
       "projectContentHash": "1476a79d5a58587dcba9c2bba844aaec92bc54efedb8c4331e6c2338fd55f447",
       "officialPostedDate": "2026-10-26T18:18:52Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoUYJgC6FFGQLBmRFJZvf",
@@ -2990,12 +2990,12 @@
       "fullDescriptionHash": "c3dafea8a8393270",
       "projectContentHash": "b54dee640a2d4b9de2ad11f1010ea9b36190406fbf21ca1975f8813df017221f",
       "officialPostedDate": "2026-10-16T18:46:30Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoTSnXon2NKOaCWVFA6I-",
@@ -3034,12 +3034,12 @@
       "fullDescriptionHash": "c1ea85e86a773c0d",
       "projectContentHash": "43baea7bf48969cb60bda6b38a9c3171d3cd83866fbe9cc9d14caba78d21bce3",
       "officialPostedDate": "2026-10-13T09:45:46Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoKORCF2dakrez4FCAo_G",
@@ -3078,12 +3078,12 @@
       "fullDescriptionHash": "3efb7fc1327336ee",
       "projectContentHash": "8ea323435b592895f44c2204101ce7957e670a2b4318f5796c0a78320a586fca",
       "officialPostedDate": "2026-09-15T05:36:26Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoKOPjbVqcleYq1NNjKxo",
@@ -3121,12 +3121,12 @@
       "fullDescriptionHash": "d479a493ca06b807",
       "projectContentHash": "4f13b28cc2c6f47536abd0d31e0fac0316bc0ce16707385e6a623fc2ec861ce8",
       "officialPostedDate": "2026-09-15T05:34:49Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoKOPMUFnRCU8QMZBH634",
@@ -3167,12 +3167,12 @@
       "fullDescriptionHash": "b7fb9a6154623ec4",
       "projectContentHash": "ffaad7c910083cecf53d6788cd93d57674928db6e621f03ed047f2308bc749e4",
       "officialPostedDate": "2026-09-15T05:34:25Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoKMig9vns0-qeYBLhoVI",
@@ -3210,12 +3210,12 @@
       "fullDescriptionHash": "03c446943531a8b0",
       "projectContentHash": "ea104854cda9fd1f457d345407da3e40bb3773e54ec8ac19d22ead80d6fb7b44",
       "officialPostedDate": "2026-09-15T03:35:43Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoJgvqc1gDoK02dZJpq-m",
@@ -3254,12 +3254,12 @@
       "fullDescriptionHash": "5e4d07c54824c229",
       "projectContentHash": "74db86b2eb5195f8f99f39b7c2b8ffa90e82c3ea6e3011c7cb12808b8727e60f",
       "officialPostedDate": "2026-09-13T00:34:15Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoJgvmGStTJPb_JFMXJv8",
@@ -3298,12 +3298,12 @@
       "fullDescriptionHash": "79eb77bc5611bb17",
       "projectContentHash": "bfac994bd4713ebbce338daf0fac283af7f3f18679ce62b182330307dbc197ba",
       "officialPostedDate": "2026-09-13T00:34:11Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoJgviY0u8KpFgcdNPJ9_",
@@ -3342,12 +3342,12 @@
       "fullDescriptionHash": "07f873b7eb552170",
       "projectContentHash": "72352a6714c77a5a8ff170a0ed88e4dd2a6a8fac3448b6b2671b71529fac97cf",
       "officialPostedDate": "2026-09-13T00:34:07Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoJgvejt9L0cNECdNWbCo",
@@ -3386,12 +3386,12 @@
       "fullDescriptionHash": "d9b5c4217da54741",
       "projectContentHash": "bff1c7258c1a5aa1976b146030e8103a21fafae8ec0d9f02a0f3649bc607aaf2",
       "officialPostedDate": "2026-09-13T00:34:03Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoJgvaf2xJcx9tANJF5O8",
@@ -3430,12 +3430,12 @@
       "fullDescriptionHash": "58db0482776e136e",
       "projectContentHash": "09eb62ab148a888f3c8626c2772ba184872236689c07b58bce369d8830a5aa5b",
       "officialPostedDate": "2026-09-13T00:33:59Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoJgvVburs2LBFu1KAbxf",
@@ -3474,12 +3474,12 @@
       "fullDescriptionHash": "a49f4c9009f08f4c",
       "projectContentHash": "456a0e11010185deb24d859c5cb6fa4fd7b748a6e8ae80afb2710e134aa075f8",
       "officialPostedDate": "2026-09-13T00:33:54Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoJgqg0I8vqrLJG1MS64I",
@@ -3518,12 +3518,12 @@
       "fullDescriptionHash": "9d5bd8f6e9a5c93a",
       "projectContentHash": "f363f1688ed5780b8dd52ef3d0d064aecb33c42807df21b5df3414cb6da6f4ae",
       "officialPostedDate": "2026-09-13T00:28:38Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoJgqdG410r7FsbBPeriH",
@@ -3562,12 +3562,12 @@
       "fullDescriptionHash": "5c0fd358ec297004",
       "projectContentHash": "3103cbe99d6e42a55302ea47f7dbe8157231e0d6d354ded901f78fc28ab65589",
       "officialPostedDate": "2026-09-13T00:28:34Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoJgqZViwfNhv2ORD14vu",
@@ -3606,12 +3606,12 @@
       "fullDescriptionHash": "39f96417dcae525d",
       "projectContentHash": "3767185d938250f51e75b8d2f216dcfef671e952cadcc3d7f593386c594afcf3",
       "officialPostedDate": "2026-09-13T00:28:30Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoJgqVi3F6XhyxPFM47qw",
@@ -3650,12 +3650,12 @@
       "fullDescriptionHash": "bf35221e3970daee",
       "projectContentHash": "0939fa3696f9bf440175c7142d3633d139f6cfa5b3b07dd575e4c085117d6751",
       "officialPostedDate": "2026-09-13T00:28:26Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoJgqRhQMEa_UPABNQLNa",
@@ -3694,12 +3694,12 @@
       "fullDescriptionHash": "7915c3d45c0c7522",
       "projectContentHash": "88673120b9c2a3f49c78ab57622d7c2f0a616242d21b8abd040b740a11276ff8",
       "officialPostedDate": "2026-09-13T00:28:22Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoJgqNtzoVh5hqmtEQLnu",
@@ -3738,12 +3738,12 @@
       "fullDescriptionHash": "01670836d215bc3e",
       "projectContentHash": "03eabdcea0d0a08c1dc3a33d2684210f8074840d80a70c2504169b492f981233",
       "officialPostedDate": "2026-09-13T00:28:18Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoJgqKEnGDYqhKlxERLZR",
@@ -3782,12 +3782,12 @@
       "fullDescriptionHash": "a8366e9f666fe747",
       "projectContentHash": "6fc1edb197de842e76647886d80ba4af40ff4f45d65f9f3f8306705e19fc8d83",
       "officialPostedDate": "2026-09-13T00:28:14Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoJgnF8j710kq7tNP9JUX",
@@ -3826,12 +3826,12 @@
       "fullDescriptionHash": "fdaf95f83d94f82d",
       "projectContentHash": "430e3de965382db794a1b9e5d3a0726aeb62b63f4e4f64f7af1f356f93f57445",
       "officialPostedDate": "2026-09-13T00:24:53Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoJgnCdIMK4tluUhKjZfq",
@@ -3870,12 +3870,12 @@
       "fullDescriptionHash": "21b2c4edc91d2901",
       "projectContentHash": "8fba74b15efc31ca9bcc885d54a4c0cce5ead05a85f247f98300642fc2dd41b1",
       "officialPostedDate": "2026-09-13T00:24:50Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoJgm-80LGK_vet9Hy7mI",
@@ -3915,12 +3915,12 @@
       "fullDescriptionHash": "0b8b97e5b649e479",
       "projectContentHash": "38fec417abb6de2c988081b4b6c21ee9637d4698026477957c337d3c1193cf56",
       "officialPostedDate": "2026-09-13T00:24:46Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoJgm6x9CphybYGBCw71A",
@@ -3959,12 +3959,12 @@
       "fullDescriptionHash": "443862a6b8f6e73f",
       "projectContentHash": "74313521e65b72897796f52c7605ffa25cf1a813456cec1549dc66d181cbbf08",
       "officialPostedDate": "2026-09-13T00:24:42Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoJgm29LSpSu7mYtHu76n",
@@ -4003,12 +4003,12 @@
       "fullDescriptionHash": "4f7b3bf171c3f4df",
       "projectContentHash": "5d8f359df3d32862f9625c85da7d11b48a9efa1875eea979792a44863851651e",
       "officialPostedDate": "2026-09-13T00:24:38Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoJgmzdVdKtb1bdNEj7ws",
@@ -4047,12 +4047,12 @@
       "fullDescriptionHash": "53ae5f2559988b60",
       "projectContentHash": "21614345ece1f5eb0392ad705ad4e0530d36d1f29ec4ed92ac0b19f6bc4ab672",
       "officialPostedDate": "2026-09-13T00:24:35Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoJgmvv154mBck81Ez4MZ",
@@ -4091,12 +4091,12 @@
       "fullDescriptionHash": "d837bbdfdf6a2e37",
       "projectContentHash": "de2cbaa0df6b021738fe71e111c39ab672b9d9072de44a169a88a1720c63b5a4",
       "officialPostedDate": "2026-09-13T00:24:31Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoJglE3JYEeYxjXNIVqx5",
@@ -4135,12 +4135,12 @@
       "fullDescriptionHash": "6c883c5644f683b6",
       "projectContentHash": "535b4ce7145ef8693a7f0bda4109559dd0d21e2cb89029c62a7f061d1f2152ce",
       "officialPostedDate": "2026-09-13T00:22:41Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoJglBEavX4Se3gNNkaI6",
@@ -4179,12 +4179,12 @@
       "fullDescriptionHash": "d336f604de8d62ac",
       "projectContentHash": "7996abc020be530622b0a9f9e42c9a7fab82aa0714532d31f51d5716dfaad5e0",
       "officialPostedDate": "2026-09-13T00:22:37Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoJgk9ki2WVxQqaREbK2c",
@@ -4223,12 +4223,12 @@
       "fullDescriptionHash": "1fff99f7c457e5fa",
       "projectContentHash": "073ade499dc7936149266b1a44ffd09cd317279dc62bc3de28f3952a9b45d381",
       "officialPostedDate": "2026-09-13T00:22:34Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoJgk59Ut_nllXvdLfqET",
@@ -4267,12 +4267,12 @@
       "fullDescriptionHash": "3759ff6d3314ca1e",
       "projectContentHash": "aedd46835f3e4047b5fe7d103e5931268acfe6d928955a99b620ca84eb291650",
       "officialPostedDate": "2026-09-13T00:22:30Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoJgjQYnM_TpzFYBFarRo",
@@ -4311,12 +4311,12 @@
       "fullDescriptionHash": "11411b3cd6b4b9a5",
       "projectContentHash": "623efb70797b5d2b59c446a8d4dd3a52056835e000e3eabf9e8c87bdfb79bd75",
       "officialPostedDate": "2026-09-13T00:20:42Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABoJgYdke25i__9elOAaFG",
@@ -4355,12 +4355,12 @@
       "fullDescriptionHash": "7dd987ed19a24130",
       "projectContentHash": "b25caf068e9be6986ea1356dc02dfd0aaf93e44283107544aef5febdf66eed9f",
       "officialPostedDate": "2026-09-13T00:08:55Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABnt-8MlDeId9gbqBF77Ec",
@@ -4398,12 +4398,12 @@
       "fullDescriptionHash": "37a656c01a566d8e",
       "projectContentHash": "0baa1cbd7c5b10902003db03fd5658e44f38905b27131d465d4d81294abc6faa",
       "officialPostedDate": "2026-06-19T11:55:13Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABnoTi00jc2tVdQ0xG17qd",
@@ -4442,12 +4442,12 @@
       "fullDescriptionHash": "67097c8977b322e2",
       "projectContentHash": "d4f79164bb93ba3322b9bc0765cca4d7247a9f2412c577773a1fa4bd3bbfa2a4",
       "officialPostedDate": "2026-06-01T20:31:58Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0Tj07Vgzf7imVMBZB6",
@@ -4483,12 +4483,12 @@
       "fullDescriptionHash": "175aa461c01817f2",
       "projectContentHash": "5fe283d2045ec33a0932b761c372a83cebcefd575c7a5d88d3f316d1e99a75c6",
       "officialPostedDate": "2026-02-27T03:10:31Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0O3XD6A34Rv91Ad60d",
@@ -4524,12 +4524,12 @@
       "fullDescriptionHash": "0a41da4968de331a",
       "projectContentHash": "c003c3ddae31003fdcdc6d759c7434a0fea674f30ebb9b44f3bd40bd2f8a361a",
       "officialPostedDate": "2026-02-27T03:05:23Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0M26ceiz86vu1MT759",
@@ -4565,12 +4565,12 @@
       "fullDescriptionHash": "52476bdbe84f7338",
       "projectContentHash": "e331d20246808e0600e725f0a0e8110d60330fd511881e7f5a2031c2f5ed7179",
       "officialPostedDate": "2026-02-27T03:03:12Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0LvLdNuRT_1I9Iib8_",
@@ -4606,12 +4606,12 @@
       "fullDescriptionHash": "26b5e721243bd5f6",
       "projectContentHash": "23a899c4c7774178cddbad10abb21c1da680ea4506bbf1e2370a262079914e2d",
       "officialPostedDate": "2026-02-27T03:01:58Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0Inam2YWpSD1xI1ZX9",
@@ -4647,12 +4647,12 @@
       "fullDescriptionHash": "777ae0dc35b94a62",
       "projectContentHash": "bcfa31d75a85dfc8bfb007defdd5c88b97867d64514b10d27b616357896e655f",
       "officialPostedDate": "2026-02-27T02:58:34Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0HTJ8DWBVFUwtKbrNa",
@@ -4688,12 +4688,12 @@
       "fullDescriptionHash": "0e2c3ebeb6a6ebfe",
       "projectContentHash": "04d14a8db811003753bff0864a79aeca10bc0e0e819b8cc1d8b06490b29eb282",
       "officialPostedDate": "2026-02-27T02:57:07Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0GDeo6y-KRhahHKrzF",
@@ -4729,12 +4729,12 @@
       "fullDescriptionHash": "59d9fef7f1d55de1",
       "projectContentHash": "1ba0060d3a30375562385cba6e8004cce3f6f669953879fbed540163d1c9bf3e",
       "officialPostedDate": "2026-02-27T02:55:46Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0EyzP13xP26dJJXKpS",
@@ -4770,12 +4770,12 @@
       "fullDescriptionHash": "369289e3d5ff3afc",
       "projectContentHash": "4fc8bfeaaaceadf4b344bb53ea25908a97a176e95f241d8d09e20768627190cb",
       "officialPostedDate": "2026-02-27T02:54:23Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0CrCN6LLqupi9Bf6jc",
@@ -4811,12 +4811,12 @@
       "fullDescriptionHash": "5dc6d659c59d38ae",
       "projectContentHash": "ef7039931dd8dfaa7912213f7ba578975c9fc386aee9c391d19fc44a0a42267e",
       "officialPostedDate": "2026-02-27T02:52:04Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABnJ0BfkepVYhBI7hH_5wP",
@@ -4852,12 +4852,12 @@
       "fullDescriptionHash": "e425df1a0dc6cccf",
       "projectContentHash": "78d98850905cd7d5e1a0e0e009dc31ae5f8a68dfb5b2ccf037cf94fe51da2a26",
       "officialPostedDate": "2026-02-27T02:50:47Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABnJz6-RP8K0Qe1IxHK6LT",
@@ -4893,12 +4893,12 @@
       "fullDescriptionHash": "531f2ba76d018228",
       "projectContentHash": "92082135986bfc363dbc0f59fee9e55f89d22fdc62fcc25803f505322be36870",
       "officialPostedDate": "2026-02-27T02:43:39Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABnJzhSEoldeI_qvBLq6pS",
@@ -4934,12 +4934,12 @@
       "fullDescriptionHash": "cf50bebf468c7b85",
       "projectContentHash": "8f795f31b882cfe5d66a31e22246201898a3774de96461ee1db1397e181bcdb0",
       "officialPostedDate": "2026-02-27T02:15:36Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABnJzRBPRcrO1IUeVFkqqc",
@@ -4975,12 +4975,12 @@
       "fullDescriptionHash": "a526835ff3bfb8bd",
       "projectContentHash": "69c209862de6e23eec0de3a63843ac52e50156076f614ac31a7e91d6bf801bc4",
       "officialPostedDate": "2026-02-27T01:57:50Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABnJzK0z1CNefOyERAAb9m",
@@ -5016,12 +5016,12 @@
       "fullDescriptionHash": "696d63cf162d044d",
       "projectContentHash": "e67d92f542da37be3ff993d899974b1fab6db64646b199bf064d74c463c861c4",
       "officialPostedDate": "2026-02-27T01:51:04Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_mercor:list_AAABnJyE_If_2vn0hvhMxLnv",
@@ -5057,12 +5057,12 @@
       "fullDescriptionHash": "d69ed657bdd3dc4b",
       "projectContentHash": "97f3177868c747abfa895ff3db7bf55fc285ca39904fcd49dcc57b20c59fec30",
       "officialPostedDate": "2026-02-27T00:34:47Z",
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_alignerr:92f161da-0887-4c52-895f-b43d2bfa79ba",
@@ -5079,7 +5079,7 @@
       "location": "Remote",
       "pay": "$15-35/hr",
       "date": "2026-11-26",
-      "timestamp": 1795703791000,
+      "timestamp": 1795704129000,
       "excerpt": "Native Russian speaker in Latvia? Put your everyday Gmail habits to work — evaluate AI features in Russian, earn an hourly rate, just 2-4 hours a week...",
       "applyUrl": "https://www.alignerr.com/jobs/92f161da-0887-4c52-895f-b43d2bfa79ba",
       "source": "web_alignerr",
@@ -5100,12 +5100,12 @@
       "fullDescriptionHash": "0d9ab4e6a3462276",
       "projectContentHash": "f96e88f56fd996bd6633bf10e85dd4499aba815d6d137f8183937a9822be4d2c",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_alignerr:4234d923-f878-49fa-91c9-7890c4a2d531",
@@ -5122,7 +5122,7 @@
       "location": "Remote",
       "pay": "$15-35/hr",
       "date": "2026-11-26",
-      "timestamp": 1795703791000,
+      "timestamp": 1795704129000,
       "excerpt": "Native Russian speaker in Israel? Get paid to evaluate AI features in Gmail and Google Workspace — flexible, remote, and just 2-4 hours a week....",
       "applyUrl": "https://www.alignerr.com/jobs/4234d923-f878-49fa-91c9-7890c4a2d531",
       "source": "web_alignerr",
@@ -5143,12 +5143,12 @@
       "fullDescriptionHash": "b73f6dedc965b3aa",
       "projectContentHash": "b5cb382a15caa5ecc50effc8dd831abf9165bf76073a2e3bc12bd3dcd4201265",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_alignerr:07b72634-528f-43a6-8b46-f76c9a335232",
@@ -5165,7 +5165,7 @@
       "location": "Remote",
       "pay": "$15-35/hr",
       "date": "2026-11-26",
-      "timestamp": 1795703791000,
+      "timestamp": 1795704129000,
       "excerpt": "Native Spanish speaker in Miami? Get paid to evaluate AI features in your own Gmail — remote, flexible, and only 2-4 hours a week....",
       "applyUrl": "https://www.alignerr.com/jobs/07b72634-528f-43a6-8b46-f76c9a335232",
       "source": "web_alignerr",
@@ -5186,12 +5186,12 @@
       "fullDescriptionHash": "27ff1c7c92c83c3b",
       "projectContentHash": "07e2cd454490aa07d2f0c3ce61177451d38dc78e65767b30d2d38e88adf1ac9b",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_alignerr:562fa900-511e-4799-8945-d94ee02963d4",
@@ -5208,7 +5208,7 @@
       "location": "Remote",
       "pay": "$15-35/hr",
       "date": "2026-11-26",
-      "timestamp": 1795703791000,
+      "timestamp": 1795704129000,
       "excerpt": "Native French speaker in Casablanca? Get paid to evaluate AI features in your own Gmail and Google Workspace account — 2–4 hours a week, fully remote ...",
       "applyUrl": "https://www.alignerr.com/jobs/562fa900-511e-4799-8945-d94ee02963d4",
       "source": "web_alignerr",
@@ -5229,12 +5229,12 @@
       "fullDescriptionHash": "fcd5bad2f7b2bf2a",
       "projectContentHash": "46b02174fdabce42483ff3e7e833688a9332c8489fc638737da543759dbc8b04",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_alignerr:b3c71b0a-5054-432a-9b91-f706e067eaf2",
@@ -5249,7 +5249,7 @@
       "location": "Remote",
       "pay": "$15-35/hr",
       "date": "2026-11-26",
-      "timestamp": 1795703791000,
+      "timestamp": 1795704129000,
       "excerpt": "Native Italian speaker? Get paid to evaluate AI features in your own Gmail and Google Workspace account — just 2-4 hours a week, fully remote....",
       "applyUrl": "https://www.alignerr.com/jobs/b3c71b0a-5054-432a-9b91-f706e067eaf2",
       "source": "web_alignerr",
@@ -5270,12 +5270,12 @@
       "fullDescriptionHash": "fe7ff671dda5741b",
       "projectContentHash": "48789a54d5f00611ad5703ba95fd069cd250a28482d07989e5e7d572a04c859d",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_alignerr:65c949ae-474b-40f2-96f7-289792d2cec6",
@@ -5292,7 +5292,7 @@
       "location": "Remote",
       "pay": "$12-40/hr",
       "date": "2026-11-26",
-      "timestamp": 1795703791000,
+      "timestamp": 1795704129000,
       "excerpt": "Put your native Mandarin fluency to work shaping the future of voice AI — role-play real clinic calls, evaluate AI responses, and work fully remotely ...",
       "applyUrl": "https://www.alignerr.com/jobs/65c949ae-474b-40f2-96f7-289792d2cec6",
       "source": "web_alignerr",
@@ -5313,12 +5313,12 @@
       "fullDescriptionHash": "88d8ee1ab8eb6fa7",
       "projectContentHash": "5f3e2caaafacbb92efeb1971745345f1c4b157076d29c2d26c59d9eb0a5b7319",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_alignerr:9d288eae-1d01-49e0-b85a-b501326e874e",
@@ -5335,7 +5335,7 @@
       "location": "Remote",
       "pay": "$12-40/hr",
       "date": "2026-11-26",
-      "timestamp": 1795703791000,
+      "timestamp": 1795704129000,
       "excerpt": "Native Dutch speaker in South Africa? Use your fluency to shape cutting-edge voice AI — evaluate AI-powered clinic calls on your own schedule, fully r...",
       "applyUrl": "https://www.alignerr.com/jobs/9d288eae-1d01-49e0-b85a-b501326e874e",
       "source": "web_alignerr",
@@ -5356,12 +5356,12 @@
       "fullDescriptionHash": "9ca3f8f45d0b200e",
       "projectContentHash": "4ce1b21d4d1a8f596a7b05d3d2099d91b20ed1560ae3a48310058eda33fb107b",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_alignerr:72e2bbb1-5ab9-42af-84b8-1fefc3bba86f",
@@ -5378,7 +5378,7 @@
       "location": "Remote",
       "pay": "$10-35/hr",
       "date": "2026-11-26",
-      "timestamp": 1795703791000,
+      "timestamp": 1795704129000,
       "excerpt": "Sydney's Mandarin speakers wanted — use your language skills to help train cutting-edge AI and earn on your own schedule. Fully remote, no experience ...",
       "applyUrl": "https://www.alignerr.com/jobs/72e2bbb1-5ab9-42af-84b8-1fefc3bba86f",
       "source": "web_alignerr",
@@ -5399,12 +5399,12 @@
       "fullDescriptionHash": "8bb2ed42232f4236",
       "projectContentHash": "5e47fca3eb508d6ca9d86c3faa6c0546b13e059d947d60cd408b50d3ad55812d",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_alignerr:838adc10-f029-4379-8c1f-1cf97e12777b",
@@ -5421,7 +5421,7 @@
       "location": "Remote",
       "pay": "$10-35/hr",
       "date": "2026-11-26",
-      "timestamp": 1795703791000,
+      "timestamp": 1795704129000,
       "excerpt": "London-based Japanese speakers wanted — use your language skills to help train AI on real spoken Japanese. Fully remote, flexible, and rewarding....",
       "applyUrl": "https://www.alignerr.com/jobs/838adc10-f029-4379-8c1f-1cf97e12777b",
       "source": "web_alignerr",
@@ -5442,12 +5442,12 @@
       "fullDescriptionHash": "a8509dada77fb9e8",
       "projectContentHash": "f3e98a99ebcfa326f12596692b6d228b9f2ba3fb47e8f5d31005150965f4e17d",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_alignerr:e608fe5d-2471-4d34-a34f-0990cf5d41c7",
@@ -5464,7 +5464,7 @@
       "location": "Remote",
       "pay": "$10-35/hr",
       "date": "2026-11-26",
-      "timestamp": 1795703791000,
+      "timestamp": 1795704129000,
       "excerpt": "Native Japanese speaker in the New York area? Get paid to help train AI on real Japanese speech — fully remote, flexible hours, no experience required...",
       "applyUrl": "https://www.alignerr.com/jobs/e608fe5d-2471-4d34-a34f-0990cf5d41c7",
       "source": "web_alignerr",
@@ -5485,12 +5485,12 @@
       "fullDescriptionHash": "cdb23f7d41a7275a",
       "projectContentHash": "8d237bfcd62bc312887b9e1cd6f95bf30352882b7728a0c78f93b8c0cc471bb4",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_alignerr:8416bbab-71b1-41a6-95ec-25facc5e684a",
@@ -5505,7 +5505,7 @@
       "location": "Remote",
       "pay": "$20-50/hr",
       "date": "2026-11-26",
-      "timestamp": 1795703791000,
+      "timestamp": 1795704129000,
       "excerpt": "Bring your marketing skills to the cutting edge of AI — design expert training tasks on brand announcements, competitive research, and campaign attrib...",
       "applyUrl": "https://www.alignerr.com/jobs/8416bbab-71b1-41a6-95ec-25facc5e684a",
       "source": "web_alignerr",
@@ -5526,12 +5526,12 @@
       "fullDescriptionHash": "45f5167921447f09",
       "projectContentHash": "b08e754cff935aa90b9ec0a0ffa4da2f19ab18eec91fc57ad0694259e6c135e1",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_alignerr:1b30c760-12cc-4ebe-8b9a-f3591398ceff",
@@ -5546,7 +5546,7 @@
       "location": "Remote",
       "pay": "$20-50/hr",
       "date": "2026-11-26",
-      "timestamp": 1795703791000,
+      "timestamp": 1795704129000,
       "excerpt": "Singapore's world-class enterprise tech ecosystem is the perfect launchpad — bring your support engineering expertise to AI training and shape how age...",
       "applyUrl": "https://www.alignerr.com/jobs/1b30c760-12cc-4ebe-8b9a-f3591398ceff",
       "source": "web_alignerr",
@@ -5567,12 +5567,12 @@
       "fullDescriptionHash": "ee1c49747978710a",
       "projectContentHash": "180b14920d6adbb7212e70881ce080dc57f52e1b20cdff26484ea42356373e57",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_alignerr:7bde821a-d006-40bf-9535-381ecde2f2dd",
@@ -5587,7 +5587,7 @@
       "location": "Remote",
       "pay": "$70-120/hr",
       "date": "2026-11-26",
-      "timestamp": 1795703791000,
+      "timestamp": 1795704129000,
       "excerpt": "German engineers: apply your hands-on debugging and systems expertise to design real AI agent training tasks. Remote contract, flexible commitment....",
       "applyUrl": "https://www.alignerr.com/jobs/7bde821a-d006-40bf-9535-381ecde2f2dd",
       "source": "web_alignerr",
@@ -5608,12 +5608,12 @@
       "fullDescriptionHash": "65b04b09dc8450f8",
       "projectContentHash": "353eb81a655cb3ea66c4210761c9c3c7e6a011df0b2ac25a4f16c3fa2750b3f5",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_alignerr:3673a42d-d3db-4561-a33f-8fa733e1fc0d",
@@ -5628,7 +5628,7 @@
       "location": "Remote",
       "pay": "$60-120/hr",
       "date": "2026-11-26",
-      "timestamp": 1795703791000,
+      "timestamp": 1795704129000,
       "excerpt": "Put your accounting expertise to work on the cutting edge of AI — design expert reconciliation tasks that train and benchmark advanced AI agents. Full...",
       "applyUrl": "https://www.alignerr.com/jobs/3673a42d-d3db-4561-a33f-8fa733e1fc0d",
       "source": "web_alignerr",
@@ -5649,12 +5649,12 @@
       "fullDescriptionHash": "40fb4fb741884950",
       "projectContentHash": "f63169d4295941b3b85c9762be812eaf8818f923ab9c3b20f2d19561ddaebd8b",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_alignerr:ca7a7809-a3a9-4275-90c9-f4ed39bff639",
@@ -5669,7 +5669,7 @@
       "location": "Remote",
       "pay": "$20-50/hr",
       "date": "2026-11-26",
-      "timestamp": 1795703791000,
+      "timestamp": 1795704129000,
       "excerpt": "São Paulo's enterprise RevOps professionals — shape how AI handles complex revenue reconciliation by designing expert training tasks. Fully remote, fl...",
       "applyUrl": "https://www.alignerr.com/jobs/ca7a7809-a3a9-4275-90c9-f4ed39bff639",
       "source": "web_alignerr",
@@ -5690,12 +5690,12 @@
       "fullDescriptionHash": "57bacaeaf918dbc6",
       "projectContentHash": "567ba71884259e1a4149238728ffb49a5ccc5531af2e40f274f9d5838ba4ed97",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     },
     {
       "id": "web_alignerr:c1622eaf-6e63-4f02-9a9b-2d18e41f46ed",
@@ -5710,7 +5710,7 @@
       "location": "Remote",
       "pay": "$20-50/hr",
       "date": "2026-11-26",
-      "timestamp": 1795703791000,
+      "timestamp": 1795704129000,
       "excerpt": "Dublin's enterprise tech professionals — turn your RevOps expertise into AI impact. Design expert training tasks for cutting-edge AI agents, fully rem...",
       "applyUrl": "https://www.alignerr.com/jobs/c1622eaf-6e63-4f02-9a9b-2d18e41f46ed",
       "source": "web_alignerr",
@@ -5731,12 +5731,12 @@
       "fullDescriptionHash": "1f51b5f82d4af3c6",
       "projectContentHash": "0acb81616f1a0ee086311a7e63eadfd45d2d44b72c9261970461d66b2735e364",
       "officialPostedDate": null,
-      "firstDetectedAt": "2026-11-26T14:36:31Z",
-      "firstSeenAt": "2026-11-26T14:36:31Z",
-      "lastVerifiedAt": "2026-11-26T14:36:31Z",
+      "firstDetectedAt": "2026-11-26T14:42:09Z",
+      "firstSeenAt": "2026-11-26T14:42:09Z",
+      "lastVerifiedAt": "2026-11-26T14:42:09Z",
       "jobStatus": "NEW",
       "sourceConnector": "web_alignerr",
-      "collectedAt": "2026-11-26T14:36:31Z"
+      "collectedAt": "2026-11-26T14:42:09Z"
     }
   ]
 }
