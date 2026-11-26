@@ -8,6 +8,9 @@ on:
       - research_third_party_sources.py
       - config/third_party_discovery_research.json
       - tests/test_third_party_discovery_research.py
+      - config/aggregator_permission_gate.json
+      - validate_aggregator_permissions.py
+      - tests/test_aggregator_permission_gate.py
       - .github/workflows/third_party_research_staging.yml
 
 permissions:
@@ -34,6 +37,8 @@ jobs:
         env:
           PYTHONPATH: src:.
         run: pytest tests/ -q --tb=short
+      - name: Gate 1b — Enforce aggregator permission policy
+        run: python validate_aggregator_permissions.py
       - name: Protect existing staging and production feeds
         run: sha256sum jobs_feed.json staging/jobs_feed.json state/job_history.json > "$RUNNER_TEMP/protected.sha256"
       - name: Gate 2 — Bounded research scan (RemoWork excluded from automation)
