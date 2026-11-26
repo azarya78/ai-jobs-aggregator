@@ -14,3 +14,24 @@ def test_incomplete():
     with pytest.raises(ValueError): fetch_pages(Client({0:{"jobs":[],"total":3,"next_offset":None}}))
 def test_wrong_host():
     assert summarize([{"url":"https://example.com/jobs/a"}],1)["invalid_attribution_links"]==1
+
+def test_identical_rows_collapse():
+    from aitrainer_live import partition_landing_rows
+    row={"url":"https://aitrainer.work/jobs/a","id":"1"}
+    safe,report=partition_landing_rows([row,dict(row)])
+    assert safe==[row]
+    assert report["exact_duplicate_rows"]==1
+def test_conflicting_landing_quarantined():
+    from aitrainer_live import partition_landing_rows
+    a={"url":"https://aitrainer.work/jobs/a","id":"1"}
+    b={"url":"https://aitrainer.work/jobs/a","id":"2"}
+    c={"url":"https://aitrainer.work/jobs/b","id":"3"}
+    safe,report=partition_landing_rows([a,b,c])
+    assert safe==[c]
+    assert report["quarantined_conflict_rows"]==2
+    assert report["conflict_groups"]==1
+def test_bad_authority_quarantined():
+    from aitrainer_live import partition_landing_rows
+    safe,report=partition_landing_rows([{"url":"https://user@aitrainer.work/jobs/a"}])
+    assert not safe
+    assert report["invalid_rows"]==1
