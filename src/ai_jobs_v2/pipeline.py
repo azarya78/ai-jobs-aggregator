@@ -289,6 +289,18 @@ class JobDiscoveryPipeline:
                 item["duplicateListingsCollapsed"] = duplicate_counts[rec.canonical_id]
             discovery_history.observe(item, now_iso, previous, stored)
             catalog_items.append(item)
+        syndicated_report = None
+        if self.output_feed_path.parent.name == "staging" and cfg.get("enable_licensed_aitrainer_catalog") is True:
+            from .licensed_aitrainer import refresh_snapshot, merge_snapshot
+            snapshot = refresh_snapshot(self.http_client, self.state_dir / "aitrainer_snapshot.json", now_iso)
+            added, syndicated_report = merge_snapshot(catalog_items, snapshot)
+            for item in added:
+                previous = previous_catalog_by_id.get(item["id"])
+                discovery_history.observe(item, now_iso, previous)
+                if previous:
+                    item["jobStatus"] = "EXISTING" if previous.get("fullDescriptionHash") == item["fullDescriptionHash"] else "UPDATED"
+                catalog_items.append(item)
+            logger.info("LICENSED_AITRAINER: %s", json.dumps(syndicated_report, ensure_ascii=False))
         project_groups = build_project_groups(catalog_items, now_iso)
         write_json_atomically(
             self.output_feed_path.parent / "freshness_catalog.json",
@@ -303,6 +315,7 @@ class JobDiscoveryPipeline:
                 "semanticDuplicatesCollapsed": collapsed_duplicates,
                 "jobs": catalog_items,
                 "projectGrouping": project_groups,
+                "licensedDiscovery": syndicated_report,
             },
             validate_android_schema=False,
         )
@@ -338,6 +351,8 @@ class JobDiscoveryPipeline:
             published_count=len(feed_items),
             unverified_queue_count=len(dedup_unverified),
         )
+        if syndicated_report is not None:
+            cov_dict["licensedDiscovery"] = syndicated_report
         cov_dict["sourceFreshness"] = build_source_freshness(
             catalog_items, connector_reports, previous_catalog_by_id, now_iso, has_previous_catalog
         )

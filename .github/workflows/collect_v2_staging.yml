@@ -32,6 +32,7 @@ concurrency:
 
 jobs:
   test-collect-validate:
+    if: github.ref == 'refs/heads/feat/v2-direct-discovery'
     runs-on: ubuntu-latest
     timeout-minutes: 15
 
@@ -101,6 +102,9 @@ jobs:
           dates = [datetime.fromisoformat(j["officialPostedDate"].replace("Z", "+00:00")) for j in dated]
           assert dates == sorted(dates, reverse=True), "Dated jobs not newest first"
           assert all(j.get("officialPostedDate") for j in jobs[:len(dated)]), "Undated jobs above dated jobs"
+          syndicated = [j for j in jobs if j.get("sourceConnector") == "syndicated_aitrainer"]
+          assert all(j["isDirect"] is False and not j["officialPostedDate"] and not j["date"] and j["eligibilityClass"] == "Unverified" and j["applyUrl"].startswith("https://aitrainer.work/") and "AITrainer.work" in j["excerpt"] for j in syndicated)
+          print("SYNDICATED:", len(syndicated))
           from collections import Counter
           now = datetime.now(timezone.utc)
           recent = [j for j in jobs if j.get("officialPostedDate") and 0 <= (now - datetime.fromisoformat(j["officialPostedDate"].replace("Z", "+00:00"))).total_seconds() <= 7 * 86400]
@@ -132,6 +136,7 @@ jobs:
             state/unverified_jobs.json
             state/daily_new_candidates.json
             state/job_history.json
+            state/aitrainer_snapshot.json
           retention-days: 14
 
       - name: Commit updated staging feed & persistent job history (Protected Branch Guard)
@@ -143,6 +148,7 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -f state/aitrainer_snapshot.json ]; then git add state/aitrainer_snapshot.json; fi
           git add staging/jobs_feed.json staging/freshness_catalog.json staging/discovery_history.json state/job_history.json state/http_cache.json state/unverified_jobs.json state/daily_new_candidates.json state/coverage_report.json state/COVERAGE_REPORT.md
           if git diff --cached --quiet; then
             echo "No changes in staging feed or state."
