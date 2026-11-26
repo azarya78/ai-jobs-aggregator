@@ -14,6 +14,11 @@ SOURCES = [
     ("Anyone AI", "ashby", "anyone-ai"),
     ("Handshake", "ashby", "handshake"),
     ("Terac", "ashby", "terac"),
+    ("Innodata", "greenhouse", "innodatainc"),
+    ("HumanSignal", "greenhouse", "humansignal"),
+    ("ElevenLabs", "ashby", "elevenlabs"),
+    ("Inworld AI", "ashby", "inworld-ai"),
+    ("Invisible Technologies (date audit)", "greenhouse", "invisibletech"),
 ]
 
 def key(url):
@@ -44,7 +49,7 @@ def main():
                     else f"https://api.ashbyhq.com/posting-api/job-board/{board}")
         report = dict(platform=platform, ats=ats, board=board, endpoint=endpoint, permission="UNVERIFIED_RESEARCH_ONLY",
                       raw=0, relevant=0, incremental_exact_url=0, recent24h=0, recent7d=0, undated=0, duplicate_exact_url=0,
-                      malformed_url=0, samples=[], status="FAILED")
+                      malformed_url=0, update_only_relevant=0, update_only_recent7d=0, samples=[], recent_samples=[], status="FAILED")
         try:
             response = http.get(endpoint, timeout_sec=20, rate_limit_rps=1)
             report["http_status"] = response.status_code
@@ -70,6 +75,10 @@ def main():
                 if record is None:
                     continue
                 report["relevant"] += 1
+                if ats == "greenhouse" and not posting(item, ats):
+                    update_age = age_hours(item.get("updated_at"), now)
+                    report["update_only_relevant"] += 1
+                    report["update_only_recent7d"] += int(update_age is not None and update_age <= 168)
                 keys = {k for k in (key(url), key(apply)) if k}
                 if not keys or not record.apply_url_available:
                     report["malformed_url"] += 1
@@ -85,6 +94,8 @@ def main():
                 else:
                     report["recent24h"] += int(age <= 24)
                     report["recent7d"] += int(age <= 168)
+                if age is not None and age <= 168 and len(report["recent_samples"]) < 20:
+                    report["recent_samples"].append(dict(title=record.title, official_date=record.official_posted_date, apply_url=record.apply_url))
                 if len(report["samples"]) < 5:
                     report["samples"].append(dict(title=record.title, official_date=record.official_posted_date, apply_url=record.apply_url))
         except Exception as exc:
