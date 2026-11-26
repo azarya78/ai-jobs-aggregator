@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-26T07:26:30Z",
+  "generatedAt": "2026-11-26T07:36:39Z",
   "summary": {
     "totalSourcesConfigured": 14,
     "sourcesSucceeded": 11,
     "sourcesEmptyZeroResults": 0,
     "sourcesFailed": 3,
-    "rawListingsRetrieved": 1940,
+    "rawListingsRetrieved": 1936,
     "relevantAiEvalListings": 917,
     "indonesiaEligibleListings": 20,
     "remoteGlobalListings": 3,
     "unverifiedReviewListings": 131,
     "restrictedListingsFiltered": 763,
-    "irrelevantRejectedListings": 1021,
+    "irrelevantRejectedListings": 1017,
     "publishedAndroidFeedTotal": 23,
     "deduplication": {
       "duplicatesCollapsed": 0,
@@ -37,8 +37,8 @@
       "restricted_count": 255,
       "rejected_irrelevant_count": 198,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T07:26:30Z",
-      "duration_ms": 8508,
+      "last_successful_check": "2026-11-26T07:36:39Z",
+      "duration_ms": 5100,
       "error_message": null
     },
     {
@@ -55,8 +55,8 @@
       "restricted_count": 130,
       "rejected_irrelevant_count": 17,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T07:26:30Z",
-      "duration_ms": 1387,
+      "last_successful_check": "2026-11-26T07:36:39Z",
+      "duration_ms": 2760,
       "error_message": null
     },
     {
@@ -74,7 +74,7 @@
       "rejected_irrelevant_count": 0,
       "closed_in_payload_count": 0,
       "last_successful_check": null,
-      "duration_ms": 483,
+      "duration_ms": 503,
       "error_message": "HTTP 404 access denied or not found for https://boards-api.greenhouse.io/v1/boards/outlier/jobs?content=true; fallback https://app.outlier.ai/opportunities requires client-side session/CSRF token (0 public SSR listings)"
     },
     {
@@ -91,8 +91,8 @@
       "restricted_count": 7,
       "rejected_irrelevant_count": 3,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T07:26:30Z",
-      "duration_ms": 5439,
+      "last_successful_check": "2026-11-26T07:36:39Z",
+      "duration_ms": 5497,
       "error_message": null
     },
     {
@@ -109,8 +109,8 @@
       "restricted_count": 72,
       "rejected_irrelevant_count": 19,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T07:26:30Z",
-      "duration_ms": 1214,
+      "last_successful_check": "2026-11-26T07:36:39Z",
+      "duration_ms": 1646,
       "error_message": null
     },
     {
@@ -127,8 +127,8 @@
       "restricted_count": 49,
       "rejected_irrelevant_count": 211,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T07:26:30Z",
-      "duration_ms": 1501,
+      "last_successful_check": "2026-11-26T07:36:39Z",
+      "duration_ms": 2362,
       "error_message": null
     },
     {
@@ -146,7 +146,7 @@
       "rejected_irrelevant_count": 0,
       "closed_in_payload_count": 0,
       "last_successful_check": "2026-11-25T14:38:57Z",
-      "duration_ms": 867,
+      "duration_ms": 874,
       "error_message": "Public HTML extractor returned zero listings for web_micro1; possible page-layout or rendering change"
     },
     {
@@ -163,8 +163,8 @@
       "restricted_count": 9,
       "rejected_irrelevant_count": 112,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T07:26:30Z",
-      "duration_ms": 2767,
+      "last_successful_check": "2026-11-26T07:36:39Z",
+      "duration_ms": 2812,
       "error_message": null
     },
     {
@@ -181,8 +181,8 @@
       "restricted_count": 12,
       "rejected_irrelevant_count": 8,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T07:26:30Z",
-      "duration_ms": 3323,
+      "last_successful_check": "2026-11-26T07:36:39Z",
+      "duration_ms": 3429,
       "error_message": null
     },
     {
@@ -200,7 +200,7 @@
       "rejected_irrelevant_count": 0,
       "closed_in_payload_count": 0,
       "last_successful_check": null,
-      "duration_ms": 167,
+      "duration_ms": 141,
       "error_message": "HTTP 403 access denied or not found for https://jobs.telusdigital.com/search/cfm5/ai-community/jobs/in/country/indonesia"
     },
     {
@@ -209,16 +209,16 @@
       "official_url": "https://mindrift.ai/apply",
       "method": "mindrift_public_web",
       "status": "SUCCESS",
-      "raw_count": 586,
+      "raw_count": 582,
       "relevant_count": 192,
       "indonesia_eligible_count": 0,
       "remote_global_count": 0,
       "unverified_review_count": 0,
       "restricted_count": 192,
-      "rejected_irrelevant_count": 394,
+      "rejected_irrelevant_count": 390,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T07:26:30Z",
-      "duration_ms": 3735,
+      "last_successful_check": "2026-11-26T07:36:39Z",
+      "duration_ms": 5351,
       "error_message": null
     },
     {
@@ -235,8 +235,8 @@
       "restricted_count": 33,
       "rejected_irrelevant_count": 4,
       "closed_in_payload_count": 2,
-      "last_successful_check": "2026-11-26T07:26:30Z",
-      "duration_ms": 212,
+      "last_successful_check": "2026-11-26T07:36:39Z",
+      "duration_ms": 301,
       "error_message": null
     },
     {
@@ -253,8 +253,8 @@
       "restricted_count": 3,
       "rejected_irrelevant_count": 37,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T07:26:30Z",
-      "duration_ms": 204,
+      "last_successful_check": "2026-11-26T07:36:39Z",
+      "duration_ms": 295,
       "error_message": null
     },
     {
@@ -271,8 +271,8 @@
       "restricted_count": 1,
       "rejected_irrelevant_count": 18,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T07:26:30Z",
-      "duration_ms": 237,
+      "last_successful_check": "2026-11-26T07:36:39Z",
+      "duration_ms": 391,
       "error_message": null
     }
   ]
