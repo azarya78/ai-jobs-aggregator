@@ -208,6 +208,7 @@ class HimalayasDiscoveryConnector(BaseConnector):
             _with_base_connector_defaults(config, "pilot_himalayas", "Himalayas", ["himalayas", "app"], "/jobs/api"),
             http_client,
         )
+        self.http_client = http_client
         self.last_fetch_metadata: Dict[str, Any] = {}
 
     def _root_domain(self) -> str:
@@ -479,6 +480,7 @@ class RemotiveDiscoveryConnector(BaseConnector):
             _with_base_connector_defaults(config, "pilot_remotive", "Remotive", ["remotive", "com"], "/api/remote-jobs"),
             http_client,
         )
+        self.http_client = http_client
         self.last_fetch_metadata: Dict[str, Any] = {}
 
     def _root_domain(self) -> str:
@@ -606,6 +608,7 @@ class JobicyDiscoveryConnector(BaseConnector):
             _with_base_connector_defaults(config, "pilot_jobicy", "Jobicy", ["jobicy", "com"], "/api/v2/remote-jobs"),
             http_client,
         )
+        self.http_client = http_client
         self.last_fetch_metadata: Dict[str, Any] = {}
 
     def _root_domain(self) -> str:
