@@ -126,7 +126,7 @@ class TestFreshnessFirstCatalog(unittest.TestCase):
             self.assertTrue(catalog["experimentalOnly"])
             self.assertTrue(catalog["doNotPromoteToAndroidFeed"])
             self.assertEqual([r["id"] for r in published["jobs"]], ["lever_test:id-role"])
-            self.assertEqual(catalog["totalJobs"], 3)
+            self.assertEqual(catalog["totalJobs"], 3, [(r["id"], r["eligibilityClass"]) for r in catalog["jobs"]])
             self.assertEqual(
                 [r["id"] for r in catalog["jobs"]],
                 ["lever_test:eu-role", "lever_test:id-role", "lever_test:unknown-role"],
