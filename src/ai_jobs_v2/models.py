@@ -100,6 +100,7 @@ class NormalizedJobRecord:
     collected_at: str
 
     requirements_evidence: List[str] = field(default_factory=list)
+    project_content_hash: Optional[str] = None
 
     def to_android_feed_item(self, boolean_eligible: bool = False) -> Dict[str, Any]:
         """Serialize to backward-compatible Android jobs_feed.json item schema + optional v2 fields."""
@@ -151,6 +152,7 @@ class NormalizedJobRecord:
             "requirementsEvidence": self.requirements_evidence,
             "compensation": self.compensation.to_dict(),
             "fullDescriptionHash": self.full_description_hash,
+            "projectContentHash": self.project_content_hash,
             "officialPostedDate": self.official_posted_date,
             "firstDetectedAt": self.first_detected_at,
             "firstSeenAt": self.first_detected_at,

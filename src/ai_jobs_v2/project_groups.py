@@ -9,7 +9,7 @@ def build_project_groups(items, now_iso):
     buckets = defaultdict(list)
     for item in items:
         title = " ".join((item.get("title") or "").casefold().split())
-        digest = item.get("fullDescriptionHash")
+        digest = item.get("projectContentHash")
         source = item.get("sourceConnector")
         company = item.get("company")
         # No fuzzy title matching, cross-platform matching, or missing evidence.

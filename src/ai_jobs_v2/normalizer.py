@@ -211,5 +211,7 @@ def normalize_raw_listing(
         source_connector=cleaned_raw.source_connector,
         collected_at=collected_at_iso,
         requirements_evidence=requirements,
+        project_content_hash=(hashlib.sha256(clean_desc.casefold().encode('utf-8')).hexdigest()
+                              if clean_desc else None),
     )
     return record, relevance, eligibility
