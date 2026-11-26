@@ -18,11 +18,11 @@ jobs:
           python-version: '3.12'
       - run: pip install -r requirements.txt
       - run: PYTHONPATH=src:pilot_licensed python -m pytest tests/ pilot_licensed/ -q
-      - run: PYTHONPATH=src python pilot_licensed/aitrainer_live.py
+      - run: PYTHONPATH=src python pilot_licensed/freshness_audit.py
       - run: git diff --exit-code
       - uses: actions/upload-artifact@v4
         if: always()
         with:
           name: licensed-feed-pilot
-          path: aitrainer-live-report.json
+          path: licensed-freshness-report.json
           if-no-files-found: error
