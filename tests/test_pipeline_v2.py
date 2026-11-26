@@ -81,6 +81,67 @@ class TestEligibilityReclassificationHistory(unittest.TestCase):
             self.assertEqual(store.records[original.canonical_id]["job_status"], STATUS_UNVERIFIED)
 
 
+class TestFreshnessFirstCatalog(unittest.TestCase):
+    def test_separate_all_location_catalog_preserves_verified_feed(self):
+        from unittest.mock import patch
+        from ai_jobs_v2.pipeline import JobDiscoveryPipeline
+
+        with tempfile.TemporaryDirectory() as temp:
+            root = pathlib.Path(temp)
+            config = root / "config.json"
+            config.write_text(json.dumps({"sources": [{
+                "id": "lever_test", "platform": "Test ATS",
+                "method": "lever_api", "enabled": True,
+                "official_url": "https://jobs.lever.co/example",
+            }]}), encoding="utf-8")
+
+            def job(jid, title, loc, posted):
+                return RawJobListing(
+                    source_connector="lever_test", platform="Test ATS",
+                    source_job_id=jid, title=title,
+                    official_source_url=f"https://jobs.lever.co/example/{jid}",
+                    raw_apply_url=f"https://jobs.lever.co/example/{jid}/apply",
+                    location_raw=loc,
+                    description_text="Evaluate model responses and annotate AI outputs.",
+                    official_posted_at=posted,
+                )
+
+            jobs = [
+                job("id-role", "AI Response Evaluator - Indonesian", "Indonesia", "2026-11-20T00:00:00Z"),
+                job("eu-role", "AI Response Evaluator", "Germany · DE · remote", "2026-11-25T00:00:00Z"),
+                job("unknown-role", "AI Data Annotator", "Remote", None),
+            ]
+
+            class FakeConnector:
+                def fetch_listings(self):
+                    return jobs
+
+            feed = root / "staging" / "jobs_feed.json"
+            with patch("ai_jobs_v2.pipeline.create_connector", return_value=FakeConnector()):
+                JobDiscoveryPipeline(config, root / "state", feed).run("2026-11-26T00:00:00Z")
+
+            published = json.loads(feed.read_text(encoding="utf-8"))
+            catalog_path = root / "staging" / "freshness_catalog.json"
+            catalog = json.loads(catalog_path.read_text(encoding="utf-8"))
+            self.assertTrue(catalog["experimentalOnly"])
+            self.assertTrue(catalog["doNotPromoteToAndroidFeed"])
+            self.assertEqual([r["id"] for r in published["jobs"]], ["lever_test:id-role"])
+            self.assertEqual(catalog["totalJobs"], 3)
+            self.assertEqual(
+                [r["id"] for r in catalog["jobs"]],
+                ["lever_test:eu-role", "lever_test:id-role", "lever_test:unknown-role"],
+            )
+            self.assertEqual(
+                [r["eligibilityClass"] for r in catalog["jobs"]],
+                ["Restricted", "Indonesia Eligible", "Unverified"],
+            )
+            self.assertEqual(
+                [r["dateSource"] for r in catalog["jobs"]],
+                ["official_posted", "official_posted", "first_detected"],
+            )
+            self.assertEqual(len({r["applyUrl"] for r in catalog["jobs"]}), 3)
+
+
 class TestConflictingGeographicEvidence(unittest.TestCase):
     def test_broad_employer_country_list_does_not_override_foreign_location(self):
         description = (
