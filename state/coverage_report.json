@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T07:04:10Z",
+  "generatedAt": "2026-11-26T07:26:30Z",
   "summary": {
     "totalSourcesConfigured": 14,
     "sourcesSucceeded": 11,
@@ -37,8 +37,8 @@
       "restricted_count": 255,
       "rejected_irrelevant_count": 198,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T07:04:10Z",
-      "duration_ms": 4903,
+      "last_successful_check": "2026-11-26T07:26:30Z",
+      "duration_ms": 8508,
       "error_message": null
     },
     {
@@ -55,8 +55,8 @@
       "restricted_count": 130,
       "rejected_irrelevant_count": 17,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T07:04:10Z",
-      "duration_ms": 2083,
+      "last_successful_check": "2026-11-26T07:26:30Z",
+      "duration_ms": 1387,
       "error_message": null
     },
     {
@@ -74,7 +74,7 @@
       "rejected_irrelevant_count": 0,
       "closed_in_payload_count": 0,
       "last_successful_check": null,
-      "duration_ms": 602,
+      "duration_ms": 483,
       "error_message": "HTTP 404 access denied or not found for https://boards-api.greenhouse.io/v1/boards/outlier/jobs?content=true; fallback https://app.outlier.ai/opportunities requires client-side session/CSRF token (0 public SSR listings)"
     },
     {
@@ -91,8 +91,8 @@
       "restricted_count": 7,
       "rejected_irrelevant_count": 3,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T07:04:10Z",
-      "duration_ms": 5687,
+      "last_successful_check": "2026-11-26T07:26:30Z",
+      "duration_ms": 5439,
       "error_message": null
     },
     {
@@ -109,8 +109,8 @@
       "restricted_count": 72,
       "rejected_irrelevant_count": 19,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T07:04:10Z",
-      "duration_ms": 1618,
+      "last_successful_check": "2026-11-26T07:26:30Z",
+      "duration_ms": 1214,
       "error_message": null
     },
     {
@@ -127,8 +127,8 @@
       "restricted_count": 49,
       "rejected_irrelevant_count": 211,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T07:04:10Z",
-      "duration_ms": 2848,
+      "last_successful_check": "2026-11-26T07:26:30Z",
+      "duration_ms": 1501,
       "error_message": null
     },
     {
@@ -146,7 +146,7 @@
       "rejected_irrelevant_count": 0,
       "closed_in_payload_count": 0,
       "last_successful_check": "2026-11-25T14:38:57Z",
-      "duration_ms": 881,
+      "duration_ms": 867,
       "error_message": "Public HTML extractor returned zero listings for web_micro1; possible page-layout or rendering change"
     },
     {
@@ -163,8 +163,8 @@
       "restricted_count": 9,
       "rejected_irrelevant_count": 112,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T07:04:10Z",
-      "duration_ms": 2808,
+      "last_successful_check": "2026-11-26T07:26:30Z",
+      "duration_ms": 2767,
       "error_message": null
     },
     {
@@ -181,8 +181,8 @@
       "restricted_count": 12,
       "rejected_irrelevant_count": 8,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T07:04:10Z",
-      "duration_ms": 3353,
+      "last_successful_check": "2026-11-26T07:26:30Z",
+      "duration_ms": 3323,
       "error_message": null
     },
     {
@@ -200,7 +200,7 @@
       "rejected_irrelevant_count": 0,
       "closed_in_payload_count": 0,
       "last_successful_check": null,
-      "duration_ms": 149,
+      "duration_ms": 167,
       "error_message": "HTTP 403 access denied or not found for https://jobs.telusdigital.com/search/cfm5/ai-community/jobs/in/country/indonesia"
     },
     {
@@ -217,8 +217,8 @@
       "restricted_count": 192,
       "rejected_irrelevant_count": 394,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T07:04:10Z",
-      "duration_ms": 5889,
+      "last_successful_check": "2026-11-26T07:26:30Z",
+      "duration_ms": 3735,
       "error_message": null
     },
     {
@@ -235,8 +235,8 @@
       "restricted_count": 33,
       "rejected_irrelevant_count": 4,
       "closed_in_payload_count": 2,
-      "last_successful_check": "2026-11-26T07:04:10Z",
-      "duration_ms": 289,
+      "last_successful_check": "2026-11-26T07:26:30Z",
+      "duration_ms": 212,
       "error_message": null
     },
     {
@@ -253,8 +253,8 @@
       "restricted_count": 3,
       "rejected_irrelevant_count": 37,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T07:04:10Z",
-      "duration_ms": 313,
+      "last_successful_check": "2026-11-26T07:26:30Z",
+      "duration_ms": 204,
       "error_message": null
     },
     {
@@ -271,8 +271,8 @@
       "restricted_count": 1,
       "rejected_irrelevant_count": 18,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T07:04:10Z",
-      "duration_ms": 361,
+      "last_successful_check": "2026-11-26T07:26:30Z",
+      "duration_ms": 237,
       "error_message": null
     }
   ]
