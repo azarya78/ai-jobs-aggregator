@@ -1,0 +1,95 @@
+{
+  "schemaVersion": "source-radar-v1",
+  "experimentalOnly": true,
+  "doNotPublishToAndroid": true,
+  "checkedAt": "2026-11-26T09:19:41Z",
+  "sourcesChecked": 6,
+  "sourcesWithPublicIndexLinks": 2,
+  "sources": [
+    {
+      "id": "radar_begun",
+      "platform": "Begun (formerly Ethos)",
+      "url": "https://app.begun.com/opportunities",
+      "status": "NO_STATIC_JOB_LINKS",
+      "matchingLinkCount": 0,
+      "sampleOfficialLinks": [],
+      "sourceType": "official_public_page",
+      "postingDatesVerified": false,
+      "syndicationApproved": false,
+      "robotsCheck": "robots_checked",
+      "httpStatus": 200
+    },
+    {
+      "id": "radar_handshake",
+      "platform": "Handshake AI",
+      "url": "https://joinhandshake.com/ai/opportunities/",
+      "status": "PUBLIC_LIST_LINKS",
+      "matchingLinkCount": 2,
+      "sampleOfficialLinks": [
+        "https://joinhandshake.com/ai/opportunities/fellow-stories",
+        "https://joinhandshake.com/ai/opportunities/opportunities"
+      ],
+      "sourceType": "official_public_page",
+      "postingDatesVerified": false,
+      "syndicationApproved": false,
+      "robotsCheck": "robots_checked",
+      "httpStatus": 200
+    },
+    {
+      "id": "radar_dataannotation",
+      "platform": "DataAnnotation.tech",
+      "url": "https://www.dataannotation.tech/",
+      "status": "PUBLIC_LIST_LINKS",
+      "matchingLinkCount": 133,
+      "sampleOfficialLinks": [
+        "https://www.dataannotation.tech/job-board/accountant",
+        "https://www.dataannotation.tech/job-board/actuary",
+        "https://www.dataannotation.tech/job-board/application-security-engineer"
+      ],
+      "sourceType": "official_public_page",
+      "postingDatesVerified": false,
+      "syndicationApproved": false,
+      "robotsCheck": "robots_checked",
+      "httpStatus": 200
+    },
+    {
+      "id": "radar_turing",
+      "platform": "Turing",
+      "url": "https://work.turing.com/",
+      "status": "NO_STATIC_JOB_LINKS",
+      "matchingLinkCount": 0,
+      "sampleOfficialLinks": [],
+      "sourceType": "official_public_page",
+      "postingDatesVerified": false,
+      "syndicationApproved": false,
+      "robotsCheck": "robots_404_no_rules",
+      "httpStatus": 200
+    },
+    {
+      "id": "radar_rustlabs",
+      "platform": "rustLabs",
+      "url": "https://experts.rustlabs.ai/",
+      "status": "NO_STATIC_JOB_LINKS",
+      "matchingLinkCount": 0,
+      "sampleOfficialLinks": [],
+      "sourceType": "official_public_page",
+      "postingDatesVerified": false,
+      "syndicationApproved": false,
+      "robotsCheck": "robots_checked",
+      "httpStatus": 200
+    },
+    {
+      "id": "radar_micro1",
+      "platform": "Micro1",
+      "url": "https://www.micro1.ai/experts/opportunities",
+      "status": "NO_STATIC_JOB_LINKS",
+      "matchingLinkCount": 0,
+      "sampleOfficialLinks": [],
+      "sourceType": "official_public_page",
+      "postingDatesVerified": false,
+      "syndicationApproved": false,
+      "robotsCheck": "robots_checked",
+      "httpStatus": 200
+    }
+  ]
+}
