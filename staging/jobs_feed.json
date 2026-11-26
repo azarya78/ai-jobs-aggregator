@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T12:25:44Z",
+  "lastUpdated": "2026-11-26T12:36:20Z",
   "totalJobs": 31,
   "schemaVersion": "2.0",
   "pipeline": "ai-jobs-hub-v2-direct",
@@ -41,13 +41,14 @@
         "raw": "8"
       },
       "fullDescriptionHash": "3687e1abe8d0284e",
+      "projectContentHash": "eda275d515b3d55aef894a9ff5f598724e1e7320f90a5087b9a9859bcdf89bfe",
       "officialPostedDate": null,
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T12:25:44Z",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "web_imerit",
-      "collectedAt": "2026-11-26T12:25:44Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "lever_weloglobal:48654671-20e3-4dcf-ae24-1a339c5e8135",
@@ -89,13 +90,14 @@
         "raw": "USD 5 / hour"
       },
       "fullDescriptionHash": "cd26a4f630e4e19b",
+      "projectContentHash": "266ee73acc69afa168935e5aa04a2acaf5b5446c4b17d395d3c8e651ddb4573d",
       "officialPostedDate": "2026-11-17T06:02:05Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-26T12:25:44Z",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T12:25:44Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "lever_weloglobal:208a4835-993f-4d5e-9d33-a6ab08525de0",
@@ -137,13 +139,14 @@
         "raw": "USD 4 / hour"
       },
       "fullDescriptionHash": "b1928a0156d07784",
+      "projectContentHash": "9056dcdc1c6c149bd366f985652e75257cfc261f67bf671b569661b513d7196e",
       "officialPostedDate": "2026-11-17T05:50:08Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-26T12:25:44Z",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T12:25:44Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "teamtailor_dataforce:736981-sme-task-creator-education-content-and-communications-indonesia",
@@ -182,13 +185,14 @@
         "raw": null
       },
       "fullDescriptionHash": "73304d9929b51a40",
+      "projectContentHash": "61305b9f711d52adf609f25078722b278439826a1ad671adf6fe7763f663ba62",
       "officialPostedDate": "2026-11-12T12:08:28Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-26T12:25:44Z",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "teamtailor_dataforce",
-      "collectedAt": "2026-11-26T12:25:44Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "teamtailor_dataforce:736980-sme-task-creator-human-resources-and-organization-indonesia",
@@ -227,13 +231,14 @@
         "raw": null
       },
       "fullDescriptionHash": "2a6bf27bf6336fde",
+      "projectContentHash": "0b041c94435f6faea7eb71d8b8d2ea2164b2b56eda33cc96204abd3e6cadc855",
       "officialPostedDate": "2026-11-12T12:07:02Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-26T12:25:44Z",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "teamtailor_dataforce",
-      "collectedAt": "2026-11-26T12:25:44Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "teamtailor_dataforce:736954-sme-task-creator-engineering-construction-and-facilities-indonesia",
@@ -272,13 +277,14 @@
         "raw": null
       },
       "fullDescriptionHash": "661a56339224a893",
+      "projectContentHash": "b1ca0cfc67dc86b939b59e16497754bcf5a61e758a54126614fef96ea541117e",
       "officialPostedDate": "2026-11-12T11:18:40Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-26T12:25:44Z",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "teamtailor_dataforce",
-      "collectedAt": "2026-11-26T12:25:44Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "teamtailor_dataforce:736953-sme-task-creator-healthcare-and-research-operations-indonesia",
@@ -317,13 +323,14 @@
         "raw": null
       },
       "fullDescriptionHash": "dfd463c3622801e5",
+      "projectContentHash": "f52b76fc77b9e7dca48c0d6e4945dd0c1fc627f1e0ea67bfa071cfa1f0341602",
       "officialPostedDate": "2026-11-12T11:17:04Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-26T12:25:44Z",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "teamtailor_dataforce",
-      "collectedAt": "2026-11-26T12:25:44Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "teamtailor_dataforce:736950-sme-task-creator-it-and-software-indonesia",
@@ -362,13 +369,14 @@
         "raw": null
       },
       "fullDescriptionHash": "8253cf68213a2c41",
+      "projectContentHash": "0dfd9f12afb209867541f7069ac9a45c62ce860f1a1ac516397b11a13b3f4d69",
       "officialPostedDate": "2026-11-12T11:15:29Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-26T12:25:44Z",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "teamtailor_dataforce",
-      "collectedAt": "2026-11-26T12:25:44Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "teamtailor_dataforce:736481-sme-task-creator-legal-compliance-and-governance-indonesia",
@@ -407,13 +415,14 @@
         "raw": null
       },
       "fullDescriptionHash": "230b6677097589f1",
+      "projectContentHash": "a045f708a692185cf3b9d8eae7a2a0766a1cac82fc65e3d0e2cf36b52ec94a5a",
       "officialPostedDate": "2026-11-11T18:31:10Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-26T12:25:44Z",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "teamtailor_dataforce",
-      "collectedAt": "2026-11-26T12:25:44Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "teamtailor_dataforce:736468-sme-task-creator-environment-policy-and-urban-research-indonesia",
@@ -452,13 +461,14 @@
         "raw": null
       },
       "fullDescriptionHash": "fb066420b03f4666",
+      "projectContentHash": "18858877d5f406d6846fa3c7ac9a47653d31b70d3573e98d42f6b99ae9375494",
       "officialPostedDate": "2026-11-11T18:24:55Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-26T12:25:44Z",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "teamtailor_dataforce",
-      "collectedAt": "2026-11-26T12:25:44Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "teamtailor_dataforce:736454-sme-task-creator-supply-chain-and-procurement-indonesia",
@@ -497,13 +507,14 @@
         "raw": null
       },
       "fullDescriptionHash": "de8c792a761c9811",
+      "projectContentHash": "88a3a4ba779249eed7e89a2e0aa7e29d51abc57da710ee81ea25cdf25ae2d433",
       "officialPostedDate": "2026-11-11T18:15:38Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-26T12:25:44Z",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "teamtailor_dataforce",
-      "collectedAt": "2026-11-26T12:25:44Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "lever_rws:ef53a2d3-29bc-4c0e-8f46-d91a316428bf",
@@ -542,13 +553,14 @@
         "raw": "5 USD/hour"
       },
       "fullDescriptionHash": "5e19403ca6f96b2c",
+      "projectContentHash": "2d5374b4df2b33b49a17aff71e965175a905e9056b56671b9ced93f7c19bfd61",
       "officialPostedDate": "2026-11-05T12:42:57Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-26T12:25:44Z",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "lever_rws",
-      "collectedAt": "2026-11-26T12:25:44Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "lever_tsmg:1c6b9003-ddea-43e1-a19c-7b703ad6ab55",
@@ -588,13 +600,14 @@
         "raw": null
       },
       "fullDescriptionHash": "136ed25ea50fa423",
+      "projectContentHash": "080164e9dd46d50008f96db5c196436d01a5b62324c314f59fffbe016c6041ff",
       "officialPostedDate": "2026-11-03T17:03:49Z",
       "firstDetectedAt": "2026-11-26T09:21:27Z",
       "firstSeenAt": "2026-11-26T09:21:27Z",
-      "lastVerifiedAt": "2026-11-26T12:25:44Z",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "lever_tsmg",
-      "collectedAt": "2026-11-26T12:25:44Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "lever_tsmg:2d3cffdf-5861-4861-9525-43201a76d67d",
@@ -634,13 +647,14 @@
         "raw": null
       },
       "fullDescriptionHash": "21edb9d83b116de5",
+      "projectContentHash": "b3089cb11a3c46416b3993adff96135ce329a7b3951db39d799d8a43840c6468",
       "officialPostedDate": "2026-11-03T16:58:08Z",
       "firstDetectedAt": "2026-11-26T09:21:27Z",
       "firstSeenAt": "2026-11-26T09:21:27Z",
-      "lastVerifiedAt": "2026-11-26T12:25:44Z",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "lever_tsmg",
-      "collectedAt": "2026-11-26T12:25:44Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "lever_tsmg:dd335cfd-4673-48f8-ad93-8459bf9ae1b9",
@@ -680,13 +694,14 @@
         "raw": null
       },
       "fullDescriptionHash": "b4f1118d2537d83e",
+      "projectContentHash": "0fd25a9e68def9942d7285228212505e97193a4dfe3bec60629a2c01e14910d3",
       "officialPostedDate": "2026-11-03T09:59:39Z",
       "firstDetectedAt": "2026-11-26T09:21:27Z",
       "firstSeenAt": "2026-11-26T09:21:27Z",
-      "lastVerifiedAt": "2026-11-26T12:25:44Z",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "lever_tsmg",
-      "collectedAt": "2026-11-26T12:25:44Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "lever_weloglobal:4d045b6f-2bb1-4477-9458-620892240cac",
@@ -724,13 +739,14 @@
         "raw": "USD 8.5 / hour"
       },
       "fullDescriptionHash": "f2093445f54a3851",
+      "projectContentHash": "1db2a0a68f3430dd540ea6d4fd94396a6c563f7e94545f717c9da14c2ee4dec5",
       "officialPostedDate": "2026-10-27T04:06:40Z",
       "firstDetectedAt": "2026-11-25T23:53:02Z",
       "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-26T12:25:44Z",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T12:25:44Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "lever_weloglobal:a5c63a9c-27b2-43ef-a548-9493465e5b6b",
@@ -768,13 +784,14 @@
         "raw": "USD 10.63 / hour"
       },
       "fullDescriptionHash": "f6d1991ad6c3abc9",
+      "projectContentHash": "657a8e8b978c6fb2da998e981bff2ab9f0767433e0c5ed48d33ecd275e8fbb17",
       "officialPostedDate": "2026-10-26T10:31:15Z",
       "firstDetectedAt": "2026-11-25T23:53:02Z",
       "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-26T12:25:44Z",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T12:25:44Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "lever_weloglobal:efcc8784-2d7a-4ad7-bc54-1d728c53be9f",
@@ -813,13 +830,14 @@
         "raw": "USD 4.55/hour"
       },
       "fullDescriptionHash": "acc05a32ac812938",
+      "projectContentHash": "1b8e4ff5b3754d2540d5aa4fa989f09794ee5d4de8f841524f6b1ec8032874d0",
       "officialPostedDate": "2026-10-07T11:44:56Z",
       "firstDetectedAt": "2026-11-25T23:53:02Z",
       "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-26T12:25:44Z",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T12:25:44Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "lever_weloglobal:bfadf038-9d98-482e-b245-4def1c370253",
@@ -858,13 +876,14 @@
         "raw": "USD 7.00/hour"
       },
       "fullDescriptionHash": "bb82c41a97e0f8b4",
+      "projectContentHash": "c6473525d9e662b9dbb43062cba86203bdaa777c2adc1950cf1cdeb586c702c0",
       "officialPostedDate": "2026-10-07T11:41:26Z",
       "firstDetectedAt": "2026-11-25T23:53:02Z",
       "firstSeenAt": "2026-11-25T23:53:02Z",
-      "lastVerifiedAt": "2026-11-26T12:25:44Z",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T12:25:44Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "lever_tsmg:8c4e74fa-da35-4e87-9e5d-63718ae2e5e7",
@@ -902,13 +921,14 @@
         "raw": null
       },
       "fullDescriptionHash": "f9c731d792dc5a0e",
+      "projectContentHash": "ebf0f3404b70814ef4d0f4d35a43a4499153d6478a0fa983be0bae1a5f0103ea",
       "officialPostedDate": "2026-09-23T11:55:17Z",
       "firstDetectedAt": "2026-11-26T09:21:27Z",
       "firstSeenAt": "2026-11-26T09:21:27Z",
-      "lastVerifiedAt": "2026-11-26T12:25:44Z",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "lever_tsmg",
-      "collectedAt": "2026-11-26T12:25:44Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "lever_tsmg:42cd38d4-0a6f-4f8a-b1a9-d81c8303e4da",
@@ -947,13 +967,14 @@
         "raw": null
       },
       "fullDescriptionHash": "cc98b5bdb1be9cc9",
+      "projectContentHash": "7cf788f2042f6e53cb05e75b4de9b258fc98cba2c999ebbe27653aa4be60be22",
       "officialPostedDate": "2026-09-23T10:42:43Z",
       "firstDetectedAt": "2026-11-26T09:21:27Z",
       "firstSeenAt": "2026-11-26T09:21:27Z",
-      "lastVerifiedAt": "2026-11-26T12:25:44Z",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "lever_tsmg",
-      "collectedAt": "2026-11-26T12:25:44Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "lever_tsmg:cc820ea0-541d-4a5c-a538-a3468a333e59",
@@ -991,13 +1012,14 @@
         "raw": null
       },
       "fullDescriptionHash": "f9c731d792dc5a0e",
+      "projectContentHash": "ebf0f3404b70814ef4d0f4d35a43a4499153d6478a0fa983be0bae1a5f0103ea",
       "officialPostedDate": "2026-08-20T10:04:28Z",
       "firstDetectedAt": "2026-11-26T09:21:27Z",
       "firstSeenAt": "2026-11-26T09:21:27Z",
-      "lastVerifiedAt": "2026-11-26T12:25:44Z",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "lever_tsmg",
-      "collectedAt": "2026-11-26T12:25:44Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "lever_tsmg:d2719be6-0d8e-4b09-b07e-367a595fb1e7",
@@ -1035,13 +1057,14 @@
         "raw": null
       },
       "fullDescriptionHash": "3f820a57185657cb",
+      "projectContentHash": "6af0534e630b8d9999b77118cad6dd8798017569dd72eb02d7461f732bc13019",
       "officialPostedDate": "2026-07-17T10:30:40Z",
       "firstDetectedAt": "2026-11-26T09:21:27Z",
       "firstSeenAt": "2026-11-26T09:21:27Z",
-      "lastVerifiedAt": "2026-11-26T12:25:44Z",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "lever_tsmg",
-      "collectedAt": "2026-11-26T12:25:44Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "lever_tsmg:2ed4b9b2-22aa-4614-985c-9d373ce267ae",
@@ -1078,13 +1101,14 @@
         "raw": null
       },
       "fullDescriptionHash": "da0d982375fb3f37",
+      "projectContentHash": "f661098599a7efadf2f23297d863521b84900c753f80382c150c1c25e984f339",
       "officialPostedDate": "2026-03-09T12:56:50Z",
       "firstDetectedAt": "2026-11-26T09:21:27Z",
       "firstSeenAt": "2026-11-26T09:21:27Z",
-      "lastVerifiedAt": "2026-11-26T12:25:44Z",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "lever_tsmg",
-      "collectedAt": "2026-11-26T12:25:44Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "web_oneforma:792",
@@ -1122,13 +1146,14 @@
         "raw": "Fixed Rate Per Approved Asset"
       },
       "fullDescriptionHash": "92d78987d9e58313",
+      "projectContentHash": "339afc2fea3615ddfe2f7064cb688c3bdc08f2660fb9ef99fa5c553b563142d0",
       "officialPostedDate": "2025-12-04T18:40:23Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T12:25:44Z",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "web_oneforma",
-      "collectedAt": "2026-11-26T12:25:44Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "web_oneforma:807",
@@ -1168,13 +1193,14 @@
         "raw": "Fixed Rate Per Approved Asset"
       },
       "fullDescriptionHash": "aef2e9fdf0d21a1e",
+      "projectContentHash": "a37070958c6339bf9af97cc2be36555108ca7c9a6c4413643a0d2edd5a88d312",
       "officialPostedDate": "2025-05-05T14:31:23Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T12:25:44Z",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "web_oneforma",
-      "collectedAt": "2026-11-26T12:25:44Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "web_oneforma:824",
@@ -1211,13 +1237,14 @@
         "raw": "Fixed Rate Per Approved Asset"
       },
       "fullDescriptionHash": "e2fc9b0890ee4a7c",
+      "projectContentHash": "39dd3757ff3105093f155531349471ac7dbebf2af19b8f46364943bf2f4443e8",
       "officialPostedDate": "2025-04-17T18:53:32Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T12:25:44Z",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "web_oneforma",
-      "collectedAt": "2026-11-26T12:25:44Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "lever_weloglobal:d16a8aa6-84fd-40f8-bf52-c51c663cdaab",
@@ -1255,13 +1282,14 @@
         "raw": null
       },
       "fullDescriptionHash": "883b9f0a4791e1d2",
+      "projectContentHash": "2d9b46e04c3e5ae95d1a8f077e4add17ff9e45fe75c073d815a8a2491c52d178",
       "officialPostedDate": "2022-12-08T10:36:44Z",
       "firstDetectedAt": "2026-11-25T14:38:57Z",
       "firstSeenAt": "2026-11-25T14:38:57Z",
-      "lastVerifiedAt": "2026-11-26T12:25:44Z",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
       "jobStatus": "EXISTING",
       "sourceConnector": "lever_weloglobal",
-      "collectedAt": "2026-11-26T12:25:44Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "web_mercor:list_AAABoGol-kkiUPOQvn1CsZFO",
@@ -1302,13 +1330,14 @@
         "raw": "$18 - $22 / hr"
       },
       "fullDescriptionHash": "aba92485c1240b00",
+      "projectContentHash": "d7bd4cc2ddb3e7f8e2cfe00256357ff898dda017deb63189a0fb43f17f1a8170",
       "officialPostedDate": "2026-09-04T02:01:09Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T12:02:46Z",
-      "jobStatus": "UNVERIFIED",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
+      "jobStatus": "EXISTING",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T12:02:46Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "web_mercor:list_AAABoGolujPeojikHWRLCaH-",
@@ -1349,13 +1378,14 @@
         "raw": "$43 - $47 / hr"
       },
       "fullDescriptionHash": "b4d2d0fae43ffe22",
+      "projectContentHash": "af2a4c0340e14c2f86983cade4a8d102b05b56b8649fdf3c6d64b24d14986385",
       "officialPostedDate": "2026-09-04T02:00:53Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T12:02:46Z",
-      "jobStatus": "UNVERIFIED",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
+      "jobStatus": "EXISTING",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T12:02:46Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     },
     {
       "id": "web_mercor:list_AAABoGoju-Gn415PNTlD5qqF",
@@ -1396,13 +1426,14 @@
         "raw": "$48 - $52 / hr"
       },
       "fullDescriptionHash": "652cc1cf3a91f6cd",
+      "projectContentHash": "a6a00116f31207bec29ce3be4158d41e903221243e806fd4aa87625c2a4c7fad",
       "officialPostedDate": "2026-09-04T01:58:42Z",
       "firstDetectedAt": "2026-11-25T23:19:17Z",
       "firstSeenAt": "2026-11-25T23:19:17Z",
-      "lastVerifiedAt": "2026-11-26T12:02:46Z",
-      "jobStatus": "UNVERIFIED",
+      "lastVerifiedAt": "2026-11-26T12:36:20Z",
+      "jobStatus": "EXISTING",
       "sourceConnector": "web_mercor",
-      "collectedAt": "2026-11-26T12:02:46Z"
+      "collectedAt": "2026-11-26T12:36:20Z"
     }
   ]
 }
