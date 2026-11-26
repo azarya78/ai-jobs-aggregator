@@ -22,7 +22,7 @@ def test_different_sources_or_description_do_not_merge():
 
 def test_missing_hash_not_grouped():
     items=[item("1"),item("2")]
-    for x in items: x["fullDescriptionHash"]=""
+    for x in items: x["projectContentHash"]=""
     assert build_project_groups(items,NOW)["totalContentGroups"]==2
 
 def test_recent_group_count_and_future_date():
