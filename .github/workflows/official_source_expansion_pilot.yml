@@ -1,0 +1,27 @@
+name: Official Source Expansion Pilot (Isolated)
+on:
+  push:
+    branches: ["feat/v2-direct-discovery"]
+    paths: ["pilot_official/**", ".github/workflows/official_source_expansion_pilot.yml"]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  pilot:
+    if: github.ref == 'refs/heads/feat/v2-direct-discovery'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - run: PYTHONPATH=src:pilot_official python -m pytest tests/ pilot_official/ -q
+      - run: PYTHONPATH=src python pilot_official/official_source_pilot.py
+      - run: git diff --exit-code
+      - uses: actions/upload-artifact@v4
+        with:
+          name: official-source-expansion-pilot
+          path: official-source-pilot-report.json
+          if-no-files-found: error
