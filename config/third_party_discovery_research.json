@@ -1,0 +1,34 @@
+{
+  "version": "2.2-three-research-sources",
+  "experimentalOnly": true,
+  "doNotPublishToAndroid": true,
+  "purpose": "One-page publisher-source feasibility and outbound employer discovery; no job syndication.",
+  "sources": [
+    {
+      "id": "research_remowork",
+      "name": "RemoWork",
+      "url": "https://remowork.life/jobs",
+      "mode": "manual_only",
+      "reason": "RemoWork terms restrict automated scraping without authorization; do not fetch via runner.",
+      "references": [
+        "https://remowork.life/terms"
+      ]
+    },
+    {
+      "id": "research_aitrainingjobs",
+      "name": "AI Training Jobs",
+      "url": "https://www.aitrainingjobs.it/open-ai-training-data-annotation-jobs/",
+      "mode": "robots_gated_index",
+      "expectedHost": "www.aitrainingjobs.it",
+      "internalPrefix": "/ai-jobs/"
+    },
+    {
+      "id": "research_annotationacademy",
+      "name": "Annotation Academy",
+      "url": "https://annotation.academy/jobs",
+      "mode": "robots_gated_index",
+      "expectedHost": "annotation.academy",
+      "internalPrefix": "/jobs/"
+    }
+  ]
+}
