@@ -1,0 +1,188 @@
+{
+  "generatedAt": "2026-11-26T07:03:12Z",
+  "existingBackendBaseline": {
+    "sourceGroup": "Existing v2 Direct Backend (14 configured: 11 working, 3 failed)",
+    "sourcesConfigured": 14,
+    "sourcesSucceeded": 11,
+    "collectionFailures": 3,
+    "rawRecords": 1940,
+    "uniqueRelevantRecords": 917,
+    "recentWithin7DaysRecords": 1,
+    "activeFeedWithin7DaysRecords": 0,
+    "verifiedEligibleRecords": 23,
+    "verifiedIndonesiaEligibleRecords": 20,
+    "verifiedRemoteGlobalRecords": 3,
+    "unverifiedRecords": 131,
+    "historicalTrackedIds": 40
+  },
+  "summary": {
+    "providersConfigured": 3,
+    "providersSucceeded": 3,
+    "providersFailed": 0,
+    "collectionFailures": 0,
+    "rawRecordsRetrieved": 1790,
+    "uniqueRelevantAiRecords": 169,
+    "aiEvalCoreRecords": 121,
+    "aiMlBroadRecords": 48,
+    "postedWithin7DaysRecords": 168,
+    "missingPostingDateRecords": 0,
+    "verifiedIndonesiaEligibleRecords": 3,
+    "unresolvedEligibilityRecords": 7,
+    "restrictedExcludedRecords": 159,
+    "overlapWithExistingDirectSources": 0,
+    "crossProviderDuplicatesCollapsed": 0,
+    "netNewVerifiedCandidates": 3,
+    "netNewUnverifiedCandidates": 7
+  },
+  "providerReports": [
+    {
+      "id": "pilot_himalayas",
+      "provider": "himalayas",
+      "platform": "Himalayas",
+      "method": "himalayas_public_api",
+      "paginationType": "opaque_cursor_plus_filtered_search",
+      "status": "SUCCESS",
+      "rawRecords": 346,
+      "uniqueRelevantAiRecords": 63,
+      "aiEvalCoreRecords": 55,
+      "aiMlBroadRecords": 8,
+      "postedWithin7DaysRecords": 63,
+      "missingPostingDateRecords": 0,
+      "verifiedIndonesiaEligibleRecords": 3,
+      "unverifiedCandidateRecords": 4,
+      "restrictedExcludedRecords": 56,
+      "overlapWithExistingSources": 0,
+      "crossProviderDuplicatesCollapsed": 0,
+      "netNewCandidatesEmitted": 7,
+      "collectionFailures": 0,
+      "durationMs": 11504,
+      "fetchMetadata": {
+        "pagesFetched": 12,
+        "truncated": true,
+        "stopReason": "page_cap_12",
+        "expiredSkipped": 0,
+        "targetedSearchAdded": 106
+      },
+      "termsSummary": "Free public JSON API (no key required; cached up to 1-2h). Must use applicationLink unchanged for Apply actions, display visible Himalayas credit/link-back, remove expired jobs, and never syndicate to third-party aggregators, Google Jobs, or LinkedIn Jobs.",
+      "errorMessage": null
+    },
+    {
+      "id": "pilot_remotive",
+      "provider": "remotive",
+      "platform": "Remotive",
+      "method": "remotive_public_api",
+      "paginationType": "single_full_feed",
+      "status": "SUCCESS",
+      "rawRecords": 16,
+      "uniqueRelevantAiRecords": 2,
+      "aiEvalCoreRecords": 2,
+      "aiMlBroadRecords": 0,
+      "postedWithin7DaysRecords": 1,
+      "missingPostingDateRecords": 0,
+      "verifiedIndonesiaEligibleRecords": 0,
+      "unverifiedCandidateRecords": 0,
+      "restrictedExcludedRecords": 2,
+      "overlapWithExistingSources": 0,
+      "crossProviderDuplicatesCollapsed": 0,
+      "netNewCandidatesEmitted": 0,
+      "collectionFailures": 0,
+      "durationMs": 237,
+      "fetchMetadata": {
+        "pagesFetched": 1,
+        "truncated": false,
+        "stopReason": "complete",
+        "reportedJobCount": 16,
+        "legalNoticePresent": true
+      },
+      "termsSummary": "Free public JSON API (no key required; 24-hour listing delay). Rate-limited above 2 req/min (max 4 requests/day recommended). Must link back to the Remotive listing URL and credit Remotive; prohibited from republishing to third-party job boards or gating behind email signup.",
+      "errorMessage": null
+    },
+    {
+      "id": "pilot_jobicy",
+      "provider": "jobicy",
+      "platform": "Jobicy",
+      "method": "jobicy_public_api",
+      "paginationType": "opaque_cursor_7d_window",
+      "status": "SUCCESS",
+      "rawRecords": 1428,
+      "uniqueRelevantAiRecords": 104,
+      "aiEvalCoreRecords": 64,
+      "aiMlBroadRecords": 40,
+      "postedWithin7DaysRecords": 104,
+      "missingPostingDateRecords": 0,
+      "verifiedIndonesiaEligibleRecords": 0,
+      "unverifiedCandidateRecords": 3,
+      "restrictedExcludedRecords": 101,
+      "overlapWithExistingSources": 0,
+      "crossProviderDuplicatesCollapsed": 0,
+      "netNewCandidatesEmitted": 3,
+      "collectionFailures": 0,
+      "durationMs": 29669,
+      "fetchMetadata": {
+        "pagesFetched": 15,
+        "truncated": false,
+        "stopReason": "complete",
+        "friendlyNoticePresent": true
+      },
+      "termsSummary": "Free public JSON API returning remote listings published in the last 7 days (~3h delay; 1 req/s IP limit, fair-use <= 1 automated pass/hour). Public url points to Jobicy listing page (direct ATS URLs require paid Commercial API key); attribution and link-back to Jobicy required.",
+      "errorMessage": null
+    }
+  ],
+  "sampleVerifiedTitles": [
+    {
+      "id": "pilot_himalayas:mercor-ai-safety-expert-bilingual-1573535114",
+      "company": "mercor",
+      "title": "AI Safety Expert - Bilingual",
+      "location": "Indonesia",
+      "postingDate": "2026-11-26T06:56:58Z"
+    },
+    {
+      "id": "pilot_himalayas:rustlabs-bioinformatics-genomics-phd-ai-benchmark-task-author-usd-260-task",
+      "company": "RustLabs",
+      "title": "Bioinformatics / Genomics PhD, AI Benchmark Task Author (USD 260/task)",
+      "location": "Argentina, Bangladesh, Brazil, Chile, Colombia, Egypt, Ghana, India, Indonesia, Mexico, Nepal, Nigeria, Pakistan, Peru, Saudi Arabia, Sri Lanka",
+      "postingDate": "2026-11-21T04:31:27Z"
+    },
+    {
+      "id": "pilot_himalayas:rustlabs-management-consultant-powerpoint-review-for-ai-training-usd-15-hr",
+      "company": "RustLabs",
+      "title": "Management Consultant, PowerPoint Review for AI Training (USD 15/hr)",
+      "location": "Bangladesh, Brazil, Colombia, Egypt, Ghana, India, Indonesia, Kenya, Nigeria, Pakistan, Vietnam",
+      "postingDate": "2026-11-21T04:31:26Z"
+    }
+  ],
+  "sampleUnverifiedAiEvalCoreTitles": [
+    {
+      "id": "pilot_himalayas:micro1-radiation-oncologist",
+      "provider": "himalayas",
+      "company": "micro1",
+      "title": "Radiation Oncologist",
+      "location": "Remote (Worldwide - unspecified on Himalayas)",
+      "postingDate": "2026-11-25T21:58:45Z"
+    },
+    {
+      "id": "pilot_himalayas:micro1-crowdstrike-specialist",
+      "provider": "himalayas",
+      "company": "micro1",
+      "title": "CrowdStrike Specialist",
+      "location": "Remote (Worldwide - unspecified on Himalayas)",
+      "postingDate": "2026-11-25T07:20:41Z"
+    },
+    {
+      "id": "pilot_jobicy:163798",
+      "provider": "jobicy",
+      "company": "Welo Global",
+      "title": "English to Belarusian Review Lead for UI, Marketing & Product Content",
+      "location": "Argentina, Australia, Austria, Belgium, Brazil, Bulgaria, Canada, China, Costa Rica, Croatia, Czechia, Denmark, Finland, France, Germany, Greece, Hong Kong, Hungary, Ireland, Israel, Italy, Japan, Lithuania, Malaysia, Mexico, Netherlands, New Zealand, Norway, Philippines, Poland, Portugal, Romania, Singapore, South Korea, Spain, Sweden, Switzerland, Thailand, Türkiye, UAE, UK, USA, Vietnam",
+      "postingDate": "2026-11-22T05:51:46Z"
+    },
+    {
+      "id": "pilot_himalayas:inv-kinyarwanda-language-specialist-ai-trainer",
+      "provider": "himalayas",
+      "company": "Invisible Technologies",
+      "title": "Kinyarwanda Language Specialist - AI Trainer",
+      "location": "Remote (Worldwide - unspecified on Himalayas)",
+      "postingDate": "2026-11-21T17:09:27Z"
+    }
+  ]
+}

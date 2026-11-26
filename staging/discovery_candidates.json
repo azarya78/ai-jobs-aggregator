@@ -1,0 +1,647 @@
+{
+  "schemaVersion": "2.1-experimental",
+  "pipeline": "ai-jobs-hub-v2.1-career-ops-pilot",
+  "experimentalOnly": true,
+  "doNotPromoteToAndroidFeed": true,
+  "generatedAt": "2026-11-26T07:03:12Z",
+  "upstreamAttribution": {
+    "project": "santifer/career-ops (career-ops-hq/career-ops)",
+    "license": "MIT",
+    "copyright": "Copyright (c) 2026 Santiago Fernández de Valderrama"
+  },
+  "existingBackendBaseline": {
+    "sourceGroup": "Existing v2 Direct Backend (14 configured: 11 working, 3 failed)",
+    "sourcesConfigured": 14,
+    "sourcesSucceeded": 11,
+    "collectionFailures": 3,
+    "rawRecords": 1940,
+    "uniqueRelevantRecords": 917,
+    "recentWithin7DaysRecords": 1,
+    "activeFeedWithin7DaysRecords": 0,
+    "verifiedEligibleRecords": 23,
+    "verifiedIndonesiaEligibleRecords": 20,
+    "verifiedRemoteGlobalRecords": 3,
+    "unverifiedRecords": 131,
+    "historicalTrackedIds": 40
+  },
+  "summary": {
+    "providersConfigured": 3,
+    "providersSucceeded": 3,
+    "providersFailed": 0,
+    "collectionFailures": 0,
+    "rawRecordsRetrieved": 1790,
+    "uniqueRelevantAiRecords": 169,
+    "aiEvalCoreRecords": 121,
+    "aiMlBroadRecords": 48,
+    "postedWithin7DaysRecords": 168,
+    "missingPostingDateRecords": 0,
+    "verifiedIndonesiaEligibleRecords": 3,
+    "unresolvedEligibilityRecords": 7,
+    "restrictedExcludedRecords": 159,
+    "overlapWithExistingDirectSources": 0,
+    "crossProviderDuplicatesCollapsed": 0,
+    "netNewVerifiedCandidates": 3,
+    "netNewUnverifiedCandidates": 7
+  },
+  "providerReports": [
+    {
+      "id": "pilot_himalayas",
+      "provider": "himalayas",
+      "platform": "Himalayas",
+      "method": "himalayas_public_api",
+      "paginationType": "opaque_cursor_plus_filtered_search",
+      "status": "SUCCESS",
+      "rawRecords": 346,
+      "uniqueRelevantAiRecords": 63,
+      "aiEvalCoreRecords": 55,
+      "aiMlBroadRecords": 8,
+      "postedWithin7DaysRecords": 63,
+      "missingPostingDateRecords": 0,
+      "verifiedIndonesiaEligibleRecords": 3,
+      "unverifiedCandidateRecords": 4,
+      "restrictedExcludedRecords": 56,
+      "overlapWithExistingSources": 0,
+      "crossProviderDuplicatesCollapsed": 0,
+      "netNewCandidatesEmitted": 7,
+      "collectionFailures": 0,
+      "durationMs": 11504,
+      "fetchMetadata": {
+        "pagesFetched": 12,
+        "truncated": true,
+        "stopReason": "page_cap_12",
+        "expiredSkipped": 0,
+        "targetedSearchAdded": 106
+      },
+      "termsSummary": "Free public JSON API (no key required; cached up to 1-2h). Must use applicationLink unchanged for Apply actions, display visible Himalayas credit/link-back, remove expired jobs, and never syndicate to third-party aggregators, Google Jobs, or LinkedIn Jobs.",
+      "errorMessage": null
+    },
+    {
+      "id": "pilot_remotive",
+      "provider": "remotive",
+      "platform": "Remotive",
+      "method": "remotive_public_api",
+      "paginationType": "single_full_feed",
+      "status": "SUCCESS",
+      "rawRecords": 16,
+      "uniqueRelevantAiRecords": 2,
+      "aiEvalCoreRecords": 2,
+      "aiMlBroadRecords": 0,
+      "postedWithin7DaysRecords": 1,
+      "missingPostingDateRecords": 0,
+      "verifiedIndonesiaEligibleRecords": 0,
+      "unverifiedCandidateRecords": 0,
+      "restrictedExcludedRecords": 2,
+      "overlapWithExistingSources": 0,
+      "crossProviderDuplicatesCollapsed": 0,
+      "netNewCandidatesEmitted": 0,
+      "collectionFailures": 0,
+      "durationMs": 237,
+      "fetchMetadata": {
+        "pagesFetched": 1,
+        "truncated": false,
+        "stopReason": "complete",
+        "reportedJobCount": 16,
+        "legalNoticePresent": true
+      },
+      "termsSummary": "Free public JSON API (no key required; 24-hour listing delay). Rate-limited above 2 req/min (max 4 requests/day recommended). Must link back to the Remotive listing URL and credit Remotive; prohibited from republishing to third-party job boards or gating behind email signup.",
+      "errorMessage": null
+    },
+    {
+      "id": "pilot_jobicy",
+      "provider": "jobicy",
+      "platform": "Jobicy",
+      "method": "jobicy_public_api",
+      "paginationType": "opaque_cursor_7d_window",
+      "status": "SUCCESS",
+      "rawRecords": 1428,
+      "uniqueRelevantAiRecords": 104,
+      "aiEvalCoreRecords": 64,
+      "aiMlBroadRecords": 40,
+      "postedWithin7DaysRecords": 104,
+      "missingPostingDateRecords": 0,
+      "verifiedIndonesiaEligibleRecords": 0,
+      "unverifiedCandidateRecords": 3,
+      "restrictedExcludedRecords": 101,
+      "overlapWithExistingSources": 0,
+      "crossProviderDuplicatesCollapsed": 0,
+      "netNewCandidatesEmitted": 3,
+      "collectionFailures": 0,
+      "durationMs": 29669,
+      "fetchMetadata": {
+        "pagesFetched": 15,
+        "truncated": false,
+        "stopReason": "complete",
+        "friendlyNoticePresent": true
+      },
+      "termsSummary": "Free public JSON API returning remote listings published in the last 7 days (~3h delay; 1 req/s IP limit, fair-use <= 1 automated pass/hour). Public url points to Jobicy listing page (direct ATS URLs require paid Commercial API key); attribution and link-back to Jobicy required.",
+      "errorMessage": null
+    }
+  ],
+  "verifiedEligibleCandidates": [
+    {
+      "id": "pilot_himalayas:mercor-ai-safety-expert-bilingual-1573535114",
+      "sourceJobId": "mercor-ai-safety-expert-bilingual-1573535114",
+      "provider": "himalayas",
+      "sourceConnector": "pilot_himalayas",
+      "company": "mercor",
+      "title": "AI Safety Expert - Bilingual",
+      "originalSourceUrl": "https://himalayas.app/companies/mercor/jobs/ai-safety-expert-bilingual-1573535114",
+      "applyUrl": "https://himalayas.app/companies/mercor/jobs/ai-safety-expert-bilingual-1573535114?utm_source=api",
+      "logo": "https://cdn-images.himalayas.app/6jo5q9nua35jgtdfm41nq6b7ocqf",
+      "location": "Indonesia",
+      "postingDate": "2026-11-26T06:56:58Z",
+      "postedWithin7Days": true,
+      "discoveryDate": "2026-11-26T07:03:12Z",
+      "lastCheckedAt": "2026-11-26T07:03:12Z",
+      "compensation": {
+        "min": 17.0,
+        "max": 25.0,
+        "currency": "USD",
+        "unit": "hourly",
+        "raw": "USD 17 - 25 / hour"
+      },
+      "aiRelevance": {
+        "isAiRelated": true,
+        "tier": "ai_eval_core",
+        "category": "Indonesian Language AI Evaluation",
+        "matchedSignals": [
+          "Indonesian Language AI Evaluation:Indonesian Type: Contract Compensation: $17–$25/hour Location: Remote Role Respo",
+          "Preference Ranking / Side-by-Side Evaluation:RLHF",
+          "LLM Evaluation:red teaming"
+        ],
+        "skills": [
+          "Indonesian",
+          "RLHF",
+          "Translation / Linguistics"
+        ]
+      },
+      "eligibility": {
+        "classification": "Indonesia Eligible",
+        "isVerifiedEligible": true,
+        "isIndonesiaEligible": true,
+        "confidence": "high",
+        "evidence": "Explicit Indonesia in provider locationRestrictions: ['Indonesia']",
+        "unresolvedReason": null
+      },
+      "excerpt": "About the job Mercor connects elite creative and technical talent with leading AI research labs. About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark , General Catalyst , P...",
+      "fullDescriptionHash": "ff6d0fa7ff3dcd64",
+      "attribution": {
+        "provider": "Himalayas",
+        "listingUrl": "https://himalayas.app/companies/mercor/jobs/ai-safety-expert-bilingual-1573535114",
+        "requiresLinkBack": true,
+        "requiresUnchangedApplicationLink": true
+      }
+    },
+    {
+      "id": "pilot_himalayas:rustlabs-bioinformatics-genomics-phd-ai-benchmark-task-author-usd-260-task",
+      "sourceJobId": "rustlabs-bioinformatics-genomics-phd-ai-benchmark-task-author-usd-260-task",
+      "provider": "himalayas",
+      "sourceConnector": "pilot_himalayas",
+      "company": "RustLabs",
+      "title": "Bioinformatics / Genomics PhD, AI Benchmark Task Author (USD 260/task)",
+      "originalSourceUrl": "https://himalayas.app/companies/rustlabs/jobs/bioinformatics-genomics-phd-ai-benchmark-task-author-usd-260-task",
+      "applyUrl": "https://himalayas.app/companies/rustlabs/jobs/bioinformatics-genomics-phd-ai-benchmark-task-author-usd-260-task?utm_source=api",
+      "logo": "",
+      "location": "Argentina, Bangladesh, Brazil, Chile, Colombia, Egypt, Ghana, India, Indonesia, Mexico, Nepal, Nigeria, Pakistan, Peru, Saudi Arabia, Sri Lanka",
+      "postingDate": "2026-11-21T04:31:27Z",
+      "postedWithin7Days": true,
+      "discoveryDate": "2026-11-26T07:03:12Z",
+      "lastCheckedAt": "2026-11-26T07:03:12Z",
+      "compensation": {
+        "min": 260.0,
+        "max": 260.0,
+        "currency": "USD",
+        "unit": "per_task",
+        "raw": "USD 260 per approved task"
+      },
+      "aiRelevance": {
+        "isAiRelated": true,
+        "tier": "ai_eval_core",
+        "category": "AI Tutor / AI Trainer",
+        "matchedSignals": [
+          "AI Tutor / AI Trainer:Task Author"
+        ],
+        "skills": []
+      },
+      "eligibility": {
+        "classification": "Indonesia Eligible",
+        "isVerifiedEligible": true,
+        "isIndonesiaEligible": true,
+        "confidence": "high",
+        "evidence": "Explicit Indonesia in provider locationRestrictions: ['Argentina', 'Bangladesh', 'Brazil', 'Chile', 'Colombia', 'Egypt', 'Ghana', 'India', 'Indonesia', 'Mexico', 'Nepal', 'Nigeria', 'Pakistan', 'Peru', 'Saudi Arabia', 'Sri Lanka']",
+        "unresolvedReason": null
+      },
+      "excerpt": "RustLabs is hiring bioinformatics and computational genomics experts to design challenging genomics tasks and reference solutions for an AI benchmark. RustLabs is hiring bioinformatics and computational genomics experts to design challenging genomics tasks and reference solutions...",
+      "fullDescriptionHash": "4606cf3fe440947f",
+      "attribution": {
+        "provider": "Himalayas",
+        "listingUrl": "https://himalayas.app/companies/rustlabs/jobs/bioinformatics-genomics-phd-ai-benchmark-task-author-usd-260-task",
+        "requiresLinkBack": true,
+        "requiresUnchangedApplicationLink": true
+      }
+    },
+    {
+      "id": "pilot_himalayas:rustlabs-management-consultant-powerpoint-review-for-ai-training-usd-15-hr",
+      "sourceJobId": "rustlabs-management-consultant-powerpoint-review-for-ai-training-usd-15-hr",
+      "provider": "himalayas",
+      "sourceConnector": "pilot_himalayas",
+      "company": "RustLabs",
+      "title": "Management Consultant, PowerPoint Review for AI Training (USD 15/hr)",
+      "originalSourceUrl": "https://himalayas.app/companies/rustlabs/jobs/management-consultant-powerpoint-review-for-ai-training-usd-15-hr",
+      "applyUrl": "https://himalayas.app/companies/rustlabs/jobs/management-consultant-powerpoint-review-for-ai-training-usd-15-hr?utm_source=api",
+      "logo": "",
+      "location": "Bangladesh, Brazil, Colombia, Egypt, Ghana, India, Indonesia, Kenya, Nigeria, Pakistan, Vietnam",
+      "postingDate": "2026-11-21T04:31:26Z",
+      "postedWithin7Days": true,
+      "discoveryDate": "2026-11-26T07:03:12Z",
+      "lastCheckedAt": "2026-11-26T07:03:12Z",
+      "compensation": {
+        "min": 15.0,
+        "max": 15.0,
+        "currency": "USD",
+        "unit": "hourly",
+        "raw": "USD 15 / hour"
+      },
+      "aiRelevance": {
+        "isAiRelated": true,
+        "tier": "ai_eval_core",
+        "category": "AI Tutor / AI Trainer",
+        "matchedSignals": [
+          "AI Tutor / AI Trainer:train AI models"
+        ],
+        "skills": [
+          "Prompt Writing"
+        ]
+      },
+      "eligibility": {
+        "classification": "Indonesia Eligible",
+        "isVerifiedEligible": true,
+        "isIndonesiaEligible": true,
+        "confidence": "high",
+        "evidence": "Explicit Indonesia in provider locationRestrictions: ['Bangladesh', 'Brazil', 'Colombia', 'Egypt', 'Ghana', 'India', 'Indonesia', 'Kenya', 'Nigeria', 'Pakistan', 'Vietnam']",
+        "unresolvedReason": null
+      },
+      "excerpt": "RustLabs is hiring people with management consulting or corporate strategy experience to review and refine enterprise PowerPoint presentations and prompts used to train AI models. RustLabs is hiring people with management consulting or corporate strategy experience to review and...",
+      "fullDescriptionHash": "68e811a5e4d1ba8e",
+      "attribution": {
+        "provider": "Himalayas",
+        "listingUrl": "https://himalayas.app/companies/rustlabs/jobs/management-consultant-powerpoint-review-for-ai-training-usd-15-hr",
+        "requiresLinkBack": true,
+        "requiresUnchangedApplicationLink": true
+      }
+    }
+  ],
+  "unverifiedCandidates": [
+    {
+      "id": "pilot_himalayas:hire-initiatives-inc-staff-machine-learning-engineer",
+      "sourceJobId": "hire-initiatives-inc-staff-machine-learning-engineer",
+      "provider": "himalayas",
+      "sourceConnector": "pilot_himalayas",
+      "company": "Hire Initiatives, Inc.",
+      "title": "Staff Machine Learning Engineer",
+      "originalSourceUrl": "https://himalayas.app/companies/hire-initiatives-inc/jobs/staff-machine-learning-engineer",
+      "applyUrl": "https://himalayas.app/companies/hire-initiatives-inc/jobs/staff-machine-learning-engineer?utm_source=api",
+      "logo": "https://cdn-images.himalayas.app/7871rcxej7v7x2hvr4aywm6krd5p",
+      "location": "Remote (Worldwide - unspecified on Himalayas)",
+      "postingDate": "2026-11-25T23:08:20Z",
+      "postedWithin7Days": true,
+      "discoveryDate": "2026-11-26T07:03:12Z",
+      "lastCheckedAt": "2026-11-26T07:03:12Z",
+      "compensation": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "unit": null,
+        "raw": null
+      },
+      "aiRelevance": {
+        "isAiRelated": true,
+        "tier": "ai_ml_broad",
+        "category": "Machine Learning & MLOps",
+        "matchedSignals": [
+          "title:Machine Learning"
+        ],
+        "skills": [
+          "LLM / GenAI",
+          "Machine Learning"
+        ]
+      },
+      "eligibility": {
+        "classification": "Unverified",
+        "isVerifiedEligible": false,
+        "isIndonesiaEligible": false,
+        "confidence": "low",
+        "evidence": "Generic global/worldwide aggregator label ('Remote (Worldwide - unspecified on Himalayas)') is not accepted as verified Indonesia eligibility without explicit residency confirmation",
+        "unresolvedReason": "generic_worldwide_not_proof_of_eligibility"
+      },
+      "excerpt": "This is a remote position. We are seeking a Staff Machine Learning Engineer to join our dynamic team specializing in a technology marketplace platform for engineering talent and delivering cutting-edge Generative AI (GenAI) managed solutions for enterprise clients. This is a remo...",
+      "fullDescriptionHash": "c081a57c01b786b4",
+      "attribution": {
+        "provider": "Himalayas",
+        "listingUrl": "https://himalayas.app/companies/hire-initiatives-inc/jobs/staff-machine-learning-engineer",
+        "requiresLinkBack": true,
+        "requiresUnchangedApplicationLink": true
+      }
+    },
+    {
+      "id": "pilot_himalayas:micro1-radiation-oncologist",
+      "sourceJobId": "micro1-radiation-oncologist",
+      "provider": "himalayas",
+      "sourceConnector": "pilot_himalayas",
+      "company": "micro1",
+      "title": "Radiation Oncologist",
+      "originalSourceUrl": "https://himalayas.app/companies/micro1/jobs/radiation-oncologist",
+      "applyUrl": "https://himalayas.app/companies/micro1/jobs/radiation-oncologist?utm_source=api",
+      "logo": "https://cdn-images.himalayas.app/91oa56akgt3qjqc1nh3uoruub40c",
+      "location": "Remote (Worldwide - unspecified on Himalayas)",
+      "postingDate": "2026-11-25T21:58:45Z",
+      "postedWithin7Days": true,
+      "discoveryDate": "2026-11-26T07:03:12Z",
+      "lastCheckedAt": "2026-11-26T07:03:12Z",
+      "compensation": {
+        "min": 100.0,
+        "max": 150.0,
+        "currency": "USD",
+        "unit": "hourly",
+        "raw": "USD 100 - 150 / hour"
+      },
+      "aiRelevance": {
+        "isAiRelated": true,
+        "tier": "ai_eval_core",
+        "category": "AI Tutor / AI Trainer",
+        "matchedSignals": [
+          "AI Tutor / AI Trainer:train next-generation AI systems"
+        ],
+        "skills": []
+      },
+      "eligibility": {
+        "classification": "Unverified",
+        "isVerifiedEligible": false,
+        "isIndonesiaEligible": false,
+        "confidence": "low",
+        "evidence": "Generic global/worldwide aggregator label ('Remote (Worldwide - unspecified on Himalayas)') is not accepted as verified Indonesia eligibility without explicit residency confirmation",
+        "unresolvedReason": "generic_worldwide_not_proof_of_eligibility"
+      },
+      "excerpt": "Role Title: Radiation Oncologist Role Type: Contractor Location: Remote micro1 is engaging Radiation Oncologists to participate in a project supporting a healthcare technology customer. Role Title: Radiation Oncologist Role Type: Contractor Location: Remote micro1 is engaging Rad...",
+      "fullDescriptionHash": "44d0a4a150e78d63",
+      "attribution": {
+        "provider": "Himalayas",
+        "listingUrl": "https://himalayas.app/companies/micro1/jobs/radiation-oncologist",
+        "requiresLinkBack": true,
+        "requiresUnchangedApplicationLink": true
+      }
+    },
+    {
+      "id": "pilot_himalayas:micro1-crowdstrike-specialist",
+      "sourceJobId": "micro1-crowdstrike-specialist",
+      "provider": "himalayas",
+      "sourceConnector": "pilot_himalayas",
+      "company": "micro1",
+      "title": "CrowdStrike Specialist",
+      "originalSourceUrl": "https://himalayas.app/companies/micro1/jobs/crowdstrike-specialist",
+      "applyUrl": "https://himalayas.app/companies/micro1/jobs/crowdstrike-specialist?utm_source=api",
+      "logo": "https://cdn-images.himalayas.app/91oa56akgt3qjqc1nh3uoruub40c",
+      "location": "Remote (Worldwide - unspecified on Himalayas)",
+      "postingDate": "2026-11-25T07:20:41Z",
+      "postedWithin7Days": true,
+      "discoveryDate": "2026-11-26T07:03:12Z",
+      "lastCheckedAt": "2026-11-26T07:03:12Z",
+      "compensation": {
+        "min": 90.0,
+        "max": 170.0,
+        "currency": "USD",
+        "unit": "hourly",
+        "raw": "USD 90 - 170 / hour"
+      },
+      "aiRelevance": {
+        "isAiRelated": true,
+        "tier": "ai_eval_core",
+        "category": "AI Tutor / AI Trainer",
+        "matchedSignals": [
+          "AI Tutor / AI Trainer:train next-generation AI systems",
+          "Data Annotation:data annotation"
+        ],
+        "skills": [
+          "Data Annotation"
+        ]
+      },
+      "eligibility": {
+        "classification": "Unverified",
+        "isVerifiedEligible": false,
+        "isIndonesiaEligible": false,
+        "confidence": "low",
+        "evidence": "Generic global/worldwide aggregator label ('Remote (Worldwide - unspecified on Himalayas)') is not accepted as verified Indonesia eligibility without explicit residency confirmation",
+        "unresolvedReason": "generic_worldwide_not_proof_of_eligibility"
+      },
+      "excerpt": "Role Title: CrowdStrike Specialist Role Type: Contractor Location: Remote micro1 is engaging CrowdStrike Specialists to contribute their expertise on a dynamic customer project in the cybersecurity domain. Role Title: CrowdStrike Specialist Role Type: Contractor Location: Remote...",
+      "fullDescriptionHash": "ddcd9f3fe58abeb7",
+      "attribution": {
+        "provider": "Himalayas",
+        "listingUrl": "https://himalayas.app/companies/micro1/jobs/crowdstrike-specialist",
+        "requiresLinkBack": true,
+        "requiresUnchangedApplicationLink": true
+      }
+    },
+    {
+      "id": "pilot_jobicy:149563",
+      "sourceJobId": "149563",
+      "provider": "jobicy",
+      "sourceConnector": "pilot_jobicy",
+      "company": "Canonical",
+      "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
+      "originalSourceUrl": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
+      "applyUrl": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
+      "logo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/b4d068a9-221-1.png",
+      "location": "Anywhere",
+      "postingDate": "2026-11-25T03:10:30Z",
+      "postedWithin7Days": true,
+      "discoveryDate": "2026-11-26T07:03:12Z",
+      "lastCheckedAt": "2026-11-26T07:03:12Z",
+      "compensation": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "unit": null,
+        "raw": null
+      },
+      "aiRelevance": {
+        "isAiRelated": true,
+        "tier": "ai_ml_broad",
+        "category": "Machine Learning & MLOps",
+        "matchedSignals": [
+          "title:AI/ML"
+        ],
+        "skills": [
+          "Machine Learning",
+          "Python"
+        ]
+      },
+      "eligibility": {
+        "classification": "Unverified",
+        "isVerifiedEligible": false,
+        "isIndonesiaEligible": false,
+        "confidence": "low",
+        "evidence": "Generic global/worldwide aggregator label ('Anywhere') is not accepted as verified Indonesia eligibility without explicit residency confirmation",
+        "unresolvedReason": "generic_worldwide_not_proof_of_eligibility"
+      },
+      "excerpt": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT....",
+      "fullDescriptionHash": "f19b4370c9d2e3cc",
+      "attribution": {
+        "provider": "Jobicy",
+        "listingUrl": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
+        "requiresLinkBack": true,
+        "friendlyNoticePresent": true
+      }
+    },
+    {
+      "id": "pilot_jobicy:164107",
+      "sourceJobId": "164107",
+      "provider": "jobicy",
+      "sourceConnector": "pilot_jobicy",
+      "company": "WIN Home Inspection",
+      "title": "Software Engineer- Agentic AI & Integrations",
+      "originalSourceUrl": "https://jobicy.com/jobs/164107-software-engineer-agentic-ai-integrations",
+      "applyUrl": "https://jobicy.com/jobs/164107-software-engineer-agentic-ai-integrations",
+      "logo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/11/eac3c569c493-221.webp",
+      "location": "APAC",
+      "postingDate": "2026-11-24T12:58:56Z",
+      "postedWithin7Days": true,
+      "discoveryDate": "2026-11-26T07:03:12Z",
+      "lastCheckedAt": "2026-11-26T07:03:12Z",
+      "compensation": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "unit": null,
+        "raw": null
+      },
+      "aiRelevance": {
+        "isAiRelated": true,
+        "tier": "ai_ml_broad",
+        "category": "LLM & Generative AI Engineering",
+        "matchedSignals": [
+          "title:Agentic AI"
+        ],
+        "skills": []
+      },
+      "eligibility": {
+        "classification": "Unverified",
+        "isVerifiedEligible": false,
+        "isIndonesiaEligible": false,
+        "confidence": "low",
+        "evidence": "Regional label ('APAC') does not confirm Indonesia eligibility",
+        "unresolvedReason": "regional_ambiguous_geography"
+      },
+      "excerpt": "ABOUT THE ROLE WIN is seeking highly skilled, hands-on Software Engineers to help build innovative digital applications, AI-powered solutions, and scalable technology platforms. WIN is investing heavily in agentic AI, intelligent automation, and advanced digital platforms to tran...",
+      "fullDescriptionHash": "19b063a5aa4b3687",
+      "attribution": {
+        "provider": "Jobicy",
+        "listingUrl": "https://jobicy.com/jobs/164107-software-engineer-agentic-ai-integrations",
+        "requiresLinkBack": true,
+        "friendlyNoticePresent": true
+      }
+    },
+    {
+      "id": "pilot_jobicy:163798",
+      "sourceJobId": "163798",
+      "provider": "jobicy",
+      "sourceConnector": "pilot_jobicy",
+      "company": "Welo Global",
+      "title": "English to Belarusian Review Lead for UI, Marketing & Product Content",
+      "originalSourceUrl": "https://jobicy.com/jobs/163798-english-to-belarusian-review-lead-for-ui-marketing-product-content",
+      "applyUrl": "https://jobicy.com/jobs/163798-english-to-belarusian-review-lead-for-ui-marketing-product-content",
+      "logo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/06/83c40f94-221.webp",
+      "location": "Argentina, Australia, Austria, Belgium, Brazil, Bulgaria, Canada, China, Costa Rica, Croatia, Czechia, Denmark, Finland, France, Germany, Greece, Hong Kong, Hungary, Ireland, Israel, Italy, Japan, Lithuania, Malaysia, Mexico, Netherlands, New Zealand, Norway, Philippines, Poland, Portugal, Romania, Singapore, South Korea, Spain, Sweden, Switzerland, Thailand, Türkiye, UAE, UK, USA, Vietnam",
+      "postingDate": "2026-11-22T05:51:46Z",
+      "postedWithin7Days": true,
+      "discoveryDate": "2026-11-26T07:03:12Z",
+      "lastCheckedAt": "2026-11-26T07:03:12Z",
+      "compensation": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "unit": null,
+        "raw": null
+      },
+      "aiRelevance": {
+        "isAiRelated": true,
+        "tier": "ai_eval_core",
+        "category": "Linguistic Evaluation & Translation Quality",
+        "matchedSignals": [
+          "Linguistic Evaluation & Translation Quality:linguistic expert"
+        ],
+        "skills": [
+          "Translation / Linguistics"
+        ]
+      },
+      "eligibility": {
+        "classification": "Unverified",
+        "isVerifiedEligible": false,
+        "isIndonesiaEligible": false,
+        "confidence": "low",
+        "evidence": "Conflicting geographic signals: location 'Argentina, Australia, Austria, Belgium, Brazil, Bulgaria, Canada, China, Costa Rica, Croatia, Czechia, Denmark, Finland, France, Germany, Greece, Hong Kong, Hungary, Ireland, Israel, Italy, Japan, Lithuania, Malaysia, Mexico, Netherlands, New Zealand, Norway, Philippines, Poland, Portugal, Romania, Singapore, South Korea, Spain, Sweden, Switzerland, Thailand, Türkiye, UAE, UK, USA, Vietnam' is outside Indonesia while a broad description country list mentions Indonesia; role-specific permission is not confirmed",
+        "unresolvedReason": "unspecified_or_unconfirmed_geography"
+      },
+      "excerpt": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a network of over 500,000 linguists and domain experts, with ad...",
+      "fullDescriptionHash": "0d895762512fe9db",
+      "attribution": {
+        "provider": "Jobicy",
+        "listingUrl": "https://jobicy.com/jobs/163798-english-to-belarusian-review-lead-for-ui-marketing-product-content",
+        "requiresLinkBack": true,
+        "friendlyNoticePresent": true
+      }
+    },
+    {
+      "id": "pilot_himalayas:inv-kinyarwanda-language-specialist-ai-trainer",
+      "sourceJobId": "inv-kinyarwanda-language-specialist-ai-trainer",
+      "provider": "himalayas",
+      "sourceConnector": "pilot_himalayas",
+      "company": "Invisible Technologies",
+      "title": "Kinyarwanda Language Specialist - AI Trainer",
+      "originalSourceUrl": "https://himalayas.app/companies/inv/jobs/kinyarwanda-language-specialist-ai-trainer",
+      "applyUrl": "https://himalayas.app/companies/inv/jobs/kinyarwanda-language-specialist-ai-trainer?utm_source=api",
+      "logo": "https://cdn-images.himalayas.app/hugty4e1xzzccz96n63gfd888sas",
+      "location": "Remote (Worldwide - unspecified on Himalayas)",
+      "postingDate": "2026-11-21T17:09:27Z",
+      "postedWithin7Days": true,
+      "discoveryDate": "2026-11-26T07:03:12Z",
+      "lastCheckedAt": "2026-11-26T07:03:12Z",
+      "compensation": {
+        "min": 6.0,
+        "max": 65.0,
+        "currency": "USD",
+        "unit": "hourly",
+        "raw": "$6 to $65 per hour"
+      },
+      "aiRelevance": {
+        "isAiRelated": true,
+        "tier": "ai_eval_core",
+        "category": "AI Tutor / AI Trainer",
+        "matchedSignals": [
+          "AI Tutor / AI Trainer:AI Trainer",
+          "Linguistic Evaluation & Translation Quality:language expert eager to shape the future of AI? Are you a Kinyarwanda language "
+        ],
+        "skills": [
+          "Translation / Linguistics"
+        ]
+      },
+      "eligibility": {
+        "classification": "Unverified",
+        "isVerifiedEligible": false,
+        "isIndonesiaEligible": false,
+        "confidence": "low",
+        "evidence": "Generic global/worldwide aggregator label ('Remote (Worldwide - unspecified on Himalayas)') is not accepted as verified Indonesia eligibility without explicit residency confirmation",
+        "unresolvedReason": "generic_worldwide_not_proof_of_eligibility"
+      },
+      "excerpt": "Are you a Kinyarwanda language expert eager to shape the future of AI? Are you a Kinyarwanda language expert eager to shape the future of AI? Large-scale language models are evolving from simple chatbots into powerful engines of communication and understanding. With high-quality...",
+      "fullDescriptionHash": "ed5ba3cf75e7e665",
+      "attribution": {
+        "provider": "Himalayas",
+        "listingUrl": "https://himalayas.app/companies/inv/jobs/kinyarwanda-language-specialist-ai-trainer",
+        "requiresLinkBack": true,
+        "requiresUnchangedApplicationLink": true
+      }
+    }
+  ],
+  "overlappingWithExistingSources": []
+}
