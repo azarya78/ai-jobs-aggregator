@@ -159,6 +159,10 @@ CATEGORY_RULES: List[Tuple[str, List[str]]] = [
 ]
 
 CORPORATE_TITLE_EXCLUSIONS = [
+    r"\b(?:support|applied\s+ai|research|data\s+infrastructure|machine\s+learning|ml|ai)\s+engineer\b",
+    r"\bresearch\s+scientist\b",
+    r"\bworkplace\s+experience\s+coordinator\b",
+    r"\badoption\s+strategist\b",
     r"\b(senior|staff|principal|lead|founding|forward\s+deployed|platform|backend|frontend|full[- ]stack|devops|mlops|site\s+reliability|infrastructure|ios|android)\s+(software\s+)?engineer\b",
     r"\bsoftware\s+engineer\b",
     r"\bengineering\s+manager\b",

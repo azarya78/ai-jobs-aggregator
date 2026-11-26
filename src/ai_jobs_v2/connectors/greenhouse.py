@@ -59,7 +59,7 @@ class GreenhouseConnector(BaseConnector):
 
             abs_url = str(item.get("absolute_url") or self.official_url).strip()
             apply_url = apply_tpl.format(job_id=jid) if apply_tpl else abs_url
-            posted_at = item.get("first_published") or item.get("updated_at")
+            posted_at = item.get("first_published")  # An update is not a publication.
 
             results.append(
                 RawJobListing(
