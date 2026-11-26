@@ -1,0 +1,74 @@
+name: "AI Jobs Hub v2.2 — Official Source Radar (Staging)"
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [feat/v2-direct-discovery]
+    paths:
+      - audit_new_sources.py
+      - config/new_source_radar.json
+      - tests/test_new_source_radar.py
+      - .github/workflows/new_source_radar_staging.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: official-source-radar-${{ github.ref_name }}
+  cancel-in-progress: false
+
+jobs:
+  audit-sources:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install requirements
+        run: pip install -r requirements.txt
+      - name: Gate 1 — Regression suite
+        env:
+          PYTHONPATH: src:.
+        run: pytest tests/ -q --tb=short
+      - name: Record production and staging guards
+        run: sha256sum jobs_feed.json staging/jobs_feed.json state/job_history.json > "$RUNNER_TEMP/guards.sha256"
+      - name: Gate 2 — Inspect six official public career pages (read-only)
+        run: python audit_new_sources.py
+      - name: Gate 3 — Validate isolated report and protected files
+        run: |
+          sha256sum -c "$RUNNER_TEMP/guards.sha256"
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          d=json.loads(Path("staging/new_source_radar_report.json").read_text())
+          assert d["experimentalOnly"] and d["doNotPublishToAndroid"]
+          assert d["sourcesChecked"]==6
+          assert len(d["sources"])==6
+          assert all(not s["syndicationApproved"] for s in d["sources"])
+          assert len({s["id"] for s in d["sources"]})==6
+          print("AUDIT RESULTS:")
+          for s in d["sources"]:
+              print(s["platform"],s["status"],s["matchingLinkCount"],s.get("httpStatus","N/A"))
+          PY
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: official-source-radar-${{ github.run_number }}
+          path: staging/new_source_radar_report.json
+          retention-days: 14
+      - name: Commit isolated report to development branch
+        run: |
+          test "$GITHUB_REF_NAME" = "feat/v2-direct-discovery"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add staging/new_source_radar_report.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(source-radar): sync official source audit [skip ci]"
+            git pull --rebase -X theirs origin "$GITHUB_REF_NAME"
+            git push origin "HEAD:$GITHUB_REF_NAME"
+          fi
