@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "official-sitemap-probe-v1",
+  "experimentalOnly": true,
+  "doNotPublishToAndroid": true,
+  "checkedAt": "2026-11-26T09:50:15.364400+00:00",
+  "sources": [
+    {
+      "id": "begun_official_sitemap",
+      "platform": "Begun",
+      "state": "SITEMAP_FETCHED_NO_JOBS",
+      "sitemapsFetched": 1,
+      "officialJobUrlCount": 0,
+      "sampleOfficialUrls": [],
+      "httpResults": [
+        200
+      ],
+      "publishedDatesVerified": false,
+      "reusePermissionVerified": false,
+      "robots": "robots_checked"
+    },
+    {
+      "id": "micro1_official_sitemap",
+      "platform": "Micro1",
+      "state": "ROBOTS_NOT_CLEARED",
+      "sitemapsFetched": 0,
+      "officialJobUrlCount": 0,
+      "sampleOfficialUrls": [],
+      "httpResults": [],
+      "publishedDatesVerified": false,
+      "reusePermissionVerified": false,
+      "robots": "robots_http_403"
+    }
+  ]
+}
