@@ -238,7 +238,7 @@ class JobDiscoveryPipeline:
         # Keep different regions, rates, or substantial descriptions separate.
         def _semantic_key(rec: NormalizedJobRecord):
             def norm(value: str) -> str:
-                return re.sub(r"\\s+", " ", re.sub(r"[^\\w\\s]", " ", value.casefold())).strip()
+                return re.sub(r"\s+", " ", re.sub(r"[^\w\s]", " ", value.casefold())).strip()
             return (
                 norm(rec.company), norm(rec.title), norm(rec.location),
                 norm(rec.compensation.raw_text), norm(rec.short_description),
