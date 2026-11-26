@@ -46,7 +46,7 @@ def locs_from_xml(text):
 
 def inspect(session, source, limits):
     out={"id":source["id"],"platform":source["platform"],"state":"NOT_CHECKED",
-         "sitemapsFetched":0,"officialJobUrlCount":0,"sampleOfficialUrls":[],
+         "sitemapsFetched":0,"officialJobUrlCount":0,"sampleOfficialUrls":[],"httpResults":[],
          "publishedDatesVerified":False,"reusePermissionVerified":False}
     root=urlsplit(source["root"]); first=urlsplit(source["sitemap"])
     if root.scheme!="https" or first.scheme!="https" or root.hostname!=first.hostname:
