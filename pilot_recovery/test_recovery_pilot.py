@@ -11,3 +11,12 @@ def test_robots_denial_stops_request():
     result=inspect(session,"test","https://example.test/jobs",r"/jobs/.*")
     assert result["status"]=="ROBOTS_NOT_CLEARED"
     assert session.get.call_count==1
+
+
+def test_cross_origin_robots_redirect_stops():
+    session=Mock()
+    session.get.return_value.status_code=308
+    session.get.return_value.headers={"Location":"https://other.test/robots.txt"}
+    result=inspect(session,"test","https://example.test/jobs",r"/jobs/.*")
+    assert result["status"]=="ROBOTS_NOT_CLEARED"
+    assert session.get.call_count==1

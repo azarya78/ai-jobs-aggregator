@@ -1,4 +1,4 @@
-"""Bounded, read-only recovery pilot; no login, redirects, or bypass."""
+"""Bounded, read-only recovery pilot; no login or bypass; bounded same-origin robots redirect."""
 import json
 import re
 from pathlib import Path
@@ -11,6 +11,8 @@ from audit_new_sources import USER_AGENT
 SOURCES = [
     ("TELUS Global", "https://jobs.telusdigital.com/search/cfm5/ai-community/jobs", r"^/jobs/\d+-[^/]+/?$"),
     ("Outlier", "https://app.outlier.ai/opportunities?hl=en-US", r"^/opportunities/\d+/?$"),
+    ("Micro1 public index", "https://www.micro1.ai/experts/opportunities", r"^/experts/opportunities/[^/]+/?$"),
+    ("Begun public index", "https://app.begun.com/opportunities", r"^/opportunities/[^/]+/?$"),
 ]
 
 def extract(html, url, pattern):
@@ -44,6 +46,13 @@ def inspect(session, name, url, pattern):
     try:
         p=urlsplit(url)
         robots=session.get(p.scheme+"://"+p.netloc+"/robots.txt", timeout=15, allow_redirects=False)
+        out["robotsInitialStatus"]=robots.status_code
+        if robots.status_code in (301,302,307,308):
+            dest=urlsplit(urljoin(p.scheme+"://"+p.netloc+"/robots.txt", robots.headers.get("Location","")))
+            if dest.scheme=="https" and dest.netloc==p.netloc and dest.path in ("/robots.txt","/robots.txt/") and not dest.query and not dest.fragment:
+                import time
+                time.sleep(2)
+                robots=session.get(dest.geturl(),timeout=15,allow_redirects=False)
         out["robotsStatus"]=robots.status_code
         if robots.status_code==200:
             rp=RobotFileParser()
