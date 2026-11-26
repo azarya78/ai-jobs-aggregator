@@ -71,6 +71,32 @@ jobs:
         run: |
           python collect_jobs.py --validate-only staging/jobs_feed.json
 
+      - name: Gate 4 — Validate isolated freshness-first catalog
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          from datetime import datetime, timezone
+
+          path = Path("staging/freshness_catalog.json")
+          assert path.is_file(), "Freshness catalog missing after collection"
+          catalog = json.loads(path.read_text(encoding="utf-8"))
+          assert catalog.get("experimentalOnly") is True
+          assert catalog.get("doNotPromoteToAndroidFeed") is True
+          jobs = catalog["jobs"]
+          assert catalog["totalJobs"] == len(jobs)
+          ids = [j["id"] for j in jobs]
+          assert len(ids) == len(set(ids)), "Duplicate catalog IDs"
+          assert all(j.get("eligibilityClass") in (
+              "Indonesia Eligible", "Remote Global", "Restricted", "Unverified"
+          ) for j in jobs), "Invalid eligibility class"
+          dated = [j for j in jobs if j.get("officialPostedDate")]
+          dates = [datetime.fromisoformat(j["officialPostedDate"].replace("Z", "+00:00")) for j in dated]
+          assert dates == sorted(dates, reverse=True), "Dated jobs not newest first"
+          assert all(j.get("officialPostedDate") for j in jobs[:len(dated)]), "Undated jobs above dated jobs"
+          print(f"Freshness catalog validated: {len(jobs)} jobs, {len(dated)} dated")
+          PY
+
       - name: Publish Source Coverage Report to Step Summary
         if: always()
         run: |
