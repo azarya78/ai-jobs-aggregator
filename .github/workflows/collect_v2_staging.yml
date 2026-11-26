@@ -85,6 +85,7 @@ jobs:
           name: ai-jobs-v2-staging-artifacts-${{ github.run_number }}
           path: |
             staging/jobs_feed.json
+            staging/freshness_catalog.json
             state/coverage_report.json
             state/COVERAGE_REPORT.md
             state/unverified_jobs.json
@@ -101,7 +102,7 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add staging/jobs_feed.json state/job_history.json state/http_cache.json state/unverified_jobs.json state/daily_new_candidates.json state/coverage_report.json state/COVERAGE_REPORT.md
+          git add staging/jobs_feed.json staging/freshness_catalog.json state/job_history.json state/http_cache.json state/unverified_jobs.json state/daily_new_candidates.json state/coverage_report.json state/COVERAGE_REPORT.md
           if git diff --cached --quiet; then
             echo "No changes in staging feed or state."
           else
