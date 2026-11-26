@@ -191,6 +191,32 @@
       "rate_limit_rps": 2,
       "timeout_sec": 20,
       "notes": "Official Invisible Technologies Greenhouse API."
+    },
+    {
+      "id": "ashby_10xteam",
+      "platform": "10x Team",
+      "official_url": "https://jobs.ashbyhq.com/10xteam",
+      "api_endpoint": "https://api.ashbyhq.com/posting-api/job-board/10xteam?includeCompensation=true",
+      "method": "ashby_api",
+      "logo": "https://www.google.com/s2/favicons?domain=10x.team&sz=128",
+      "pure_ai_eval_board": false,
+      "enabled": true,
+      "rate_limit_rps": 1,
+      "timeout_sec": 20,
+      "notes": "Official Ashby board listing AI Trainer freelance positions. Staging-only source expansion; no geographic gating."
+    },
+    {
+      "id": "lever_tsmg",
+      "platform": "TSMG",
+      "official_url": "https://jobs.lever.co/tsmg",
+      "api_endpoint": "https://api.lever.co/v0/postings/tsmg",
+      "method": "lever_api",
+      "logo": "https://www.google.com/s2/favicons?domain=tsmg.com&sz=128",
+      "pure_ai_eval_board": false,
+      "enabled": true,
+      "rate_limit_rps": 1,
+      "timeout_sec": 20,
+      "notes": "Official Lever board with AI data collection and annotation jobs. Staging-only."
     }
   ]
 }
