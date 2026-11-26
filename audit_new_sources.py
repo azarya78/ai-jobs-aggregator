@@ -91,6 +91,8 @@ def inspect_source(session, source):
             output["status"] = "UNSUPPORTED_CONTENT_TYPE"
         else:
             urls = count_opportunity_links(response.text, response.url, expected_host, source["pathPrefix"])
+            excluded = set(source.get("excludeSlugs", []))
+            urls = [u for u in urls if urlsplit(u).path.rstrip("/").rsplit("/", 1)[-1] not in excluded]
             output["matchingLinkCount"] = len(urls)
             output["sampleOfficialLinks"] = urls[:3]
             output["status"] = "PUBLIC_LIST_LINKS" if urls else "NO_STATIC_JOB_LINKS"
