@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-11-26T12:02:46Z",
+  "generatedAt": "2026-11-26T12:25:44Z",
   "summary": {
     "totalSourcesConfigured": 17,
-    "sourcesSucceeded": 14,
+    "sourcesSucceeded": 13,
     "sourcesEmptyZeroResults": 0,
-    "sourcesFailed": 3,
-    "rawListingsRetrieved": 6593,
-    "relevantAiEvalListings": 1304,
+    "sourcesFailed": 4,
+    "rawListingsRetrieved": 6230,
+    "relevantAiEvalListings": 1153,
     "indonesiaEligibleListings": 28,
-    "remoteGlobalListings": 3,
-    "unverifiedReviewListings": 129,
-    "restrictedListingsFiltered": 1144,
-    "irrelevantRejectedListings": 5287,
+    "remoteGlobalListings": 0,
+    "unverifiedReviewListings": 30,
+    "restrictedListingsFiltered": 1095,
+    "irrelevantRejectedListings": 5075,
     "publishedAndroidFeedTotal": 31,
     "deduplication": {
       "duplicatesCollapsed": 0,
       "newJobs": 0,
-      "existingUnchanged": 31,
+      "existingUnchanged": 28,
       "updatedJobs": 0,
       "closedJobs": 0,
-      "unverifiedHeldDueToConnectorFailure": 0
+      "unverifiedHeldDueToConnectorFailure": 3
     }
   },
   "sources": [
@@ -29,16 +29,16 @@
       "official_url": "https://jobs.lever.co/weloglobal",
       "method": "lever_api",
       "status": "SUCCESS",
-      "raw_count": 473,
+      "raw_count": 474,
       "relevant_count": 274,
       "indonesia_eligible_count": 7,
       "remote_global_count": 0,
       "unverified_review_count": 13,
       "restricted_count": 254,
-      "rejected_irrelevant_count": 199,
+      "rejected_irrelevant_count": 200,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T12:02:46Z",
-      "duration_ms": 6926,
+      "last_successful_check": "2026-11-26T12:25:44Z",
+      "duration_ms": 15669,
       "error_message": null
     },
     {
@@ -55,8 +55,8 @@
       "restricted_count": 130,
       "rejected_irrelevant_count": 17,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T12:02:46Z",
-      "duration_ms": 2422,
+      "last_successful_check": "2026-11-26T12:25:44Z",
+      "duration_ms": 2037,
       "error_message": null
     },
     {
@@ -74,7 +74,7 @@
       "rejected_irrelevant_count": 0,
       "closed_in_payload_count": 0,
       "last_successful_check": null,
-      "duration_ms": 326,
+      "duration_ms": 386,
       "error_message": "HTTP 404 access denied or not found for https://boards-api.greenhouse.io/v1/boards/outlier/jobs?content=true; fallback https://app.outlier.ai/opportunities requires client-side session/CSRF token (0 public SSR listings)"
     },
     {
@@ -91,8 +91,8 @@
       "restricted_count": 7,
       "rejected_irrelevant_count": 3,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T12:02:46Z",
-      "duration_ms": 5309,
+      "last_successful_check": "2026-11-26T12:25:44Z",
+      "duration_ms": 5464,
       "error_message": null
     },
     {
@@ -109,8 +109,8 @@
       "restricted_count": 72,
       "rejected_irrelevant_count": 19,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T12:02:46Z",
-      "duration_ms": 1946,
+      "last_successful_check": "2026-11-26T12:25:44Z",
+      "duration_ms": 1551,
       "error_message": null
     },
     {
@@ -118,18 +118,18 @@
       "platform": "Mercor",
       "official_url": "https://work.mercor.com/explore",
       "method": "mercor_public_web",
-      "status": "SUCCESS",
-      "raw_count": 364,
-      "relevant_count": 151,
+      "status": "FAILED",
+      "raw_count": 0,
+      "relevant_count": 0,
       "indonesia_eligible_count": 0,
-      "remote_global_count": 3,
-      "unverified_review_count": 99,
-      "restricted_count": 49,
-      "rejected_irrelevant_count": 213,
+      "remote_global_count": 0,
+      "unverified_review_count": 0,
+      "restricted_count": 0,
+      "rejected_irrelevant_count": 0,
       "closed_in_payload_count": 0,
       "last_successful_check": "2026-11-26T12:02:46Z",
-      "duration_ms": 2639,
-      "error_message": null
+      "duration_ms": 279,
+      "error_message": "Public HTML extractor returned zero listings for web_mercor; possible page-layout or rendering change"
     },
     {
       "source_id": "web_micro1",
@@ -146,7 +146,7 @@
       "rejected_irrelevant_count": 0,
       "closed_in_payload_count": 0,
       "last_successful_check": "2026-11-25T14:38:57Z",
-      "duration_ms": 766,
+      "duration_ms": 838,
       "error_message": "Public HTML extractor returned zero listings for web_micro1; possible page-layout or rendering change"
     },
     {
@@ -163,8 +163,8 @@
       "restricted_count": 9,
       "rejected_irrelevant_count": 112,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T12:02:46Z",
-      "duration_ms": 2791,
+      "last_successful_check": "2026-11-26T12:25:44Z",
+      "duration_ms": 2808,
       "error_message": null
     },
     {
@@ -181,8 +181,8 @@
       "restricted_count": 12,
       "rejected_irrelevant_count": 8,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T12:02:46Z",
-      "duration_ms": 3739,
+      "last_successful_check": "2026-11-26T12:25:44Z",
+      "duration_ms": 3318,
       "error_message": null
     },
     {
@@ -200,7 +200,7 @@
       "rejected_irrelevant_count": 0,
       "closed_in_payload_count": 0,
       "last_successful_check": null,
-      "duration_ms": 107,
+      "duration_ms": 203,
       "error_message": "HTTP 403 access denied or not found for https://jobs.telusdigital.com/search/cfm5/ai-community/jobs/in/country/indonesia"
     },
     {
@@ -217,8 +217,8 @@
       "restricted_count": 192,
       "rejected_irrelevant_count": 397,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T12:02:46Z",
-      "duration_ms": 6251,
+      "last_successful_check": "2026-11-26T12:25:44Z",
+      "duration_ms": 5491,
       "error_message": null
     },
     {
@@ -235,8 +235,8 @@
       "restricted_count": 33,
       "rejected_irrelevant_count": 4,
       "closed_in_payload_count": 2,
-      "last_successful_check": "2026-11-26T12:02:46Z",
-      "duration_ms": 192,
+      "last_successful_check": "2026-11-26T12:25:44Z",
+      "duration_ms": 207,
       "error_message": null
     },
     {
@@ -253,8 +253,8 @@
       "restricted_count": 3,
       "rejected_irrelevant_count": 37,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T12:02:46Z",
-      "duration_ms": 280,
+      "last_successful_check": "2026-11-26T12:25:44Z",
+      "duration_ms": 246,
       "error_message": null
     },
     {
@@ -271,8 +271,8 @@
       "restricted_count": 1,
       "rejected_irrelevant_count": 18,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T12:02:46Z",
-      "duration_ms": 294,
+      "last_successful_check": "2026-11-26T12:25:44Z",
+      "duration_ms": 276,
       "error_message": null
     },
     {
@@ -289,8 +289,8 @@
       "restricted_count": 126,
       "rejected_irrelevant_count": 8,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T12:02:46Z",
-      "duration_ms": 1916,
+      "last_successful_check": "2026-11-26T12:25:44Z",
+      "duration_ms": 1926,
       "error_message": null
     },
     {
@@ -307,8 +307,8 @@
       "restricted_count": 256,
       "rejected_irrelevant_count": 4238,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T12:02:46Z",
-      "duration_ms": 178231,
+      "last_successful_check": "2026-11-26T12:25:44Z",
+      "duration_ms": 118259,
       "error_message": null
     },
     {
@@ -325,13 +325,13 @@
       "restricted_count": 0,
       "rejected_irrelevant_count": 14,
       "closed_in_payload_count": 0,
-      "last_successful_check": "2026-11-26T12:02:46Z",
-      "duration_ms": 658,
+      "last_successful_check": "2026-11-26T12:25:44Z",
+      "duration_ms": 478,
       "error_message": null
     }
   ],
   "sourceFreshness": {
-    "generatedAt": "2026-11-26T12:02:46Z",
+    "generatedAt": "2026-11-26T12:25:44Z",
     "previousSnapshotAvailable": true,
     "scope": "current catalog after existing within-platform semantic deduplication",
     "limitations": [
@@ -434,20 +434,20 @@
       {
         "source_id": "web_mercor",
         "platform": "Mercor",
-        "status": "SUCCESS",
+        "status": "FAILED",
         "date_basis": "mixed_or_unverified",
-        "catalog_jobs": 151,
-        "dated_jobs": 151,
-        "undated_or_invalid": 0,
-        "reported_24h": 0,
-        "reported_7d": 0,
+        "catalog_jobs": null,
+        "dated_jobs": null,
+        "undated_or_invalid": null,
+        "reported_24h": null,
+        "reported_7d": null,
         "first_publication_24h": null,
         "first_publication_7d": null,
-        "first_detected_24h": 151,
-        "first_detected_7d": 151,
-        "date_advanced_existing": 0,
-        "possible_republication_7d": 0,
-        "absent_previous_snapshot": 0
+        "first_detected_24h": null,
+        "first_detected_7d": null,
+        "date_advanced_existing": null,
+        "possible_republication_7d": null,
+        "absent_previous_snapshot": null
       },
       {
         "source_id": "web_micro1",
