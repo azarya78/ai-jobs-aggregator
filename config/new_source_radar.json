@@ -1,0 +1,50 @@
+{
+  "version": "2.2-source-audit",
+  "experimentalOnly": true,
+  "doNotPublishToAndroid": true,
+  "notes": "Public official career/opportunity pages. Audit access and visible outbound links only; no login, scraping bypass, or job syndication.",
+  "sources": [
+    {
+      "id": "radar_begun",
+      "platform": "Begun (formerly Ethos)",
+      "url": "https://app.begun.com/opportunities",
+      "host": "app.begun.com",
+      "pathPrefix": "/opportunities/"
+    },
+    {
+      "id": "radar_handshake",
+      "platform": "Handshake AI",
+      "url": "https://joinhandshake.com/ai/opportunities/",
+      "host": "joinhandshake.com",
+      "pathPrefix": "/ai/opportunities/"
+    },
+    {
+      "id": "radar_dataannotation",
+      "platform": "DataAnnotation.tech",
+      "url": "https://www.dataannotation.tech/",
+      "host": "www.dataannotation.tech",
+      "pathPrefix": "/job-board/"
+    },
+    {
+      "id": "radar_turing",
+      "platform": "Turing",
+      "url": "https://work.turing.com/",
+      "host": "work.turing.com",
+      "pathPrefix": "/r/"
+    },
+    {
+      "id": "radar_rustlabs",
+      "platform": "rustLabs",
+      "url": "https://experts.rustlabs.ai/",
+      "host": "experts.rustlabs.ai",
+      "pathPrefix": "/experts/"
+    },
+    {
+      "id": "radar_micro1",
+      "platform": "Micro1",
+      "url": "https://www.micro1.ai/experts/opportunities",
+      "host": "www.micro1.ai",
+      "pathPrefix": "/experts/opportunities/"
+    }
+  ]
+}
