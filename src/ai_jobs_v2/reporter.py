@@ -64,6 +64,18 @@ def render_coverage_markdown(report_dict: Dict[str, Any]) -> str:
             f"`{last_chk}` | {err} |"
         )
     lines.append("")
+    if "sourceFreshness" in report_dict:
+        lines.extend(["## Source freshness (deduplicated catalog)", "",
+            "Reported dates are not always first publications. First detection is not posting freshness.",
+            "",
+            "| Platform | Date basis | Catalog | Reported 24h | Reported 7d | First publication 24h | First publication 7d | Undated/invalid | First detected 24h | Possible republication 7d |",
+            "|---|---|---:|---:|---:|---:|---:|---:|---:|---:|"])
+        for row in report_dict["sourceFreshness"]["sources"]:
+            fields = ("catalog_jobs", "reported_24h", "reported_7d", "first_publication_24h",
+                      "first_publication_7d", "undated_or_invalid", "first_detected_24h", "possible_republication_7d")
+            values = ["—" if row[k] is None else str(row[k]) for k in fields]
+            lines.append("| " + " | ".join([row["platform"], row["date_basis"], *values]) + " |")
+        lines.append("")
     return "\n".join(lines)
 
 

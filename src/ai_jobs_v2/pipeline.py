@@ -23,6 +23,7 @@ from .normalizer import normalize_raw_listing, build_canonical_id
 from .url_sanitizer import sanitize_official_apply_url
 from .history import JobHistoryStore
 from .validator import write_json_atomically
+from .freshness_metrics import build_source_freshness
 from .reporter import (
     build_coverage_report_dict,
     render_coverage_markdown,
@@ -220,10 +221,12 @@ class JobDiscoveryPipeline:
         # never make an old posting appear newly discovered in Android.
         previous_catalog_by_id: Dict[str, Dict[str, Any]] = {}
         catalog_path = self.output_feed_path.parent / "freshness_catalog.json"
+        has_previous_catalog = False
         if catalog_path.exists():
             try:
                 old_catalog = json.loads(catalog_path.read_text(encoding="utf-8"))
                 if isinstance(old_catalog.get("jobs"), list):
+                    has_previous_catalog = True
                     previous_catalog_by_id = {
                         j["id"]: j for j in old_catalog["jobs"]
                         if isinstance(j, dict) and isinstance(j.get("id"), str)
@@ -327,6 +330,9 @@ class JobDiscoveryPipeline:
             dedup_summary=dedup_summary,
             published_count=len(feed_items),
             unverified_queue_count=len(dedup_unverified),
+        )
+        cov_dict["sourceFreshness"] = build_source_freshness(
+            catalog_items, connector_reports, previous_catalog_by_id, now_iso, has_previous_catalog
         )
         write_json_atomically(self.state_dir / "coverage_report.json", cov_dict, validate_android_schema=False)
         md_text = render_coverage_markdown(cov_dict)
