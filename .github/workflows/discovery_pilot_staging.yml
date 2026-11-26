@@ -1,0 +1,114 @@
+name: "AI Jobs Hub v2.1 – Career-Ops Discovery Pilot (Staging)"
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - "feat/v2-direct-discovery"
+    paths:
+      - "discover_candidates.py"
+      - "config/discovery_pilot_sources.json"
+      - "src/ai_jobs_v2/discovery_pilot.py"
+      - "src/ai_jobs_v2/connectors/career_ops_providers.py"
+      - "tests/test_discovery_pilot.py"
+      - ".github/workflows/discovery_pilot_staging.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ai-jobs-v2-staging-${{ github.ref_name }}
+  cancel-in-progress: false
+
+jobs:
+  discovery-pilot-validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout development branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Gate 1 - Run full regression test suite (v2 Direct + v2.1 Discovery Pilot)
+        env:
+          PYTHONPATH: src
+        run: |
+          pytest tests/ -v --tb=short
+
+      - name: Record pre-pilot checksums of protected feeds & history
+        run: |
+          sha256sum staging/jobs_feed.json jobs_feed.json state/job_history.json > "$RUNNER_TEMP/protected_before.sha256"
+          cat "$RUNNER_TEMP/protected_before.sha256"
+
+      - name: Gate 2 - Run isolated Career-Ops discovery pilot (Himalayas, Remotive, Jobicy)
+        run: |
+          python discover_candidates.py
+
+      - name: Gate 3 - Validate experimental feed & verify zero mutation of Android/production feeds
+        run: |
+          python discover_candidates.py --validate-pilot staging/discovery_candidates.json
+          python collect_jobs.py --validate-only staging/jobs_feed.json
+          sha256sum -c "$RUNNER_TEMP/protected_before.sha256"
+          python - <<'PY'
+          import json, pathlib
+          android_feed = json.loads(pathlib.Path("staging/jobs_feed.json").read_text(encoding="utf-8"))
+          hist = json.loads(pathlib.Path("state/job_history.json").read_text(encoding="utf-8"))
+          pilot = json.loads(pathlib.Path("staging/discovery_candidates.json").read_text(encoding="utf-8"))
+          print(f"Verified Android staging feed preserved: totalJobs={android_feed['totalJobs']}, trackedHistory={hist['totalTrackedJobs']}")
+          print("Pilot summary:", json.dumps(pilot["summary"], indent=2))
+          for pr in pilot["providerReports"]:
+              print(f"PROVIDER {pr['platform']}: status={pr['status']} raw={pr['rawRecords']} relevant={pr['uniqueRelevantAiRecords']} (core={pr['aiEvalCoreRecords']}, broad={pr['aiMlBroadRecords']}) recent7d={pr['postedWithin7DaysRecords']} verifiedID={pr['verifiedIndonesiaEligibleRecords']} unverified={pr['unverifiedCandidateRecords']} overlap={pr['overlapWithExistingSources']} restricted={pr['restrictedExcludedRecords']} failures={pr['collectionFailures']} meta={pr['fetchMetadata']}")
+          PY
+          cat state/DISCOVERY_PILOT_REPORT.md
+
+      - name: Publish Discovery Pilot Report to Step Summary
+        if: always()
+        run: |
+          if [ -f state/DISCOVERY_PILOT_REPORT.md ]; then
+            cat state/DISCOVERY_PILOT_REPORT.md >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Upload experimental discovery pilot artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ai-jobs-v2-1-discovery-pilot-${{ github.run_number }}
+          path: |
+            staging/discovery_candidates.json
+            state/discovery_pilot_report.json
+            state/DISCOVERY_PILOT_REPORT.md
+            state/discovery_pilot_history.json
+          retention-days: 14
+
+      - name: Commit isolated discovery pilot outputs on dev branch (Protected Branch Guard)
+        run: |
+          CURRENT_BRANCH="${GITHUB_REF_NAME}"
+          if [ "$CURRENT_BRANCH" = "main" ] || [ "$CURRENT_BRANCH" = "master" ]; then
+            echo "SAFETY GUARD: Refusing to write to main branch."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          BOT_DOMAIN="users.noreply.""github"".com"
+          git config user.email "41898282+github-actions[bot]@${BOT_DOMAIN}"
+          git add staging/discovery_candidates.json state/discovery_pilot_report.json state/DISCOVERY_PILOT_REPORT.md state/discovery_pilot_history.json
+          if git diff --cached --quiet; then
+            echo "No changes in discovery pilot outputs."
+          else
+            git commit -m "chore(v2.1-pilot): update experimental discovery candidates & report [skip ci]"
+            git pull --rebase -X theirs origin "$CURRENT_BRANCH"
+            git push origin "HEAD:$CURRENT_BRANCH"
+          fi
