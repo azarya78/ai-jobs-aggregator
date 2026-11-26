@@ -8,7 +8,8 @@ import subprocess
 import sys
 import tempfile
 import unittest
-from typing import Dict
+from typing import Any, Dict
+from urllib.parse import urlencode
 
 from ai_jobs_v2.connectors.career_ops_providers import (
     HimalayasDiscoveryConnector,
@@ -31,6 +32,15 @@ from ai_jobs_v2.models import ELIGIBILITY_INDONESIA, ELIGIBILITY_RESTRICTED, ELI
 
 def _u(host_parts: tuple[str, ...], path: str) -> str:
     return build_https_endpoint(list(host_parts), path)
+
+
+def _eff_url(url: str, *args: Any) -> str:
+    if "?" in url:
+        return url
+    for arg in args:
+        if isinstance(arg, dict) and any(k in arg for k in ("limit", "count", "cursor", "country", "q", "sort", "page")):
+            return f"{url}?{urlencode(arg)}"
+    return url
 
 
 class TestCareerOpsProvidersAndPilot(unittest.TestCase):
@@ -104,7 +114,8 @@ class TestCareerOpsProvidersAndPilot(unittest.TestCase):
             ]
         }
 
-        def fake_transport(url: str, _headers: Dict[str, str], _timeout: int) -> HTTPResponseData:
+        def fake_transport(url: str, *args: Any, **_kwargs: Any) -> HTTPResponseData:
+            url = _eff_url(url, *args)
             if url.startswith(h_search):
                 return HTTPResponseData(200, json.dumps(search_payload), {}, url)
             if "cursor=CUR_PAGE_2" in url:
@@ -208,7 +219,8 @@ class TestCareerOpsProvidersAndPilot(unittest.TestCase):
             ],
         }
 
-        def fake_transport(url: str, _headers: Dict[str, str], _timeout: int) -> HTTPResponseData:
+        def fake_transport(url: str, *args: Any, **_kwargs: Any) -> HTTPResponseData:
+            url = _eff_url(url, *args)
             if url.startswith(r_url):
                 return HTTPResponseData(200, json.dumps(remotive_json), {}, url)
             if "cursor=J_CUR_2" in url:
@@ -360,7 +372,7 @@ class TestCareerOpsProvidersAndPilot(unittest.TestCase):
             ],
         }
         client = PoliteHTTPClient(
-            transport_override=lambda u, _h, _t: HTTPResponseData(200, json.dumps(loop_payload), {}, u),
+            transport_override=lambda u, *a, **kw: HTTPResponseData(200, json.dumps(loop_payload), {}, _eff_url(u, *a)),
             sleep_fn=lambda _: None,
         )
         conn = HimalayasDiscoveryConnector({"id": "pilot_himalayas", "hostParts": ["himalayas", "app"], "maxPages": 10}, client)
@@ -525,7 +537,8 @@ class TestCareerOpsProvidersAndPilot(unittest.TestCase):
                 ],
             }
 
-            def fake_transport(url: str, _headers: Dict[str, str], _timeout: int) -> HTTPResponseData:
+            def fake_transport(url: str, *args: Any, **_kwargs: Any) -> HTTPResponseData:
+                url = _eff_url(url, *args)
                 if "himalayas" in url:
                     return HTTPResponseData(200, json.dumps(h_resp), {}, url)
                 if "remotive" in url:
