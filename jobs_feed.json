@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-11-27 16:21 UTC",
-  "totalJobs": 369,
+  "lastUpdated": "2026-11-28 01:15 UTC",
+  "totalJobs": 370,
   "jobs": [
+    {
+      "id": "ashby-d24de9b2-35b6-456a-843e-a9e01d2facf2",
+      "title": "Technical Program Manager, Model Delivery",
+      "company": "Cohere",
+      "logo": "https://www.google.com/s2/favicons?domain=cohere.com&sz=128",
+      "category": "Product & Design",
+      "eligible": true,
+      "isIndonesian": false,
+      "isDirect": true,
+      "skills": [
+        "Product & Design",
+        "Direct API"
+      ],
+      "location": "Toronto",
+      "pay": "Lihat Detail",
+      "date": "Nov 27, 2026",
+      "timestamp": 1795811339,
+      "excerpt": "WHO ARE WE?  Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.  We’re training and de...",
+      "applyUrl": "https://jobs.ashbyhq.com/cohere/d24de9b2-35b6-456a-843e-a9e01d2facf2",
+      "source": "⚡ Direct API"
+    },
     {
       "id": "gh-4684808005",
       "title": "Support Systems Specialist (Zendesk, Routing & Analytics)",
@@ -22,6 +43,87 @@
       "excerpt": "Scale is looking for a Support Systems & Routing Specialist to own and optimize the core infrastructure powering our contributor support operations. In this role, you will be responsible for configuring and maintaining s...",
       "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4684808005",
       "source": "⚡ Direct API"
+    },
+    {
+      "id": "6b09c6f64710e12880bd4477",
+      "title": "Technical Program Manager II",
+      "company": "Meta",
+      "logo": "https://www.google.com/s2/favicons?domain=about.meta.com&sz=32",
+      "category": "Program Manager",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Cross-Functional Collaboration",
+        "Collaboration",
+        "Planning",
+        "Communication",
+        "Management",
+        "Communications",
+        "Documentation",
+        "Reporting"
+      ],
+      "location": "United States",
+      "pay": "$90 – $101/hr",
+      "date": "Nov 27, 2026",
+      "timestamp": 1795737600,
+      "excerpt": "The main function of a Technical Program Manager is to provide successful definition, implementation and delivery of complex programs that require cross-functional collaboration and interdependencies across a group of projects and/or related activities.",
+      "applyUrl": "https://us.meta.talentnet.community/jobs/49c695e9-20ef-486b-9636-bd5e5d030743",
+      "source": "Cross-Functional Collaboration • Collaboration"
+    },
+    {
+      "id": "6b09cfb14710e12880bd8e73",
+      "title": "Sales Development Representative",
+      "company": "Granum",
+      "logo": "https://www.google.com/s2/favicons?domain=granum.com&sz=64",
+      "category": "Sales Development Rep (SDR)",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Sales",
+        "Training",
+        "Payments",
+        "Onboarding",
+        "Culture",
+        "Leadership",
+        "Microsoft Teams",
+        "Prospecting"
+      ],
+      "location": "United States , Canada",
+      "pay": "Lihat Detail",
+      "date": "Nov 27, 2026",
+      "timestamp": 1795737600,
+      "excerpt": "Granum is the leading software company devoted to serving landscapers and arborists across North America, providing intuitive, industry-specific solutions designed to help them improve and grow their businesses while impressing their customers.",
+      "applyUrl": "https://job-boards.greenhouse.io/granum/jobs/8958876002",
+      "source": "Sales • Training"
+    },
+    {
+      "id": "6b09c6a14710e12880bd3fb4",
+      "title": "English to Spanish Latin America Automotive Linguist",
+      "company": "Welo Data",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037347/remowork/companies/welo-data-logo.webp",
+      "category": "Translator",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "English",
+        "Spanish",
+        "AI",
+        "Infrastructure",
+        "Natural Language Processing",
+        "Linguistics",
+        "Compliance",
+        "Localization"
+      ],
+      "location": "Remote (Global)",
+      "pay": "Lihat Detail",
+      "date": "Nov 27, 2026",
+      "timestamp": 1795737600,
+      "excerpt": "Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages.",
+      "applyUrl": "https://jobs.lever.co/weloglobal/5777772e-c24b-4bee-9a77-c218d2605039",
+      "source": "English • Spanish"
     },
     {
       "id": "6b097c574710e12880bd0531",
@@ -263,6 +365,58 @@
       "source": "Linux • OpenROAD"
     },
     {
+      "id": "6adca14c451f35298e68db2c",
+      "title": "Fighter Pilot",
+      "company": "Micro1",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
+      "category": "AI Expert - Government & Public Administration",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "AI",
+        "Operations",
+        "Decision Making",
+        "Accuracy",
+        "Reasoning",
+        "Planning",
+        "Alignment",
+        "Procedures"
+      ],
+      "location": "Remote (Global)",
+      "pay": "$80 – $170/hr",
+      "date": "Nov 27, 2026",
+      "timestamp": 1795737600,
+      "excerpt": "Role Title: Fighter Pilot Role Type: Contractor Location: Remote (Worldwide) About the Role micro1 is seeking current or former military Fighter Pilots and Weapons Systems Officers (WSOs) to contribute to an AI development project focused on military operations and…",
+      "applyUrl": "https://jobs.micro1.ai/post/761ff1a6-68bf-4e45-8047-41f475c66823?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "source": "AI • Operations"
+    },
+    {
+      "id": "6b09ccf14710e12880bd6c4e",
+      "title": "IT Administrators: Feedback on Employee Support Tools",
+      "company": "Terac",
+      "logo": "https://www.google.com/s2/favicons?domain=terac.com&sz=32",
+      "category": "Research Study Participant",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Troubleshooting",
+        "IT Support",
+        "Technical Support",
+        "Australia",
+        "New Zealand",
+        "Ireland"
+      ],
+      "location": "United States , United Kingdom , Canada +3 Australia New Zealand Ireland",
+      "pay": "$5 one-time",
+      "date": "Nov 27, 2026",
+      "timestamp": 1795737600,
+      "excerpt": "We are running a paid study on the next generation of internal support tools for enterprise environments. Our goal is to understand the daily hurdles faced by IT professionals when assisting employees and resolving technical requests.",
+      "applyUrl": "https://terac.com/opportunities/JnRLnxpVJVeIti4U",
+      "source": "Troubleshooting • IT Support"
+    },
+    {
       "id": "6b0978584710e12880bce952",
       "title": "Expert Call: Liquid Filling Lines for Pails & Jerrycans",
       "company": "Begun",
@@ -280,7 +434,7 @@
       "pay": "Lihat Detail",
       "date": "Nov 27, 2026",
       "timestamp": 1795737600,
-      "excerpt": "30-minute paid calls with current and former employees of ADAMA US, The Coca-Cola Company, PepsiCo, PPG Industries, Corteva and Albemarle.",
+      "excerpt": "30-minute paid calls with current and former employees of ADAMA US, Syngenta, The Coca-Cola Company, PepsiCo, PPG Industries, Corteva, Albemarle and Axalta.",
       "applyUrl": "https://app.begun.com:443/opportunities/expert-call-liquid-filling-lines-for-pails-jerrycans-200-interview/apply",
       "source": "English • French"
     },
@@ -501,6 +655,29 @@
       "source": "Economics • AI"
     },
     {
+      "id": "6b09c6bd4710e12880bd414a",
+      "title": "US Adult with Insurance Card - Freelance AI Data Contributor",
+      "company": "Mindrift",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037194/remowork/companies/mindrift-logo.webp",
+      "category": "First-Person / POV Capture",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Insurance",
+        "AI",
+        "Testing",
+        "Collaboration"
+      ],
+      "location": "United States",
+      "pay": "$5 per accepted card",
+      "date": "Nov 27, 2026",
+      "timestamp": 1795737600,
+      "excerpt": "Mindrift connects specialists with project-based AI opportunities for leading tech companies, focused on testing, evaluating, and improving AI systems. Participation is project-based and is not an employment relationship.",
+      "applyUrl": "https://apply.workable.com/toloka-ai/j/82CBF17648",
+      "source": "Insurance • AI"
+    },
+    {
       "id": "6adc4c8e451f35298e680936",
       "title": "Rust Architect / Backend Developer",
       "company": "Micro1",
@@ -551,7 +728,7 @@
       "date": "Nov 27, 2026",
       "timestamp": 1795737600,
       "excerpt": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation.",
-      "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8961167002",
+      "applyUrl": "https://remowork.life/jobs/6b08c83dedc8c993a14cf4a2/apply-out?ch=card",
       "source": "Zendesk • GitLab"
     },
     {
@@ -576,7 +753,7 @@
       "date": "Nov 26, 2026",
       "timestamp": 1795651200,
       "excerpt": "A financial services company is developing new offerings for businesses and wants input from the people who make decisions for their companies.",
-      "applyUrl": "https://terac.com/opportunities/H1CulFGODEepnoMI",
+      "applyUrl": "https://remowork.life/jobs/6b08ce1aedc8c993a14d3f98/apply-out?ch=card",
       "source": "Brand Design • Make"
     },
     {
@@ -603,7 +780,7 @@
       "date": "Nov 26, 2026",
       "timestamp": 1795651200,
       "excerpt": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users.",
-      "applyUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5025667101",
+      "applyUrl": "https://remowork.life/jobs/6b08cebaedc8c993a14d4564/apply-out?ch=card",
       "source": "Finance • Education"
     },
     {
@@ -626,11 +803,11 @@
         "Research"
       ],
       "location": "United States",
-      "pay": "$140,000 – $190,000/yr",
+      "pay": "$160,000 – $190,000/yr",
       "date": "Nov 26, 2026",
       "timestamp": 1795651200,
       "excerpt": "As a Growth Product Manager, HTS Media, you will own the roadmap for growing advertiser demand across brands: more qualified pipeline, faster campaign launches and higher advertiser spend within Hopper's ecosystem, working closely with engineering leadership, the sales team, Ad…",
-      "applyUrl": "https://jobs.ashbyhq.com/hopper/7b58a6d2-9c40-4445-865a-48830a0c657e/application",
+      "applyUrl": "https://remowork.life/jobs/6b08c99bedc8c993a14d1529/apply-out?ch=card",
       "source": "Engineering • Leadership"
     },
     {
@@ -657,7 +834,7 @@
       "date": "Nov 26, 2026",
       "timestamp": 1795651200,
       "excerpt": "We're running a paid study on the evolving landscape of AI assistance in software engineering. We want to understand how your adoption of coding tools and large language models has shifted over the past few months.",
-      "applyUrl": "https://terac.com/opportunities/hq8LLiguTSnsVj3y",
+      "applyUrl": "https://remowork.life/jobs/6b08ce1aedc8c993a14d3f99/apply-out?ch=card",
       "source": "AI • Engineering"
     },
     {
@@ -684,7 +861,7 @@
       "date": "Nov 26, 2026",
       "timestamp": 1795651200,
       "excerpt": "Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.",
-      "applyUrl": "https://jobs.micro1.ai/post/cf5d4a0d-4d70-4613-8123-c7d7919ea7a4?referralCode=57c8b9e3-4c2b-438c-9477-ed5fdd405281",
+      "applyUrl": "https://remowork.life/jobs/6ac9864c2e6f478028ab0600/apply-out?ch=card",
       "source": "AI • Annotation"
     },
     {
@@ -740,6 +917,33 @@
       "excerpt": "Compensation: $45 USD per hour Schedule: Flexible hours About the role micro1 is looking for detail-oriented Image Annotators to support an AI image evaluation project.",
       "applyUrl": "https://remowork.life/jobs/6b08cb28edc8c993a14d190b/apply-out?ch=card",
       "source": "Flexible • AI"
+    },
+    {
+      "id": "6b09cd1a4710e12880bd6ec4",
+      "title": "Management Consultant",
+      "company": "Turing",
+      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037261/remowork/companies/turing-logo.webp",
+      "category": "AI Expert - Management Consulting",
+      "eligible": false,
+      "isIndonesian": false,
+      "isDirect": false,
+      "skills": [
+        "Management",
+        "Research",
+        "AI",
+        "Training",
+        "Reasoning",
+        "STEM",
+        "Consulting",
+        "Problem Solving"
+      ],
+      "location": "Remote (Global)",
+      "pay": "Lihat Detail",
+      "date": "Nov 26, 2026",
+      "timestamp": 1795651200,
+      "excerpt": "About Turing: Based in San Francisco, California, Turing is the world’s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems.",
+      "applyUrl": "https://remowork.life/jobs/6b09cd1a4710e12880bd6ec4/apply-out?ch=card",
+      "source": "Management • Research"
     },
     {
       "id": "6b08761fedc8c993a14c8529",
@@ -1036,33 +1240,6 @@
       "source": "Ukrainian • Channels"
     },
     {
-      "id": "6b087668edc8c993a14c86e8",
-      "title": "Brazilian Subject Matter Expert in TV & Movies",
-      "company": "Welo Data",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037347/remowork/companies/welo-data-logo.webp",
-      "category": "Bilingual LLM & Translation",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "AI",
-        "Infrastructure",
-        "Natural Language Processing",
-        "Linguistics",
-        "Compliance",
-        "Localization",
-        "Translation",
-        "Microsoft Teams"
-      ],
-      "location": "Remote (Global)",
-      "pay": "Lihat Detail",
-      "date": "Nov 26, 2026",
-      "timestamp": 1795651200,
-      "excerpt": "Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages.",
-      "applyUrl": "https://remowork.life/jobs/6b087668edc8c993a14c86e8/apply-out?ch=card",
-      "source": "AI • Infrastructure"
-    },
-    {
       "id": "6b087668edc8c993a14c86e4",
       "title": "Brazilian Subject Matter Expert in Fashion & Style",
       "company": "Welo Data",
@@ -1091,7 +1268,7 @@
     },
     {
       "id": "6b087668edc8c993a14c871c",
-      "title": "English UK into US Automotive Terminologist",
+      "title": "English UK to US Automotive Terminologist",
       "company": "Welo Data",
       "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037347/remowork/companies/welo-data-logo.webp",
       "category": "Translator",
@@ -1142,33 +1319,6 @@
       "excerpt": "Role Title: Hospitality Worker (Toast POS User) Role Type: Contractor Location: Remote micro1 is engaging hospitality workers to contribute to a customer initiative related to restaurant technology.",
       "applyUrl": "https://remowork.life/jobs/6ab3c62d5d989acfea41d59b/apply-out?ch=card",
       "source": "Hospitality • AI"
-    },
-    {
-      "id": "6b06d14b9f7de28ada8154ea",
-      "title": "Nextdoor Specialist",
-      "company": "Micro1",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
-      "category": "Personal Workflow Evaluator",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "AI",
-        "Microsoft Excel",
-        "Communication",
-        "Training",
-        "Management",
-        "History",
-        "Network Fundamentals",
-        "Adaptability"
-      ],
-      "location": "Remote (Global)",
-      "pay": "$70 – $100/hr",
-      "date": "Nov 26, 2026",
-      "timestamp": 1795651200,
-      "excerpt": "Role Title: Nextdoor Specialist Role Type: Contractor Location: Remote micro1 is engaging Nextdoor Specialists to support a dynamic customer project focused on improving AI systems through real-world community expertise.",
-      "applyUrl": "https://remowork.life/jobs/6b06d14b9f7de28ada8154ea/apply-out?ch=card",
-      "source": "AI • Microsoft Excel"
     },
     {
       "id": "6af20eadd50277cd59a0db85",
@@ -3794,142 +3944,7 @@
       "source": "AI • Infrastructure"
     },
     {
-      "id": "6b0726099f7de28ada81e2b8",
-      "title": "Health Information Specialist I-Entry Level-8924",
-      "company": "Datavant",
-      "logo": "https://www.google.com/s2/favicons?domain=datavant.com&sz=32",
-      "category": "Clinical Data Specialist",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Collaboration",
-        "Healthcare",
-        "Make",
-        "AI",
-        "Accuracy",
-        "Compliance",
-        "Authorization",
-        "HIPAA"
-      ],
-      "location": "United States (US: NC, SC, TN)",
-      "pay": "$15/hr",
-      "date": "Nov 25, 2026",
-      "timestamp": 1795564800,
-      "excerpt": "Datavant is the data collaboration platform trusted for healthcare. Guided by our mission to make the world’s health data secure, accessible and actionable, we provide critical data solutions for organizations across the healthcare ecosystem - including providers, health plans,…",
-      "applyUrl": "https://remowork.life/jobs/6b0726099f7de28ada81e2b8/apply-out?ch=card",
-      "source": "Collaboration • Healthcare"
-    },
-    {
-      "id": "6b0725dc9f7de28ada81dcce",
-      "title": "Mechanical Design Engineer — Robotics CNC Parts (Remote)",
-      "company": "Micro1",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
-      "category": "AI Expert - CAD & 3D Modeling",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Robotics",
-        "CAD",
-        "Engineering",
-        "AI",
-        "Sourcing",
-        "SolidWorks",
-        "CATIA",
-        "Onboarding"
-      ],
-      "location": "Remote (Global)",
-      "pay": "$90 – $155/hr",
-      "date": "Nov 25, 2026",
-      "timestamp": 1795564800,
-      "excerpt": "Role Title: Mechanical Design Engineer — Robotics CNC Parts (Remote) Role Type: Contractor Location: Fully remote Opportunity Snapshot Pay: $90 -$155/hour Duration: Initial phase of 20 part packages; production phase to follow Location: Fully remote, no geographic restrictions…",
-      "applyUrl": "https://remowork.life/jobs/6b0725dc9f7de28ada81dcce/apply-out?ch=card",
-      "source": "Robotics • CAD"
-    },
-    {
-      "id": "6b0725dc9f7de28ada81dccf",
-      "title": "Optomechanical Design Engineer — Precision CNC Parts (Remote)",
-      "company": "Micro1",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
-      "category": "AI Expert - CAD & 3D Modeling",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "Precision",
-        "CAD",
-        "Optics",
-        "Engineering",
-        "AI",
-        "Sourcing",
-        "SolidWorks",
-        "CATIA"
-      ],
-      "location": "Remote (Global)",
-      "pay": "$90 – $155/hr",
-      "date": "Nov 25, 2026",
-      "timestamp": 1795564800,
-      "excerpt": "Role Title: Optomechanical Design Engineer — Precision CNC Parts (Remote) Role Type: Contractor Location: Fully remote Opportunity Snapshot Pay: $90 -$155/hour Duration: Initial phase of 20 part packages; production phase to follow Location: Fully remote, no geographic…",
-      "applyUrl": "https://remowork.life/jobs/6b0725dc9f7de28ada81dccf/apply-out?ch=card",
-      "source": "Precision • CAD"
-    },
-    {
-      "id": "6ac5e5abd2f3bde811c5e833",
-      "title": "Forward Deployed Engineer",
-      "company": "Micro1",
-      "logo": "https://res.cloudinary.com/dsfo4ce9m/image/upload/v1775037240/remowork/companies/micro1-logo.webp",
-      "category": "Solutions Architect",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "AI",
-        "Research",
-        "Machine Learning",
-        "Infrastructure",
-        "Architecture",
-        "Engineering",
-        "Training",
-        "Curation"
-      ],
-      "location": "United States",
-      "pay": "$180,000 – $250,000/yr",
-      "date": "Nov 25, 2026",
-      "timestamp": 1795564800,
-      "excerpt": "The Role We’re hiring a Forward Deployed Engineer to work directly with the world’s leading AI labs and enterprises as a technical research and implementation partner.",
-      "applyUrl": "https://remowork.life/jobs/6ac5e5abd2f3bde811c5e833/apply-out?ch=card",
-      "source": "AI • Research"
-    },
-    {
-      "id": "6b06d6549f7de28ada818dad",
-      "title": "CBRN Subject Matter Experts",
-      "company": "BLEND",
-      "logo": "https://www.google.com/s2/favicons?domain=getblend.com&sz=32",
-      "category": "Red Team / Safety Evaluator",
-      "eligible": false,
-      "isIndonesian": false,
-      "isDirect": false,
-      "skills": [
-        "AI",
-        "Writing",
-        "Verification",
-        "KYC",
-        "Onboarding",
-        "English",
-        "Communication",
-        "Generative AI"
-      ],
-      "location": "Remote (Global)",
-      "pay": "Lihat Detail",
-      "date": "Nov 25, 2026",
-      "timestamp": 1795564800,
-      "excerpt": "BLEND is building a pool of CBRN subject matter experts (Chemical, Biological, Radiological and Nuclear) for a client that builds safety evaluations for generative AI models.",
-      "applyUrl": "https://remowork.life/jobs/6b06d6549f7de28ada818dad/apply-out?ch=card",
-      "source": "AI • Writing"
-    },
-    {
-      "id": "gh-5301426007",
+      "id": "gh-5308892007",
       "title": "Lead Automation & Controls Engineer, Data Center Facilities ",
       "company": "xAI",
       "logo": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
@@ -3946,7 +3961,7 @@
       "date": "Nov 24, 2026",
       "timestamp": 1795560471,
       "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this pos...",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5301426007",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5308892007",
       "source": "⚡ Direct API"
     },
     {
